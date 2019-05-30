@@ -1,0 +1,23 @@
+Employee age
+Employee attitude
+Employee behaviour
+Employee capability
+Employee commitment
+Employee development
+Employee diversity
+Employee education
+Employee equality
+Employee flexibility
+Employee involvement with community
+Employee motivation
+Employee productivity
+Employee relationship
+Employee teamwork
+Employee training
+Employee work-related competence
+Employee work-related knowledge
+Entrepreneurial spirit
+Know-how
+Number of employees
+Skill
+Vocational qualification
