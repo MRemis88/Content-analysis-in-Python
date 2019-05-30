@@ -1,0 +1,6948 @@
+R EPORT ON TH E SUSTAI NAB I LITY OF OU R VALU E CR EATION 2015
+
+T h e Wa y A h e a d
+Report on the Sustainability of our
+Va l u e C r e a t i o n 2 0 1 5
+
+W W W . O T T O G R O U P. C O M
+
+ABOUT THIS REPORT
+
+About this report_ With our Report on the Sustainability
+
+of our Value Creation 2015 we provide an account of the ecological and
+social impacts along our value chain. We report transparently on our
+
+GRI ASPECT
+
+Raw Materials
+& Processing
+
+Final
+Production
+
+Trade
+
+Customer
+
+G4 – 20
+
+G R I cat e go r y E N V I R O N M E N T (corresponds to ecological impacts)
+
+G4 – 21
+
+performance in relation to our CR Strategy 2020 and in doing so, on how
+
+Emissions
+
+X
+
+X
+
+X
+
+X
+
+sustainable our business activities are.
+
+Energy
+
+X
+
+X
+
+X
+
+X
+
+Reference framework_ The Report on the Sustainability
+
+Materials
+
+X
+
+G4 – 22 of our Value Creation 2015 complements the Otto Group’s reporting on
+
+Water
+
+X
+
+G4 – 23 important developments relating to its CR Strategy and its key indicators
+
+Biodiversity
+
+X
+
+G4 – 17
+
+in the Group’s Annual Reports 2013/14 and 2014/15. It covers the period
+1 March 2013 to 28 February 2015 (financial years 2013/14 and 2014/15).
+
+X
+
+Transport
+
+Key indicators have been recorded primarily on an annual basis since 2013,
+
+G R I cat e go r y S O C I E T Y (corresponds to social risks)
+
+with any exceptions stated.
+
+Evaluation of
+suppliers regarding
+human rights
+
+X
+
+Evaluation of
+suppliers regarding
+working conditions
+
+X
+
+The key figures relate to 14 Group companies, except where exceptions
+are explicitly indicated. These cover the 13 Group companies which were
+already included in the previous reporting period: baumarkt direkt, Baur,
+bonprix, EOS, Frankonia, Heine, Hermes, OTTO, OTTO Office, Schwab,
+SportScheck, UNITO und Witt. myToys is a new addition. Details on the
+businesses belonging to the Group companies as well as their legal struc-
+
+The Otto Group’s impACT management process covers topics which are
+
+tures are provided in the brief company portraits from page 6 onwards.
+
+managed centrally by the Group. This means that employee, governance
+and societal topics which are decentrally managed by the individual
+
+Consequently, all companies in the Report on the Sustainability of our Value
+
+Group companies are included in the reporting process under materiality
+
+Creation 2015 have their headquarters in either Germany or Austria and
+
+criteria, but not as a result of the impACT process.
+
+report annual revenue of more than 100 mn€. The Report comprises
+companies from all three of the Otto Group’s business segments – Multichannel Retail, Services and Financial Services. Together, these companies
+
+G4 – 18
+
+Auditing_ The Report on the Sustainability of our Value Creation
+2015 was audited by PricewaterhouseCoopers (PwC) under the Interna-
+
+generate 57% of Group revenue.
+
+tional Standard on Assurance Engagements (ISAE) 3000. The CR Strategy
+
+Reporting structure and content_ Prior to the
+
+2020’s five key indicators were audited (see p. 20). Key figures audited by
+
+reporting process, the Otto Group evaluated the ecological and social
+
+impact of its activities along the value chain. This approach forms part of
+
+PwC are marked in the text with
+
+and are indicated in the GRI Index.
+
+Editorial remarks_ The Report on the Sustainability of
+
+the impACT sustainability management process (see p. 12 et seq.). Among
+
+our Value Creation 2015 is available in German and English. The editorial
+
+other things, it serves to prioritise topics for presentation in this report.
+
+deadline was May 2015. The next Report on the Sustainability of our Value
+Creation is scheduled for publication in summer 2017.
+
+For the first time, this Report on the Sustainability of our Value Creation
+2015 was produced in accordance with the Core option of the new Global
+
+For the sake of readability, this report omits gender-based dual entries and
+
+Reporting Initiative Guidelines (GRI G4). It also represents the Communica-
+
+uses the masculine form. In such cases, however, both women and men
+
+tion on Progress on the extent to which the Group has implemented the
+
+are intended.
+
+UN Global Compact.
+
+List of material GRI aspects_ The Otto Group has
+
+assigned those topics which are identified as important in the Materiality
+
+Additional remarks_ The Report on the Sustainability
+
+of our Value Creation 2015 is available online at www.ottogroup.com/
+sustainabilityreport.
+
+Analysis to the aspects defined by the GRI (see table). Key topics are those
+which have been assigned the strategy types ‘Priority’, ‘Innovation’ and
+‘Base’ in the Materiality Matrix (see p. 18). From page 29 onwards the
+Otto Group will report on at least one GRI indicator in relation to the
+aspects listed here.
+
+G4 – 19
+
+This symbol denotes where the Otto Group meets specific Global
+Reporting Initiative G4 indicators e.g. (G4-19). For further
+information, please visit www.globalreporting.org.
+
+01
+
+CONTENTS
+
+Award-winning CR management: In September 2014 the
+Otto Group received the German federal government’s
+CSR Award. This recognises innovative companies that
+integrate social and environmental sustainability
+into their business operations. The Otto Group was
+rated highly on the centrepiece of its sustainability
+management: the impACT process.
+
+Contents
+C2
+2
+
+37
+
+About this report
+Foreword by the CR Board
+
+4 The �tto Group
+4
+6
+
+Business model and profile of the Otto Group
+Portraits of the 14 reporting companies
+
+10 The �tto Group’s value chain
+12 S ustainable value creation in
+the �tto Group
+12
+20
+23
+26
+
+Sustainability management process impACT
+CR Strategy 2020
+CR organisational structures
+Involving stakeholders
+
+29
+			
+
+Raw Materials &
+Processing
+
+30 Challenges identified by impACT
+32 The Otto Group’s scope of action
+32	Textile, Furniture and Paper Strategy
+and additional management approaches
+33 Textile Strategy status
+34 Furniture Strategy status
+35 Paper Strategy status
+
+38
+39
+40
+40
+43
+44
+
+Final Production
+Challenges identified by impACT
+The Otto Group’s scope of action
+Social Programme and additional management approaches
+Social Programme status
+Climate and environmental protection
+Collaborations and alliances
+
+45
+46
+47
+47
+48
+51
+53
+
+Trade
+Challenges identified by impACT
+The Otto Group’s scope of action
+Climate Strategy and additional management approaches
+Climate Strategy status
+Environmental protection
+Employees
+
+59
+
+Customer
+
+60
+61
+61
+61
+63
+63
+
+Challenges identified by impACT
+The Otto Group’s scope of action
+Management approaches
+Product transparency and quality
+Environmental protection
+Data protection and information security
+
+64
+66
+68
+U3
+
+Assurance statement
+GRI-G4 Content Index
+Glossary
+Imprint
+
+Otto Group Sustainability Report 2015
+
+02
+
+FOREWORD BY THE CR BOARD
+
+We intend
+to be judged against
+our claim to
+act responsibly.
+Otto Group CR Board
+Hans-Otto Schrader
+
+NAME:
+POSITION:
+
+ Chairman
+
+of the Executive Board and
+
+Chief Executive Officer Otto Group (CEO)
+
+NAME:
+POSITION:
+
+Dr Michael Heller
+
+NAME:
+
+Member of the OTTO Management Board
+for Categories
+
+POSITION:
+
+Hanjo Schneider
+
+ Member
+
+of the Executive Board,
+
+Services Otto Group
+
+Otto Group Sustainability Report 2015
+
+03
+
+FOREWORD BY THE CR BOARD
+
+Dear Reader,
+We have long been convinced of the fundamental necessity
+of structuring our business activities sustainably, regardless
+of the prevalent economic situation. Our principles become
+especially evident when our company must unfortunately
+report a loss, as it has for the 2014/15 financial year.
+Amongst other factors, this was due to the planned revenue
+shortfalls resulting from the restructuring of the business
+model of some of our subsidiaries. Furthermore, the Group
+has invested in its own future viability – investments that
+will begin to pay off in the medium and long term. The
+company has invested in the digital transformation of its
+ongoing activities and in establishing new business models
+such as the multi-award winning start-up Collins.
+We are also benefiting from our forward-looking approach
+in terms of sustainability. Our deep-rooted understanding
+of ourselves as a responsibly acting group of companies
+enabled the Otto Group to achieve considerable progress
+in the reporting period. A further milestone in the ongoing
+development of our sustainability management process
+has been achieved thanks to impACT. Through this, the
+Otto Group is revolutionising the way in which it identifies
+the impact of its business activities on people and nature
+along the entire value chain, evaluates them, and then
+derives efficient countermeasures. Our company has
+received much praise for this innovative approach. Indeed,
+we were especially pleased to receive the German federal
+government’s CSR Award.
+Within the Otto Group, the firm anchoring of the topic of
+sustainability goes hand in hand with unwavering support
+for the topic, both from the Group Executive Board and
+the Executive Boards of the Group companies. In 2014 an
+important new decision-making board was established to
+manage the Group’s CR activities: the Sustainable Supply
+Chain Management Board.
+
+It focuses on sustainability topics in the value chain, putting
+the spotlight on topics which pose the greatest environmental and social challenges. As CR Board members we
+can be sure that through involving the Executive Directors
+of the Group companies in this committee, sustainabilityrelated decision papers are thoroughly reviewed to ensure
+their feasibility and practical benefit.
+Our company is also taking a fresh approach with this
+Sustainability Report 2015 itself, in which the Group company myToys is included for the first time. This breaks new
+ground, as our reporting is now in accordance with the new
+G4 version of the internationally respected Global Reporting
+Initiative (GRI) guidelines. At the same time, this publication
+also represents our Report on Progress in the implementation
+of the Ten Principles of the UN Global Compact.
+The Otto Group’s many activities and achievements in
+the reporting period show that it is on the right path with
+this approach – precisely in the spirit of the motto of this
+year’s report: The Way Ahead. In the reporting period the
+company came another step closer to achieving the five
+goals of its CR Strategy 2020. This Sustainability Report
+provides a detailed insight into our progress, complementing the information on sustainability provided in the Otto
+Group’s Annual Report 2014/15.
+We hope you find our report informative, and that you
+enjoy reading it.
+
+On behalf of the Executive Board,
+
+Hans-Otto Schrader
+
+Otto Group Sustainability Report 2015
+
+Hanjo Schneider
+
+Dr Michael Heller
+
+04
+
+BUSINESS MODEL AND PROFILE OF THE OTTO GROUP
+
+Business model and profile
+of the 0tto Group
+At the heart of our vision and mission is our responsibility to people and nature. It is the foundation on
+which we build to achieve our business, social and environmental goals. As a component of our overarching Group
+strategy, the CR Strategy is derived from these goals.
+The Group can look back on 60 years of family ownership.
+The businessman Dr Michael Otto has now transferred
+the majority of the shareholdings in the Group to a foundation under German civil law.
+In financial year 2014/15 the Otto Group generated
+revenues of 12.1 bn€. The Multichannel Retail segment
+generated the largest share, at 9.9 bn€.
+The Otto Group’s business mandate specifies within
+which frameworks and guidelines sustainable, profitable
+business models are to be developed and implemented.
+In conjunction with the vision and mission of the Otto
+Group, the business mandate forms the basis for developing the Group strategy further.
+’The Power of Responsibility’ mission embeds a set
+of values, and calls upon employees to engage in profitability, innovation, diversity and sustainability issues.
+
+G R O U P ST R AT E G Y
+The business mandate as well as the vision and mission
+place an emphasis on sustainability – whereby business
+goals are combined with social and environmental
+responsibility. The Group strategy (see Otto Group
+Annual Report 2014/15, p. 50 et seq.) is derived directly
+from this basis. It comprises three essential elements:
+strategies in the segments, the e-commerce strategy,
+and the strategy for complying with social and environmental responsibility (CR Strategy 2020). These strategies are transferred to the Group companies by means
+of portfolio management and other control mechanisms, and are therefore closely interlinked. The Group’s
+Executive Board is also incentivised to achieve both the
+business and Corporate Responsibility goals.
+
+S T R AT E G I E S I N T H E S E G M E N T S
+In the Multichannel Retail segment the further
+development of e-commerce is a fundamental strategic
+goal, as the sales channel with the strongest growth and
+a major driver of future business. In terms of the further
+development of the various retailing business concepts,
+particular focus will be placed in future on the growth
+area of the Group’s own brands. The use of over-thecounter channels will also be important, particularly
+for these business models, and the objective will be to
+integrate these with online and mobile activities in a
+way that creates added value.
+In the Financial Services segment, financial year
+2014/15 saw the Otto Group invest in companies such
+as Yapital which develop and offer innovative financial
+services. The focus in this segment is on the growth of
+services relevant to the end-consumer.
+Services are becoming an increasingly significant factor
+in business activities with end-consumers. Under the
+Hermes umbrella brand, the Otto Group’s strategy in the
+Services segment places particular emphasis on B2C and
+B2B customers. Besides speed, reliability and the transparency of the supply chain, the Group places particular
+importance on service quality at all points of contact
+with the end-consumer. The Group’s strong position as a
+provider of retail-related services is being expanded both
+in Germany and internationally in attractive e-commerce
+markets such as the United Kingdom.
+
+Otto Group Sustainability Report 2015
+
+05
+
+BUSINESS MODEL AND PROFILE OF THE OTTO GROUP
+
+Revenue by region (whole Group)
+
+G E R M A NY ST I L L T H E MOST
+I M P O R TA N T S A L E S M A R K E T
+
+in mn€
+
+As in previous years, in financial year 2014/15 Germany
+remained the most important sales market for the
+Otto Group, generating 59% of the Group’s revenue.
+The share of revenue generated by the other European
+countries was 28%.
+
+11,784
+
+11,597
+
+12,057
+
+12,001
+
+6,666
+
+6,752
+
+7,064
+
+7,139
+
+3,513
+
+3,472
+
+3,488
+
+3,369
+
+1,172
+246
+
+1,316
+244
+
+1,262
+187
+
+1,366
+183
+
+S TA B L E E M P L O Y E E S T R U C T U R E
+In financial year 2014/15 the Otto Group’s employee
+headcount – converted to FTEs (full-time equivalents) –
+was 54,037. The 14 Group companies included in this
+report employed 43% of the Group’s workforce. A detailed
+breakdown of the employee structure can be found in
+the chapter Trade (see p. 53 et seq.).
+Key operating figures
+
+2011/12
+
+Germany
+
+2012/13
+
+Europe*
+
+2013/14
+
+2014/15
+
+North and South America
+
+Asia
+
+in mn€
+*without Germany.
+
+2011/12 2012/13 2013/14
+Revenue
+whole Group
+
+2014/15
+
+11,597
+
+11,784
+
+12,001
+
+12,057
+
+Revenue
+reporting companies
+
+6,107
+
+6,254
+
+6,596
+
+6,897
+
+Equity
+whole Group
+
+2,000
+
+1,910
+
+2,022
+
+1,620
+
+978
+
+1,005
+
+972
+
+985
+
+23
+
+146
+
+194
+
+- 196
+
+2011/12 2012/13 2013/14
+
+2014/15
+
+Equity
+reporting companies
+Profit/loss
+for the year
+whole Group
+
+Number of employees, rebased as full-time equivalents (FTEs)
+
+53,103
+
+23,630
+
+53,823
+
+24,417
+
+54,257
+
+23,035
+
+54,037
+
+23,185
+
+Revenue by business segment (whole Group)
+in mn€
+
+Multichannel Retail
+Financial Services
+Services
+
+10,035
+
+10,057
+
+10,017
+
+9,918
+
+532
+
+594
+
+683
+
+644
+
+1,030
+
+1,133
+
+1,301
+
+1,495
+
+2011/12
+Whole Group  
+
+Otto Group Sustainability Report 2015
+
+2012/13
+
+2013/14
+
+Reporting companies
+
+2014/15
+
+06
+
+PORTRAITS OF THE 14 REPORTING COMPANIES
+
+Multichannel Retail
+G4 – 17
+
+82%
+
+revenue share
+
+Multichannel Retail generates the largest share of the Otto Group’s
+revenue. It comprises Group companies which offer their products
+via the three distribution channels of e-commerce, print catalogues
+and over-the-counter retail. With a share of 65%, the internet is
+the most important sales channel.
+
+O V E R V I E W : Retailer of DIY products and market-leading mail-order
+retailer in this sector.
+
+Hamburg • E M P L O Y E E S : 172 • M A R K E T S : AT, CH, DE, NL •
+None • O T T O G R O U P ’ S S H A R E H O L D I N G : 50.1% • G R O U P C O M PA N Y C O V E R E D
+B Y T H I S S U S TA I N A B I L I T Y R E P O R T: baumarkt direkt GmbH & Co. KG • W E B S I T E S :
+www.baumarktdirekt.de, www.hagebau.de
+H EADQUARTERS:
+STOR ES:
+
+OVE RVI EW:
+
+E-commerce and retail-related services.
+
+Burgkunstadt • E M P L O Y E E S : 3,747 • M A R K E T S : AT, CH, DE •
+None • O T T O G R O U P ’ S S H A R E H O L D I N G : 49% • G R O U P C O M PA N I E S C O V E R E D
+B Y T H I S S U S TA I N A B I L I T Y R E P O R T : Baur Versand (GmbH & Co. KG), BFS Baur
+Fulfillment Solutions GmbH and Zweite Hermes TransStore Service
+GmbH & Co. KG • W E B S I T E : www.baur.de
+H EADQUARTERS:
+STOR ES:
+
+In 2015 BAUR published its own sustainability report.
+
+OVE RVI EW:
+
+Globally successful fashion retailer.
+
+Hamburg • E M P L O Y E E S : 1,425 • M A R K E T S : 27 countries •
+53 in Germany and a further 13 in Austria, Switzerland
+and Italy • O T T O G R O U P ’ S S H A R E H O L D I N G : 100 % • G R O U P C O M PA N I E S C O V E R E D
+B Y T H I S S U S TA I N A B I L I T Y R E P O R T : bonprix Handelsgesellschaft mbH, bonprix
+retail GmbH • W E B S I T E : company.bonprix.de
+H EADQUARTERS:
+STOR ES:
+
+O V E R V I E W : Retailer of equipment for hunters, sports marksmen
+and collectors as well as premium fashion articles.
+
+Rottendorf • E M P L O Y E E S : 550 • M A R K E T S : AT, CH, DE, FR •
+23 plus two outlets in Germany and two stores in France •
+O T T O G R O U P ’ S S H A R E H O L D I N G : 100% • G R O U P CO M PA N Y COV E R E D BY T H I S S U STA I N A B I L I T Y
+H EADQUARTERS:
+STOR ES:
+
+R E P O RT: Frankonia Handels GmbH & Co. KG • W E B S I T E :
+
+www.frankonia.de
+
+Otto Group Sustainability Report 2015
+
+PORTRAITS OF THE 14 REPORTING COMPANIES
+
+OVE RVI EW:
+
+07
+
+Retailer of premium fashion articles and furnishings.
+
+Karlsruhe • E M P L O Y E E S : 572 • M A R K E T S : AT, CH, DE, FR,
+NL • S T O R E S : None • O T T O G R O U P ’ S S H A R E H O L D I N G : 100% • G R O U P C O M PA N Y
+C O V E R E D B Y T H I S S U S TA I N A B I L I T Y R E P O R T : Heinrich Heine GmbH • W E B S I T E :
+H EADQUARTERS:
+
+www.heine.de
+
+G4 – 17
+
+New reporting company
+
+G4 – 23
+
+D E S C R I P T I O N : myToys.de GmbH is headquartered in Berlin. Under the myToys
+brand it operates Germany’s leading online shop for toys and children’s products as well as 13 stores by the same name. The extensive
+assortment of the myToys online shop ranges from maternity wear,
+baby clothes, and toys, to children’s clothes and books for school
+leavers. The ‘Tipps und Kaufberatung’ (‘Tips and Shopping Advice’)
+section on myToys.de supports parents and children in finding
+suitable products and provides information on health and safety
+aspects.
+
+Besides myToys, the brands ambellis (womenswear) and mirapodo
+(footwear) also belong to myToys.de GmbH. Thanks to the multi-shop
+concept, customers can buy from all three online shops using a
+single customer account.
+The offering of all three online shops almost exclusively comprises
+external brands. This means myToys only has an indirect influence
+on its products’ production conditions.
+H E A D Q U A R T E R S : Berlin • E M P L O Y E E S : 1,189 • M A R K E T : DE (delivery to
+all EU member states and Switzerland) • S T O R E S : 13 in Germany •
+O T T O G R O U P ’ S S H A R E H O L D I N G : 74.8% • G R O U P C O M PA N I E S C O V E R E D B Y T H I S
+S U S TA I N A B I L I T Y R E P O R T : myToys.de GmbH, myToys Logistik GmbH •
+W E B S I T E : www.myToys.de
+
+O V E R V I E W : Germany’s largest online retailer of fashion and
+lifestyle products.
+H E A D Q U A R T E R S : Hamburg • E M P L O Y E E S : 5,231 • M A R K E T S : AT, CZ, DE, HU,
+NL, RU, SK • S T O R E S : None • G R O U P C O M PA N Y C O V E R E D B Y T H I S S U S TA I N A B I L I T Y
+R E P O R T : Otto (GmbH & Co. KG) • W E B S I T E : www.otto.com
+
+The employee number is a headcount and is not rebased to full-time equivalents (FTEs). It includes employees on indefinite
+contracts, as well as working students at the companies covered by this Sustainability Report as at the end of 2014.
+
+Otto Group Sustainability Report 2015
+
+08
+
+PORTRAITS OF THE 14 REPORTING COMPANIES
+
+O V E R V I E W : Mail-order retailer specialising in office equipment,
+communications technology and office furniture.
+H EADQUARTERS:
+
+G4 – 17
+
+None
+
+Hamburg
+
+: 307 • M A R K E T S : BE, DE • S T O R E S :
+100% • G R O U P C O M PA N Y C O V E R E D B Y
+OTTO Office GmbH & Co KG • W E B S I T E :
+
+• EMPLOYEES
+
+• OT TO G RO U P ’S S H A R E H O L D I N G:
+
+T H I S S U S TA I N A B I L I T Y R E P O R T :
+
+www.otto-office.com
+
+O V E R V I E W : Mail-order retailer with a large selection of fashion
+trends, consumer electronics and household products. sheego –
+a Schwab Versand GmbH brand – specialises in young, fashionconscious women from size 40 (UK size 16) and upwards.
+: 1,052 • M A R K E T S : Exports to
+Several shop-in-shop stores •
+O T T O G R O U P ’ S S H A R E H O L D I N G : : 99.98% • G R O U P C O M PA N Y C O V E R E D B Y
+T H I S S U S TA I N A B I L I T Y R E P O R T : SCHWAB VERSAND GmbH • W E B S I T E S :
+www.schwab.de, www.sheego.de
+
+OVE RVI EW:
+
+H EADQUARTERS:
+
+Hanau
+
+21 countries
+
+• STOR ES:
+
+• EMPLOYEES
+
+Germany’s leading multichannel retailer of sports goods.
+
+Munich • E M P L O Y E E S : 1,615 • M A R K E T S : DE, AT, CH •
+19 in Germany • O T T O G R O U P ’ S S H A R E H O L D I N G : 100% •
+G R O U P C O M PA N Y C O V E R E D B Y T H I S S U S TA I N A B I L I T Y R E P O R T : SportScheck GmbH
+W E B S I T E : www.sportscheck.com
+H EADQUARTERS:
+STOR ES:
+
+•
+
+O V E R V I E W : Largest multichannel mail-order group in the Alpine
+region. Through its multibrand strategy it optimally serves
+assorted markets and various customer requirements.
+
+AT, CH, CZ, DE, IT
+67.87% • G R O U P
+C O M PA N Y C O V E R E D B Y T H I S S U S TA I N A B I L I T Y R E P O R T : UNITO Versand &
+Dienstleistungen GmbH • W E B S I T E : www.unito.at
+H EADQUARTERS:
+
+SK, HU
+
+Salzburg
+None •
+
+• STO R E S:
+
+• EMPLOYEES
+
+:
+
+645
+
+• MARKETS:
+
+OT TO G RO U P ’S S H A R E H O L D I N G:
+
+O V E R V I E W : Mail-order retailer of clothing, underwear and home
+textiles for customers over the age of 50.
+H E A D Q U A R T E R S : Weiden • E M P L O Y E E S : 2,662 • M A R K E T S : In 10 countries
+in Europe as well as Russia and Kazakhstan • S T O R E S : Approx.
+115 in Germany • O T T O G R O U P ’ S S H A R E H O L D I N G : 99.98% • G R O U P C O M PA N I E S
+C O V E R E D B Y T H I S S U S TA I N A B I L I T Y R E P O R T : Sieh an! Handelsgesellschaft mbH,
+AMBRIA GmbH, Creation L Handelsgesellschaft mbH, Josef Witt
+GmbH • W E B S I T E : www.witt-gruppe.eu
+
+Otto Group Sustainability Report 2015
+
+09
+
+PORTRAITS OF THE 14 REPORTING COMPANIES
+
+Services
+
+13%
+
+revenue share
+
+The Services segment comprises all the services of the retail logistics
+value chain – from sourcing, through quality testing, transportation
+and warehousing, to final delivery to business and private customers.
+
+O V E R V I E W : International supply-chain service provider that covers
+the entire service spectrum along the retail value chain – from
+the sourcing of products to distribution to the end-customer.
+H E A D Q U A R T E R S : Hamburg • E M P L O Y E E S
+: 8,972 • M A R K E T S : AT, DE, GB,
+IT, RU • S T O R E S : Over 36,000 ParcelShops in Europe, of which
+approx. 14,000 are in Germany • O T T O G R O U P ’ S S H A R E H O L D I N G : 100% •
+G R O U P C O M PA N I E S C O V E R E D B Y T H I S S U S TA I N A B I L I T Y R E P O R T : Hermes Europe
+GmbH, Hermes Logistik Gruppe Deutschland GmbH, Hermes Einrichtungs Service GmbH, Hermes Transport Logistics GmbH, Hermes
+Fulfilment GmbH • W E B S I T E : www.hermesworld.com
+
+In 2015 Hermes published its own sustainability report.
+
+Financial Services
+
+5%
+
+revenue share
+
+The Financial Services segment covers the Otto Group’s international
+financial services offering, focusing on retail-related services such
+as receivables management and consumer loans.
+
+O V E R V I E W : One of the leading international providers of
+individually tailored financial services, with a focus on
+receivables management.
+H E A D Q U A R T E R S : Hamburg • E M P L O Y E E S
+: 1,842 • M A R K E T S : Over
+50 companies in 26 countries in Europe, America and Asia •
+O T T O G R O U P ’ S S H A R E H O L D I N G : 100% • G R O U P C O M PA N I E S C O V E R E D B Y T H I S
+S U S TA I N A B I L I T Y R E P O R T : EOS DID – EOS Deutscher Inkasso-Dienst,
+EOS KSI Inkasso Deutschland and 13 further companies •
+W E B S I T E : www.eos-solutions.com
+
+The employee number is a headcount and is not rebased to full-time equivalents (FTEs). It includes employees on indefinite
+contracts, as well as working students at the companies covered by this Sustainability Report as at the end of 2014.
+
+Otto Group Sustainability Report 2015
+
+G4 – 17
+
+10
+
+THE OTTO GROUP’S VALUE CHAIN
+
+The 0tto Group’s
+value chain
+The complexity of the value chain poses the greatest
+challenge to our sustainability management. Arranging
+the chain into four value-adding stages helps the Otto
+Group to better understand the Group’s environmental
+and social impacts, and derive strategic measures.
+
+For companies, the greatest share of their business
+
+Moreover, another factor is the increasing range of articles
+
+activities’ environmental and social impacts often lies
+
+offered by the Otto Group to provide its customers with
+
+beyond the factory gates – far removed from their own
+
+the largest possible selection of goods. The result is a
+
+locations and shipments. Consequently, the sustainability
+
+vast network of actors which becomes progressively
+
+management of the Otto Group consider the entire value
+
+more opaque the more comprehensively the upstream
+
+chain. Its incredible complexity represents the greatest
+
+supply chain is taken into consideration.
+
+challenge to effective and efficient sustainability management, as the Group companies’ own brands are produced
+
+To reduce complexity, the Otto Group arranges the value
+
+by suppliers in over 70 sourcing markets. Overall, they work
+
+chain into four stages as part of its sustainability manage-
+
+with many thousands of their own subsuppliers, who in
+
+ment process: Raw Materials & Processing, Final Production,
+
+turn contract out to subcontractors.
+
+Trade, and Customer. The illustration at right shows the
+value chain using cotton textiles as an example.
+
+In the first
+value-adding stage,
+Raw Materials &
+Processing, cotton
+is harvested, the
+fibres are spun
+into yarn, then
+either woven or
+knitted, and then
+finished to make
+a cloth fabric.
+
+The second stage,
+Final Production,
+involves sewing
+the cloth fabric
+into clothing
+for instance,
+and packaging the
+finished products
+ready for shipment.
+
+The transportation
+of the goods from
+the country of
+production to the
+sales market takes
+place in the Trade
+value-adding stage.
+Once in the sales
+market, the products
+are first warehoused.
+When ordered, they
+are delivered to
+the end-customer.
+
+Otto Group Sustainability Report 2015
+
+The final stage,
+Customer, comprises
+the overall phase
+of the use of the
+product by the endconsumer as well
+as its disposal or
+recycling at the
+end of its useful
+life.
+
+11
+
+THE OTTO GROUP’S VALUE CHAIN
+
+Process stages based on textiles
+
+Raw Materials
+& Processing
+
+Raw Material Extraction
+
+Spinning Yarn
+
+Weaving & Knitting
+
+Refinement
+
+Final
+Production
+
+Sewing
+
+Finishing & Packaging
+
+Trade
+
+Transport
+
+Warehousing
+
+Sales
+
+Distribution
+
+Customer
+
+Disposal & Recycling
+
+Use
+
+By arranging the chain into these four value-adding
+
+an account of the ecological and social impacts of the
+
+stages, the Otto Group’s Sustainability Report 2015
+
+Group’s business activities as well as their evaluation by
+
+reflects the Group’s integrated sustainability management
+
+stakeholders. This forms the basis for agreeing strategic
+
+process for the first time. Furthermore, the report provides
+
+goals and measures to mitigate the impacts identified.
+
+Otto Group Sustainability Report 2015
+
+12
+
+SUSTAINABILITY MANAGEMENT PROCESS impACT
+
+Sustainability management
+process impACT
+We fundamentally realigned our sustainability management
+in 2013: Our company now identifies and evaluates the
+impact of its business activities on people and nature
+along the whole value chain. This provides a sound
+decision-making foundation and allows us to configure
+the sustainable orientation of our business model in
+an efficient and effective way.
+
+The Otto Group’s impACT sustainability management
+process enables the company to focus its financial and
+employee resources where these have the most leverage.
+This clear orientation towards effectiveness and efficiency,
+as well as taking business relevance and risks into account,
+is a milestone in anchoring professional sustainability
+management at the heart of the Group’s business activity.
+The process is based on a quantitative and qualitative
+evaluation of the ecological and social impacts of our companies’ business activities along the whole value chain.
+In turn, the assessments serve as a basis for developing
+strategic targets and operational measures. The impACT
+management process was introduced in March 2013.
+The German federal government acknowledged the
+Otto Group’s sustainability management with
+its CSR Award in September 2014, with a particular
+reference to impACT.
+
+ 
+The term ‘impACT’ was coined to signify that the management
+process both identifies effects (‘impact’) and generates
+measures (‘act’).
+
+impACT as the basis for
+reporting according to the
+Guidelines of the Global
+Reporting Initiative (GRI)
+The impACT sustainability management
+process is also used to determine the
+scope of the Otto Group’s sustainability
+reporting. The process of determining
+material topics (see impACT Step 1) corresponds to the GRI Reporting Principles
+for selecting report contents: inclusion
+of stakeholders, sustainability context,
+materiality and completeness.
+Sustainability topics that cannot be
+measured in terms of either environmental impacts or social risks do not form
+part of the impACT process. Besides
+employee issues that go beyond social
+risks, this also includes governance
+topics such as anti-corruption. These
+are also incorporated into the Group’s
+reporting under the materiality perspective, but not as a result of the impACT
+process.
+
+Otto Group Sustainability Report 2015
+
+G4 – 18
+G4 – 26
+
+13
+
+SUSTAINABILITY MANAGEMENT PROCESS impACT
+
+The three steps of impACT –
+an overview
+
+1.
+
+2.
+
+Carry out a
+Materiality Analysis
+
+3.
+
+Develop measures
+and carry out
+a cost-benefit
+assessment
+
+Implement measures
+under the umbrella
+of the CR Strategy
+
+Quantitative Assessment
+
+Ben e
+
+fit
+to
+env
+iro
+and
+nm
+soc
+– l o w
+iet ent
+y
+er e
+
+– lo w
+
+I n n o vat i o n
+
+P r i o r i ty
+
+Ben e
+
+to
+
+– lo
+
+I n a c t i ve
+
+the
+
+er so
+
+c o lo
+g ic a
+l im p
+c ia l
+act
+r is k s
+
+fit
+
+O
+
+Co s t
+
+to
+
+Stakeholder Evaluation
+
+100%
+
+sustainable cotton
+
+100%
+
+FSC® furniture
+
+50%
+
+tto
+wer
+Gro
+risk
+up
+and
+s to
+bus
+– m
+i n e s re p u t a t
+arke
+s
+ion
+ac ti
+t
+in
+v
+ima
+g op
+ge b
+port ity
+oost
+unit
+ies,
+
+Base
+
+CR Strategy 2020
+
+the
+
+Ott
+– i n
+o G
+ve
+rou
+– p e s t m e n
+p
+ts
+rson
+nel
+co s t
+s
+
+Controlling
+measures
+
+Otto Group Sustainability Report 2015
+
+100%
+–50%
++ …
+
+FSC® paper
+Social Programme
+CO2
+…
+
+14
+
+SUSTAINABILITY MANAGEMENT PROCESS impACT
+
+1.
+G4 – 18
+
+STEP 1:
+
+impACT
+M AT E R I A L I T Y A N A LY S I S
+
+Quantitative identification of external
+costs and risks  
+
+The Otto Group Materiality Analysis encompasses a
+quantitative analysis of the ecological impacts and
+social risks arising from its business activities on the
+one hand, and on the other a qualitative stakeholder
+assessment of these challenges. These are visualised
+in the two-dimensional Materiality Matrix (see diagram,
+p. 18) – subdivided into the four value-adding stages
+of Raw Materials & Processing, Final Production, Trade
+and Customer (see pp. 10 onwards).
+
+Ecological and social impacts are identified along the
+four value-adding stages. Ecological impacts are additionally allocated to four distinct impact categories:
+Greenhouse Gases, Pollutants, Water Consumption and
+Land Use. Social impacts are shown in the Social Risks
+impact category (see info box).
+
+The four ecological impact categories and their most
+significant effects
+
+Greenhouse Gases
+
+Greenhouse gas emissions such as carbon dioxide (CO2),
+methane (CH4) and nitrous oxide (N2O) as well as their effects
+on global warming, people and nature.
+
+Pollutants
+
+Pollutant influx (NH3, SOx, NOx, heavy metals, fine
+particulates, dioxins, NMVOC, formaldehyde, toxic organic
+substances) into water and air, as well as their effect on
+human health and biodiversity.
+
+Water Consumption
+
+Consumption of surface and ground water along the whole value
+chain, as well as the associated effects on human health and
+biodiversity.
+
+Land Use
+
+Land consumption, e.g. through agriculture and forestry,
+pasture as well as industrial land use (incl. buildings,
+roads, land sealing) and their negative impact on ecological
+systems’ integrity.
+
+The impact category Social Risks and its
+underlying criteria
+
+Social Risks
+
+A meta-indicator which includes criteria in the areas of
+occupational safety, child labour, forced labour, wages,
+working times, discrimination and social dialogue.
+
+The calculation is based on the ‘estell’ model developed by the Group’s internal consultancy company, Systain Consulting
+ 
+GmbH. ‘estell’ is a multi-regional, multi-sector input/output model augmented with environmental and social factors, based
+on the Exiobase database. Among the scientifically validated data sources used are NEEDS, TEEB and statistics from the
+World Bank and the ILO.
+
+Otto Group Sustainability Report 2015
+
+SUSTAINABILITY MANAGEMENT PROCESS impACT
+
+To make the various impacts along the value chain
+comparable, ecological impacts are assessed in terms
+of external costs (in euros) and social impacts in Risk
+working hours.
+Identifying ecological impacts:
+For the calculation of ecological impacts, the Otto
+Group combines its purchasing and sales figures with
+data from external data sources regarding the effects
+on ecosystems and on human health. For example,
+clothing manufactured in China causes 1.05 kg of CO2
+on average per euro of sourcing volume. Taking a
+sourcing volume of 1 mn€ as an example, this would
+generate an average of 1,050 tonnes of CO2. According
+to the German Federal Environment Agency (Umweltbundesamt), the underlying external costs of one tonne
+of CO2 currently amount to €87. Therefore, for this
+example in the Final Production value-adding stage,
+€91,350 of external costs would arise due to the emission of greenhouse gases.
+Identifying social impacts:
+To show Risk working hours, the Otto Group determines
+the country- and sector-specific risks that working hours
+could have been performed in breach of minimum standards. This risk is identified using seven criteria relating
+to working conditions and human rights (see info box on
+p. 14). For example, if 10 million working hours are performed in textile production in a particular country, and
+the risk calculated for the country and sector amounts
+to 40%, this results in 4 million Risk working hours.
+
+Results
+The calculation, which was last carried out in January
+2015, showed ecological impacts amounting to more
+than 20% of turnover. At 70% the highest proportion by
+far of ecological impacts was in the Raw Materials &
+Processing value-adding stage. The highest external
+costs here are caused by Pollutants, followed by Greenhouse Gas emissions and Water Consumption. In Risk
+working hours, at 64% the largest share is also due to
+the extraction and processing of raw materials, while
+just under a third of Social Risks arise from Final Production (see diagram, p. 16).
+
+The calculated figures contain the impacts and social
+risks that arise from the production, transport and utilisation of all goods traded or used by the Otto Group,
+as well as all services that it has used. In addition, the
+identified values also contain indirect effects, some of
+which lie far beyond those the Otto Group is able to
+influence. As an example, a share of the energy and
+resource costs of the manufacture of sewing machines
+for textile production is included in the figures.
+
+The Otto Group’s influence
+on external impacts
+Quantitatively determined external costs
+and risks correspond to current average
+economic activities; the identified
+values in euros and Risk working hours
+are based on average, region-specific
+ecological impacts and social risks of
+products and services that correspond
+to the Otto Group’s business models. If
+other companies with the same business
+model, the same sourcing markets and the
+same purchasing volume carried out this
+calculation, they would arrive at very
+similar results.
+Improvement measures in the Otto Group –
+such as the use of sustainable cotton –
+have not yet been taken into account in
+the values identified. The figures shown
+here rather represent a baseline value
+against which the Otto Group will be
+able to measure its reduction of negative external impacts.
+The calculations of ecological effects and
+social risks also include, for example,
+effects from third-party brands, and
+additionally indirect effects such as
+the energy and resource costs of manufacturing sewing machines (see above).
+Therefore, even if the Otto Group achieves
+its CR Strategy targets completely, the
+identified external impacts will only be
+partially reducable.
+
+Otto Group Sustainability Report 2015
+
+15
+
+G4 – 18
+
+16
+
+SUSTAINABILITY MANAGEMENT PROCESS impACT
+
+Overview of the ecological impacts and the social risks arising from the Otto Group’s business model
+
+Value-adding
+stages
+Raw Materials
+& Processing
+
+Ecological
+impacts
+
+70%
+
+Final Production
+
+6%
+
+Trade
+
+5%
+
+Customer
+
+19%
+
+Greenhouse Gases
+Pollutants
+
+Five impact
+categories
+
+Water Consumption
+Land Use
+
+Social
+Risks
+
+64%
+
+30%
+
+6%
+
+Not
+relevant
+
+Ecological impacts
+Social Risks
+
+G4 – 18
+
+Stakeholder Evaluation
+
+G4 – 26
+
+In addition to this quantitative assessment (y-axis), the
+Otto Group’s Internal and External Stakeholders carried
+out a qualitative evaluation from June to October 2014
+(x-axis) for the individual topic areas (see diagram, p. 18).
+Topic areas refer to the effects by impact category and
+value-adding stage.
+
+The topic areas encompass one of the five impact categories in one of the four value-adding stages (e.g. CO2
+emissions due to transport in the Trade value-adding
+stage). In this assessment, the Group includes four perspectives from External and Internal Stakeholders, with
+regard to developments in the next two to five years
+respectively:
+
+Otto Group Sustainability Report 2015
+
+17
+
+SUSTAINABILITY MANAGEMENT PROCESS impACT
+
+ xternal Stakeholders formulated their
+E
+Expectations towards the Otto Group as part of
+a workshop. Twelve experts from the spheres of
+science and research, non-governmental organisations and government assessed the action priorities
+for the Otto Group in the topic areas. For example,
+the stakeholders had high expectations of the Otto
+Group regarding the reduction of CO2 emissions in
+the Trade value-adding stage.
+	An internal assessment of Reputation opportu­
+nities and risks for the Otto Group with regard to
+the topic areas mentioned was carried out by representatives of the Group Divisions CR and Corporate
+Communications. Social risks in Final Production
+were assigned the highest relevance to reputation.
+	The implementation of new environmental and social
+legislation in sourcing and sales markets leads to
+costs for the Otto Group, due to required changes
+in sourcing processes or higher costs of upstream
+products, for example. To estimate these Regulation
+risks, first the likelihood is determined of whether
+regulations will be put in place that are relevant to
+the Otto Group business model. These likelihoods are
+linked with estimated costs that would arise for the
+Otto Group if such regulations were put in place. For
+example, the Otto Group is most affected by regulations in China, since this is where more than threequarters of its sourcing volume originates; and in the
+EU, since this is the Otto Group’s largest distribution
+market by far.
+	Finally, the members of the Sustainable Supply Chain
+Management Board (see p. 23) assess each of the
+topic areas with regard to their relevance to the
+Business Activities of the Otto Group, taking
+into account both potential financial risks and potential business opportunities. With a view to the
+upcoming five years, in particular topics in the valueadding stages Raw Materials & Processing and Final
+Production were considered to be material, as rising
+costs due to increased CR activities are to be
+expected here.
+
+Stakeholder Evaluation weighting
+
+G4 – 18
+G4 – 26
+
+50%
+Internal Stakeholders
+
+50%
+External Stakeholders
+
+16.7%
+
+Business Activity
+
+50%
+16.7%
+
+Regulation
+
+Expectations
+of External
+Stakeholders
+
+16.7%
+
+Reputation
+
+Combined quantitative and
+qualitative assessment
+The Otto Group’s Materiality Matrix results from combining external costs and social risks with the Stakeholder Evaluation. This shows the topic areas. All values
+are converted to a scale running from 1 (very low) to
+10 (very high), so that they can be placed in relation
+to each other. Depending on where the topic areas fall
+on the matrix, they are allocated to one of four strategy
+types (see p. 18 et seq.). On this basis, strategic targets
+and operational measures are derived (impACT Step 2),
+which are implemented under the umbrella of the
+CR Strategy (impACT Step 3). In future, the Otto Group
+will carry out a corresponding Materiality Analysis every
+two years.
+
+Otto Group Sustainability Report 2015
+
+18
+
+SUSTAINABILITY MANAGEMENT PROCESS impACT
+
+G4 – 18
+
+Materiality Matrix with the topic areas
+
+G4 – 27
+
+Pollutants
+
+y-axis
+
+very
+high
+
+I n n o vat i o n
+
+Value-adding
+stages
+
+Social Risks
+
+Raw Materials &
+Processing
+
+P r i o r i ty
+
+Greenhouse Gases
+
+Quantitative Assessment
+in EUR or Risk working hours
+
+Final Production
+
+Trade
+
+Water Consumption
+
+Social Risks
+
+Customer
+
+Pollutants
+
+Inactive
+
+Base
+Greenhouse Gases
+
+Pollutants
+very
+low
+
+Water Consumption
+
+Land Use
+
+Water Consumption
+
+Greenhouse Gases
+Pollutants
+Water Consumption
+Land Use
+
+Land Use
+
+Social Risks
+Greenhouse Gases
+Pollutants
+
+Greenhouse Gases
+
+Land Use
+
+1
+
+2
+
+Impact
+categories
+
+x-axis
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Stakeholder Evaluation (50% external, 50% internal)
+
+2.
+
+9
+
+very
+high
+
+10
+
+Social Risks
+
+The effects by
+impact category
+and value-adding
+stage represent
+the topic areas.
+
+Strategic Allocation
+
+STEP 2:
+
+impACT
+DERIVING
+TA R G E T S A N D M E A S U R E S
+For the second step of the impACT management process,
+topic areas are initially classified strategically. With the
+help of this classification, appropriate targets and measures can be developed for the individual topic areas. All
+potential measures are first subjected to a cost/benefit
+assessment. This ensures that the Otto Group mitigates
+ecological impacts and/or social risks as efficiently as
+possible and can take the various Stakeholder Perspectives into account as effectively as possible.
+
+Based on the Materiality Analysis, the topic areas are
+allocated to four strategy types according to their quantitative and qualitative assessment:
+Priority: Topic areas with a high ecological impact
+
+and/or high social risks and a high degree of action
+relevance attributed by the stakeholders (e.g. water
+consumption during raw material extraction and
+processing). When setting targets and measures,
+these are the main focus.
+Innovation: Topic areas with high ecological impact
+
+and/or high social risks, but which stakeholders do
+not (yet) see as particularly relevant to the Otto
+Group. They hold potential for innovative measures.
+Base: Topic areas with relatively low ecological
+
+impacts and/or low social risks, to which stakeholders
+have, however, allocated a high degree of relevance
+(e.g. emission of greenhouse gases a
+ t own locations
+
+Otto Group Sustainability Report 2015
+
+SUSTAINABILITY MANAGEMENT PROCESS impACT
+
+and during transport). Corresponding measures
+therefore aim primarily at lowering reputation and
+regulation risks.
+	
+Inactive: Topic areas with low external impacts
+and low action relevance (e.g. water consumption
+at own locations and during transport). Due to a
+low level of materiality, these topic areas are not
+the focus of Group management.
+
+Cost-benefit analysis
+In accordance with their strategic allocation, potential
+measures are developed for the topic areas, which are
+then subjected to a cost/benefit analysis. The assessment of measures encompasses three components:
+firstly, it is determined to what extent the respective
+measure is capable of mitigating ecological impacts
+and/or social risks. Secondly, this is contrasted with
+estimated costs to the Otto Group which would arise
+from implementing this measure, such as investments
+or personnel costs. Finally, the assessment considers
+any benefit which would arise for the Otto Group, for
+example due to a reduction in reputation and regulation
+risks or due to marketing opportunities.
+Assortment-specific evaluations show a high degree
+of social and ecological impacts in textile production.
+Therefore, the Otto Group initially concentrated on developing a comprehensive Textile Strategy that takes all
+relevant fibres and all value-adding stages into account,
+in addition to the existing cotton target (100% sustainable
+cotton in own and licensed brands, see p. 21).
+
+With the help of this cost/benefit analysis the Group
+also reviewed the five sub-strategies agreed as part of
+the CR Strategy 2020 (see p. 20 et seq.), both with regard
+to their contribution towards reducing ecological impacts
+and/or social risks, and with regard to the Stakeholder
+Evaluation that had meanwhile been carried out more
+systematically. The result was that all sub-strategies
+have been evaluated as material and effective, and will
+continue to be implemented.
+
+3.
+STEP 3:
+
+impACT
+I M P L E M E N T I N G T H E C R S T R AT E G Y
+The potential measures evaluated as material and effective
+in Step 2 are discussed by the Sustainable Supply Chain
+Management Board (see p. 23) and adjusted where
+necessary. Afterwards, they are submitted to the CR
+Board and/or the Group Executive Board for a decision.
+If implementation of a measure is approved, then managing target achievement falls under the umbrella of
+the CR Strategy 2020 (see p. 20 et seq.). In the third and
+final step of the impACT management process, the Otto
+Group thereby integrates the knowledge gained from
+the Materiality Matrix and cost/benefit assessment into
+its strategic approach in a long-term and effective way.
+
+Notes on the
+Materiality Matrix
+While impACT makes it possible to compare the various ecological impacts with each other,
+no relationship can be established between these and the social risks. However, they are
+shown together in the one Materiality Matrix to provide a better overview. The maximum value
+on the y-axis was allocated to those topic areas with the highest ecological impacts or
+the highest social risks. The challenges arising from the Materiality Analysis are presented
+at the start of each chapter on value-adding stages, which begin on p. 29.: Raw Materials &
+Processing, Final Production, Trade and Customer.
+
+Otto Group Sustainability Report 2015
+
+19
+
+20
+
+CR STRATEGY 2020
+
+CR Strategy 2020
+The management and implementation of measures under
+the umbrella of the CR Strategy 2020 represent the
+third and final step of our impACT management process.
+The CR Strategy aims at lowering the negative impacts
+on people and nature along the value chain, lessening
+risks for the Otto Group and utilising business and
+reputation opportunities.
+
+Raw Materials & Processing
+
+Final Production
+
+Since 2014, the CR Strategy has been a fixed component
+of the overall Otto Group strategy (see p. 4). It encompasses five substrategies which are allocated to the
+value-adding stage in which they have the greatest
+effect: Strategies for Textiles, Furniture and Paper aim
+at saving resources when extracting and processing raw
+materials, while the Social Programme focuses on compliance with social standards among suppliers in Final
+Production. With its Climate Strategy, the Otto Group
+intends to improve its CO2 balance in the Trade valueadding Stage, which includes sourcing and distribution
+transports alongside its own locations. The ecological
+impacts of product use and disposal by customers are not
+currently part of the Group-wide CR Strategy. Activities
+in the Customer value-adding stage are carried out by
+individual Group companies and are presented in the
+chapter of the same name (see p. 59 et seq.).
+
+Trade
+
+Customer
+
+The CR Strategy 2020 was approved by the Otto Group
+Executive Board in 2012 and is valid until the end of
+2020. It is intended to contribute to the more sustainable alignment of the Otto Group and its companies’
+business processes.
+Status CR Strategy 2020
+in %
+
+Value-adding
+stages
+
+Raw Materials &
+Processing
+Final Production
+Trade
+
+Otto Group Sustainability Report 2015
+
+Sub-strategy
+
+2013
+
+2014
+
+Target
+value
+2020
+
+Textile
+
+7
+
+11
+
+100
+
+Furniture
+
+26
+
+33
+
+100
+
+Paper
+
+8
+
+18
+
+50
+
+Social
+Programme
+
+–
+
+17
+
+100
+
+Climate
+
+- 17
+
+- 24
+
+- 50
+
+21
+
+ge
+
+t achieve
+
+11%
+
+nt in 20
+me
+
+With its Paper Strategy, the Otto Group will increase
+the share of FSC-certified paper to at least 50% for catalogues and advertising materials by the year 2018. This
+includes products manufactured in the gravure printing
+process, which makes up about two-thirds of the total
+paper volume for the reporting companies. Overall,
+the paper volume used for catalogues and advertising
+materials by the reporting companies came to around
+264,000 tonnes in 2014. This makes the Otto Group one
+of the largest paper consumers in German-speaking
+countries. For several years, the Otto Group has been
+a pioneer in the use of FSC-certified print materials, a
+position it intends to consolidate.
+
+Ta
+r
+
+t achieve
+
+33%
+
+nt in 20
+me
+
+ge
+
+FINAL PRODUCTION
+Final Production of merchandising goods by suppliers
+causes a significant part of the social risks. In this valueadding stage, the Otto Group focuses on auditing and
+qualifying factories to improve working conditions.
+For detailed information on the Otto Group’s Social
+Programme and progress, please see the chapter on Final
+Production from p. 37 onwards.
+
+Ta
+r
+
+14
+
+ge
+
+t achieve
+
+17%
+
+The Otto Group Social Programme, which was expanded
+in 2013, consists of three levels: by the end of 2015,
+all suppliers with factories in risk countries will be
+integrated in the programme at the Basic Programme
+level. The second level is a Development Programme
+for selected factories. The third level, the Excellence
+Programme, targets the integrated qualification of
+suppliers and includes environmental and economic
+aspects alongside the social ones.
+
+ 
+previously the Durable Goods Strategy
+
+Otto Group Sustainability Report 2015
+
+nt in 20
+me
+
+Wooden furniture is one of the largest durable goods
+ranges for Group companies besides electronics. The
+Otto Group aims to completely switch its range of
+wooden furniture to FSC®-certified articles by 2020.
+The Forest Stewardship Council (FSC) is committed to
+protecting forests through responsible felling and the
+associated conservation of biodiversity.
+
+Social Programme
+TARGET: 100% integration
+of suppliers of own and
+licensed brands
+
+14
+
+The Otto Group intends to switch the entire volume of
+cotton used for its own and licensed brands to sustainably cultivated cotton by 2020. Currently, it uses cotton
+from the Cotton made in Africa (CmiA) initiative as well
+as from certified organic cultivation. Compared with
+the conventional resource- and CO2-intensive cultivation
+process, CmiA saves around 2,100 litres of water and
+40% CO2 per kilogramme of cotton produced.
+
+Furniture Strategy
+TARGET: 100% FSC-certified
+furniture products
+
+18%
+
+14
+
+Textile Strategy
+TARGET: 100% sustainable
+cotton in own and licensed
+brands
+
+Ta
+r
+
+For detailed information about the Otto Group’s
+sub-strategies and progress, please see the chapter on
+Raw Materials & Processing from p. 29 onwards.
+
+t achieve
+
+14
+
+R AW M AT E R I A L S & P R O C E S S I N G
+The majority of the Otto Group’s ecological impact arises
+from the extraction and processing of raw materials.
+The Group is countering this challenge with three
+sub-strategies, all of which aim at more sustainable
+agriculture and forestry.
+
+ge
+
+nt in 20
+me
+
+Paper Strategy
+TARGET: 50% FSC-certified paper
+for catalogues (gravure printing)
+
+Ta
+r
+
+CR STRATEGY 2020
+
+22
+
+CR STRATEGY 2020
+
+TRADE
+The Trade value-adding stage includes the impacts of
+the Otto Group’s business activities at its own locations
+as well as of its sourcing and distribution transport.
+There is a significant lever here for more sustainability
+in the reduction of the greenhouse gas CO2.
+
+ge
+
+t achieve
+
+-24%
+
+nt in 20
+me
+
+14
+
+Climate Strategy
+TARGET: 50% reduction of
+CO 2 emissions
+
+Ta
+r
+
+For detailed information about the Otto Group’s Climate
+Strategy and progress, please see the chapter on Trade from
+p. 45 onwards.
+
+The Otto Group Climate Strategy aims to halve Group
+companies’ CO2 emissions by 2020 – whether caused
+by locations, transport or mobility – compared to the
+2006 base year. This should be done as efficiently and
+economically as possible, primarily through increasing
+energy efficiency. The operational implementation
+of the required measures is done decentrally in the
+individual Group companies.
+
+E X PA N D I N G T H E S C O P E
+Since 2013, the ‘Scope of the CR Strategy’ procedural
+framework has determined which Otto Group companies
+are included in the implementation of CR Strategy 2020.
+In addition, it sets specific relevance thresholds for every
+sub-strategy: once companies exceed these, they are
+integrated in the sub-strategy. For example, Group companies are required to contribute towards achieving the
+Furniture Strategy targets once they generate more than
+10 mn€ revenue in the furniture product group.
+
+In 2013, myToys was integrated into the sustainability
+reporting process. This Group company had already
+participated in both of the sub-strategies assessed as
+relevant to its business: the Social Programme and the
+Climate Strategy. For the 2015/ 16 financial year, the
+inclusion of Freemans Grattan Holdings and Eddie Bauer
+Japan as well as all major foreign companies belonging
+to the Hermes and bonprix groups is planned.
+Group companies are responsible for implementing
+the sub-strategies and augment these with their own
+activities in accordance with the specific requirements
+of their business models and the expectations of their
+stakeholders.
+
+THE RIGHT INCENTIVES
+Since the 2014/15 financial year, the annual variable
+remuneration of all members of the Group Executive
+Board has been linked to achieving the five targets
+of CR Strategy 2020. These targets are weighted
+according to materiality criteria and summarised
+in a CR Strategy Index.
+
+The target
+achievement values of
+CR Strategy 2020
+are components
+of variable
+Executive Board
+remuneration.
+
+Otto Group Sustainability Report 2015
+
+CR ORGANISATIONAL STRUCTURES
+
+CR organisational
+structures
+The various challenges along the value chain, such
+as protecting the climate and conserving resources,
+as well as responsibility for working standards in
+the supply chain, require an integrated approach. We
+not only respond to this with the impACT management
+process, we have also established an organisational
+structure that integrates employees from different
+functions and Group companies.
+Responsibility for sustainable action in the Otto Group
+lies with the Group Executive Board. The central
+committee for preparing strategic CR decisions is the
+CR Board, which was created in 2012 and is led by the
+Chairman of the Executive Board. Other permanent
+members are the Group Board Member for Services,
+as well as the OTTO Management Board Member for
+Categories since the start of 2014, who supplements
+the existing body particularly in his function as overall
+Head of Purchasing at the Group’s largest trading
+company, OTTO. The committee meets two to three
+times a year.
+Since the 2014/15 financial year, the variable remu­
+neration for the Otto Group Executive Board has also
+been linked to the degree of target achievement in the
+CR Strategy (see p. 20).
+
+S U STA I N A B L E S U P P LY C H A I N
+M A N AG E M E N T B OA R D I M P L E M E N T E D
+With the Sustainable Supply Chain Management Board
+(SSCM Board), another body was created in April 2014
+which examines sustainability topics in the supply chain
+from an integrated perspective. The committee currently
+consists of six Managing Directors and Directors from
+the Group companies bonprix, Hermes, OTTO and Witt,
+as well as the sourcing company Hermes-OTTO International. The SSCM Board Chairman is the Director of the
+Group CR Division. The members of this committee
+debate and decide in the interest of all Group companies
+on sustainability related topics in the value chain.
+
+They hold an executive management function for
+current projects and prepare decisions for the CR Board.
+Due to its cross-company composition, the SSCM Board
+forms a bridge between the divisions with operational
+responsibility and the CR Board.
+The Group CR Division holds responsibility for content
+preparation and facilitates SSCM Board meetings,
+which take place four to five times a year.
+
+C R C O O R D I N AT O R S I N K E Y R O L E S
+The Otto Group is decentrally organised. The Managing
+Directors of individual Group companies are responsible
+for meeting CR targets and for implementing sustainability activities in their companies. The CR Coordinators
+in the Group companies have a key role to play here:
+they support their company management in managing
+the relevant CR activities, initiate new measures, manage
+the capture of key figures and therefore represent the
+interface to the Group CR Division. OTTO and Hermes
+have established their own CR management bodies,
+which decide and organise the implementation of CR
+activities and include Board Members, Directors and
+Divisional Managers.
+
+Otto Group Sustainability Report 2015
+
+23
+
+24
+
+CR ORGANISATIONAL STRUCTURES
+
+GROUP CR DIVISION SETS
+S T R AT E G I C F R A M E W O R K
+The Otto Group CR Division fulfills a Group-wide advisory
+and management function within the organisation. It
+operates as a change leader and takes responsibility for
+the development and planning of Group-wide strategies and pilot projects. In addition, it makes available
+measurement tools for planning and management and
+
+advises individual Group companies on implementing
+the CR Strategy. Among the central tasks for the Group
+CR Division are also controlling stakeholder management and sustainability reporting, as well as networking and knowledge transfer between the Otto Group
+and the Group companies. In 2014 a meeting took place
+to present and discuss the impACT management process
+with the CR Coordinators of the Group companies.
+
+Otto Group CR Organisation
+Group Executive Board
+CR Board
+(led by the Chairman of the Group Executive Board)
+Corporate
+Division
+
+Corporate
+Responsibility (CR)
+
+Sustainable Supply Chain Management (SSCM) Board
+
+Group companies
+
+Company
+Executive Boards
+
+CR Coordinators
+
+CR CONTROLLI NG
+
+R O L L O U T F U R T H E R D E L AY E D
+
+The core tools for managing sustainability processes
+in the Otto Group are the CR Database, and the Supply
+Chain Database (SC Database) which was implemented
+in January 2015. Through both of these systems the key
+figures are recorded with which the implementation
+progress of CR targets and the effectiveness of measures
+taken can be reviewed and compared. The reporting
+companies enter employee and assortment data, as well
+as climate and environmental figures, in the CR Database
+on an annual basis. Key figures for measuring and managing the Social Programme are determined every six
+months from the SC Database. Through its interfaces,
+it brings together data from various systems and from
+manual entries, such as those made by auditors. For
+example, it enables the viewing of audit results for factories and the status of suppliers regarding the Social
+Programme. Every six months, the Otto Group Executive
+Board receives a report on the development of strategic
+CR targets and measures to achieve them.
+
+In 2011, a Corporate Responsibility Rollout was launched
+to make CR management more consistent across the
+Group and to include all major international companies.
+Progress towards this target once again fell short of
+expectations in the reporting period. Instead, a topicspecific rollout of sub-strategies at individual Group
+companies took place. Besides an increased degree of
+decentralisation in the Group, the reason for this is the
+varying economic development of foreign subsidiaries
+(see Otto Group Annual Report 2014/15, p. 59 et seq.).
+With myToys, all significant companies in the Germanspeaking region are now integrated in the CR Strategy
+(see p. 20 et seq.). Likewise, Hermes UK is now integrated
+and will be fully included from the next reporting cycle,
+as are bonprix’ foreign companies in France, Poland and
+Italy, and Venus in the US. In future, Freemans Grattan
+Holding in the UK and Eddie Bauer Japan will also be
+added. The full integration of Crate & Barrel (USA), Otto
+Group Russia, and the 3Suisses Group (France) has been
+deferred by the Group Executive Board until at least 2016.
+
+Otto Group Sustainability Report 2015
+
+25
+
+CR ORGANISATIONAL STRUCTURES
+
+G O O D C O R P O R AT E G O V E R N A N C E
+AN D COMPLIANCE
+The Otto Group has more than 50,000 employees and
+is active worldwide. It is conscious of the fact that in
+complying with international laws and guidelines, conflicts of interests and standards can arise that bear risks.
+As a significant component of the Compliance Management System currently in place across the Group, the
+Compliance Committee ensures compliance with national
+and international laws as well as the Group’s own internal
+directives. It is composed of officers from relevant Group
+departments such as Law, Data Protection, Internal Audit
+and Corporate Responsibility. Another central instrument
+is the Code of Conduct, which applies Group-wide (see
+p. 40) and which is a required component of contractual
+relationships between the Otto Group and its suppliers.
+Furthermore, Group Directives govern our companies’
+approach to anti-corruption, donations, embargo measures, dealing with gifts as well as data protection and
+security (see p. 63). Managers are required to instruct
+their employees personally about the contents of these
+Directives and any changes to them. In case of questions or on suspicion of a breach, employees can contact
+an internal department or an external Ombudsman.
+If violations occur, the Otto Group imposes appropriate
+sanctions by taking measures foreseen by employment
+law, or may even terminate supplier relationships.
+Complaints
+Number
+
+2
+1
+
+2
+6
+
+4
+8
+
+1
+3
+3
+1
+
+2011/12
+
+2012/13
+
+Violations
+Number
+
+2011/12 2012/13 2013/14
+
+2014/15
+
+of environmental
+standards
+
+0
+
+0
+
+0
+
+0
+
+of health or
+safety standards
+(product recalls)
+
+6
+
+2
+
+4
+
+1
+
+of product information standards
+
+8
+
+10
+
+3
+
+0
+
+of marketing
+standards
+
+4
+
+5
+
+5
+
+0
+
+Of the five product recalls carried out in the reporting
+period, the majority were textiles in which raised levels
+of azo dyes had been found. In one case, an own-brand
+dishwasher was recalled following a technical defect.
+The violations of product information and marketing
+standards, a total of eight in the reporting period, related
+to product descriptions such as an incorrect description
+of materials.
+
+PROACTIVE RISK MANAGEMENT
+
+7
+
+4
+
+In the two-year reporting period, four complaints were
+received regarding anti-competitive behaviour; of these,
+two were related to suspected trademark violations of
+a test seal. The four complaints in the area of consumer
+protection referred to the unauthorised sending of newsletters and an unsolicited advertising call. All 13 of the
+complaints submitted in the reporting period regarding
+the violation of diversity and equal opportunities originated from the same person, who felt discriminated
+against in the online application process.
+
+2013/14
+
+2014/15
+
+Complaints based on violations of diversity and equal opportunities
+Complaints in the area of consumer protection
+Complaints based on anti-competitive behaviour
+
+Entrepreneurial activity bears inherent risks. Likewise,
+achieving company goals can be endangered by risks.
+Therefore, the Otto Group maintains a systematic risk
+register both on Group and Group company levels, which
+serves at the same time as a Group-wide ‘early warning
+system’. Among the short-term risks are currency risks
+and economic fluctuations that influence consumers’
+willingness to spend. Longer-term risks for the Otto
+Group arise for example from climate change, since
+the increase in extreme weather events can lead to crop
+failures and raw-material scarcity in producer countries.
+
+Otto Group Sustainability Report 2015
+
+26
+
+INVOLVING STAKEHOLDERS
+
+Involving Stakeholders
+We address the expectations and demands of our
+stakeholders in discussions, through surveys and
+at events. Constant exchange is essential to identify their expectations and demands at an early
+stage and take account of these in our decisions.
+G4 – 24
+
+The Otto Group is in constant contact with numerous
+stakeholder groups. The most important are customers,
+suppliers, employees, non-governmental organisations
+(NGOs), and political, scientific and business representatives.
+
+M A N A G I N G S TA K E H O L D E R
+I N T E R E STS
+G4 – 25
+
+The significance of the different stakeholder groups to
+the Otto Group depends on the relationship they have
+to the Group’s business or products. Identification and
+involvement of stakeholders, internal responsibilities
+and divisions of duties are set out uniformly in a directive.
+The CR Division manages this process; it coordinates
+stakeholder discussions and, if required, performs risk
+assessments.
+The key parties for managing stakeholder dialogue are
+the Executive Board, the CR Division, Corporate Communications and the Group companies. Approved internal
+information flows ensure the Group companies respond
+uniformly to external enquiries. These are classified into
+those with a high risk to the Group’s reputation, and those
+with a low risk. High-risk enquiries are sent directly to
+the CR Division for action; CR then works with Corporate
+Communications in the case of critical media enquiries.
+
+S TA K E H O L D E R D I A L O G U E
+The Otto Group is in contact with its stakeholders across
+a range of channels, initially by providing information
+in its Sustainability Report and on its corporate website.
+Subsequently, meetings at events and platforms for
+exchange organised by the Group strengthen the dialogue. Involvement through consultation represents
+the closest form of stakeholder involvement. For example,
+the views of selected stakeholders concerning the
+impACT sustainability management process (see p. 16)
+are incorporated into the Group’s strategic focus. This
+also has a major influence on the scope of this Sustainability Report.
+
+F O C U S O N L A B O U R S TA N D A R D S
+At the end of 2013 the Otto Group presented its new
+Social Programme at a one-day forum (see p. 40 et. seq.).
+By focusing on purchasing processes in risk countries
+and with a wider scope of application, the Group intends
+to improve working conditions in the supply chain.
+The Otto Group gains valuable external assessments
+through podium discussions and workshops to improve
+its Social Programme.
+The Otto Group helped shape, and is a signatory to, the
+Bangladesh Accord on Fire and Building Safety, which
+was a response to the collapse of the Rana Plaza factory
+in Bangladesh in 2013 (see p. 44). The Otto Group was
+also closely involved in discussions concerning the
+Partnership for Sustainable Textiles, a multi-stakeholder
+initiative founded by the German Federal Ministry for
+Economic Cooperation and Development (see p. 44).
+
+Otto Group Sustainability Report 2015
+
+G4 – 26
+
+INVOLVING STAKEHOLDERS
+
+N AT U R A L C A P I TA L E V E N T
+
+D I A L O G U E AT A P O L I T I C A L L E V E L
+
+In November 2014 around 100 companies responded to
+the ‘Biodiversity in Good Company’ initiative’s invitation
+to meet at the Otto Group’s headquarters in Hamburg.
+Under the motto ‘On the doorstep and beyond the
+horizon: companies addressing the challenges of
+biodiversity’, business representatives and politicians
+discussed how natural resources can be conserved, and
+presented best practices. ‘Biodiversity in Good Company’
+was launched in 2008 by the German Federal Ministry
+of the Environment, Nature Conservation and Nuclear
+Safety, and today is a company-driven initiative. Since
+2011 the Otto Group has chaired the initiative’s Board.
+
+The Otto Group is in constant dialogue with political
+institutions. In 2013 and 2014 it took part in workshops
+organised by the German Federal Ministry for Foreign
+Affairs on social responsibility in the supply chain.
+The Group is also represented at the German national
+CR forum, which advises the German Federal Ministry
+for Labour and Social Affairs on developing and implementing the national German CR strategy. Furthermore,
+in 2014 the Group supported the German government’s
+Research for Sustainable Development (FONA) agenda
+by providing information on natural capitalisation and
+measuring external effects, for instance.
+
+T H E OT TO G RO U P ’ S K EY M E M B E R S H I P S
+A N D C O L L A B O R AT I O N S
+	2° – German CEOs for Climate Protection (initiated by Dr Michael Otto and a member since 2007)
+	Bangladesh Accord on Fire and Building Safety (since 2013)
+	Biodiversity in Good Company initiative (founding member 2008)
+	Bundesverband der Personalmanager [German Federal Association of Personnel Managers] (since 2009)
+	Business For Climate initiative (since 2012)
+	Business Social Compliance Initiative (BSCI) (since 2004)
+	Carbon Performance Improvement Initiative (CPI2) (founding member 2011)
+	Forest Stewardship Council Germany (FSC) (since 2006)
+	Founding member of the Cotton made in Africa (CmiA) initiative (since 2005)
+German Association for Personnel Management (since the 1980s)
+	German Environmental Management Association (B.A.U.M.) (since 1987)
+	German Retail Federation (HDE) (since 2009)
+	terre des hommes (partner since 2008)
+	Textile Exchange (since 2006)
+	United Nations Global Compact (since 2002)
+
+Otto Group Sustainability Report 2015
+
+27
+
+G4 – 26
+
+28
+
+CHAPTER OVERVIEW OF THE FOUR VALUE-ADDING STAGES
+
+Process stages based on textiles
+Page 29
+
+Raw Materials
+& Processing
+
+Page 37
+
+Final Production
+
+Page 45
+
+Trade
+
+Page 59
+
+Customer
+
+Otto Group Sustainability Report 2015
+
+RAW MATERIALS & PROCESSING VALUE-ADDING STAGE
+
+1. Raw Materials &
+Processing
+Process stages based on furniture
+
+Raw Material
+Extraction
+
+Sawmill
+
+Processing
+
+Refinement
+
+Timber is
+harvested from
+managed forests
+and plantations.
+
+At the sawmill,
+logs are
+processed into
+sawn timber
+and prepared
+for further
+processing.
+
+Assorted tools
+and processes
+are used to
+process the
+pieces of timber.
+
+The timber is
+finished, meaning
+it is waxed,
+stained, lacquered
+or oiled to protect
+it from dirt and
+stains, etc.
+
+Otto Group Sustainability Report 2015
+
+29
+
+30
+
+RAW MATERIALS & PROCESSING VALUE-ADDING STAGE
+
+Raw Materials & Processing
+The cultivation and extraction of raw materials,
+and their further processing, lie at the start of
+the value chain. According to the materiality analysis
+this causes the majority of ecological impacts and
+social risks. The Otto Group is countering these
+challenges with three sub-strategies which all focus
+on more sustainable land use and forestry practices.
+
+See p. 12 et seq. for further
+information on impACT.
+
+CHALLENGES IDENTIFIED
+BY impACT
+Overview of Materiality Matrix assessments
+for the Raw Materials & Processing
+value-adding stage:
+
+Quantitative Assessment
+
+Average Stakeholder Evaluation
+(on a scale of 1 [very low] to 10 [very high])
+External Stakeholders: 8
+
+Ecological
+Impacts
+
+Share of Raw Materials & Processing
+value-adding stage in terms of overall
+ecological impacts: 70%
+
+Relevance to Reputation: 4
+Internal
+Stakeholders
+
+Regulation Risks: 3
+Business Activity: 7
+
+External Stakeholders: 9
+
+Social
+Risks
+
+Share of Raw Materials & Processing
+value-adding stage in terms
+of overall Social Risks: 64%
+
+Relevance to Reputation: 7
+Internal
+Stakeholders
+
+Regulation Risks: 4
+Business Activity: 9
+
+Otto Group Sustainability Report 2015
+
+G4 – 27
+
+RAW MATERIALS & PROCESSING VALUE-ADDING STAGE
+
+Q UA N T I TAT I V E A S S E S S M E N T R E S U LT S
+The quantitative assessment of ecological
+impacts was high for all four impact categories –
+Greenhouse Gases, Pollutants, Water Consumption
+and Land Use – compared to the other three valueadding Stages.
+Greenhouse Gases are emitted for instance
+through the consumption of energy in the agricultural
+sector and in the rearing of animals for leather. Textiles
+and electronic articles are in part manufactured in
+multi-staged, and consequently energy-intensive,
+production processes which have a climate impact.
+Pollutants enter the air and water through the use
+of chemicals in finishing and production processes, also
+through the use of pesticides in cotton cultivation for
+instance.
+The cultivation of plant-based raw materials such as
+cotton is also highly water-intensive. On average it takes
+around 2,100 litres of water to produce one kilogramme
+of cotton. The artificial irrigation of cotton fields involves
+many factors. This includes extracting water from rivers,
+which affects existing ecosystems. In arid regions, the
+water requirement for cotton cultivation is in strong
+competition with the population’s need for water for
+drinking and other purposes.
+The majority of land is used for agriculture and forestry,
+such as for commercial forestry and cotton cultivation.
+This has a major impact on diversity, which is much lower
+in these cultivated areas than in areas left to nature.
+Furthermore, mining, industry and transportation –
+even if to a much lower degree – all contribute toward
+land use. All these forms of land use have ecological
+impacts.
+
+31
+
+Compared to the other value-adding stages, the share
+of Social Risks, meaning violations of social standards through unacceptable working conditions, is
+greatest in the Raw Materials & Processing value-adding
+stage. These risks occur both in the extraction of raw
+materials and their further processing. Furthermore,
+they arise particularly in risk countries (see p. 40).
+Instances are particularly high for example in dye works
+for textile production.
+
+S TA K E H O L D E R E VA L U AT I O N R E S U LT S
+External and Internal Stakeholders considered the
+ecological impacts in the Raw Materials & Processing
+value-adding stage to be very relevant. In this value-­
+adding stage, all stakeholders expect the Otto Group to
+make long-term improvements in terms of Greenhouse
+Gases and Pollutants, Water Consumption and Land Use.
+In textile production in particular, all four Stakeholder
+Perspectives consider Pollutants to be of great importance for the Otto Group – for External Stakeholders
+as well as from a Reputation, Regulation and Business
+Activity perspective.
+One reason for the great importance attached to
+Land Use by External Stakeholders is the public
+debate on the increased global competition for land.
+It refers to the conflict between the cultivation and
+extraction of raw materials on the one hand, and the
+conservation of natural habitats and diversity on the
+other. By contrast, from an Internal Stakeholder perspective, Business Activities are still not considered to
+be highly relevant over the medium term.
+The Otto Group also considers Social Risks in
+pre-production stages as being highly relevant to
+its Business Activity and Reputation. This assessment
+corresponds with External Stakeholders’ high expectations as well as the associated high level of relevance
+for this topic area to the Group’s Reputation.
+
+Otto Group Sustainability Report 2015
+
+G4 – 27
+
+32
+
+RAW MATERIALS & PROCESSING VALUE-ADDING STAGE
+
+T H E OT TO G RO U P ’ S
+SCOPE OF ACTION
+
+G R O U P D I R E C T I V E S U S TA I N A B I L I T Y
+IN PROCUREMENT
+
+Although this value-adding stage has the greatest share
+of Social Risks, the Otto Group has not yet implemented
+a sub-strategy to reduce them. The reasons are a lack
+of contractual relationships and a resulting poor level of
+transparency and limited influence over upstream suppliers.
+Only a few aspects of Raw Material Extraction are manageable. Sustainability requirements can be implemented
+and managed in this regard using credible certifications,
+for instance through the use of the FSC® label.
+
+The Otto Group’s entire assortment is subject to minimum standards which are brought together in the Group
+Directive Sustainability in Procurement. It applies to all
+Group companies and sets out the environmental and
+social requirements under which merchandising and
+non-merchandising goods are sourced and sold (see p. 39).
+It bans such things as the use of real fur, feather and
+down gained from live plucking or foie-gras production,
+as well as the use of non FSC-certified tropical wood.
+
+T E X T I L E , F U R N I T U R E A N D PA P E R
+S T R AT E G I E S A N D A D D I T I O N A L
+MANAGEMENT APPROACH ES
+
+CODES OF CON DUCT
+
+The Raw Materials & Processing value-adding stage has
+the greatest potential to reduce the Otto Group’s ecological impacts. This is why three of the CR Strategy
+2020’s five sub-strategies deal specifically with this.
+They aim to reduce all four ecological impacts (Greenhouse Gases, Pollutants, Water Consumption and
+Land Use).
+Through its Textile Strategy, by 2020 the Otto Group
+aims to only use sustainably cultivated cotton in its
+own and licensed brands. To achieve this, it is using
+certified organic cotton and cotton from the Cotton
+made in Africa (CmiA) initiative. Under the Otto Group’s
+Furniture Strategy, by 2020 only FSC-certified articles
+are to be used in the Group’s assortment of wooden
+furniture. Through its Paper Strategy, by 2018 the Otto
+Group intends to increase the share of FSC-certified
+gravure print paper for catalogues and advertising
+materials to at least 50%.
+
+Two additional target-group specific documents complement the Group Directive Sustainability in Procurement:
+the Code of Conduct for Merchandise, and the Code of
+Conduct for Non-Merchandise Goods and Services (see
+p. 40) – the latter covers external cleaning services at
+several locations. These set out social standards both for
+suppliers and their subcontractors.
+
+Application scope
+of key figures
+The key figures in this chapter cover
+all reporting companies from the business
+segment Multichannel Retail, provided
+they pass the sub-strategies’ relevance
+thresholds. All figures relate to calendar
+years and are rounded off.
+
+GRI aspects covered
+Emissions, Energy, Materials, Water,
+Biodiversity
+
+Otto Group Sustainability Report 2015
+
+33
+
+RAW MATERIALS & PROCESSING VALUE-ADDING STAGE
+
+Sustainable cotton 1
+
+T E X T I L E S T R AT E G Y S TAT U S
+
+in t
+
+Total quantity of cotton
+
+Scope of application of
+the Textile Strategy
+All reporting companies with an annual
+sourcing volume of over 10 mn for
+own and licensed brands in the textiles
+product group are involved in the
+Textile Strategy. In the reporting
+period, this concerned bonprix, Frankonia,
+Heine, OTTO, Schwab, SportScheck and
+the Witt Group.
+As OTTO has managed sourcing for the
+Group company Baur since 2014, Baur
+itself is no longer involved directly
+in the Textile Strategy.
+Nevertheless, Baur still has the indirect
+ability to influence the success of
+the Textile Strategy, for example by
+marketing sustainable cotton textiles
+to customers. The same applies to the
+reporting company UNITO, whose textile
+assortment is sourced primarily by OTTO.
+
+In the Otto Group’s textile assortment cotton is by
+far the dominant fibre compared to polyester, viscose
+and wool. The Otto Group has set itself the goal of
+only using sustainably produced cotton in its cotton
+assortment of own and licensed brands by 2020. This
+includes all textiles with a cotton share of at least 5%.
+Own and licensed brands were focused on, as the
+Group has a direct influence over the raw materials
+used here. To achieve its goals, the Otto Group is using
+cotton from the CmiA initiative in particular (see info
+box). In 2014 its share of the total quantity of cotton
+was 9.6%. Certified organic cotton also contributed
+toward this goal with a share of 1.3%.
+In 2014 the Otto Group purchased 3,900 tonnes of
+sustainable cotton. This is equivalent to 11% of the
+Group’s total quantity of cotton (2013: 7%). The main
+reason for the increase in the share of sustainable
+cotton was an acceleration in the switchover to CmiA
+cotton at the Group companies bonprix, OTTO and Witt.
+
+2012
+
+2013
+
+2014
+
+33,833
+
+39,453
+
+35,599
+
+708
+
+607
+
+478
+
+1,208
+
+2,164
+
+3,405
+
+6%
+
+7%
+
+11%
+
+Quantity of organic cotton
+Quantity of CmiA cotton
+Share of sustainable cotton
+Based on the sourcing volume of raw cotton.
+
+1
+
+Cotton made in Africa
+Cotton made in Africa (CmiA) plays a key
+role for the Otto Group in achieving its
+goal of ‘100% sustainable cotton by
+2020’. Cost-efficient sourcing makes the
+mass-market use of CmiA possible. Among
+other factors, the lower costs are thanks
+to the underlying mass-balance approach,
+which works in a similar way to the
+eco-electricity model: there is no need
+to report the individual products in
+which CmiA cotton was used – what matters
+is that the corresponding quantity of
+sustainable cotton enters the value chain
+and demand is created as a result.
+CmiA allows African smallholder farmers
+to improve their living standards through
+their own efforts and promotes environmental protection. The initiative is
+currently active in 10 African states
+where, through qualification measures,
+smallholder farmers are learning how to
+cultivate cotton efficiently and in an
+environmentally friendly way.
+They benefit from contracts of employment
+and reliable payment for what they produce. In March 2015 there were around
+650,000 verified smallholder farmers.
+The use of CmiA cotton reduces the ecological and social impacts in four out of
+five impact categories: Greenhouse Gases,
+Pollutants, Water Consumption and Social
+Risks. A lifecycle assessment of CmiA
+cotton revealed that greenhouse gas emissions are 40% lower for CmiA cotton
+production than conventional cotton production. Furthermore, around 2,100 litres
+of water are saved per kilogramme of
+cotton, as CmiA cotton is cultivated
+purely using rain water.
+As with conventional cultivation, pesticides may also be used on cotton produced
+under CmiA guidelines, as this is not
+organic cotton. However, the initiative
+does ban the use of certain pesticides,
+training and qualifying farmers to use
+them responsibly.
+
+Otto Group Sustainability Report 2015
+
+34
+
+RAW MATERIALS & PROCESSING VALUE-ADDING STAGE
+
+F U R N I T U R E S T R AT E G Y S TAT U S
+
+Scope of application of
+the Furniture Strategy
+The Furniture Strategy covers all
+reporting companies with annual sales
+of over 10 mn in the furniture product
+group. In the reporting period, this
+concerned baumarkt direkt, bonprix,
+Heine, OTTO and OTTO Office.
+As in the case of the Textile Strategy,
+Baur is no longer directly involved in
+the Furniture Strategy. However, the
+Group company continues to sell wooden
+furniture products sourced by OTTO or
+other reporting companies.
+From 2013 a simpler definition has been
+used to calculate the key figure ‘Share
+of FSC-certified articles in terms of
+the overall furniture assortment’. This
+definition only records solid wood
+articles as well as part-solid and MDF
+(medium-density fibreboard) articles.
+Additional sub-assortments specific to
+baumarkt direkt are no longer incorporated in this key figure.
+
+In 2014 the share of FSC-certified timber used in
+wooden articles stood at 33% – a considerable increase
+over the previous year (26%). This was thanks in particular to the efforts of OTTO: the Group company agreed
+FSC certifications with key wooden-furniture suppliers
+and included additional FSC-certified articles in its
+assortment. bonprix also significantly increased the
+share of FSC-certified timber in its furniture assortment.
+FSC-certified furniture
+
+G4 – 22
+
+Number
+
+2011
+
+2012
+
+2013
+
+2014
+
+16,815
+
+53,9111
+
+45,485
+
+56,350
+
+of which, number of
+FSC-certified articles
+in the assortment
+
+1,605
+
+8,3431
+
+11,872
+
+18,688
+
+Share of FSC-certified
+articles in terms of
+the overall furniture
+assortment
+
+10%
+
+16%
+
+26%
+
+33%
+
+Total number of
+furniture articles
+
+Values adjusted versus CR Report 2013 (previously 50,571 and 8,227).
+This was because baumarkt direkt’s figures were only incorporated fully
+after publishing.
+
+1
+
+Forest Stewardship Council®
+Next to cotton, timber is the Otto Group’s most
+frequently used raw material. It is used primarily in
+catalogue paper and in wooden furniture.
+To make the Otto Group’s furniture assortment more
+sustainable, it uses FSC-certified timber (see info box).
+It has set itself the target of increasing the share of
+FSC-certified timber used in its wooden furniture to
+100% by 2020.
+
+The Forest Stewardship Council (FSC)
+actively works toward conserving forests
+by promoting responsible forestry. The
+prevention of uncontrolled deforestation
+and violation of human rights, and
+the conservation of ecosystems and biodiversity are promoted through stringent
+forestry standards. This primarily
+reduces impacts in the impact category
+Land Use.
+
+Otto Group Sustainability Report 2015
+
+35
+
+RAW MATERIALS & PROCESSING VALUE-ADDING STAGE
+
+PA P E R S T R AT E G Y S TAT U S
+
+Paper use by the Otto Group 2014
+
+3.9%
+
+Scope of application of
+the Paper Strategy
+
+Packaging made of paper
+and cardboard
+
+The Group-wide sourcing of gravure print
+paper is handled centrally by OTTO. As
+such, it strongly influences the Paper
+Strategy’s key figures. The other reporting companies also use gravure print
+paper, with the exception of myToys,
+Hermes and EOS.
+
+In 2014 the Group consumed almost 275,000 tonnes
+of paper (catalogue paper, advertising materials and
+cardboard packaging). This means the Otto Group is
+still the biggest consumer of paper in the Germanspeaking region.
+Catalogues and advertising materials account for the
+greatest share of the paper consumed by the Otto Group
+(96%), with over 264,000 tonnes consumed annually.
+Despite the now clear dominance of e-commerce in
+terms of the share of retail sales, many customers still
+use catalogues as a source of inspiration. Under its Paper
+Strategy, the Otto Group has set itself the target of
+increasing the share of FSC (FSC-C011850) certified
+gravure print paper for catalogues and advertising
+materials to at least 50% by 2018.
+This focus on gravure print paper is because of its huge
+share of over three quarters of all the paper used for
+catalogues. Another reason is central procurement
+through OTTO, which makes it possible to implement
+the strategy quickly and efficiently. Of the 201,000
+tonnes of gravure print paper used in 2014, around
+18% was FSC-certified (2013: 8%). This considerable
+increase was thanks mainly to long-term contracts
+with key paper suppliers.
+
+96.1%
+
+Catalogues and advertising materials
+
+(of which, gravure print: 73.4 %; offset and
+other print processes: 22.7 %)
+
+Catalogue and advertising-material paper consumption 1
+in t
+
+2011
+
+20122
+
+2013
+
+2014
+
+289,050
+
+258,639
+
+258,382
+
+264,189
+
+Total quantity of
+gravure print paper
+
+n.d.
+
+209,763
+
+195,437
+
+201,839
+
+of which, FSC gravure
+print paper
+
+n.d.
+
+14,255
+
+15,818
+
+35,726
+
+Share of FSC gravure
+print paper
+
+n.d.
+
+7%
+
+8%
+
+18%
+
+Total quantity
+of paper
+
+Data based on forecast figures which deviate only slightly from actual figures.
+Slight deviation versus CR Report 2013.
+
+1
+2
+
+Otto Group Sustainability Report 2015
+
+36
+
+RAW MATERIALS & PROCESSING VALUE-ADDING STAGE
+
+E X PA N S I O N O F T H E PA P E R S T R AT E G Y
+Since the Otto Group’s cooperation with the Forest
+Stewardship Council (FSC) began, its label has already
+appeared on over two billion printed materials – a figure
+which makes the Group one of the world’s leading
+companies using FSC paper, a position it intends to
+strengthen further. With its Paper Strategy and Furniture
+Strategy, two of the Group’s five sub-strategies focus on
+FSC certification.
+By the end of 2015 the Otto Group will review and
+decide whether to incorporate offset print paper in its
+Paper Strategy. Since it is sourced locally by the individual
+Group companies’ purchasing departments and in
+significantly smaller quantities than gravure print paper,
+a changeover to FSC-certified offset print paper will
+involve significantly higher costs.
+
+Otto Group Sustainability Report 2015
+
+FINAL PRODUCTION VALUE-ADDING STAGE
+
+2. Final Production
+Process stages based on textiles
+
+Sewing
+
+Finishing & Packaging
+
+Textile workers process
+fabrics into finished products
+such as t-shirts or bedding.
+To make these, the fabric is
+cut, sewn, and if desired is
+decorated with accessories
+and designs.
+
+The brand label is attached
+to the product, which is
+then ironed and packed
+ready for transportation.
+
+Otto Group Sustainability Report 2015
+
+37
+
+38
+
+FINAL PRODUCTION VALUE-ADDING STAGE
+
+Final Production
+The Final Production value-adding stage covers
+the final stages of the production process up to
+and including packaging of the goods ready for
+transportation. Here, the focus of the Otto Group’s
+sustainability activities is on improving working
+conditions, particularly at factories in risk
+countries. This is why it implements its Social
+Programme to audit and qualify them.
+
+See p. 12 et seq. for further
+information on impACT.
+
+CHALLENGES IDENTIFIED
+BY impACT
+Overview of Materiality Matrix assessments
+for the Final Production value-adding stage:
+
+Quantitative Assessment
+
+Average Stakeholder Evaluation
+(on a scale of 1 [very low] to 10 [very high])
+External Stakeholders: 6
+
+Ecological
+Impacts
+
+Share of Final Production
+value-adding stage in terms of overall
+ecological impacts: 6%
+
+Relevance to Reputation: 3
+Internal
+Stakeholders
+
+Regulation Risks: 2
+Business Activity: 4
+
+External Stakeholders: 9
+
+Social
+Risks
+
+Share of Final Production
+value-adding stage in terms
+of overall Social Risks: 30%
+
+Relevance to Reputation: 10
+Internal
+Stakeholders
+
+Regulation Risks: 3
+Business Activity: 10
+
+Otto Group Sustainability Report 2015
+
+G4 – 27
+
+39
+
+FINAL PRODUCTION VALUE-ADDING STAGE
+
+Q UA N T I TAT I V E
+A S S E S S M E N T R E S U LT S
+
+T H E OT TO G RO U P ’ S
+SCOPE OF ACTION
+
+Compared to other value-adding stages Final Production
+has relatively low ecological impacts. The majority of them are accounted for by the impact categories
+Greenhouse Gases and Pollutants. Here, CO2
+emissions are emitted mainly by energy consumption
+at the factories. Pollutants are emitted through the use
+of solvents, dyes and lacquers in furniture production.
+
+Owing to the contractual relationship between Otto
+Group companies and their suppliers, there are greater
+abilities to exert influence in the Final Production valueadding Stage than in the upstream stages of goods
+production (see chapter ‘Raw Materials & Processing’,
+p. 29 et seq.). Limited influence is, however, brought to
+bear owing to complex sourcing structures as well as
+often small order quantities per supplier because of the
+huge range of articles offered by the Group’s trading
+companies (see info box p. 40).
+
+Almost a third of all Social Risks occur in the Final
+Production value-adding stage. This stage includes,
+for example, the packaging of textiles and the final
+assembly of electrical equipment. Consequently, manual
+labour plays a much bigger role, which entails greater
+Social Risks than automated processes. Furthermore,
+the final production of merchandising goods is largely
+performed in risk countries (see p. 40). Here, for instance,
+there is a relatively high probability that stipulated
+labour standards and human rights are not upheld
+owing to poor control systems.
+G4 – 27
+
+S TA K E H O L D E R E VA L U AT I O N R E S U LT S
+From a stakeholder perspective, Social Risks are
+the dominant sustainability topic in this value-adding
+stage. External Stakeholders expect the Otto Group to
+take steps to mitigate these risks. Consequently, this
+topic also poses a high risk to the Group’s reputation
+and is correspondingly relevant to the Group’s business
+success.
+
+Goods sourcing structure
+When sourcing products, the Group first
+draws a distinction between merchandising
+goods and non-merchandising goods.
+Non-merchandising goods include such items
+as transportation, office equipment for
+its own requirements, catalogue paper
+and services such as power and cleaning.
+The Otto Group purchases merchandising goods
+worth around 4.9 bn€ annually. Of this,
+around half is spent on third-party brands.
+In the case of these goods, brand manufacturers are responsible for upholding social
+and environmental standards in production.
+Own and licensed brands account for the
+remaining half of the sum of merchandising
+goods purchased. Own and licensed brands
+are sourced globally in different ways:
+through sourcing organisations such as the
+Group company Hermes-OTTO International
+(H-OI), external agencies, importers or
+directly via suppliers.
+
+Overview of goods sourcing in the Otto Group
+
+Code of Conduct
+for Merchandise
+
+Otto Group
+sourcing
+
+Merchandising
+Goods
+
+Non-Merchandising
+Goods
+
+own and
+licensed brands
+
+third-party brands
+
+responsibility
+lies with brand
+manufacturers
+
+Code of Conduct for
+Non-Merchandise
+Goods and Services
+
+from risk
+countries
+
+from non-risk
+countries
+focus of sustainability
+activities: e.g. Social
+Programme
+
+Otto Group Sustainability Report 2015
+
+sourced primarily from
+non-risk countries;
+Hermes has its own Code
+of Conduct for contractual partners offering
+parcel-delivery services
+(see p. 56)
+
+40
+
+FINAL PRODUCTION VALUE-ADDING STAGE
+
+Enormous article diversity
+Most of the Otto Group’s business models
+are based on offering a huge range
+of articles. The Group sources over a
+million different articles from over
+70 sourcing countries – and works with
+several thousand suppliers, which in
+turn order from various factories.
+
+Production in risk countries
+Merchandising goods are predominantly
+manufactured in risk countries owing to
+the global division of labour. A country
+is classified as a risk country if, for
+instance, human-rights infringements and
+socially unacceptable working conditions
+are more likely because of inadequate
+control systems. The Otto Group adopts
+this risk-country classification from
+the Business Social Compliance Initiative
+(BSCI) – a global alliance of trading
+companies, brand manufacturers and
+importers. The Otto Group’s sustainability
+activities within the Final Production
+value-adding stage focus on the factories
+in these risk countries.
+
+SOCIAL PROGRAMME AND
+ADDITIONAL MANAGEMENT
+APPROACH ES
+The Otto Group wants to offer its customers goods
+which have been produced in compliance with social
+and ecological standards. To achieve this, in 2013 the
+Otto Group rolled out the binding Group Directive
+Sustainability in Procurement. It developed its Code
+of Conduct long before this in 1996 – and in 1999 it
+implemented its Social Programme, which builds on
+this Group Directive.
+
+G R O U P D I R E C T I V E S U S TA I N A B I L I T Y
+IN PROCUREMENT
+The Group Directive Sustainability in Procurement sets
+out the minimum social and ecological requirements on
+how all goods are sourced by the Group companies. It
+includes social and ecological requirements on suppliers’
+products and working conditions. These include a ban
+on sand blasting when processing denim fabrics.
+
+CODES OF CON DUCT
+The Otto Group has implemented two Codes of Conduct
+in accordance with its sourcing structure: one for merchandising goods and one for non-merchandising goods
+and services (see figure p. 39). These set out the social
+standards which apply to all Group employees, business
+partners and suppliers. The Code of Conduct for Merchandise is based on the core working standards of the
+International Labour Organization (ILO), the UN Convention on the Rights of the Child and the UN Convention
+on the Elimination of All Forms of Discrimination against
+Women. Further components include BSCI guidelines
+and OECD Directives for Multinational Enterprises.
+By entering into a business relationship, suppliers and
+business partners commit not only to upholding these
+in their companies but also to ensuring their subcontractors abide by them. The Codes of Conduct form the
+basis for reviewing whether all trading and business
+partners are complying with the standards. To view both
+documents, visit: www.ottogroup.com/responsibility.
+
+S O C I A L P R O G R A M M E S TAT U S
+E N F O R C I N G S O C I A L S TA N D A R D S
+The Otto Group introduced its Social Programme in
+1999 to enforce social standards in risk countries. It
+focuses on the production and sourcing of own and
+licensed brands from risk countries. In 2013 it was
+expanded to include importers and direct suppliers,
+among other measures. The Social Programme’s goal is
+to establish acceptable working conditions for factory
+workers. Furthermore, it aims to establish transparency
+in terms of where and how goods are produced for the
+Otto Group. To achieve this, suppliers must disclose
+their factory structure and provide accepted and valid
+standards, audit results or assessments for each factory
+which produces goods for the Otto Group (see p. 43).
+
+ 
+For a list of BSCI risk countries, visit:
+www.bsci-intl.org/bsci-list-risk-countries-0.
+
+Otto Group Sustainability Report 2015
+
+41
+
+FINAL PRODUCTION VALUE-ADDING STAGE
+
+Scope of application of the
+Social Programme
+
+Correspondingly, OTTO has since also
+controlled the particular key figures
+for merchandising goods sold by Baur.
+
+All own and licensed brand suppliers with
+factories in risk countries are integrated
+in the Social Programme. All suppliers are
+integrated, irrespective of whether goods
+are sourced by sourcing organisations, or
+whether direct suppliers or importers are
+concerned.
+
+Application scope of
+key figures
+The Social Programme applies to reporting
+companies from the Multichannel Retail segment. It is managed using the Supply Chain
+Database (see p. 42). This currently allows
+the following Group companies to be represented: bonprix, Heine, OTTO, Schwab,
+SportScheck, the Witt Group and Alba Moda.
+Since 2013 OTTO has sourced goods for Baur.
+The responsibility for implementing the
+Social Programme lies with the Group company that sources the merchandising goods.
+
+T H R E E - S TA G E M O D E L
+The primary aim of the Social Programme is to improve
+working conditions in risk countries where goods are
+produced for the Otto Group. A three-stage model represents this aim. All suppliers are included in the Basic
+
+Together with the joint-venture partner
+hagebau, baumarkt direkt sources the majority
+of its merchandising goods through a separate sourcing organisation. This is why
+baumarkt direkt is not involved directly
+in the Social Programme. Instead, it
+operates its own Social Management System
+as a BSCI member.
+In January 2015 the Otto Group rolled out
+its new Supply Chain Database. This is why
+at present only the key figures for 2014
+can be reported. These figures relate to
+calendar years and are rounded off.
+
+GRI aspects covered
+Supplier Human Rights Assessment,
+Supplier Assessment for Labor Practices
+
+Programme. This means they establish transparency in
+terms of their factories and provide valid social standards
+for them. In the second stage, selected factories of key
+suppliers with which the Otto Group already works closely
+are given targeted support through qualification measures.
+
+Overview of Social Programme core processes
+Stage 3:
+Excellence Programme
+
+Stage 3 aims:
+ 
+Comprehensive
+improvement
+ Strategic
+partnership
+
+Programme
+
+for selected factories
+of especially relevant suppliers
+Stage 2:
+Development Programme
+
+Qualification
+
+for selected factories
+of key suppliers
+
+ BSCI audit result
+of “good”
+ 
+SA8000 certification
+
+Stage 1:
+Basic Programme
+for all own and licensed
+brand suppliers with
+factories in risk countries
+(exception: importers
+that are BSCI members)
+
+Entry Assessment
+
+new
+factory
+
+Progress
+Assessment
+
+accepted standards
+fabric pool
+
+Otto Group Sustainability Report 2015
+
+at least
+annually
+
+depending on
+validity period
+of standards,
+every 1 to 3
+years
+
+Stage 2 aims:
+ 
+Promotion of good
+working conditions
+ 
+Closer collaboration
+
+Stage 1 aims:
+ 
+Improved working
+conditions
+ 
+Assessment of all
+suppliers
+
+42
+
+FINAL PRODUCTION VALUE-ADDING STAGE
+
+In the third stage, the Excellence Programme, selected
+factories belonging to suppliers which are especially
+relevant from a strategic point of view are fully further
+trained in terms of social, ecological and economic
+aspects. Owing to the general economic situation (see
+Otto Group Annual Report 2014/15, p. 55) implementation of this stage is initially dispensed with.
+
+S TA G E 1 :
+BASIC PROGRAMME
+This stage aims to establish transparency in terms of all
+suppliers and their factories with regard to compliance
+with social standards. It also aims to identify violations of
+the Code of Conduct. This is done by each factory either
+providing an accepted standard or undergoing the Otto
+Group’s own Entry Assessment prior to being awarded a
+production order. The validity periods of assessments and
+accepted standards are limited (most are valid for a year;
+others, such as the SA8000, are limited to three years).
+Once their validity expires, either a Progress Assessment
+needs to be performed or a new valid standard needs to
+be provided.
+
+S U P P LY C H A I N D ATA B A S E
+A S A CO N T RO L TO O L
+All supplier and factory data which are relevant for
+control purposes are logged in the Otto Group’s Supply
+Chain Database. This aims to establish a high degree
+of transparency over the Final Production value-adding
+stage and thus forms the basis of the Social Programme.
+
+11% of suppliers are not integrated. While the remaining
+72% are logged in the system, they cannot be definitively
+assigned a value, as data correction and clarification are
+needed.
+These figures show that the Otto Group is still trailing
+far behind its own ambitious aim. The Reasons for
+the delay in the roll out of this complex, Group-wide
+programme is due mainly to the wide variety of decentralised IT system environments and sourcing structures.
+In addition, it is proving more difficult than expected to
+establish the necessary transparency, particularly with
+regard to the factories of newly incorporated importers.
+The Otto Group expects a significant increase in the
+target achievement rate in 2015.
+Integration status and supplier performance
+
+Description
+
+At the end of this reporting period the Group companies involved in the Social Programme were working
+with 2,628 suppliers. Of these, 449 are considered as
+being integrated in the Social Programme – equivalent to 17%.
+
+17%
+
+Status: integrated
+accepted
+
+Valid and accepted standards
+or assessments provided
+for all of a supplier’s active
+factories
+
+9%
+
+advanced achieved
+
+Valid SA8000 certificates or
+a BSCI audit result of ‘good’
+provided for all of a supplier’s
+active factories
+
+7%
+
+BSCI member
+
+Importer is a BSCI member
+
+not accepted
+
+1%
+11%
+
+Status: not achieved
+
+A I M : 1 0 0 % I N T E G R AT I O N
+The Basic Programme aims to integrate into the Social
+Programme all suppliers with factories in risk countries
+– an aim it intends to achieve by the end of 2015. A supplier is considered to be integrated if all its factories in
+risk countries which produce goods for the Otto Group
+(‘active factories’) can provide a valid and recognised
+assessment, certificate or audit result (see info box
+p. 43). Alternatively, importers will also be accepted if
+they are BSCI members.
+
+2014
+
+A supplier does not have
+valid and accepted standards
+or assessments for all active
+factories
+
+11%
+
+sanctioned
+
+Sanctions are being brought
+against at least one of a
+supplier’s factories 1
+
+0%
+
+banned
+
+A supplier has been banned 2
+
+0%
+
+no value
+
+Integration status still unclear
+as, for example, transparency
+has not yet been established
+concerning active factories
+
+72%
+
+Sanctions are applied if serious violations of the Code of Conduct
+(e.g. in terms of working hours or wages) are discovered, or if a
+supplier refuses to have audits or assessments performed.
+2
+A supplier is banned if, despite sanctions, it refuses to meet the
+requirements/implement the Social Programme.
+1
+
+Otto Group Sustainability Report 2015
+
+FINAL PRODUCTION VALUE-ADDING STAGE
+
+A C C E P T E D S TA N D A R D S F O R
+A S S E S S I N G FA C T O R I E S
+
+S TA G E 2 :
+DEVELOPMENT PROGRAMME
+
+Assessments of all of a supplier’s active factories in a
+risk country are used to determine the supplier’s status.
+For this purpose, as part of the Social Programme
+seven external standards are accepted in addition to
+the Otto Group’s own Entry and Progress Assessments.
+
+This stage is intended to qualify factories of long-term
+suppliers to the Otto Group as far as possible so that
+they achieve a BSCI audit result of ‘good’ or gain SA8000
+certification. The Development Programme was launched
+in 2013. It includes measures such as workshops and
+webinars, and provides the factory representatives with
+an awareness and ability to develop and implement
+better long-term working conditions. In 2014, 210 factories were included in the Development Programme.
+
+Accepted external standards
+BSCI audit
+(Business Social Compliance Initiative)
+
+EICC audit (Electronic Industry
+Citizenship Coalition)
+ICS audit (Initiative Clause Social)
+
+ICTI audit (International Council of
+Toy Industry)
+
+SA8000 certificate
+
+S TA G E 3 :
+E XC E L L E N C E P R O G R A M M E
+In the third stage, the Excellence Programme, selected
+factories belonging to suppliers that are especially
+relevant from a strategic point of view are to be fully
+developed further in terms of social, ecological and
+economic aspects.
+
+(Social Accountability)
+
+SMETA/SEDEX audit
+(Sedex Members Ethical Trade Audit)
+
+WRAP certificate (Worldwide Responsible
+Accredited Production)
+
+Otto Group’s own standards
+Entry Assessment
+
+C L I M AT E A N D E N V I R O N M E N TA L
+P ROT E C T I O N
+The Otto Group is active particularly in the CPI2 industry
+initiative to reduce ecological impacts in the Final
+Production value-adding stage.
+
+C P I 2 I N I T I AT I V E
+
+Progress Assessment
+
+As at the end of 2014, 711 factories had provided
+accepted standards. Of greatest relevance at 75% are
+BSCI audits (41% with a result of ‘good’, 24% with
+‘improvements needed’, and 10% with ‘non-compliant’).
+The Otto Group is currently assessing 14% of factories
+(10% Entry Assessment, 4% Progress Assessment).
+For the remaining factories, other external standards
+have been provided. Of those, SA8000 certification
+(8%) was the most widely used.
+
+Together with seven other German trading companies,
+the Otto Group launched the CPI2 initiative to cut CO2
+emissions along the global supply chain. Since it was
+established, 20 companies have signed up to the initiative. To achieve the goal, CPI2 provides suppliers with an
+online management tool which lets them evaluate and
+control their energy consumption across all areas of
+their business. In 2014, 362 active factories which produce goods for the Otto Group had already signed up
+to the CPI2 initiative. Workshops and webinars were also
+held in five countries in the reporting period, in which
+105 factories took part.
+A CPI2 stakeholder dialogue event was held in November
+2014, the third time in a row such an event had been held.
+There, the companies involved engaged in discussion and
+networked with representatives from non-governmental
+organisations, development agencies, associations, as well
+as members of the scientific and political communities.
+The focus was on expanding the CPI2 tool to include
+chemical and water-use modules. These were implemented at the start of 2015 and are available for use.
+
+Otto Group Sustainability Report 2015
+
+43
+
+44
+
+FINAL PRODUCTION VALUE-ADDING STAGE
+
+C O L L A B O R AT I O N S A N D A L L I A N C E S
+To improve social and environmental standards particularly among its suppliers in risk countries, and in doing
+so also to improve local working conditions, the Otto
+Group is additionally involved in international coalitions.
+These allow an effective approach to be taken to global
+sourcing markets.
+
+B S C I – M A R K E T A L L I A N C E TO
+IMPROVE WOR KI NG CON DITIONS
+The Otto Group is a founder member of the Business
+Social Compliance Initiative (BSCI), which was launched
+in 2003. Its goal is to improve working conditions in
+international value chains. To achieve this it conducts
+audits and qualification measures in factories. The
+BSCI currently has 1,500 members around the world
+including trading companies, brand manufacturers
+and importers. Since 2014 the Otto Group has been
+a member of the BSCI’s Steering Committee.
+
+BANGL ADESH ACCOR D
+Bangladesh is an important sourcing country for the
+Otto Group. Since 2013 the Otto Group has been a
+supporter of the Accord on Fire and Building Safety
+developed by international trade-union confederations,
+the Clean Clothes Campaign (CCC), the Worker Rights
+Consortium (WRC) and national trade unions from Bangladesh. The agreement includes binding and transparent
+regulations on independent inspections, compulsory
+maintenance measures and corresponding cost-sharing
+by international corporate customers. In the reporting
+period, compliance with the agreement was reviewed
+at all factories in Bangladesh which produce clothing
+for the Otto Group.
+
+PA R T N E R S H I P F O R
+S U S TA I N A B L E T E X T I L E S
+
+The Otto Group supported this endeavour right from
+the outset. This is because the complex requirements
+and challenges are best tackled jointly. However, the
+major textile producers and retailers, including the
+Otto Group, did not join initially as many unanswered
+questions surrounding implementation remained.
+To ensure as many companies joined as possible, the
+Otto Group played an active and leading role in further
+developing the action plan. To achieve this, it was closely
+involved in countless discussions and mediation talks
+between politicians, non-governmental organisations
+and trade unions on the one hand, and textile producers,
+retailers and their associations on the other.
+In May 2015 both sides agreed on a joint approach.
+At the start of June, leading companies in the textile
+industry, including the Otto Group and leading retail
+and producer associations, announced they were joining the partnership. For the latest information, visit:
+www.textilbuendnis.com.
+
+E D U C AT I O N P R O J E C T I N I N D I A
+In 2014 the Otto Group extended its collaboration for
+a further three years with the child-aid organisation
+terre des hommes in the Indian education project
+Prevention and Alternatives to Child Labour. So far,
+targeted preparation has enabled 2,500 children from
+three slum districts of New Delhi and one in the state
+of Bihar to attend a state school or take up an apprenticeship. Financial assistance is given to their families
+such as through the awarding of microloans to help
+them establish their own small business. The goal is
+to establish lasting structures which will ensure the
+project is self-supporting once financial assistance
+has ended.
+
+On the German Federal Ministry for Economic Cooperation and Development’s initiative, the process to develop
+an all-encompassing partnership for action comprising
+industry, business, politics and civil society began in
+May 2014. Its goal is to systematically mitigate the negative environmental and social impacts of global textile
+production.
+
+Otto Group Sustainability Report 2015
+
+45
+
+TRADE VALUE-ADDING STAGE
+
+3. Trade
+Examples of process stages
+
+Transport
+
+Warehousing
+
+Sales
+
+Distribution
+
+Trucks, ships
+or planes
+transport
+the finished
+goods from the
+production
+countries to the
+sales markets.
+
+The goods are
+first stored in a
+high-bay warehouse
+at a logistics
+centre. Ordered
+products are
+labelled, packed
+and addressed with
+the customer’s
+information.
+
+Business
+processes are
+organised and
+products are
+marketed at the
+Group companies’
+locations.
+
+A parcel-delivery
+company brings the
+ordered goods from
+the warehouse to the
+end-customer. This
+customer is informed
+beforehand about
+the delivery date
+and can track the
+consignment online.
+
+Otto Group Sustainability Report 2015
+
+46
+
+TRADE VALUE-ADDING STAGE
+
+Trade
+The Trade value-adding stage covers procurement and
+distribution transport and activities at Otto Group
+locations. The ecological impacts in this value-adding
+stage are caused mainly in the impact categories
+Greenhouse Gases and Pollutants. In particular, the
+Otto Group intends to reduce CO2 emissions in this
+area as part of its Climate Strategy. This chapter
+also includes employee-related topics.
+
+See p. 12 et seq. for further
+information on impACT.
+
+CHALLENGES IDENTIFIED
+BY impACT
+Overview of Materiality Matrix assessments
+for the Trade value-adding stage:
+
+Quantitative Assessment
+
+Average Stakeholder Evaluation
+(on a scale of 1 [very low] to 10 [very high])
+External Stakeholders: 5
+
+Ecological
+Impacts
+
+Share of Trade
+value-adding stage in terms of overall
+ecological impacts: 5%
+
+Relevance to Reputation: 5
+Internal
+Stakeholders
+
+Regulation Risks: 3
+Business Activity: 4
+
+External Stakeholders: 6
+
+Social
+Risks
+
+Share of Trade
+value-adding stage in terms
+of overall Social Risks: 6%
+
+Relevance to Reputation: 7
+Internal
+Stakeholders
+
+Regulation Risks: 1
+Business Activity: 7
+
+Otto Group Sustainability Report 2015
+
+G4 – 27
+
+TRADE VALUE-ADDING STAGE
+
+Q U A N T I TAT I V E
+A S S E S S M E N T R E S U LT S
+
+T H E OT TO G RO U P ’ S
+SCOPE OF ACTION
+
+Ecological impacts, especially through the
+emission of Greenhouse Gases, are caused by
+procurement and distribution transport as well as
+through heating and powering the Group’s locations.
+On the whole, the Trade value-adding stage has the
+lowest ecological impacts compared to the upstream
+stages.
+
+Besides activities at the Group’s own 400 locations, the
+Trade value-adding stage also encompasses procurement
+transport from the production countries to the warehouses at the trading companies, and distribution transport from the warehouses to consumers. Every year the
+Otto Group sources around 100,000 tonnes of goods and
+delivers more than 120 million consignments through
+the Group company Hermes.
+
+The Social Risks are also much lower than in the
+upstream value-adding stages. That said, while the Otto
+Group employs the majority of its staff in the European
+Union, Social Risks also exist there. This is because the
+risk categories (see p. 14) may be violated even at the
+Group’s own locations, for instance if maximum working
+hours are exceeded.
+G4 – 27
+
+S TA K E H O L D E R E VA L U AT I O N R E S U LT S
+In terms of the ecological impacts of transport
+and the Group’s own locations, External and Internal
+Stakeholders consider the need for the Otto Group to
+take action as relatively high, particularly in relation to
+the topics of Greenhouse Gases and Pollutants.
+External Stakeholders expect the Otto Group to lead
+by example within its own factory gates. For instance,
+External Stakeholders believe that only then could the
+Group credibly drive forward initiatives to reduce CO2
+and pollutants in the upstream and downstream valueadding stages. For Internal Stakeholders, these topics
+are relevant particularly from a reputation point of
+view, as public discussions are becoming increasingly
+critical of the mail-order industry – and goods delivery
+in particular. The Group also expects the enforcement
+of additional energy-efficiency regulations and a further
+tightening of pollutant thresholds.
+Social Risks are also considered to be relatively
+high in the Trade value-adding stage in terms of Reputation and Business Activity. Here too, External Stakeholders consider the need for the Otto Group to take
+action in this topic area as relevant. The main reason
+for this is less to do with the Otto Group’s own employees
+and more to do with the working conditions at service
+providers which are less easy to control. Employeespecific challenges above and beyond Social Risks are
+listed in the chapter ‘Employees’ on page 53.
+
+Compared to other value-adding stages, the greatest
+ability to exert influence exists with these transport
+services, which are either directly commissioned or
+performed by the Group company itself, as well as at
+the Otto Group’s own locations.
+
+C L I M AT E S T R AT E G Y A N D A D D I T I O N A L
+MANAGEMENT APPROACH ES
+Taking into account the entire value chain, the ecological
+impacts in the Trade value-adding stage are comparatively
+low. Nevertheless, External Stakeholder expectations
+as well as reputation and regulation perspectives show
+that there are many reasons to lead by example in the
+area of climate protection – starting with the direct area
+of influence.
+The Otto Group’s Climate Strategy aims to halve the
+adjusted CO2 emissions for locations, transport and
+mobility by 2020 versus the base year 2006. The implementation in Otto Group companies will be done as efficiently and cost-effectively as possible. Energy efficiency
+takes priority over the development of the Group’s own
+renewable energy generation, the purchasing of green
+energy or the offsetting of CO2 emissions. Besides the
+positive climate effects, the reduction in energy consumption and the use of renewables will also reduce air
+pollutant emissions such as nitrogen oxide and fine dust.
+While the Group specifies a clear reductions target
+centrally, the Group companies implement the climate
+protection measures at a local level. The Group supports
+them in their operational implementation with measurement and control instruments.
+Environmental management at the Group’s locations
+is also controlled and implemented decentrally by the
+individual reporting companies.
+The HR Strategy and other management approaches
+can be found in the chapter ‘Employees’ on page 53.
+
+Otto Group Sustainability Report 2015
+
+47
+
+48
+
+TRADE VALUE-ADDING STAGE
+
+C L I M AT E S T R AT E G Y S TAT U S
+
+T O TA L CO2 E M I S S I O N S
+
+Application scope of key figures
+All figures relate to calendar years and
+are rounded off. The key figures in the
+Climate topic area cover the 14 reporting
+companies as well as the Group companies
+Alba Moda and 3Pagen, as they are also
+involved in implementing the Climate
+Strategy. The reporting of the Otto Group’s
+CO2 emissions is based on the Greenhouse
+Gas Protocol. CO2 emissions are monitored
+exclusively.
+
+The Climate Strategy aims to reduce the adjusted CO2
+emissions for transport, locations and mobility. In 2014
+adjusted CO2 emissions fell by 24% versus the base year
+2006. Absolute (non-adjusted) figures dropped by 16%.
+
+Distribution of adjusted CO2 emissions 2014
+
+3.6%
+
+Mobility
+
+59.8%
+
+Special aspects
+
+Transport
+
+CO2 emissions are always presented in an
+adjusted form – that is, relative to their
+performance units. They are adjusted using
+the following performance units to allow
+a comparison to be made with the base
+year 2006:
+
+36.6%
+Locations
+
+Procurement logistics: weight of
+transported goods (tonnage)
+
+Distribution: shipment volumes to the
+customer and returns
+
+Locations:
+– O
+ ffices: number of employees and
+–
+–
+–
+–
+
+surface area
+Logistics buildings: parcel turnaround
+per year
+Warehouses: gross capacity of buildings
+Shops: opening hours and sales area
+Other uses: surface area
+
+
+Mobility: employee travel and passenger
+
+ 
+Includes employee business trips and the operation of the
+company car fleet.
+
+Absolute and adjusted CO2 emissions
+in t
+
+(Base year)
+
+2013
+
+2014
+
+absolute
+
+296,200 277,683
+
+248,101
+
+adjusted
+
+296,200 246,162
+
+224,149
+
+2006
+
+Reduction in adjusted
+CO2 emissions versus 2006
+
+–
+
+- 17%
+
+- 24%
+
+kilometres
+Dynamic business development generates
+a distorted view of energy-efficiency
+improvements in absolute terms. By way
+of illustration, however, the total CO2
+emissions are also given here.
+G4 – 23
+
+For 2013 and 2014 the Otto Group made
+methodological changes to the CO2 reporting
+tool for the area of sourcing. As a result,
+this data for 2013 and 2014 cannot be compared with the previous reporting period.
+For this reason, the data for the base
+year 2006 has been recalculated, leading
+to a slight adjustment in the CO2 value
+for 2006.
+
+GRI aspects covered
+Emissions, Energy, Effluents and Waste,
+Transport
+
+TR ANSPORT-R E L ATED CO 2 EMISSIONS
+The Otto Group mainly sources and distributes its goods
+via the Group company Hermes. In 2014, total transportrelated CO2 emissions (sourcing and distribution)
+amounted to 134,088 tonnes – a reduction of 27%
+versus the base year.
+At the same time, in 2014 the CO2 emissions in procurement transport fell by 32% versus the base year, and
+by 21% in the reporting period. Reducing the share of
+air-freight made a considerable contribution to this
+reduction.
+By contrast, CO2 emissions in distribution transport
+remained unchanged versus the previous year’s level.
+However, an 18% reduction was achieved compared
+to the base year 2006.
+
+Otto Group Sustainability Report 2015
+
+49
+
+TRADE VALUE-ADDING STAGE
+
+CO2 emissions from procurement transports
+
+CO2 emissions from distribution transports
+
+in t
+
+in t
+
+117,558
+
+107,413
+80,456
+66,572
+
+117,558
+
+100,232
+
+(Base year) 2006
+
+79,675
+2013
+
+66,572
+2014
+
+61,239
+
+53,186
+
+(Base year) 2006
+
+2014
+
+122
+
+127
+
+122
+
+(Base year) 2006
+
+2013
+
+2014
+
+Distribution transports (absolute)
+
+Procurement transports (adjusted)
+
+Distribution transports (adjusted)
+
+Transport performance in sourcing 1
+
+Transport performance in distribution 1
+
+in mn tkm
+
+in mn consignments
+
+(Base year)
+
+2013
+
+2014
+
+928
+
+1,194
+
+1,162
+
+Share of air-freight
+
+14.6%
+
+11.2%
+
+8.0%
+
+Share of sea-freight
+
+77.3%
+
+83.1%
+
+81.6%
+
+Share of combined sea/air-freight
+
+0.6%
+
+0.4%
+
+0.2%
+
+Share of road-freight
+
+7.5%
+
+5.2%
+
+10.2%
+
+Total (air-freight, sea-freight,
+road-freight)
+
+Transport for the sourcing of own and licensed brands carried out or
+commissioned by the Otto Group is considered exclusively. Transport e.g.
+by importers is not included in the calculation.
+
+1
+
+54,413
+2013
+
+Procurement transports (absolute)
+
+2006
+
+61,664
+
+Total (car, truck)
+
+Precise control of stock levels is important in reducing
+these CO2 emissions. Usually, ships are the preferred
+means of transport. However, if customer demand for
+articles is greater than expected, they often need to be
+re-sourced at short notice by air-freight so that delivery
+times for end-customers remain as short as possible.
+Currently, the share of air-freight is 8%. To reduce this,
+the expected sales quantities need to be forecast as
+accurately as possible – something that is not only
+worthwhile in achieving the Group’s climate targets,
+but which also makes sense operationally.
+
+Deliveries made through Hermes and other service providers are recorded
+here, including large items.
+
+1
+
+L O C AT I O N - R E L AT E D C O 2 E M I S S I O N S
+The Otto Group’s locations generate CO2 emissions
+through the consumption of power and heat in offices,
+warehouses, logistics buildings and shops. In 2014, the
+total adjusted CO2 emissions at the Group’s locations
+amounted to 81,999 tonnes. Through efficiency gains
+and successive development of the Group’s own renewable energy generation, the Group has reduced CO2
+emissions on average by 2.5% each year since the base
+year 2006. In 2014 the reduction amounted to 19%
+versus the base year. Total energy demand this year was
+281,178 MWh.
+
+Otto Group Sustainability Report 2015
+
+50
+
+TRADE VALUE-ADDING STAGE
+
+The Otto Group performed cross-location CO2 property
+benchmarking with the goal of identifying further considerable areas of CO2-reduction potential. In the reporting
+period a detailed analysis of 20 buildings with the greatest
+potential to achieve CO2 savings was completed. For each
+of the buildings analysed, climate impact-mitigation
+measures were identified which will both save significant
+amounts of CO2 and will remain economically viable over
+their respective lifespan. The Group companies decide on
+and implement such measures at a local level.
+CO2 emissions at the locations1
+in t
+
+101,728
+
+97,518
+
+95,662
+
+M O B I L I T Y- R E L AT E D C O 2 E M I S S I O N S
+Only a low percentage of CO2 emissions (2014: 3.6%) are
+attributable to the area of mobility. This covers both
+business travel as well as trips using company vehicles.
+In calendar year 2014 Otto Group employees travelled
+85 million business travel- and passenger-kilometres. This
+resulted in (adjusted) emissions of 8,062 tonnes of CO2.
+The Group’s main starting point for its emissions-reduction approach is the preferred use of low-carbon forms
+of transport. In the reporting period, Hermes also
+acquired 944 tonnes of CO2 offsetting certificates for
+business flights.
+Mobility-related CO2 emissions
+in t
+
+10,342
+
+101,728
+
+85,020
+
+(Base year) 2006
+Total (absolute)
+
+10,319
+
+81,999
+2013
+
+2014
+
+10,342
+
+7,724
+
+8,062
+
+Total (adjusted)
+
+Conversion factors
+Energy mix Germany: 520 g CO2/kWh (2006); 522 g CO2/kWh (2013);
+511 g CO2/kWh (2014).
+Energy mix Austria: 215 g CO2/kWh (2013); 165 g CO2/kWh (2014).
+Heating energy: Natural gas: 201 g CO2/kWh, heating oil: 266 g CO2/kWh.
+District heating: depending on the local district-heating supplier, it varies
+between 57 g CO2/kWh and 250 g CO2/kWh.
+
+1
+
+(Base year) 2006
+Mobility (absolute)
+
+Energy consumption at locations and facilities 1
+in MWh
+
+(Base year)
+
+2013
+
+2014
+
+Total energy demand
+
+275,250 283,919
+
+281,178
+
+ of which, electrical power
+
+140,795 154,095
+
+155,830
+
+134,455 129,824
+
+125,348
+
+2006 1
+
+of which, heating energy demand
+  of which, district heating
+demand
+
+23,904
+
+24,808
+
+23,174
+
+  of which, heat generated
+from heating oil
+
+8,481
+
+3,840
+
+1,688
+
+  of which, heat generated
+from natural gas
+
+102,070
+
+90,261
+
+88,381
+
+0
+
+10,915
+
+12,105
+
+204
+
+1,318
+
+1,486
+
+  of which, heat demand and
+generation from renewables
+Own power generation
+from renewables
+
+11,513
+
+The base number of buildings is subject to annual fluctuations;
+2006: 285, 2013: 384, 2014: 395. The increase is due mainly to the
+opening of new shops and additional logistics locations.
+
+1
+
+Otto Group Sustainability Report 2015
+
+2013
+
+Mobility (adjusted)
+
+2014
+
+51
+
+TRADE VALUE-ADDING STAGE
+
+E N V I R O N M E N TA L P R O T E C T I O N
+
+WAT E R C O N S U M P T I O N
+AT T H E L O C AT I O N S
+Despite including further locations in the reporting
+period, water consumption remained more or less
+constant compared to previous years.
+
+Application scope
+of key figures
+In contrast to the Climate Protection
+topic area, this data only takes into
+consideration locations which have been
+used for at least 6 months and which
+have a usage area of over 5,000 m², as well
+as all the headquarters of the reporting
+companies. A total of 60 locations are
+thus covered. In the reporting period, a
+further four locations in Haldensleben,
+four locations in Löhne and the surrounding
+area, two myToys locations and a new
+SportScheck store in Munich, among others,
+have been newly included.
+
+Water consumption
+in m3
+
+210,906 216,981 221,495 208,265
+
+2011
+
+E N V I R O N M E N TA L M A N A G E M E N T
+The Otto Group’s environmental management system
+forms the basis for analysing environmental impacts
+at the locations, assigning key figures to them and
+in doing so making them controllable. This system is
+closely connected to the occupational health and safety
+system at the reporting companies. Currently, 14 of
+the reporting companies’ locations have ISO 14001certified environmental management systems:
+
+2013
+
+2014
+
+PA C K A G I N G
+In the reporting period the quantity of packaging
+materials used in goods deliveries rose by roughly 7%.
+Packaging comprises 85% cardboard and paper, with
+plastic or other materials accounting for the remaining
+percentage.
+Sales packaging consumption 1
+in t
+
+ aur: Altenkunstadt, Burgkunstadt,
+B
+Weismain and Sonnefeld
+Hermes : Friedewald, two locations
+in Haldensleben, Hamburg-Essener Straße,
+Hückelhoven, Langenhagen and Löhne
+UNITO: Bergheim, Graz and Salzburg
+Additionally, since 2003 Hermes has been the only
+company in the logistics industry to be TIP-certified
+(Trust Improvement Program). The demands of the TIP
+process go beyond those of the ISO norm and can only
+be applied to highly developed management systems.
+
+2012
+
+10,913
+
+2011
+
+10,276
+
+2012 2
+
+11,516
+
+2013
+
+12,540
+
+2014
+
+Only the sales packaging for the companies for which the Otto Group is
+responsible has been taken into account here. Any additional sales packaging
+for which the suppliers of the articles are responsible is not covered here.
+2
+Figure adjusted versus the CR Report 2013
+1
+
+ 
+The certifications relate to the locations of
+individual Hermes Group companies (see p. 9).
+
+Otto Group Sustainability Report 2015
+
+G4 – 22
+
+52
+
+TRADE VALUE-ADDING STAGE
+
+WA S T E M A N A G E M E N T
+The Otto Group goes to great lengths to avoid generating
+waste. Where this principle cannot be upheld, waste is
+duly recycled. In 2014 there was virtually no change in
+the amount of waste generated by the reporting companies, despite the inclusion of myToys locations for
+the first time.
+Waste by category
+in t
+
+2011
+
+2012
+
+2013
+
+2014
+
+36,976
+
+33,312
+
+36,602
+
+35,018
+
+Quantity of
+hazardous waste 1
+
+146
+
+77
+
+73
+
+115
+
+Share of
+hazardous waste
+
+Total waste
+
+0.4%
+
+0.2%
+
+0.2%
+
+0.3%
+
+Quantity of
+non-hazardous waste
+
+36,831
+
+33,235
+
+36,529
+
+34,903
+
+Share of
+non-hazardous waste
+
+99.6%
+
+99.8%
+
+99.8%
+
+99.7%
+
+Hazardous waste is generated mainly by electrical waste at the Otto Group.
+
+1  
+
+P ROJ E C TS BY T H E M I C H A E L OT TO
+F O U N D AT I O N F O R E N V I R O N M E N TA L
+P ROT E C T I O N
+With its diverse portfolio, the Michael Otto Foundation
+for Environmental Protection has been actively involved
+in environmental protection and nature conservation
+since 1993. Its support focuses on protecting rivers and
+the sustainable management of wetlands, especially
+in Germany and Eastern Europe. Through forums and
+education projects, the activities of the Foundation go
+far beyond the mere provision of funding.
+In 2014 the Michael Otto Foundation for Environmental
+Protection published the study ‘Nature conservation in
+the agricultural landscape at a crossroads: Failures, successes and new approaches’ as part of the Biodiversity
+in Good Company initiative. This study addresses the
+conservation of biodiversity in agriculture.
+In 2014 the collaboration project AQUA AGENTS
+received its third award as part of the UN Decade of
+Sustainable Development. Through this interactive
+educational offering, children learn about the importance of water to humans, nature and the economy.
+2014 marked the first time the project had been run
+in the USA, in Chicago.
+
+Otto Group Sustainability Report 2015
+
+TRADE VALUE-ADDING STAGE
+
+E M P LOYE E S
+C H A L L E N G E S R E L AT E D
+TO E M P LOY E E S
+Social transformation
+Demographic change is among the greatest societal
+challenges for the Otto Group: in certain segments,
+the labour market is changing to favour employees, so
+that companies need to compete for the best talent.
+In this environment, the companies in the Otto Group
+have to position themselves as attractive employers for
+the long term. In addition, young employees joining the
+companies have different expectations towards work
+and career: classic status symbols are losing importance,
+whereas flat hierarchies, creative latitude, and a good
+work-life balance are increasingly expected. This makes
+HR work a strategic factor in future business success.
+
+Digital transformation
+Global interconnectedness is leading to a complex,
+highly dynamic market and competitive environment.
+This demands increasing flexibility and agility from
+companies, as well an ability to learn and change. New
+qualities in leadership and cooperation are needed
+to convey visions, manage change processes, kick off
+innovations lead virtual teams, ensure knowledge
+transfer, and create space to make rapid decisions. On
+the other hand, everybody is now required much more
+than in the past to maintain their own employability –
+through constant learning, by taking on new tasks
+and responsibilities, or by adopting changing roles in
+different projects.
+
+H R S T R AT E G Y A N D O T H E R
+MANAGEMENT APPROACH ES
+The aim of the Group-wide Personnel Strategy is to gain
+new employees and to develop existing ones optimally
+by creating suitable framework conditions and opportunities. This is done through an effective interlinking of
+strategic elements, such as strengthening the Otto Group
+employer brand, Group-wide diversity, recruitment and
+succession management, as well as pursuing an HR
+Strategy that is orientated towards employees’ different
+life phases, and an occupational health management
+aimed at prevention.
+
+53
+
+To meet the specific challenges of the individual Group
+companies’ business environments, the Otto Group
+grants them a high degree of independence in setting
+their focus points in their HR Strategy. The Group HR
+Division supports them in this. The connecting element
+and framework is the Group-wide mission ‘The Power
+of Responsibility’ (see p. 4). Alongside sustainability, the
+value of diversity has particular relevance here. The companies develop their individual HR targets and measures
+on the basis of the Group-wide mission and values.
+
+E M P LOYE E K EY F I G U R E S
+
+Scope
+The key figures in this chapter
+comprise 13 reporting companies until
+the year 2013. From 2014, myToys is
+included for the first time. The
+figures are given as headcount, which
+also includes working students alongside permanent employees. Trainees,
+interns, temporary and agency staff
+are generally not included, but
+deviations from this are duly noted.
+Employee numbers converted to fulltime equivalents are shown on page 5.
+For the first time in 2014, in addition
+to the reporting companies, key figures
+are also included for Manufactum as well
+as all major international Otto Group
+companies (3Suisses Group, Crate &
+Barrel, Freemans Grattan Holdings
+(fgh), Otto Group Russia, the material
+foreign companies in the bonprix and
+Hermes groups, and the Eddie Bauer
+Japan joint venture.
+
+Key Aspects
+The key figures were recorded by
+financial year for 2011/12 and 2012/13.
+In 2013, this was transitioned to
+calendar years. Therefore, the stated
+figures for the transition year 2013
+are given for ten months (March to
+December) as a one-off. Most key figures
+are based on values on cut-off dates.
+Due to the switch from financial to
+calendar years, the cut-off date changes
+from 28/02 to 31/12.
+
+Otto Group Sustainability Report 2015
+
+G4 – 23
+
+54
+
+TRADE VALUE-ADDING STAGE
+
+E M P L O Y E E S T R U C T U R E I N T H E R E P O R T I N G C O M PA N I E S
+As at 31 December 2014, a total of 29,720 people worked at the reporting companies.
+Employee numbers 1
+Number
+
+2011/12
+
+2012/13
+
+2013
+
+2014
+
+2014
+(Otto Group
+incl. international
+companies)
+
+28,252
+
+27,889
+
+28,213
+
+29,720
+
+45,772
+
+ of which, female
+
+61.6%
+
+61.0%
+
+60.5%
+
+59.8%
+
+59.8%
+
+ of which, male
+
+38.4%
+
+39.0%
+
+39.5%
+
+40.2%
+
+40.2%
+
+14,481
+
+14,320
+
+10,875
+
+15,251
+
+26,155
+
+Share of female employees
+with full-time contracts
+
+37.0%
+
+37.1%
+
+36.2%
+
+35.8%
+
+44.9%
+
+Share of male employees
+with full-time contracts
+
+73.6%
+
+75.4%
+
+76.2%
+
+74.3%
+
+75.4%
+
+Number of employees
+with part-time contracts
+
+Total number of employees
+
+Number of employees
+with full-time contracts
+
+G4 – 22
+
+13,850
+
+13,286
+
+13,524
+
+14,469
+
+19,617
+
+Share of female employees
+with part-time contracts
+
+63.0%
+
+62.9%
+
+63.8%
+
+64.2%
+
+55.1%
+
+Share of male employees
+with part-time contracts
+
+26.4%
+
+24.6%
+
+23.8%
+
+25.7%
+
+24.6%
+
+Until the 2012/13 financial year, the employee numbers were recorded including working students, temporary staff, trainees, interns and agency staff.
+Since the data capture was internationalised, the key figures have been recorded to include working students, but not trainees, interns, temporary or agency staff.
+As all key figures are given in the table according to the new definition, the values for 2011/12 and 2012/13 deviate from the values given in the CR Report 2013.
+
+1
+
+S TA F F T U R N O V E R
+
+R E ST R U CTU R I N G M EAS U R E S
+
+Staff turnover in the reporting companies corresponds
+to the overall average in Germany and Austria. The slight
+increase in 2014 is due to restructuring measures.
+
+Restructuring measures in connection with the Otto
+Group’s overall alignment with the challenges of
+e-commerce are implemented based on sound judgement and in collaboration with employee representatives in a socially acceptable way. Hermes is currently
+in the middle of a more extensive restructuring process.
+The entire branch network of the company is being
+reviewed and newly set up.
+
+Staff turnover
+in %
+
+12.6
+
+12.5
+9.1
+
+2011/12
+
+2012/13
+
+2013
+
+9.8
+
+2014
+
+The Fokus project, which had as its aim the leadership
+of the three Group companies OTTO, Baur and Schwab
+through a joint strategy for increased growth and sustained profitability, was completed in 2013 and the
+reduction in personnel was implemented as necessary
+in this context. Thanks to a forward-looking HR policy
+and constructive cooperation in which all participants
+made efforts towards a considerate but goal-orientated
+resolution, the demanding staff reduction targets were
+achieved in a socially acceptable way without requiring
+redundancies for operational reasons.
+
+Otto Group Sustainability Report 2015
+
+55
+
+TRADE VALUE-ADDING STAGE
+
+R E M U N E R AT I O N
+
+TEMPORARY WOR KERS
+
+In their remuneration practices, the reporting companies
+act largely independently within the framework of the
+applicable pay-scale agreements and take into account
+regionally differing salary structures. Management staff
+as well as non pay-scale employees in general receive
+variable remuneration components which are linked to
+company performance and individual target achievement. The fundamental structure of remuneration at
+the highest management levels is prescribed in a binding form by Corporate Human Resources (see Annual
+Report 2014/15 for the Otto Group, p. 166). Since the
+2014/15 financial year, the annual variable remuneration
+of all members of the Group Executive Board has been
+linked to achieving the five targets of the CR Strategy
+2020 (see p. 20 et seq.).
+
+Temporary workers are essential for covering seasonal
+peaks in the workload, for example the pre-Christmas
+period in the Logistics area. Due to an increasingly
+strained labour market at some Hermes sites, it is not
+possible to employ permanent staff locally in sufficient
+numbers.
+
+COLLECTIVE AGREEMENTS
+All 14 reporting companies have established Works
+Councils. With the exception of top management and of
+myToys, all employees of the reporting companies fall
+under collective agreements as part of tariff contracts
+and works agreements. Primarily due to the inclusion of
+myToys for the first time, the proportion of employees
+for whom collective agreements apply sank to 92.4%
+in 2014 (previous year: 97.5%). In the spring of 2015,
+myToys began making its first collective agreements.
+
+The increase in temporary workers employed from
+1,278 in the previous year to 2,180 in the year 2014
+is primarily due to the first-time inclusion of myToys.
+The company has its own logistics organisation which
+employs temporary workers, as is typical in that sector.
+Temporary workers
+Number
+
+1,649
+
+2011/12
+
+Coverage by collective agreements
+in %
+
+98.2
+
+97.6
+
+97.5
+
+92.9
+
+2011/12
+
+2012/13
+
+2013
+
+2014
+
+Otto Group Sustainability Report 2015
+
+2,180
+1,287
+
+1,278
+
+2012/13
+
+2013
+
+2014
+
+56
+
+TRADE VALUE-ADDING STAGE
+
+M A N AG I N G S U B CO N T R AC TO R S
+As a rule, parcel delivery at Hermes is carried out by
+contract partners. To influence compliance with standards
+in working conditions, Hermes is the first company in
+the sector to have developed its own certification model,
+in collaboration with SGS-TÜV Saar. Since 2012, all
+contract partners have been subject to regular spot checks
+on aspects relating to occupational safety, remuneration,
+working times, quality and environment. Hermes also
+supports its contract partners in removing any defects
+identified during the course of audits.
+In 2013, 79% of the 344 audited companies received
+a certificate after the first audit. Of 350 companies
+audited in 2014, more than 87% passed their first audit.
+Hermes supports its contract partners in implementing
+the certification standards and, where audits are not
+passed, it offers the opportunity of undergoing a
+further audit in the following year. After implementing
+improvement measures, 97% (2013) and 99% (2014) of
+the audited companies achieved positive audit results.
+If standards are not adhered to despite these measures,
+any cooperation is terminated. In the reporting period,
+this affected 4 companies.
+In addition, the Code of Conduct offers a basis for
+all business relationships in Distribution and obliges
+the contract partners to comply with applicable laws
+governing working conditions and remuneration. In
+cases of violations, people employed by the contract
+partners can contact an Ombudsman anonymously at
+any time. Five employees made use of this option in
+the reporting period. An internal whistleblower system
+additionally serves to effectively follow up on breaches
+of the Code of Conduct. Since its introduction in 2011,
+359 reports have been recorded and processed.
+
+DIVERSITY AN D EQUAL
+OPPORTU N ITI ES
+DIVERSITY MANAGEMENT
+The Otto Group has anchored Diversity as one of four
+central values in its mission: as signatory to the Diversity
+Charta, the Otto Group aims to offer all employees the
+same opportunities – regardless of their gender, age,
+place of origin, religion or world view, physical condition
+or sexual orientation. Activities to promote Diversity
+in the Otto Group are bundled under the umbrella of
+Group-wide Diversity Management.
+The Group HR Division manages Diversity Controlling,
+which ensures more transparency and measurability.
+It supports Diversity Management through a system
+of key figures as well as through regular monitoring
+and reporting. Violations of the principle of equality
+are recorded on a Group level. No complaints were
+submitted by employees during the reporting period.
+
+D I V E R S I T Y I N I T I AT I V E S
+In 2014, just under a fifth of all top managers employed
+in the reporting companies were women.
+Top managers 1 by gender
+Number
+
+2011/12 2012/13
+
+2013
+
+2014 2
+
+409
+
+402
+
+413
+
+376
+
+ of which,
+share of female
+top managers
+
+15.6%
+
+16.9%
+
+17.7%
+
+19.7%
+
+ of which,
+share of male
+top managers
+
+84.4%
+
+83.1%
+
+82.3%
+
+80.3%
+
+Total number
+
+Executive Directors, Vice Presidents, Divisional Vice Presidents.
+Excluding UNITO and the Hermes companies HE, HLGD, HTL and HES.
+
+1
+2
+
+If the next management level of Department Heads
+is included besides top management, then the total
+number of managers goes up to 1,087, of which 31.1%
+are women.
+
+Otto Group Sustainability Report 2015
+
+TRADE VALUE-ADDING STAGE
+
+Numerous initiatives have been created to support
+female management trainees across the Group, which
+will also increase the proportion of women in top management in the long run. ‘Boost Your Career’ is a new
+Group-wide development programme for emerging
+female talent. Other measures included a Diversity
+Conference 2013, in which around 100 female and
+selected male top managers took part, as well as a
+Diversity Award, which is given out among the Group
+companies.
+
+F U T U R E - O R I E N TAT E D T R A I N I N G
+As an active contribution towards winning over qualified
+young professionals, the companies in the Otto Group
+offer almost 30 different technical, trade and business
+training courses. Apart from the professional qualification
+of the trainees, an understanding of technology- and
+e-commerce-related content is part of the training as
+much as personal development. In 2014, 783 young
+people, of whom 50% were women, completed their
+vocational training in one of the reporting companies.
+
+W O R K A N D FA M I LY
+
+FU RTH ER TRAI N I NG
+
+The compatibility of family and work increases the
+attractiveness of the Otto Group as an employer. In
+all reporting companies there are flexible working-time
+directives, depending on the field of activity. Reporting
+companies improve their family-friendliness with
+options for working from home, job-sharing and
+sabbatical options, as well as personal counselling.
+Various reporting companies offer lectures and support
+on caring for family members, and the compatibility of
+this with work.
+
+The reporting companies independently carry out decentralised measures for ongoing training and staff development, in accordance with their respective requirements.
+At a Group level, these options are augmented with a
+Group-wide training programme offered through the
+Otto Group Academy. The focus is on strategically relevant
+topics, in particular the increasing digitalisation of retail,
+the internationalisation of the Group companies and
+the cross-company development of potential management staff.
+
+E M P LOYE E S WI T H D I SA B I L I T I E S
+
+D E V E L O P I N G M A N A G E M E N T S TA F F
+
+5.0% of the employees of the German reporting
+companies are considered to be severely disabled.
+Most Group companies utilise integration tools and
+measures for including disabled people in everyday
+work, for example through the individual adaptation
+of workplaces to disabled employees, or cooperation
+with expert external integration services.
+
+Successful mastery of the far-reaching changes in the
+world of work, as well as the Group’s orientation towards
+e-commerce, also require a new understanding of leadership and cooperation. In this context, OTTO has re-defined
+leadership so as to actively drive the changes and to
+promote cooperative, flexible and solution-orientated
+collaboration in the respective areas of responsibility.
+
+VO C AT I O N A L A N D F U RT H E R T R A I N I N G
+R E C R U I TM E N T
+To meet both market conditions and the strategic
+direction of the business, the focus of the recruitment
+activities in the Otto Group is currently on management
+trainees and high-potential employees in the areas of
+E-Commerce, Business Intelligence, Software Development and IT.
+
+The Group-wide, career-oriented Leadership Programmes
+for middle and top management were augmented
+with additional components during the reporting
+period. These develop and expand the attitudes, skills
+and qualifications needed for the change in values and
+the digital transformation in a targeted way.
+
+Otto Group Sustainability Report 2015
+
+57
+
+58
+
+TRADE VALUE-ADDING STAGE
+
+O C C U PAT I O N A L H E A LT H
+
+H E A LT H I N D E X
+
+H E A LT H M A N A G E M E N T
+The Otto Group Occupational Health and Safety Management System is based on the principle of prevention.
+Its goal is to protect the health and performance of
+employees through preventative measures. All reporting
+companies have their own Occupational Health and
+Safety Management Systems.
+Some of the reporting companies use the advice and
+services of aktiv.net, a competence centre established
+by OTTO in 2000. This was certified in 2013 under the
+DIN EN ISO 9001 quality management standard in the
+activity fields of occupational medicine and outpatients,
+welfare counselling, occupational safety and health
+promotion.
+The preventative measures in the Group companies
+include a variety of sport and fitness options, nutritional
+advice, relaxation techniques, addiction counselling and
+health days. OTTO offers its employees free psychological
+counselling as well.
+The absenteeism rate is within the normal parameters
+and varies depending on the strength of seasonal
+illnesses such as colds and flus.
+
+OTTO determines a Health Index every year on the
+basis of an anonymous employee survey. This scientifically based tool captures the performance and health
+of employees through a voluntary self-assessment.
+Targeted measures are developed and implemented
+in response to the results, which contribute towards
+compensating for the stress on employees and thereby
+increase the productivity of the company.
+When the data was last collected in spring 2015, the
+Health Index reached a value of 64, an increase by
+one percentage point compared to the previous year,
+which also comes in 5 points above the average value
+for companies with comparable activity structures.
+In 2014, a total of 114 individual measures were
+carried out in 26 departments. These organisational
+units showed clearly improved values compared to
+the previous year.
+
+A C C I D E N T S AT W O R K
+Physically demanding work in logistics and transport
+services carries significantly higher risk of accidents
+than business activities. As is usual in the sector, occupational accidents and lost days in Group companies
+with logistics and distribution sites are more than three
+times higher than in other reporting companies.
+
+Absenteeism rate 1
+in %
+
+Work-related accidents
+2011/12 2012/13
+
+Total
+Accident-related
+Based on planned working time.
+
+1
+
+2013
+
+2014
+
+6.4
+
+6.9
+
+5.2
+
+5.9
+
+0.2
+
+0.1
+
+0.1
+
+0.2
+
+Number
+
+2011/12 2012/13
+Number of occupational accidents1)
+per 1,000 employees
+(full-time positions)
+
+35
+
+Number of
+work-related deaths
+
+0
+
+2013
+
+2014
+
+28
+
+32
+
+36
+
+0
+
+0
+
+0
+
+According to the definition by the German Trade Associations,
+this includes commuting accidents.
+
+1
+
+Otto Group Sustainability Report 2015
+
+CUSTOMER VALUE-ADDING STAGE
+
+4. Customer
+Process stages based on electrical appliances
+
+Use
+
+Waste Disposal and Recycling
+
+Customers begin
+operating the
+supplied electrical
+appliances, such
+as fridges, washing
+machines and
+smartphones.
+
+Consumers take their old
+electrical appliances to collection
+places or return white goods
+when they buy new appliances.
+Expert disposal marks the end
+of the lifecycle of electrical
+appliances.
+
+Otto Group Sustainability Report 2015
+
+59
+
+60
+
+CUSTOMER VALUE-ADDING STAGE
+
+Customer
+The Customer value-adding stage includes the whole
+phase of product use up to disposal and recycling.
+This causes almost a fifth of total ecological
+impacts; however, the sustainable design and marketing
+of the assortment can reduce these. Group companies
+initiate individual measures to raise their customers’
+awareness of sustainability during product selection
+and use.
+
+See p. 12 et seq. for further
+information on impACT.
+
+CHALLENGES IDENTIFIED
+BY impACT
+Overview of Materiality Matrix assessments
+for the Customer value-adding stage:
+
+Quantitative Assessment
+
+Average Stakeholder Evaluation
+(on a scale of 1 [very low] to 10 [very high])
+External Stakeholders: 5
+
+Ecological
+Impacts
+
+Share of Customer
+value-adding stage in terms of overall
+ecological impacts: 19%
+
+Relevance to Reputation: 4
+Internal
+Stakeholders
+
+Regulation Risks: 2
+Business Activity: 4
+
+Social
+Risks
+
+not relevant in the use phase
+
+not relevant in the use phase
+
+Otto Group Sustainability Report 2015
+
+G4 – 27
+
+CUSTOMER VALUE-ADDING STAGE
+
+R E S U LT S O F Q U A N T I TAT I V E
+ASSESSMENT
+
+MANAGEMENT APPROACH ES
+
+Almost a fifth of ecological impacts occur in
+this value-adding stage. Just as in the Final Production
+and Trade stages, the greatest impacts are caused by
+Greenhouse Gases and Pollutants. This is due
+to energy consumption during washing, drying and
+ironing textiles, for example, or to electricity consumption
+for the operation of electrical appliances. In addition,
+synthetic dyes and phosphates are released during
+washing. Since water is not a scarce resource in most
+distribution countries, the impact of Water Consumption is relatively low. Compared to the use phase
+of textiles, their disposal causes only relatively low
+ecological damage.
+Social Risks do not occur in the use phase, since
+no working hours are performed here.
+
+R E S U LT S O F S TA K E H O L D E R
+ASSESSMENT
+G4 – 27
+
+Since the reporting companies address different target
+groups, they are each responsible for implementing
+measures for raising awareness among their customers
+for sustainable consumption, for example by using the
+Eco Facts labels (see diagram, p. 62). This allows the
+Otto Group to have an indirect influence on a reduction
+in ecological impact in this value-adding stage too.
+A strong customer orientation is the foundation of economic success in the Otto Group, and decentralised customer communication allows it to address target groups
+specifically. However, the communication of sustainability
+aspects is made more difficult by the sheer number of
+existing product labels with their various requirement
+profiles. Such a volume of information frequently overwhelms and unsettles customers. To counteract this, it
+is especially important to the Otto Group to ensure a
+clear and credible presentation of sustainability aspects.
+
+GRI aspects covered
+
+The ecological impacts in the value-adding stage
+Customer are seen as less relevant than other stages by
+both Internal and External Stakeholders. This is due to
+the fact that companies are generally assigned a lower
+responsibility for activities that do not refer to their own
+business activities or their supply chain. Internal Stakeholders see reputation opportunities here, in particular
+for marketing especially energy-efficient products.
+
+T H E OT TO G RO U P ’ S
+SCOPE OF ACTION
+The Otto Group can only influence the ecological impact
+of product use indirectly, for example by offering an
+extensive range of attractive and yet energy-saving electrical appliances. Strict directives governing raw material
+cultivation, smaller sourcing and distribution markets,
+as well as the necessary tracing of the flow of goods
+all increase the sourcing costs of sustainable products,
+and these additional costs often also lead to higher
+sales prices. Unless such higher prices work out better
+later, as they do for efficient electrical appliances which
+generate savings in the use phase, many customers
+are not prepared to spend more money on sustainable
+products. This price sensitivity in turn influences assortment design in the Group companies.
+
+Customer Health and Safety, Product and
+Service Labeling
+
+P R O D U C T T R A N S PA R E N C Y
+AN D QUALITY
+O R I E N TAT I O N T H R O U G H
+QUALITY SEALS
+The Otto Group labels products that have particular
+sustainable quality seals with so-called Eco Facts. These
+promote and simplify customers’ sustainable purchasing
+decisions by reducing complex information about individual products to the essentials, and enabling Group
+companies to communicate them in an easily visible way.
+This helps consumers, who according to surveys often
+feel overwhelmed with regard to ethical consumption.
+6 categories give information about the significant sustainability characteristics of a product (see diagram, p. 62).
+In the reporting period, new sustainability labels were
+included in the categories and the scope of application
+of the Eco Facts was adjusted accordingly.
+
+Otto Group Sustainability Report 2015
+
+61
+
+62
+
+CUSTOMER VALUE-ADDING STAGE
+
+The Otto Group’s Eco Facts
+
+Eco Bio
+
+Eco Recycling
+
+Eco Commitment
+
+Eco Energy
+
+Eco Resource
+
+Eco Vital
+
+Products
+manufactured
+entirely or
+partly from
+natural materials
+with low
+ecological
+impact.
+
+Products
+manufactured
+entirely or
+partly from
+recycled
+materials.
+
+Products that
+support
+social and
+sustainable
+initiatives.
+
+Products
+that are
+particularly
+energy-efficient
+in use.
+
+Products
+manufactured
+entirely or
+partly in a
+resource-saving
+way.
+
+Products that
+promote the
+health and
+well-being of
+customers.
+
+The Otto Group allocates a product to an Eco Fact category either if it is awarded a demanding label that is accepted by
+the Otto Group, or if it demonstrates a clearly provable advantage from the point of view of sustainability compared to a
+conventional product.
+
+Group companies that use Eco Facts in their online
+shops and catalogues include baumarkt direkt, Baur,
+OTTO, Schwab and UNITO.
+Alongside Eco Facts, Group companies have also developed individual solutions for labelling sustainable
+products. For example, the Group company myToys
+uses the mygreenline label to make more sustainable
+products recognisable for customers at a glance, if the
+article was manufactured under controlled ecological
+and/or social conditions. Established and recognised
+quality-seal committees in the areas of ecology, recycling and social responsibility are consulted and form
+a basis for assessment.
+Under the umbrella of the Future Initiative, the single
+company OTTO informs its customers further about
+sustainable consumption and the company’s activities
+in the areas of environment, climate protection, nature
+conservation and social responsibility. Apart from
+participating in the Group-wide CR Strategy, this also
+includes OTTO-specific topics and services such as the
+re:blog on sustainable fashion.
+
+S Y S T E M AT I C P O L L U TA N T C H E C K S
+The companies in the Otto Group are responsible for
+the quality of the own and licensed brands that they
+offer, and they review these regularly. Checking textiles
+for pollutants is part of the quality-assurance process
+in the Otto Group.
+Using systematic spot checks, the Otto Group monitors
+compliance with the legal requirements for its clothing
+ranges. It relies on the competence of Hansecontrol, the
+testing institute that belongs to the Group. The reporting
+companies have requirements for pollutant checks in
+their textile assortments that exceed legal requirements.
+They use the Öko-Tex 100 standard for orientation, which
+includes checks for health-impacting azo dyes, formaldehyde and heavy metals. There are particularly strict testing parameters for children’s clothing.
+
+Otto Group Sustainability Report 2015
+
+CUSTOMER VALUE-ADDING STAGE
+
+E N V I R O N M E N TA L P R O T E C T I O N
+
+M A K E S PA C E – W I T H A H E A R T
+
+E N E R G Y- E F F I C I E N T
+ELECTRICAL APPLIANCES
+For white goods, such as electrical appliances for cooking
+and washing, the proportion of energy-efficient appliances in the assortment of the reporting companies was
+69% in 2014, clearly above the values from the previous
+year. In particular the product group of dishwashers
+contributed to this positive development.
+Efficient large electrical appliances 1
+in %
+
+2,504
+
+2,316
+
+60.8%
+
+2,876
+
+The Group company OTTO raises awareness among its
+customers for the sustainable handling of resources.
+For example, as part of the ‘Make space – with a heart’
+initiative, customers can put unwanted clothes, shoes
+and home textiles to sensible use with the help of OTTO.
+Having been sent postage-free via Hermes or DHL, the
+donations are re-used through certified companies.
+The proceeds are given to German Agro Action, NABU
+(German Nature and Biodiversity Conservation Union)
+and the Cotton made in Africa initiative (see p. 33).
+
+D ATA P R O T E C T I O N A N D
+I N F O R M AT I O N S E C U R I T Y
+TO O LS
+
+68.9%
+
+57.8%
+2012
+
+2013
+
+2014
+
+Number of large electrical appliances, total range
+Share of efficient large electrical appliances in total range
+Electrical appliances are considered to be efficient if they are provably more energyefficient than the average energy consumption values in their product group.
+
+1
+
+AV O I D I N G R E T U R N S
+In the mail-order industry there are frequent returns,
+especially of textiles. The Otto Group companies take
+various measures to reduce expensive and climatedamaging returns to a minimum. OTTO, for example,
+is working on a software solution that gives individual
+sizing recommendations, as well as a pilot project for
+significant improvements in demand analysis. Group
+companies such as OTTO or myToys make customers
+who order the same product in different sizes aware of
+the negative environmental effects that are generated
+by sending items back. baumarkt direkt will swap individual parts in products sets, and SportScheck has
+removed articles from the assortment of the online
+shop that are returned particularly frequently.
+
+The Group-wide applicable Information Security Directive
+regulates the protection of person-related and sensitive
+company data from unauthorised access and theft and
+defines how to handle information. In this, the Otto
+Group follows the international ISO 27001 standard.
+A compliance process established for the German Group
+companies for the use of public cloud-computing services
+is currently being transferred into a globally mandatory
+process. In addition, a data-protection target model will
+help to ensure a data-protection level in the Otto Group
+that is appropriate at all times and will strengthen the
+anchoring of data protection in the Group.
+
+ANCHORING IN THE GROUP
+The continuously increasing requirements on data protection and information security are also growing in
+importance in the Otto Group. Therefore, the former
+Data Protection and IT Security Area was divided into
+two organisational units, and their staff was increased.
+The managers of each are both standing members of
+the Group Compliance Committee. They coordinate and
+advise Data Protection Officers and Information Safety
+Officers in the individual companies. The existing
+Group-wide networks are being expanded to promote
+the internal knowledge transfer in the Otto Group.
+The Otto Group’s Internal Audit Department monitors
+individual Group companies’ adherence to the stipulations of the Group Directives and implementation of the
+centrally mandated measures. External audits and certifications (e.g. TÜV, Trusted Shops, ISO 27001) complement
+the internal audits.
+
+Otto Group Sustainability Report 2015
+
+63
+
+64
+
+ASSURANCE STATEMENT
+
+Assurance Statement
+Independent assurance report
+
+TO OT TO (G M B H & CO KG ), H A M B U R G
+We have been engaged to perform a limited assurance
+engagement selected sustainability information of the
+Sustainability Report 2015 of the Otto (GmbH & Co.KG),
+Hamburg (hereinafter: “Otto Group”), for the business
+year 2014/2015, period 1 January to 31 December 2014
+(hereinafter: “Sustainability Report 2015”). The sustainability information, which was selected by Otto Group
+and reviewed by us, is marked with the symbol (   )
+in the Sustainability Report 2015.
+
+MANAGEMENT’S RESPONSIBILITY
+The Company’s Board of Managing Directors is responsible for the accurate preparation of the Sustainability
+Report 2015 in accordance with the criteria stated in
+the Sustainability Reporting Guidelines Vol. 4 of the
+Global Reporting Initiative (GRI).
+This responsibility includes the selection and application
+of appropriate methods to prepare the Sustainability
+Report 2015 and the use of assumptions and estimates
+for individual sustainability disclosures which are
+reasonable in the given circumstances. Furthermore,
+the responsibility includes designing, implementing
+and maintaining systems and processes relevant for
+the preparation of the Sustainability Report 2015.
+
+OUR INDEPENDENCE AND
+QUALITY CONTROL
+We have complied with the independence and other
+ethical requirements of the Code of Ethics for Professional
+Accountants issued by the International Ethics Standards
+Board for Accountants (IESBA-Codex) which is founded
+on the fundamental principles of integrity, objectivity,
+professional competence and due care, confidentiality
+and professional behavior.
+
+Our firm applies the International Standard on Quality
+Control 1 and accordingly maintains a comprehensive
+system of quality controls including documented policies
+and procedures regarding compliance with ethical
+requirements, professional standards and applicable
+legal and regulatory requirements.
+
+PRACTITIONER’S RESPONSIBILITY
+Our responsibility is to express a conclusion based
+on our work performed as to whether anything has
+come to our attention that causes us to believe that
+the quantitative information marked with the symbol
+(   ) in the Company’s Sustainability Report 2015 is
+in material aspects not in accordance with the criteria
+“Completeness”, “Comparability”, “Accuracy”, “Clarity”,
+“Timeliness” and “Reliability” of the GRI’s Sustainability
+Reporting Guidelines Vol. 4.
+It was not part of our engagement to review product
+or services related information, which goes beyond the
+given data.
+We also have been engaged to make recommendations
+for the further development of the sustainability
+management and the sustainability reporting based
+on the results of our assurance engagement.
+We conducted our work in accordance with the International Standard on Assurance Engagements (ISAE) 3000.
+This Standard requires that we comply with ethical
+requirements and plan and perform the assurance
+engagement, under consideration of materiality, in order
+to provide our conclusion with limited assurance.
+In a limited assurance engagement the evidence-gathering procedures are more limited than for a reasonable
+assurance engagement and therefore less assurance is
+obtained than in a reasonable assurance engagement.
+
+ 
+Our engagement applies to the German version of the
+Sustainability Report 2015. This text is a translation
+of the Independent Assurance Report issued in German
+language – the German text is authoritative.
+
+Otto Group Sustainability Report 2015
+
+65
+
+ASSURANCE STATEMENT
+
+The procedures selected depend on the practitioner’s
+judgment.
+Within the scope of our work we performed amongst
+others the following procedures concerning the materiality analysis, management approaches and key data –
+for the aspects that are marked with the symbol (   ):
+• Inspection of the documents describing the Sustainability Strategy and Sustainability Management as well
+as obtaining an understanding of the organizational
+structure of the company;
+• Inquiries of personnel responsible for the preparation
+of the report regarding the process to prepare
+the reporting of sustainability information and the
+underlying internal control system;
+• Recording of the systems and processes for collection
+of sustainability data, inspection of their documentation and validation on a sample basis;
+• Analytical procedures on relevant data;
+• Gaining further evidence for selected data of the
+report through inspection of internal documents,
+contracts and invoices by external service providers.
+
+CONCLUSION
+Based on our limited assurance engagement, nothing
+has come to our attention that causes us to believe that
+the quantitative information marked with the symbol
+(   ) in the Company’s Sustainability Report for the
+business year 2014/2015 is in material aspects not in
+accordance with the criteria “Completeness”, “Comparability”, “Accuracy”, “Clarity”, “Timeliness” and “Reliability”
+of the GRI’s Sustainability Reporting Guidelines Vol. 4.
+
+E M P H A S I S O F M AT T E R –
+R E C O M M E N D AT I O N S
+Without qualifying our conclusion above, we make the
+following recommendations for the further development of the Otto Group’s Sustainability management and
+Sustainability reporting:
+• Systematic extension of the Sustainability management
+and the Sustainability reporting on material German
+and international affiliated companies;
+• Further optimization of the current data collection and
+consolidation process on the level of the affiliated
+companies and the Otto Group;
+• Formalization and documentation of internal controls
+for ensuring data quality on the level of the affiliated
+companies and the Otto Group;
+• Further integration of Sustainability indicators and
+controls into existing control systems and processes.
+
+Munich, 29 June 2015
+PricewaterhouseCoopers
+Aktiengesellschaft
+Wirtschaftsprüfungsgesellschaft
+
+Hendrik Fink		
+German Public Auditor
+
+Otto Group Sustainability Report 2015
+
+ppa. Anne Pattberg
+
+66
+
+GRI-G4 CONTENT INDEX
+
+GRI-G4 Content Index
+
+This report adheres to the Guidelines of the Global Reporting Initiative (GRI) in its current G4 version; it has been
+produced in compliance with the ‘core’ option. If not all requirements of an indicator have been completely fulfilled,
+then the omitted information is not material for the Otto Group.
+
+G E N E R A L S TA N D A R D D I S C L O S U R E S
+Strategy and Analysis
+
+Page
+
+External audit
+
+G4-1 Statement from the most senior decision-maker
+
+2
+
+–
+
+UNGC
+
+G4-3 Name of the organization
+
+Otto Group
+
+–
+
+G4-4 Primary brands, products, and services
+
+4, 6-9
+
+–
+
+G4-5 Location of the organization’s headquarters
+
+Hamburg, Germany
+
+–
+
+G4-6 Countries with significant operations
+
+GB 12, 46
+
+   GB 46, GB 198-199
+
+G4-7 Nature of ownership and legal form
+
+4
+
+–
+
+G4-8 Markets served
+
+5, 6-9
+
+–
+
+G4-9 Scale of the organization
+
+5, 6-9, 39, 47; GB 67-68
+
+   GB 67-68, GB 198-199
+
+G4-10 Employees by employment type, gender and region
+
+54-56
+
+–
+
+6
+
+G4-11 Percentage of employees covered by collective
+bargaining agreements
+
+55
+
+–
+
+3
+
+G4-12 Description of the supply chain
+
+10-11, 39
+
+–
+
+G4-13 Significant changes during the reporting period
+
+54; GB 131
+
+   GB 131, GB 198-199
+
+G4-14 Implementation of the precautionary principle
+
+12, 25
+
+–
+
+G4-15 External initiatives that the organization endorses
+
+U2, 27, 43
+
+–
+
+G4-16 Significant memberships in industry and business associations
+
+27, 44
+
+–
+
+G4-17 Entities included in the consolidated financial statement
+
+U2, 6-9; GB 129, 195
+
+   GB 129, 195, GB 198-199
+
+G4-18 Process for defining the report content
+
+U2, 12, 14-18
+
+–
+
+G4-19 Material Aspects identified
+
+U2
+
+–
+
+G4-20 Aspect Boundaries within the organization
+
+U2
+
+–
+
+G4-21 Aspect Boundaries outside the organization
+
+U2
+
+–
+
+G4-22 Restatements of information provided in previous reports
+
+U2, 34, 51, 54
+
+–
+
+G4-23 Significant changes in the Scope and Aspect boundaries
+
+U2, 7, 48, 53
+
+–
+
+G4-24 Stakeholder groups engaged
+
+26
+
+–
+
+G4-25 Identification and selection of stakeholders
+
+26
+
+–
+
+G4-26 Approach to stakeholder engagement and frequency
+
+12, 16-17, 26-27
+
+–
+
+G4-27 Key topics and concerns raised through stakeholder
+engagement and response
+
+18, 30-31, 38-39, 46-47, 60-61
+
+–
+
+G4-28 Reporting period
+
+U2
+
+–
+
+G4-29 Date of most recent previous report
+
+September 2013
+
+–
+
+G4-30 Reporting cycle
+
+U2
+
+–
+
+G4-31 Contact point for questions regarding the report
+
+69
+
+–
+
+G4-32 “In accordance” option with GRI and Content Index chosen
+
+66-67
+
+–
+
+G4-33 External verification of the report
+
+U2, 64-65
+
+–
+
+23-24; GB 6-7, GB 9
+
+–
+
+4, 25, 32, 40
+
+–
+
+Organizational Profile
+
+Identified Material Aspects and Boundaries
+
+Stakeholder Engagement
+
+Report Profile
+
+Governance
+G4-34 Governance structure, incl. committees of the highest
+governance body
+Ethics and Integrity
+G4-56 Values, principles, standards and norms of behavior
+
+Otto Group Sustainability Report 2015
+
+10
+
+67
+
+GRI-G4 CONTENT INDEX
+
+S P E C I F I C S TA N D A R D D I S C L O S U R E S
+Ecology
+
+Page
+
+External audit
+
+Aspect: Materials – Management approach
+
+30-36
+
+–
+
+UNGC
+7, 8
+
+G4-EN1 Materials used by weight or volume
+
+33-36
+
+   33-34, 36, 64-65
+
+7, 8
+
+Aspect: Energy – Management approach
+
+30-31, 38-39, 43, 46-47, 49, 60-61
+
+–
+
+G4-EN3 Energy consumption within the organization
+
+50
+
+–
+
+7, 8, 9
+7,8
+
+G4-EN7 Reductions in energy requirements of products and services
+
+61-63
+
+–
+
+8, 9
+
+Aspect: Water – Management approach
+
+30-33
+
+–
+
+G4-EN8 Total water withdrawal by source
+
+33
+
+–
+
+Aspect: Biodiversity – Management approach
+
+30-32, 34
+
+–
+
+G4-EN12 Impacts on protected areas or areas of high biodiversity
+value
+
+31, 34
+
+–
+
+8
+
+Aspect: Emissions – Management approach
+
+30-33, 38-39, 43, 46-48, 60-61
+
+–
+
+7, 8, 9
+
+G4-EN15 Direct greenhouse gas (GHG) emissions (Scope 1)
+
+48-49
+
+   48-49, 64-65
+
+G4-EN16 Energy indirect greenhouse gas (GHG) emissions (Scope 2)
+
+48-50
+
+   48-50, 64-65
+
+7, 8
+
+G4-EN17 Other indirect greenhouse gas (GHG) emissions (Scope 3)
+
+48, 50
+
+   48, 50, 64-65
+
+7, 8
+
+7, 8
+
+7, 8
+
+G4-EN19 Reduction of greenhouse gas (GHG) emissions
+
+48-50
+
+–
+
+8, 9
+
+G4-EN21 NOx, SOx and other significant air emissions
+
+33
+
+–
+
+7, 8
+
+Aspect: Transport – Management approach
+
+46-48
+
+–
+
+8
+
+G4-EN30 Significant environmental impacts of transporting products
+
+48-50
+
+   48-50, 64-65
+
+8
+
+Aspect: Supplier assessment for labor practices –
+Management approach
+
+38-43
+
+–
+
+G4-LA14 Percentage of new suppliers that were screened
+using labor practices criteria
+
+41-43
+
+   42, 64-65
+
+G4-LA15 Significant impacts for labor practices in the
+supply chain
+
+41-43
+
+   42, 64-65
+
+Aspect: Supplier assessment for human rights – Management
+approach
+
+38-43
+
+–
+
+G4-HR10 Percentage of new suppliers that were screened
+using human rights criteria
+
+41-43
+
+   42, 64-65
+
+2
+
+G4-HR11 Significant human rights impacts in the
+supply chain
+
+41-43
+
+   42, 64-65
+
+2
+
+G4-EC1 Direct economic value created and distributed
+
+5; GB 97
+
+   GB 97, GB 198-199
+
+G4-EC3 Coverage of benefit plan obligation
+
+GB 151-154
+
+   GB 151-154, GB 198-199
+
+G4-EN23 Total weight of waste by type and disposal method
+
+52
+
+–
+
+G4-EN27 Mitigation of environmental impacts of products
+and services
+
+33-34, 61-63
+
+   33-34, 64-65
+
+G4-EN29 Fines and sanctions for non-compliance with
+environmental regulations
+
+25
+
+–
+
+8
+
+G4-LA1 New employee hires and employee turnover
+
+54
+
+–
+
+6
+
+G4-LA6 Injuries, occupational diseases, lost days,
+and work-related fatalities
+
+58
+
+–
+
+G4-LA12 Composition of governance bodies and breakdown
+of employees by aspects of diversity
+
+56-57; GB 6-7, GB 9
+
+–
+
+6
+
+G4-HR3 Incidents of discrimination and corrective actions taken
+
+25, 56
+
+–
+
+6
+
+G4-HR4 Operations and suppliers identified in which the right to exercise
+freedom of association may be violated or at risk, and measures taken
+
+41-43
+
+–
+
+3
+
+G4-HR5 Operations and suppliers having significant risk for
+incidents of child labor, and measures taken
+
+41-43
+
+–
+
+5
+
+G4-HR6 Operations and suppliers having significant risk for
+incidents of forced or compulsory labor, and measures taken
+
+41-43
+
+–
+
+4
+
+G4-SO7 Legal actions for anti-competitive behaviour, anti-trust,
+and monopoly practices
+
+25
+
+–
+
+G4-PR1 Percentage of significant product and service categories for
+which health and safety impacts are assessed
+
+62
+
+–
+
+G4-PR2 Incidents of non-compliance with regulations and voluntary
+codes concerning the health and safety impacts of products and services
+
+25
+
+–
+
+G4-PR3 Principles/ procedures for product and service information
+and labelling
+
+61-62
+
+–
+
+G4-PR4 Incidents of non-compliance with regulations and voluntary
+codes concerning product and service information and labelling
+
+25
+
+–
+
+G4-PR7 Incidents of non-compliance with regulations and voluntary
+codes concerning marketing communications
+
+25
+
+–
+
+Labor Practices and Decent Work
+1, 6
+
+Human Rights
+
+O T H E R G 4 I N D I C AT O R S R E P O R T E D
+G4 Indicator
+
+Otto Group Sustainability Report 2015
+
+8
+7, 8, 9
+
+68
+
+GLOSSARY
+
+Glossary
+Business Social Compliance
+Initiative (BSCI)
+
+The goal of this market alliance is to improve working conditions in international value chains through
+audits and qualifications in factories (see p. 40 et seq.).
+
+Carbon Performance
+Improvement Initiative (CPI2)
+
+An initiative by several companies, this has developed a management tool for managing CO2, chemicals and
+water in the supply chain. The Otto Group is a founding member (see p. 43).
+
+Code of Conduct
+
+Establishes social standards for suppliers and their subcontractors. It is a basis for business relationships with
+the Otto Group (see pp. 32, 40).
+
+Cotton made in Africa
+(CmiA)
+
+An initiative promoting the cultivation of sustainable cotton in Africa (see p. 33).
+
+CR Board
+
+The central committee for preparing strategic CR decisions, led by the Chairman of the Executive Board
+(see p. 23).
+SSCM Board
+
+Entry Assessment
+
+The Otto Group’s own standard for reviewing factories in risk countries (see p. 41 et seq.).
+
+Forest Stewardship Council®
+(FSC®)
+
+An international, charitable and independent organisation for promoting responsible forestry (see p. 34).
+
+Global Reporting Initiative
+(GRI)
+
+An international organisation that has developed guidelines for producing sustainability reports (see p. 68 et seq.).
+
+Gravure print
+
+A print technique in which the elements to be printed are first engraved onto the image carrier as depressions.
+Gravure printing is generally used for high-volume printing, e.g. catalogues. Other typical printing processes
+are offset and digital print (see p. 35).
+
+impACT
+
+A sustainability management process through which the ecological and social impacts of the Otto Group’s
+business activities are calculated and managed (see p. 12 et seq.).
+
+Impact category
+
+The ecological and social impacts of the Otto Group’s business activity are calculated in the five impact
+categories Greenhouse Gases, Pollutants, Water Consumption, Land Use and Social Risks (see p. 14).
+
+Materiality Analysis
+
+) the ecological impacts (in EUR) or the social risks (in Risk working hours) are
+For all topic areas (
+determined. In addition, internal and external stakeholders assess their materiality (see p. 14 et seq.).
+
+Materiality Matrix
+
+) as a bi-axial diagram. The x-axis shows stakeholder
+Presents the results of the materiality analysis (
+assessments (on a scale of 1-10) of the individual topic areas (
+), the y-axis shows their ecological impact
+(in EUR) or the Social Risks (in Risk working hours) (see diagram, p. 18).
+
+Merchandising goods
+
+All products that are sold to end-customers, e.g. textiles and furniture. Non-merchandising goods include e.g.
+catalogue paper, office materials and cleaning services at company facilities (see p. 39).
+
+Multichannel Retail
+
+The third business segment in the Otto Group, alongside Financial Services and Services. It includes the
+business of the distribution channels e-commerce, catalogues and over-the-counter retail (see p. 6 et seq.).
+
+Own and licensed brands
+
+The Otto Group is in possession of the brand rights. The manufacture of these merchandising goods is commissioned by the Otto Group. The Group has a particular responsibility here and has a comparatively large scope of
+influence (see p. 39).
+Third-party brands
+
+Progress Assessment
+
+The Otto Group’s own standard for reviewing factories in risk countries, carried out annually after factories
+) (see p. 41).
+pass an Entry Assessment (
+
+Progress Assessment
+
+Reporting companies
+
+Group companies in the Otto Group which are integrated in the sustainability reporting (see p. 6 et seq.).
+
+Risk country
+
+A country in which there is a higher risk of non-compliance with work standards. The Otto Group uses the risk
+classification defined by the Business Social Compliance Initiative (see p. 40).
+BSCI
+
+Risk working hours
+
+A unit for measuring Social Risks along the value chain. The risk that working hours have been performed
+under violation of minimum standards depends on country and sector (see p. 15).
+
+Social Programme
+
+This applies to all suppliers of own and licensed brands with factories in risk countries. It is intended to create
+acceptable working conditions for workers in the factories, as well as transparency in the supply chain (see p. 40).
+
+SSCM Board
+
+This is composed of managers from Group companies with responsibility for implementation. It decides on topics
+in the value chain and prepares decisions for the CR Board (see p. 23).
+CR Board
+
+Sourcing organisation
+
+Organise goods procurement in sourcing countries for companies and traders. The Otto Group works with
+the Hermes-OTTO International (H-OI) subsidiary, as well as external sourcing organisations (see p. 39 et seq.).
+
+Third-party brands
+
+In this case, the brand rights – and therefore the responsibility for compliance with social and environmental
+Own and licensed brands
+standards in production – lie with third parties (see p. 39).
+
+Topic area
+
+This describes an impact category on a particular value-adding stage, e.g. Greenhouse Gases in the Trade stage
+(see p. 18).
+
+Value-adding stage
+
+This describes one of the four sections of the Otto Group’s value chain: Raw Materials & Processing,
+Final Production, Trade and Customer (see p. 10).
+
+Otto Group Sustainability Report 2015
+
+Imprint
+PUBLISH ED BY
+
+DISCLAIMER
+
+Otto (GmbH & Co KG)
+Dr. Johannes Merck
+Vice President Corporate Responsibility
+Werner-Otto-Straße 1-7, 22179 Hamburg, Germany
+www.ottogroup.com
+
+The Report on the Sustainability of our Value Creation
+2015 contains forward-looking statements which are
+based on the opinions and estimations of the management. Although management assumes that the expectations expressed in these forward-looking statements
+are realistic, it cannot guarantee that its expectations
+will actually prove to be correct. Assumptions may entail
+risks and uncertainties that may cause actual results to
+differ materially from those expressed in forward-looking
+statements. Otto (GmbH & Co KG) accepts no liability
+and offers no warranty against the possibility of the
+Report on the Sustainability of our Value Creation 2015
+containing editorial errors or otherwise being incomplete.
+Otto (GmbH & Co KG) has no plans to update forwardlooking statements or to provide any corrections or
+supplements to the Report on the Sustainability of our
+Value Creation 2015, nor does it undertake any obligation
+to do so. However, Otto (GmbH & Co KG) does reserve
+the right to update the Report on the Sustainability of
+our Value Creation 2015 at any time without notice.
+In the event of contradictions between the German and
+English versions of this report, the German version shall
+be final and definitive.
+
+DOWN LOAD
+S U S TA I N A B I L I T Y R E P O R T 2 0 1 5
+www.ottogroup.com/sustainabilityreport
+
+C O N TA C T
+Andreas Streubig
+Division Manager
+Environmental and Social Policy
+andreas.streubig@ottogroup.com
+
+PROJ ECT MANAGEMENT
+Daniel Hußmann
+Senior Manager CR Strategy & Controlling
+daniel.hussmann@ottogroup.com
+
+CONCEPTION AN D TEXT
+akzente kommunikation und beratung gmbh,
+Munich, Germany
+
+E N G L I S H T R A N S L AT I O N
+World2World Hamburg, Jim Blake
+
+ART DI RECTION
+HGB Hamburger Geschäftsberichte GmbH & Co. KG,
+Hamburg, Germany
+
+BILDNACHWEISE
+Page 2: Marion Losse
+Page 29: thinkstock
+Page 37: thinkstock
+Page 45: Otto Group
+Page 59: thinkstock
+
+R EPORT ON TH E SUSTAI NAB I LITY OF OU R VALU E CR EATION 2015
+
+Werner-Otto-Straße 1-7
+22179 Hamburg
+Germany
+Phone: +49 (0) 40 64 61-0
+Fax: +49 (0) 40 64 61-85 71
+Website: www.ottogroup.com
+
+

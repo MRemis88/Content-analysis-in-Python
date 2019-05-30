@@ -1,0 +1,3675 @@
+2015 INTEGRATED REPORT
+SUSTAINABILITY CONTENT
+
+Reimagine
+Your Business
+
+Fehler! Kein Text mit angegebener Formatvorlage im Dokument. About This Report
+Created: 29.03.2016 09:48
+
+1
+
+Contents
+About This Report ...................................................................... 3
+Materiality ................................................................................... 4
+Stakeholder Engagement ......................................................... 6
+Recognition ................................................................................ 8
+Sustainability Management and Policies ................................. 9
+Business Conduct, Ethics, and Integrity .................................12
+Public Policy ..............................................................................16
+Memberships ............................................................................18
+Security, Privacy, and Data Protection ...................................19
+Sustainable Procurement ........................................................21
+Human Rights and Labor Standards ...................................... 23
+Waste and Water ...................................................................... 26
+Non-Financial Notes: Social Performance............................. 28
+Non-Financial Notes Environmental Performance .............. 30
+Management’s Acknowledgement of the
+SAP Integrated Report 2015 ................................................... 36
+Integrated Performance Analysis:
+A holistic view of our performance ......................................... 37
+Details: How our non-financial and financial performance
+indicators are interconnected ................................................ 40
+Independent Assurance Report.............................................. 47
+
+2
+
+About This Report
+CONTENT
+Since 2012, we have reported on our full year financial, social,
+and environmental performance in one integrated report (“SAP
+Integrated Report”) which is available at
+www.sapintegratedreport.com. The SAP Integrated Report 2015
+contains a comprehensive and integrated presentation of our
+performance in 2015 based on both financial and non-financial
+measures and is exclusively available online. Additionally, we
+continue to provide the “SAP Annual Report 2015.” This report is
+an excerpt from the SAP Integrated Report 2015 which
+comprises all of the information legally required to be presented
+to our shareholders. This SAP Annual Report 2015 is available in
+PDF format as well as in print.
+The financial reporting presented in the SAP Integrated Report
+includes our Consolidated Financial Statements, our combined
+Management Report, and certain financial measures derived
+from our management reporting. The non-financial data
+presented includes aspects of intellectual, human, social and
+relationship, and environmental capitals derived from our
+materiality assessment.
+Our online SAP Integrated Report is aligned with the content
+elements suggested in the International Integrated Reporting
+Framework of the International Integrated Reporting Council
+(IIRC).
+BASIS OF PRESENTATION
+Our combined Management Report is prepared in accordance
+with sections 315 and 315a of the German Commercial Code and
+German Accounting Standards No. 17 and 20. The combined
+Management Report is also a management commentary
+complying with the International Financial Reporting Standards
+(IFRS) Practice Statement Management Commentary.
+Our Consolidated Financial Statements are prepared in
+accordance with IFRS. Internal control over financial reporting
+ensures the reliability of the information presented in the
+Consolidated Financial Statements. Our executive management
+has confirmed the effectiveness of our internal controls over
+financial reporting.
+The social and environmental data and information included in
+the SAP Integrated Report is prepared in accordance with the
+core option of the international guidelines G4 of the Global
+Reporting Initiative (GRI). We applied the GRI principles for
+defining report content (sustainability context, stakeholder
+inclusiveness, materiality, and completeness). We applied the
+principle of sustainability context in a number of ways, such as
+
+SAP 2015 Integrated Report Sustainability Content About This Report
+
+looking at global issues or trends including climate change and
+demographic shifts. For example, we assessed our greenhouse
+gas emissions in the context of the emissions of the entire
+information and communications technology landscape, with
+particular focus on the abatement potential of the industry.
+When it comes to completeness, we recognize that while we
+comply with this principle in reporting on our own operations, we
+are still developing methodologies to reliably quantify our
+impact through our solutions. In addition, the non-financial
+information has been prepared by applying the principles of
+inclusivity, materiality, and responsiveness. Greenhouse gas
+data was prepared based on the Greenhouse Gas Protocol.
+DATA
+All financial and non-financial data and information for the
+reporting period was aggregated and reported utilizing SAP
+software solutions and was sourced from the responsible
+business units.
+The reporting period is fiscal year 2015. The report
+encompasses SAP SE and all subsidiaries of the SAP Group. To
+make this report as current as possible, we have included
+relevant information available up to the auditor’s opinion and the
+responsibility statement dated February 25, 2016. The report is
+available in English and in German.
+INDEPENDENT AUDIT AND ASSURANCE
+KPMG AG Wirtschaftsprüfungsgesellschaft has audited our
+Consolidated Financial Statements and our combined
+Management Report (see the Independent Auditor’s Report).
+Additionally, KPMG has provided assurance on selected nonfinancial, social, and environmental data and information in
+accordance with the International Standard on Assurance
+Engagements
+(ISAE)
+3000,
+and
+3410
+(“Assurance
+Engagements on Greenhouse Gas Statements”), two pertinent
+standards for the assurance of sustainability reporting. Where
+our SAP Integrated Report makes reference to our SAP public
+Web site, that Web site information is unaudited. Both the
+Independent Auditor’s Report and the Independent Assurance
+Report for non-financial information are available in the
+Independent Auditor's Report and Independent Assurance
+Report section.
+For more information about the reasons we publish an
+integrated report, about our materiality assessment, and related
+stakeholder engagement, see the About Integrated Reporting,
+Materiality,
+and
+Stakeholder
+Engagement
+sections.
+
+3
+
+Materiality
+ We have identified Human and Intellectual Capital management, Data
+security and privacy, financial performance, business conduct and climate
+change as material for our business.
+ Our materiality approach follows the G4 guidelines of the Global Reporting
+Initiative (GRI).
+ The scope of our materiality assessment includes our own operations and
+how we enable our customers to create social, environmental and
+economic impact.
+We continuously update and assess material aspects that are
+relevant to our innovation and sustainable growth and also
+reflect our four corporate objectives. Our materiality approach is
+based on the Global Reporting Initiative (GRI) G4 guidelines,
+which define material aspects as those that “reflect an
+organization’s significant economic, environmental, and social
+impacts, or substantively influence the assessments and
+decisions of stakeholders.” We also conduct materiality
+assessments for our financial reporting based on the
+International Financial Reporting Standards (IFRS). The process
+described here pertains to issues that fall outside these financial
+statement related materiality considerations.
+Over the past years we increasingly expanded our materiality
+approach towards understanding our economic, social and
+environmental value creation. We do this from two distinct
+points of view: SAP as a company (which includes our
+operations and supply chain) and SAP as a solution provider
+(which is how we serve our customers). Our goal is to determine
+materiality based on what is most relevant to our core business
+strategy. By analyzing our impacts as a solution provider, we
+can incorporate our conclusions as we create a sustainable
+strategy. Such a strategy enables us to holistically manage the
+economic, environmental, and social contexts in which we
+operate.
+ASSESSING AND RATING THE RELEVANCE OF NUMEROUS
+ISSUES
+We followed the GRI G4 guidelines, assessing the materiality of
+topics: identification, prioritization, and validation by our
+external sustainability advisory panel and our chief sustainability
+officer. We composed an initial list of topics referenced in the
+
+SAP 2015 Integrated Report Sustainability Content Materiality
+
+GRI G4 guidelines, as well as those that emerged from our
+various engagements with stakeholders and our sustainability
+advisory panel, or the Sustainability Accounting Standards
+Board (SASB) provisional standard for the Technology and
+Communications sector. We cluster detailed indicators of the
+various frameworks against our six material aspects, at which
+level we manage our company. Based on the feedback of our
+sustainability advisory panel in November 2015, in 2016 we will
+reassess our material aspects with respect to the trend of
+outcome reporting.
+Our initial 2015 review confirmed our identified most material
+topics, which are also clearly interrelated to our four financial
+and non-financial core objectives namely revenue, profit,
+employee engagement and customer loyalty. In this we link our
+material aspects of Human and Intellectual capital management,
+Climate and Energy and Financial Performance clearly to the
+core elements of our integrated performance analysis. Data
+Security and Privacy are the foundation of our business model.
+We will continue to evaluate how business conduct is connected
+with our financial and non-financial performance.
+DRAWING CONCLUSIONS AND UNDERSTANDING THE
+IMPLICATIONS OF OUR ASSESSMENT
+We identified six main areas that are material to SAP as a
+company. For the most part, these are consistent with our past
+assessments and comprise:
+– Human capital management – Helps us ensure we employ,
+develop, integrate and retain the very best talent within our
+company and be attractive to potential employees
+
+4
+
+– Intellectual capital management – Helps us innovate and
+deliver new solutions with the highest quality through
+continuous organizational learning, people development, and
+suitable internal structures and processes. Such capital also
+leads to increased customer loyalty
+– Security and privacy – Ensures we design and deliver our
+solutions in ways that afford the very highest levels of data
+security and privacy control
+– Financial performance – Mirrors the success of our strategy
+and ensures our long-term viability
+– Business conduct – Ensures we conduct our business
+activities while upholding the highest levels of behavior, as set
+out in the SAP Code of Business Conduct for Employees and
+other company policies
+– Climate and energy – Helps us offer solutions to our
+customers for reducing energy consumption and emissions,
+find ways to minimize the environmental impact of our
+solutions and transform our corporate operations
+accordingly
+While these issues are critical for us as a company, we see our
+solutions touching on a broad range of issues that are highly
+material to our customers – from financial viability to natural
+resources, energy, and human rights. While we do offer
+solutions in some of these areas, technology such as SAP HANA
+and our Cloud offerings hold enormous potential to help our
+customers improve and differentiate their own operations and
+impacts. For example, our software already enables many of the
+world’s largest companies to better measure, track, and manage
+their resource consumption, as well as increase their efficiency
+in a host of areas. Addressing our most material impacts means
+finding additional ways to support our customers in becoming
+more sustainable organizations. In this sense, our materiality
+assessment helps point the way to creating an integrated
+strategy, in which sustainability is seamlessly connected to how
+we serve our customers and drive our own long-term success.
+
+As noted above, we have already headed down this path with a
+number of our solutions, which are enabling our customers to
+comply with regulation, become more efficient, operate more
+sustainably, and begin to transform how business is conducted.
+We also have more to do – for example, we have not yet created
+a methodology to quantify our impact as a solution provider. To
+do so, we will continue to work with customers and partners.
+Namely, we need to understand our impacts in the context of
+the limits and demands of economic, environmental, and social
+resources. As a founding member we joined the Global
+Partnership for Sustainable Development Data to help monitor
+the progress of achieving the recently released 17 Sustainable
+Development Goals (SDG). We will continue to assess and
+describe how our technologies can contribute to the SDGs,
+thereby creating positive social, environmental and economic
+value by enabling customers. With the release of these global
+goals we observe an increasing trend in our customer base to
+initiate business transformations based on new sustainable
+corporate strategies. Supporting our customers with our
+solutions enables them to execute accordingly and helps us on
+our journey to fulfill our vision.
+We will continue to drive behavioral change throughout SAP
+through bottom-up strategies such as employee engagement,
+education, and the promotion of peer leadership and role
+models. We will also continue to emphasize co-innovation with
+our customers, as customers are the means through which we
+can help create long-term, sustainable change. We will work with
+our customers to enable them navigate global trends, such as
+hyperconnectivity, cloud computing, and Big Data, which go
+hand-in-hand with social and business trends that are changing
+how we live and work. Rapid urbanization, the sharing economy,
+enormous demographic change, and resource scarcity are
+demanding that leaders of tomorrow adapt to a world in which
+the pace of change continues to accelerate. Based on this we will
+continue to develop criteria to evaluate our sustainability
+impacts to help us inform and refine our materiality assessment.
+
+APPLYING OUR ASSESSMENT TO FURTHER DEVELOP AN
+INTEGRATED STRATEGY
+Our environmental and social performance remains critically
+important to SAP. We have gained important insights into
+helping our customers tackle challenges by doing so ourselves,
+especially by presenting the impact of our non-financial
+performance on our financial performance. In addition, working
+to become more sustainable has fed our innovation and
+improved our bottom line. SAP’s sustainability performance, as
+well as our work to create a sustainable corporate strategy, is
+also of increased importance to investors and newer
+generations of talent we want to attract and hire. At the same
+time, we recognize that it is in our role of solution provider that
+we continue on the path to creating the greatest customer value
+and designing our integrated strategy. In addition, we continue
+to explain our approach to our employees and other key
+stakeholders to enlist them in realizing our vision “Help the
+world run better and improve people’s lives”.
+
+SAP 2015 Integrated Report Sustainability Content Materiality
+
+5
+
+Stakeholder
+Engagement
+ We drive innovation and the development of our solutions in close cooperation with our key stakeholders.
+ We communicate with our identified key stakeholder groups continuously.
+ We provide insight into the various engagement activities with selected
+examples.
+For SAP, stakeholder engagement and collaboration are deeply
+embedded into our process of innovation and the development
+of our solutions. Before we can design a new solution, we must
+first understand the issue we are addressing. For this reason,
+design thinking and co-innovation are essential. At the same
+time, this process is not complete. With any innovation, there is
+often a time lag before stakeholders understand and absorb the
+full implications of a new solution. In other words, we need to
+update our license to operate by continually assessing and
+managing the additional responsibilities brought about by
+innovation.
+To fully understand these responsibilities, we regularly engage
+with seven key stakeholder groups that are most relevant to our
+business, as well as our Sustainability Advisory Panel. We have
+selected these groups as they are critical to our value creation.
+This dialog also influences our materiality assessment.
+CUSTOMERS
+Ensuring our customers’ success is core to everything we do. In
+addition to the sales engagement cycle, we also engage
+customers through industry value networks, co-innovation
+projects, customer councils, and customer-organized user
+groups throughout the world. The Customer Engagement
+Initiative provides early insight to SAP product planning,
+allowing our customers to influence and collaborate around our
+product development cycle. We also gather customer feedback
+regularly through our “SAP Listens” customer and partner
+feedback program. In addition our customer facing
+organizations like sales, consulting, education or support have
+multiple touch points with customers on a daily basis.
+
+Dedicated customer officers are directly attached to the
+members of the global management board. As one cornerstone
+of our corporate objectives we measure customer loyalty on an
+annual basis.
+Further Information
+For more information on customer surveys, see the Customers
+section.
+EMPLOYEES
+We survey employees annually, conducting pulse checks
+throughout the year. The Supervisory Board comprises 50%
+employee representation, and management regularly engages
+with employee works councils. In addition, the Global Man-aging
+Board answers employees’ questions in all-hands meetings that
+take place every quarter. In quarterly coffee corner sessions,
+senior executives explain our strategy to employees and answer
+their questions directly. Through topic related discussion blogs
+executives engage regularly with employees, foster an open
+discussion and receive focused feedback globally.
+Further Information
+For the results of our latest employee survey and how SAP is
+responding, see the Employee Engagement section.
+GOVERNMENTS
+We advise governments and administrations worldwide on
+critical IT topics, such as digitization, the Cloud and Big Data,
+which play a key role in creating new efficiencies and spurring
+economic growth.
+
+SAP 2015 Integrated Report Sustainability Content Stakeholder Engagement
+
+6
+
+Further Information
+For more information on our policy engagement in 2015, see the
+Public Policy section.
+INDUSTRY ANALYSTS
+Our Analyst Relations team, the Global Managing Board and
+executives interact with IT analysts on a frequent basis.
+Further Information
+We updated IT analysts, for example, on SAP HANA, our
+enterprise applications, our industry solutions, our Cloud
+solutions, our ecosystem, and our services. The latest industry
+positioning material integrates economic, social and
+environmental impact creation.
+FINANCIAL ANALYSTS AND INVESTORS
+Our Investor Relations team and the Global Managing Board
+conduct one-to-one briefings with financial analysts and
+institutional investors, as well as investor road shows, quarterly
+earnings calls and our annual general meeting; the investor
+relations team also engages with the sustainable investment
+community in close cooperation with the sustainability team; the
+global treasury team interacts regularly with debt investors.
+Further Information
+For more information on our dialog with investors, see the
+Investor Relations section.
+NON-GOVERNMENTAL ORGANIZATIONS (NGOS) AND
+ACADEMIA
+Our dialog with NGOs, NPOs and academic institutions helps us
+understand how we can help address today’s most pressing
+issues with our solutions and what is expected from us as a
+corporation.
+Further Information
+In 2015, United Nations adopted the Post-2015 Sustainable
+Development Goals (SDGs), a to-do list to end poverty, fight
+inequality and tackle climate change. SAP was a founding
+partner of IMPACT 2030, a business-led coalition that aligns
+companies and their employee volunteer efforts with the SDGs
+to address the needs of our rapidly changing world and create
+real and sustainable change. In addition to SAP, the network of
+businesses includes: IBM, Google, GSK, TATA Consultancy
+Services, and The Dow Chemical Company.
+In response to the refugee crisis in the middle east and Europe,
+SAP aims to join forces with local and federal governmental
+organizations. SAP and SAP employees’ donations support a
+range of local and national refugee aid non-profit organizations
+as well as the UN Refugee Agency.
+In 2015 we continued to expand our strategic partnerships with
+non-profit organizations in the area of STEM education.
+Together with the Cape Town Science Centre, the Galway
+Education Centre and 100 other Non-Profit Organisations and
+
+government partners, SAP launched the Africa Code Week. This
+initiative provides young people with the coding tools and skills
+they need to thrive in the digital economy and further Africa’s
+economic development. SAP was also a key partner with the
+European Commission for EU Code Week.
+We extensively work with academia through the SAP University
+Alliances program, providing students at more than 1200
+universities with hands-on experience working with SAP
+software and solutions.
+On the openSAP platform we expanded our offerings of free of
+charge massive open online classes (MOOC’s) covering
+introductory and advanced classes of SAP technology. We also
+repeated our course on “Sustainability and Business Innovation”
+to the interested public audience.
+Our investment in the Livelihoods Fund creates social impact in
+rural communities and for the second year in a row we received
+offsets mitigating our overall CO2 emissions in 2015.
+PARTNERS AND SUPPLIERS
+Our partners are also key to our growth, as they help us coinnovate solutions, sell and implement solutions at customer
+sites. The spirit of cooperation and engagement is exemplified
+by the online SAP Community Network, which now includes
+more than two million members. We have also started to work
+with selected suppliers to understand how we can help each
+other improve.
+Further Information
+As with customers, we also gather partner feedback regularly
+through our “SAP Listens” customer and partner feedback
+program. An example for our engagement with suppliers is the
+introduction of sustainability labels to our indirect procurement
+catalogue, enabling our employees to consciously select IT
+equipment or office materials. For more information see the
+sustainable procurement section
+SUSTAINABILITY ADVISORY PANEL
+Our Sustainability Advisory Panel consists of expert
+representatives of customers, investors, partners and NGOs.
+Further Information
+Our Sustainability Advisory Panel met in 2015 with SAP senior
+executives – including Luka Mucic, CFO, COO and board
+sponsor for sustainability - from the areas of strategy, solutions,
+finance, and administration. The group discussed the further
+integration of sustainability into SAP solutions, how we can
+support business transformations, and the key issues where our
+digitization strategy will play an especially important role in
+creating a sustainable future.
+We continue our stakeholder engagement as it meets the
+variable requirements of the diverse stakeholder groups.
+
+SAP 2015 Integrated Report Sustainability Content Stakeholder Engagement
+
+7
+
+Recognition
+In 2015, we received the following awards and recognition for
+our performance and efforts related to sustainability:
+– Dow Jones Sustainability Indices (SAP has been ranked as
+software sector lead for the ninth consecutive year)
+– FTSE4GOOD
+– NASDAQ OMX CRD Global Sustainability 50 Index
+– Newsweek Global 500 Green Ranking
+– Top 50 Most Socially Responsible Companies in Canada
+– Ethibel Sustainability Index (ESI) Excellence Europe and
+
+Ethibel Sustainability Index (ESI) Excellence Global
+– European Datacentre Sustainability Award 2015 (for our
+Daracenter in St. Leon Rot)
+– Frost & Sullivan Technology Leadership Award (for our
+solution TwoGo)
+– Land of Ideas Award (for our app SAP Medical Research
+Insights)
+In addition, we received the following awards for being a globally
+recognized employer of choice:
+– SAP won the gold award in the category Best Recruitment
+Marketing & Employer Branding Program in the Brandon Hall
+Group HCM Excellence Awards Program.
+– SAP was awarded first place for its Global Mobility Program in
+Tech/Media, best Vendor Partnership and 2nd place for Best
+Mobility Team of the Year for large mobility programs by the
+Forum for Expatriate Management (FEM).
+– SAP America became the first technology company in the
+United States to be awarded the Economic Dividends for
+Gender Equality (EDGE) certificate.
+– SAP China has been selected as a winner of the 2015 "Best
+Training Company" awards, sponsored by 51job Inc., the
+leading integrated human resource service provider in China.
+– SAP Australia has been recognized by the Australian
+Government as a best employer for women, creating an
+environment underpinned by equality.
+– SAP MENA received the GCC Best Employer Brand Award by
+Employer Branding Institute and Stars of the Industry Group.
+– SAP Labs China was ranked among the best companies to
+work for in China according to Great Places to Work.
+– SAP South Africa won Top Employer in South Africa.
+– SAP Labs Latin America was ranked 5th by Great Place to
+Work among the greatest IT places to work in Brazil.
+– SAP was ranked among the best companies to work for in
+Brazil according to Great Places to Work.
+
+SAP 2015 Integrated Report Sustainability Content Recognition
+
+– SAP ranked in the Top 50 Most Attractive Companies in Latin
+America.
+– SAP Canada is among the country's Top 100 Employers
+offering exceptional workplaces for their employees.
+– SAP for the third year in a row earned a perfect score of 100
+percent for its support for LGBT employees from the Human
+Rights Campaign.
+– SAP Mexico was awarded for its HR policies and being a top
+employer in Mexico.
+– SAP Labs Latin America was nominated the best company to
+work for in Brazil, according to Voce S/A magazine.
+– SAP Mexico was recognized for its Gente Más program.
+– SAP was ranked 9th among big companies of more than 250
+employees in Switzerland by the Great Place to Work
+Institute.
+– SAP France and SAP Labs France were certified as top
+employers and recognized as one of the most attractive
+companies to work for according to Universum.
+– SAP was ranked 5th among the most attractive employers to
+work for in Germany based on a student survey conducted by
+Universum.
+– SAP Labs India was ranked among the best companies to
+work for in India according to Great Places to Work.
+– SAP was recognized as National Employer of the Year by The
+Arc.
+
+8
+
+Sustainability
+Management and
+Policies
+ We recognize that sustainability activities of SAP are a sound business
+case.
+ We hold ourselves accountable through our policies, goals, and audit
+programs.
+ To help our customers to run more sustainable businesses, we strive to
+become an exemplar ourselves by transforming our own processes and
+integrate holistic thinking.
+Over the past several years, we made a commitment to move
+from having a sustainability strategy at SAP to creating a
+corporate strategy that is sustainable. This goal hinges on
+integrating sustainability into our core business. To move closer
+to this integration, we have adjusted our governance structure
+so that some of the dedicated functions of the sustainability
+organization now reside within various lines of business. For
+example, a team of solution experts is working in close
+cooperation with the sustainability team to develop technology
+solutions to help our customers manage their sustainability
+activities across the value chain. To enable this federated
+approach, each board area at SAP has appointed a dedicated
+sustainability contact who reports directly to the respective
+Global Managing Board member.
+One of our primary aims is to demonstrate how sustainability
+not only aligns with our business objectives, but also benefits the
+top and bottom line of SAP. We also recognize that investors are
+one of our core stakeholder groups, as they are increasingly
+focused on how we are addressing major challenges facing
+business, from climate change to population growth. As a result,
+the chief financial officer (CFO), who holds the dual role of chief
+operating officer (COO), is ultimately responsible for this area. In
+addition, our CFO/COO is the board sponsor for sustainability.
+
+The chief sustainability officer has several major responsibilities
+focused on our sustainability performance, our efforts to embed
+sustainability into our core business, and our external
+relationships and communication. Under their leadership, our
+sustainability organization works with leaders across SAP to
+monitor our environmental, social, and economic performance.
+ENSURING THAT ROLES, RESPONSIBILITY, AND
+RESOURCES DRIVE PROGRESS
+Our extended sustainability team is part of a matrix
+organization. It is composed of the following:
+– A dedicated sustainability team working to embed
+sustainability into our corporate strategy and responsible for
+our internal sustainability performance, contributing to our
+integrated reporting, and stimulating new sustainability
+initiatives in other parts of the organization
+– A team of sustainability experts that design and integrate
+sustainability into new or existing industry or line-of-business
+solutions
+– Development and solution management professionals
+creating specific SAP solutions for sustainability
+– Global services and support employees
+
+SAP 2015 Integrated Report Sustainability Content Sustainability Management and Policies
+
+9
+
+– Dedicated sustainability contacts per board area that focus
+on board area-specific opportunities to embed sustainability
+into their respective business
+– A Corporate Social Responsibility (CSR) team responsible for
+managing our social investments
+– Human resources specialists addressing topics particular in
+the areas of health, diversity and inclusion, employee
+engagement, and leadership development
+– Procurement experts who include sustainability criteria in
+supplier evaluation
+– IT operations professionals, who cover issues such as
+working environment and energy consumed by data centers
+– Facility management professionals, who design and manage
+our facilities based on environmental standards (LEED)
+– Local teams in the SAP Labs locations around the world that
+oversee a range of sustainability projects
+– Sustainability communications employees
+– Sustainability marketing professionals
+– An investor relations team that informs the investment
+community about our holistic company approach
+– A network of local sustainability champions who dedicate
+10% of their work to drive sustainability in their respective
+fields
+MANAGING OUR MATERIAL ASPECTS
+Responsibilities related to material aspects are managed as
+follows:
+– Human capital management: Overall, global responsibility
+lies with the Managing Board member responsible for human
+resources and labor relations. We foster regular dialog
+among the sustainability organization and employee
+representatives, specifically German works councils and the
+European Works Council .
+– Intellectual capital management: Included in the solution
+and technology portfolio through a central portfolio team.
+Customer loyalty is measured by a dedicated team reporting
+to the Executive Board member responsible for sales;
+account managers are responsible for the relationships with
+their customers.
+– Security and privacy: Privacy and data protection is
+managed by an internal Data Protection and Privacy Office
+that operates in Germany complemented by a global network
+of local subsidiary data protection officers.
+Security
+accountabilities are defined for products and corporate
+issues; a cybersecurity task force has been established. In
+addition, the corporate audit department now has a
+dedicated security audit team.
+– Financial performance: The Executive Board retains ultimate
+responsibility for revenue growth, profitability, and financial
+stability of the company.
+– Business conduct: These responsibilities lie with our Global
+Governance, Risk, and Compliance department, as well as
+Legal Compliance and Integrity Office (LCIO). The SAP Global
+Delivery and Export Control Policy clearly defines the
+management approach and governance ensuring compliance
+
+with import and export regulations relevant for SAP solutions
+and technology.
+– Climate and energy: The responsibility for this topic lies
+within the sustainability team, managed by our chief
+sustainability officer. The Global Environmental Policy, which
+was updated in July 2015, lists our 8 environmental targets,
+including our carbon emissions target, the purchase of 100%
+renewable electricity for all facilities and data centers, and
+the increase of electric vehicles in our company car fleet. SAP
+reports the greenhouse gas emissions caused by corporate
+jets under the European Union Emissions Trading System
+(EU ETS). In addition, the Renewable Energy Sources Act
+(EEG) is applicable to our German locations where we have
+installed solar panels.
+DEFINING OUR COMMITMENT THROUGH POLICIES
+Our commitment to make SAP a more sustainable company and
+to manage our impact is defined in our global policies, which can
+be found online on our Sustainability at SAP section on the
+public Web site SAP.com. Our policies are applicable to all SAP
+subsidiaries and are approved by the Executive Board.
+SETTING GOALS TO HOLD OURSELVES ACCOUNTABLE
+We are committed to improving our sustainability performance
+and holding ourselves accountable for our progress. SAP has set
+annual, medium-term, and long-term targets for a wide range of
+key performance indicators (KPIs), spanning environmental,
+social, and financial impacts. An overview of our goals can be
+found in the Corporate Goals section.
+CERTIFYING OUR MANAGEMENT APPROACH
+In addition to rigorous measurement of KPIs and transparency
+in our results, we take additional steps to enhance our
+management processes. Formalizing our approach to
+environmental improvements, we have established a global
+environmental management system according to the ISO 14001
+standard.
+To date, 33 SAP locations worldwide – in Austria, Brazil,
+Bulgaria, Canada, Czech Republic, France, Germany, Hungary,
+Ireland Israel, Italy, South Africa, and the United States – have
+received ISO 14001 certification. We will continue to roll out the
+program globally. These certifications are published in the
+Sustainability at SAP – Environmental Management section on
+our public Web site SAP.com.
+EVALUATING OUR MANAGEMENT APPROACH
+We regularly review whether our strategy, programs, and
+initiatives are effective. For example, the sustainability team has
+quarterly review meetings with senior executives. We have also
+launched global internal audit programs for labor standards and
+human rights as well as for environmental management. While
+we view external ratings and rankings as a key reflection of our
+performance, the ultimate measure of our success is whether
+we achieve the goals we set for ourselves.
+
+SAP 2015 Integrated Report Sustainability Content Sustainability Management and Policies
+
+10
+
+DRIVING TRANSFORMATIONAL CHANGE IN OUR
+BEHAVIOR AND CULTURE
+Our efforts to become an exemplar of sustainability mainly focus
+on two areas to affect change: our processes and our people.
+Achieving our goals requires challenging and transforming old
+behaviors and ways of thinking. This journey helps us become
+more innovative as we tackle problems in new ways and design
+creative solutions. The engagement of our employees is
+essential, as their ideas and commitment help drive change
+throughout SAP. Our strategy combines organizational changes
+to embed sustainability into our business, as well as educational
+workshops, campaigns, and other forms of outreach to involve
+employees. Four key components of these efforts include:
+– A focus on transparency and awareness building
+– The need to make the benefits of change relevant and
+meaningful for our company and employees through
+communication, incentives, recognition, and other means
+– The existence of role models within SAP who demonstrate
+new behaviors and inspire others
+– The management of change by ensuring that the right
+processes and tools are in place
+Employees learn about sustainability through workshops,
+special events, and other activities aimed at deepening the
+understanding of our holistic approach to sustainability while
+connecting to current global trends such as the ratification of
+the 2030 Sustainable Development Goals in 2015. In addition,
+deep-dive sessions are offered on areas such as sustainable
+enterprise mobility, procurement, IT, health, and diversity and
+inclusion as well as volunteering. We embedded the topic of
+sustainability into onboarding training for new hires as well as
+manager training. In addition to our overall sustainability
+dashboard, every employee can see our environmental
+performance through specific dashboards detailing impact,
+such as statistics on printing and commuting. In addition, we
+also focus our efforts on helping employees understand the
+relevance of sustainability – not only to their workplaces but
+also to their daily jobs and our core business – through
+workshops dedicated to specific organizations and functions
+within the company.
+
+LEADING THE CHANGE
+Our leaders also have a key role to play in helping us become
+more sustainable. For this reason, we continue to embed
+sustainability into leadership development programs. This
+includes demonstrating how actively managing topics such as
+work/life balance and talent development leads to greater
+business success in addition to employee engagement and
+satisfaction. The sustainability dashboard, created originally for
+senior leaders in 2013, helps our employees explore the
+connections between non-financial and financial performance
+with breakdowns and benchmarks. Employees can see how their
+team’s business travel contributes to our overall carbon
+footprint, along with financial implications of those results and
+how they compare to other teams. Compliant with all data
+privacy regulations, data on employee retention and women in
+management also helps create transparency on the social
+performance of our company. Since our last upgrade to the SAP
+product SAP Smart Business cockpit, executive edition,
+employees have automatic access to this data.
+NETWORK OF SUSTAINABILITY CHAMPIONS
+While sustainability requires strong leadership, it cannot be
+mandated from the top. Our employees help drive our progress
+throughout the company. We enlist a global internal network of
+more than 100 sustainability champions who represent different
+regions and lines of business at SAP. They dedicate 10% of their
+work time to promoting sustainability. Not only do they act as
+role models, but they also tailor sustainability to local and lineof-business needs and interests, and share best practices.
+Our sustainability champions are a critical part of our
+governance strategy, which combines senior and local
+leadership with employee engagement to drive change at every
+level of SAP – from our daily operations to our overall vision to
+help the world run better and improve people’s lives.
+
+In 2015, we facilitated open dialog through coffee-corner
+sessions, virtual all-hands meetings, guided inspirational
+pavillon tours, and social media. Employees could find out how
+sustainability is connected to our vision to help the world run
+better and improve people’s lives. They learned of examples
+through customer impact stories as well as role model stories by
+SAP leaders and employees. We measure the success of our
+initiatives through our annual People Survey. In 2015, 90% of
+our employees agreed with the statement “It is important for
+SAP to pursue sustainability” compared to 91% in 2014 (and
+77% in 2009). 80% of our employees stated “I actively
+contribute to SAP’s sustainability goals,” up from 74% in 2014
+(and 46% in 2009).
+
+SAP 2015 Integrated Report Sustainability Content Sustainability Management and Policies
+
+11
+
+Business Conduct,
+Ethics, and Integrity
+ Our established compliance management system includes detailed
+policies and procedures for ensuring ethical business conduct.
+ Communication and training safeguard a common understanding of what
+we mean by compliance.
+ Our Legal Compliance and Integrity Office enforces compliance to our
+policies and codes of conduct.
+We act to ensure that we live up to high ethical standards
+throughout SAP. Our policies govern the conduct of our
+management, employees, suppliers and partners, as well as
+critical areas of our business such as sales, vendor selection,
+and payroll. In addition, we train employees on the SAP Code of
+Business Conduct for Employees, which includes guidelines on
+bribery, antitrust, and a host of other topics. In the case of any
+breaches of compliance, we take appropriate remedial action.
+ESTABLISHING CLEAR AND COMPREHENSIVE
+STANDARDS
+Our compliance management system includes detailed policies
+and procedures for ensuring ethical business conduct. Audited
+by KPMG in 2012/2013, this system consists of the following
+components:
+–
+–
+–
+–
+–
+–
+–
+
+Fostering a favorable compliance culture
+Defining objectives
+Determining and analyzing compliance risks
+Running a compliance program
+Creating a responsible compliance organization
+Communicating standards clearly
+Monitoring and improving the management system
+
+FOSTERING A COMPLIANT CULTURE THROUGH THE SAP
+CODE OF BUSINESS CONDUCT FOR EMPLOYEES
+One of our priorities has been to establish a common
+understanding of what we mean by compliance. The SAP Code
+of Business Conduct for Employees (“Code”) summarizes our
+standards, and all employees (including top executives) must
+recognize this Code when they join SAP. While providing a global
+
+framework, the Code is adapted locally and translated into local
+languages. Such adaptation cannot weaken any requirements of
+the global Code and, in some cases, may be even stricter. In
+many countries, employees must also renew their commitment
+on an annual basis. This is not a formality for us but a means to
+share one of the most important foundations of our company
+culture.
+Our Code contains guidelines for all SAP employees and
+members of the Executive Board as they perform their daily
+work on behalf of SAP. It is binding for all employees throughout
+the world and sets the standard for our dealings with customers,
+partners, competitors, and vendors. Our Code is also a
+statement of our commitment to safeguarding our investors and
+customers against unfair competitive practices, corruption, and
+misleading statements. Our Executive Board approves our
+Code.
+Specifically, our Code covers the following:
+– Prohibition of bribery and corruption in all its forms, including
+facilitation or “grease payments”
+– Gifts and business entertainment limits
+– Full, fair, and accurate accounting
+– Conflicts of interest
+– Confidentiality
+– Anti-competitive practices
+
+SAP 2015 Integrated Report Sustainability Content Business Conduct, Ethics, and Integrity
+
+12
+
+DELIVERING EMPLOYEE TRAINING AND COMMUNICATION
+ON BUSINESS CONDUCT
+Every other year, all employees in customer-facing roles are
+required to participate in e-learning training on anti-corruption,
+competition law, and customer commitments. In 2015 additional
+employee groups were included in this training, such as
+employees in supporting roles including Corporate Affairs and
+Global Marketing. 1,103 employees in Global Marketing and 145
+employees in Corporate Affairs were trained with an online
+module. These online training modules are available in nine
+languages. In addition, 20,213 employees in SAP’s P&I group
+completed an online training on governance for customer
+commitments. We also continued education on intellectual
+property (IP), covering how we protect SAP’s IP rights and the
+rights of third parties 2,401 employees completed our IP online
+training. All online modules include a knowledge test. The Legal
+Compliance and Integrity Office also held 106 classroom training
+sessions with 2,633 participants. In our annual Code of Business
+Conduct Certification 54,507 employees were invited to
+participate in the certification of the SAP Code of Business
+Conduct for Employees and 52,588 completed the certification.
+We established a collaboration with the HR onboarding teams so
+that general compliance information on relevant policies is
+included in the onboarding sessions run by HR for new hires.
+6,302 new hires joined these sessions in 2015.
+In 2015 we launched a compliance communication campaign
+where we inform all employees in quarterly newsletters on
+compliance focus topics. We provide general information on the
+topic, current cases that are in the press and a section for selfreflection where employees are confronted with a hypothetical
+compliance case. Links to compliance related information are
+also included, such as our Whistleblower anonymous reporting
+system, the Legal Compliance and Integrity Office, Corporate
+Audit, and SAP global policies. We also run polls in the Portal on
+compliance related questions periodically throughout the year.
+In addition, this year, based on a new question in the people
+survey, 73 % of our employees feel encouraged to report on
+circumstances that could result in criminal fines for individuals
+or SAP. In 2016 we will benchmark our results against the
+results of other companies who asked the same question.
+– In addition to our training, we take a number of other steps to
+ensure that employees are aware of our policies and
+anticorruption standards:
+– The Legal Compliance and Integrity Office conducts
+awareness calls and meetings
+– Local managers send e-mails to their subsidiaries
+– Local Codes of Business Conduct are available in local
+languages where necessary.
+– All global policies and guidelines and additional information
+are available on SAP Corporate Portal
+As part of the new SAP Global Security Policy, a mandatory
+training covering Information Security Fundamentals was rolled
+out to all employees in November 2015.
+
+SETTING EXPECTATIONS FOR OUR BUSINESS ACTIVITIES
+We have created other policies related to specific lines of
+business and business activities. These guidelines include:
+– Regulation of the appointment and remuneration of sales
+agents: All agents, consultants, or other third parties
+assisting with a sales opportunity must enter a written
+contract with mandatory provisions related to corruption and
+other issues. Before any contract with a third-party sales
+agent is executed, an integrity check must be completed
+along with internal approval processes.
+– SAP Partner Code of Conduct: Governs our expectations of
+ethical business conduct by our partners. Before working
+with SAP, all new partners must accept this code.
+– SAP Supplier Code of Conduct:
+Governs SAP’s
+expectations of our vendors and suppliers.
+– Corporate Social Responsibility Policy: Lays out rules for
+donations made under SAP’s corporate social responsibility
+(CSR) program to ensure that charitable donations are not
+used for improper purposes such as bribery. The CSR team
+vets all donations made under this program and conducts a
+validation process to ensure that the recipient charity is
+legitimate. For donations that are not supported by the CSR
+team, a Legal Compliance and Integrity Office-DoA, including
+Compliance approval, is in place.
+– Global IP Policy: Provides a set of behavioral rules for SAP
+employees worldwide to comply with regulatory and legal
+requirements in the area of intellectual property law.
+– Group accounting and revenue recognition guidelines:
+Detailed description of all IFRS accounting matters across
+entire SAP group.
+– Segregation of duty: Applies to all IT processes
+Additional policies or commitments related to sustainability are
+under the responsibility of the respective line of Business and
+can be found at Our Sustainability Commitments.
+CONDUCTING COMPLIANCE RISK ANALYSIS
+We review our business units and business activities for
+potential bribery or corruption on an ongoing basis. For
+example, we collect quantitative data annually about each
+subsidiary with employees and revenues in 96 SAP entities in 67
+countries. This data includes revenue, number of employees,
+percentage of public sector business, number of fraud
+allegations or incidents, changes or updates to relevant laws,
+and other quantitative information. Based on that we determine
+a risk ranking of countries. To monitor our processes, the Legal
+Compliance and Integrity Office works closely with our Global
+Governance, Risk and Compliance Organization, to identify
+areas where a risk assessment is needed; we then drive
+remediation programs if necessary. In 2015 the outcome of
+stakeholder interviews run by the Global Governance Risk and
+Compliance organization was integrated into a scenario based
+risk assessment that will be launched beginning of 2016 in all
+SAP countries.
+
+SAP 2015 Integrated Report Sustainability Content Business Conduct, Ethics, and Integrity
+
+13
+
+Generally, we find that our primary risks related to compliance
+concern corruption, antitrust, export controls, and IP (For more
+information, see our Risk Report). Our assessment also helps us
+create a general risk profile for subsidiary locations. Through
+analysis of our quantitative data, we determine which countries
+require our highest attention. Globally we ensure compliance to
+export controls, embargo and sanctions list with a formalized
+approval process for sales of all software solutions, which is
+regularly audited by external parties as well as internal audits.
+ENFORCING POLICIES THROUGH OUR LEGAL
+COMPLIANCE AND INTEGRITY OFFICE
+The Legal Compliance and Integrity Office oversees the SAP
+Code of Business Conduct for Employees (“Code”), as well as all
+other related policies and our anticorruption program. Since
+January 1, 2015, the Chief Compliance Officer reports directly to
+the SAP Group CFO. The direct reporting line to the CFO
+recognizes the increased enforcement activity in the high-tech
+sector in recent years, plus the constantly changing ways in
+which fraud and corruption schemes surface in the business
+world. Our compliance approach must also constantly change
+and adapt to incorporate new best practices to stay relevant in
+our company’s business. The Office of Legal Compliance and
+Integrity consists of global compliance officers based at our
+headquarters and in our most important markets (especially
+where local language needs must be met). In addition, local
+subsidiaries have local compliance officers who assess issues
+and escalate them to the global level if necessary.
+
+MAINTAINING PROCESSES FOR INCIDENT REPORTING
+AND REMEDIATION
+Employees have a number of avenues to raise concerns to the
+Legal Compliance and Integrity Office when they believe there
+has been a breach of the SAP Code of Business Conduct for
+Employees or when they seek advice:
+– Helpline (For more information, see the Governance –
+Policies and Statutes section of our public Web site SAP.com)
+– Legal Compliance and Integrity Office mailbox
+– Contact with local and global compliance officers via e-mail or
+telephone
+– Whistleblower tool used primarily for financial reporting and
+auditing issues to ensure that anonymous reporting is
+possible
+These channels are communicated to all employees on SAP
+Corporate Portal, and new hires are informed of them during the
+new hire process. Our helpline is published on SAP.com for
+external stakeholders. In addition, reporting channels are
+described in the SAP Partner Code of Conduct and the SAP
+Supplier Code of Conduct. Most of these mechanisms are
+available 24 hours per day and 7 days a week, and concerns are
+treated as confidentially as possible in light of subsequent
+investigation (concerns can also be raised anonymously through
+the whistleblower tool). However if they are raised, all concerns
+are investigated, and remedial action is taken if necessary.
+Such remedial actions in incidents of corruption may include:
+
+In addition to making regular reports to the CFO and Executive
+Board, the Chief Global Compliance Officer provides, at least
+annually, reports to the Audit Committee of the Supervisory
+Board. Matters of significance are brought to the attention of the
+Executive Board and the Audit Committee of the Supervisory
+Board on an as-needed basis. Reporting to these boards allows
+for regular monitoring and continuous improvement to our anticorruption program. Our compliance program was audited and
+certified according to IBWPS 980 by KPMG in 2012 with regular
+internal audit follow-up in 2015.
+We further promote compliance through the following practices:
+– No employee will suffer demotion, penalty, or other adverse
+consequences for refusing to pay bribes, even if such refusal
+may result in the enterprise losing business.
+– Employees at all levels of the organization are required to
+disclose conflicts of interest to the Legal Compliance and
+Integrity Office. In 2015 we piloted respective employee selfservice scenarios in Germany and North Americas. Other
+countries to follow.
+– The Legal Compliance and Integrity Office also invites
+employees to identify any potential conflicts during the
+annual process of renewing their commitment to our code.
+Disclosures are then followed up with guidance or mitigation
+if necessary.
+
+– Written warning (for example, when a policy was violated but
+it is not clear that actual corruption occurred)
+– Termination
+A former Vice President of Sales who was employed by SAP
+International, Inc., pled guilty and was sentenced to prison for
+participating in a scheme to violate the Foreign Corrupt
+Practices Act (FCPA). SAP terminated his employment in April
+2014 after learning of his misconduct. The U.S. Department of
+Justice (DOJ) declined to pursue criminal charges against
+SAP. The U.S. Securities and Exchange Commission (SEC)
+instituted
+administrative
+cease-and-desist
+proceedings
+regarding a books and records and internal control violation of
+the Securities Exchange Act of 1934. To settle this matter, SAP
+has agreed to forfeit the $3.7 million in profits, plus interest
+thereon, generated in connection with the inappropriate
+transactions. SAP’s settlement with the SEC does not involve
+any financial penalty or substantive bribery charge against the
+company.
+JOINING COLLECTIVE ACTION TO COMBAT CORRUPTION
+SAP is a member of the German chapter of Transparency
+International, a non-profit, non-partisan organization that
+combats corruption in government and international business
+and development. In addition, we are active in the Alliance for
+Integrity (AfIn). AfIn is a business-driven multi-stakeholder
+
+SAP 2015 Integrated Report Sustainability Content Business Conduct, Ethics, and Integrity
+
+14
+
+initiative promoting integrity in the economic system and
+conditions for compliant and clean business. It was initiated by a
+number of multinational companies, business associations, the
+German Federal Ministry for Economic Cooperation and
+Development (BMZ), the Society for International Cooperation
+(GIZ), the German Global Compact Network and sequa, a nonprofit development organization. The focus of the initiative is on
+implementing collective action on the ground.
+
+SAP 2015 Integrated Report Sustainability Content Business Conduct, Ethics, and Integrity
+
+15
+
+Public Policy
+ SAP advises governments on how to drive innovation and address societal
+challenges through the effective use of digital technologies.
+ SAP maintains government relations offices around the world.
+ We are a member of several trade associations across the globe.
+SAP has developed trusting relationships with governments
+worldwide by exploring the potential for information and
+communications technology (ICT) to spur economic growth,
+create jobs, and address societal challenges.
+In Europe, SAP maintains government relations offices in
+Belgium, France, Germany, Russia, and the United Kingdom,
+with Belgium hosting our European Union (EU) Representation
+Office. In the Americas, SAP has established a government
+relations presence in Washington, D.C., in the United States, and
+São Paulo, Brazil. Additional offices are located in China, India,
+Saudi Arabia, South Africa, and the United Arab Emirates.
+SAP engages with governments around the globe on a number
+of public policy issues, including the creation of reasonable
+framework conditions for new technologies or business models
+such as cloud computing and Big Data. For example, we
+participate in the European Cloud Partnership, which has a
+primary goal of promoting the adoption of cloud computing and
+the creation of a single market for cloud services in Europe.
+SAP is also developing best practices to ensure cybersecurity
+and the protection of personal data in the digital economy. SAP
+favors global policy frameworks and international standards that
+enable global trade of digital products and services and the free
+flow of data across borders.
+We advise governments on how to drive innovation and address
+societal challenges through the effective use of digital
+technologies. For example, SAP serves on the High Level Group
+of the European Innovation Partnership for Smart Cities and
+Communities to foster sustainable development. Together with
+the German Chancellor and the Federal Minister of Economics,
+SAP actively engages in Germany’s National IT Summit, which
+has an overall objective to promote and implement the digital
+agenda in Germany.
+
+SAP 2015 Integrated Report Sustainability Content Public Policy
+
+We also cooperate with governments to promote the
+development of ICT skills and entrepreneurship, as well as to
+empower small and midsize enterprises as key enablers of
+economic growth and job creation. SAP addresses the skills gap
+globally through initiatives such as our SAP University Alliances
+and SAP Skills for Africa programs, Africa Code Week, EU Code
+Week, the EU Grand Coalition for Digital Jobs, and the Business
+Backs Education global advocacy campaign. Together with the
+Bipartisan Congressional Historically Black Colleges and
+Universities (HBCU) Caucus, and before members of the U.S.
+Congress, SAP executives presented Project Propel, an elite
+SAP initiative to build next-generation talent for the digital
+enterprise.
+We secure and support high profile thought leadership
+opportunities to appear before governments and demonstrate
+our expertise in advancing a new wave of innovation enabled by
+business analytics, in-memory computing, cloud computing,
+and enterprise mobility.
+MEMBERSHIPS IN TRADE ASSOCIATIONS
+SAP is a member of several trade associations across the globe,
+including the U.S. Chamber of Commerce; National Association
+of Manufacturers; Organization for International Investment;
+TechAmerica; Information Technology Industries Council;
+Association of Climate Change Officers; BITKOM; Federation of
+German Industries; VDMA; Plattform Industrie 4.0; Deutschland
+sicher im Netz e.V.; Transatlantic Business Council;
+DIGITALEUROPE; European Roundtable of Industrialists;
+Russian Union of Industrialists and Entrepreneurs; and the
+Russian-German Chamber of Commerce.
+SAP believes in transparency in the political process.
+Accordingly, we are registered in the European Transparency
+Register for interest representatives. In the United States, our
+company is registered and reports in compliance with the
+Lobbying Disclosure Act.
+
+16
+
+POLITICAL CONTRIBUTIONS
+In principle, SAP does not support any political parties. Under
+the laws of the United States, a number of SAP employees
+continue to exercise their right to create a political action
+committee (PAC). The SAP America PAC is an independent,
+registered, and strictly regulated organization that allows eligible
+employees in the United States to support political candidates at
+the state and federal level. Consistent with U.S. law, SAP SE
+exercises no control over or influence in the SAP America PAC.
+SAP America PAC expenditures are transparent and available on
+the website for the U.S. Federal Election Commission.
+
+SAP 2015 Integrated Report Sustainability Content Public Policy
+
+17
+
+Memberships
+To better understand and enable sustainable performance on a
+global level, both for our company and customers, SAP
+subscribes to and routinely engages in a range of third-party
+organizations, including:
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+Alliance for Integrity (AFIn)
+Association for Talent Development
+Association of Climate Change Officers
+ASUG
+Bitkom e.V.
+BME e.V.
+Business for Social Responsibility
+Corporate Executive Board Company
+CEO Council
+Dublin Chamber of Commerce
+CTIA
+ECCMA
+European Centre for Women and Technology
+Executive Corporate Learning Forum (ECLF)
+econsense
+Financial Women’s Association
+Greenhouse Gas Management Institute
+International Integrated Reporting Council (IIRC)
+National Defense Industrial Association (NDIA)
+Schmalenbach Gesellschaft für Betriebswirtschaft e.V.
+Sustainability Consortium
+The Business Council
+The Conference Board, Inc.
+Transparency International Germany
+United Nations Global Compact (since 2000)
+WRI / WBCSD Greenhouse Gas Protocol
+World Economic Forum
+
+SAP 2015 Integrated Report Sustainability Content Memberships
+
+18
+
+Security, Privacy, and
+Data Protection
+ Security, Privacy and Data protection are one of SAP material aspects.
+ We address security holistically throughout the software development
+process and solution provisioning of our cloud solutions.
+ Our global data protection and privacy policy secures data privacy in a
+world of increased access to personal data.
+While enabling our customers to Run Simple by tackling
+complexity, they expect SAP to address threats to their onpremise software environments, as well as to their cloud and
+mobile services. We view our customers’ trust in our company
+as a key element of our success. This trust extends to the high
+quality and security of our entire suite of products and services,
+as well as our ability to operate our cloud business both securely
+and reliably. For this reason, we continually strive to protect
+customers, business partners, and our own company through a
+range of coordinated practices.
+COMPREHENSIVE SECURITY PRACTICES
+Security has always been a very important topic for SAP and our
+customers. That is why we introduced a secure software
+development lifecycle to address security holistically throughout
+the development process.
+Our strategy includes:
+– A comprehensive global security expert team leading and
+guiding our development units to build at a high security level
+from the start of the product planning phase
+– Security functionality built into our products
+– Mandatory security training for developers
+– Solid testing and validation of our products, patches, and
+services before shipment
+– A software security response process to react rapidly to
+reported vulnerabilities
+– Security-related service offerings from our service and
+support organization
+– A specialized security consulting team
+– A large ecosystem of partners that specialize in security
+
+– A dedicated research organization focused on security
+– Corporate security at SAP locations to oversee the security of
+our data centers and development organization
+SECURE CLOUD COMPUTING
+With cloud offerings, our core business applications are now
+available to everyone, from the largest enterprises to the
+smallest businesses. Security and data protection principles as
+well as related requirements are especially critical in the cloud,
+and we view trust in our security and data protection practices
+as an important differentiator for the cloud business. Our cloud
+operations meet international standards for availability, security,
+and data protection that are among the highest in our industry .
+Currently, SAP is adding new data centers and consolidating
+existing data centers to efficiently meet customer demands in
+the cloud business and meet preferences for local and regional
+options. Our data center strategy is built on using our own data
+center locations as well as using co-location providers – both
+applying similar security and data protection requirements.
+Throughout all of our data center locations and our worldwide
+operations, we comply with the European Data Protection
+Regulation, which provides a very high level of protection, and
+adapt it to local needs, if necessary.
+At the same time, all SAP data centers are required to comply
+with the same standards for physical, technical, and operational
+security measures, which are among the highest in the industry.
+We also have measures to ensure that access to information is
+limited to a need-to-know basis and meeting a required set of
+privileges, and that all information is classified to reflect its level
+of confidentiality and is encrypted as appropriately as possible.
+We conduct full and incremental data backups on a daily,
+
+SAP 2015 Integrated Report Sustainability Content Security, Privacy, and Data Protection
+
+19
+
+weekly, and monthly basis. As a result, cloud solutions from SAP
+meet high standards and have been certified in many areas,
+including data center operations, software operations, business
+continuity, and internal inspection. Certifications include SOC1
+Type II, SOC2 Type II, ISO 27001, ISO 22301, and BS 10012,
+among others.
+MOBILE SECURITY
+To help our customers meet the diverse challenges of enterprise
+mobility head on, SAP Mobile Secure solutions provide robust
+mobile device management, mobile application management,
+and mobile content management. Through these advanced
+solutions, data, mobile apps, and content can be locked down to
+meet the strictest security requirements and ensure good
+protection if a mobile device is lost or stolen. These solutions
+manage and secure deployments of mobile devices for
+companies of any size, improving the mobile user experience
+while eliminating security bottlenecks.
+
+because of services and products that SAP provides with the
+help of our U.S.-based entities and/or U.S.-based suppliers
+could lead to fines, civil liability, loss of customers, damage to
+our reputation, and could have an adverse effect on our
+business, financial position, profit, and cash flows.
+Furthermore, SAP already offers an option for our customers by
+which customers can elect to have their personal data
+processed in and accessed from within the European
+Union/European Economic Area (EU/EEA) and Switzerland
+exclusively. The EU Access service from SAP is available for onpremise systems and a growing number of cloud solutions.
+In 2015, SAP did not experience any significant incidents
+regarding breaches of customer privacy and losses of customer
+data, or incidents which would have required reporting subject
+to the provisions of the German Federal Data Protection Act.
+
+STRICT DATA PROTECTION AND PRIVACY POLICIES
+We recognize the growing importance of privacy in a world of
+increased access to personal data. We adhere to our SAP Data
+Protection and Privacy Policy that is not only designed to secure
+the privacy rights of employees, customers, prospects, and
+partners, but also of anyone whose data is processed by SAP
+and falls within the legal parameters of SAP or our customers.
+Privacy is a top priority of our Executive Board and our legal
+entities must abide by internal policies and applicable privacy
+laws.
+With regards to data protection requirements, significant
+changes are expected subject to the upcoming European Data
+Protection Regulation. Furthermore, SAP is affected by the
+consequences of the decision of the European Court of Justice
+(ECJ), which declared Safe Harbor invalid, so that data transfers
+from within the European Union (EU) to the United States are no
+longer permitted based on Safe Harbor.
+Further, recent landmark decisions by the ECJ on data
+protection matters, as well as official statements made by the
+European data protection supervisory authorities require SAP to
+carefully review our globalized business practices. Most
+importantly, the ECJ on October 6 ruled that data transfers by
+European companies to data processors in the United States
+can no longer be based on Safe Harbor. While SAP has not
+widely relied upon Safe Harbor, the data protection supervisory
+authorities have challenged the legality of other transfer
+mechanisms, such as the Standard Contractual Clauses used by
+SAP on the same grounds by which the ECJ has declared Safe
+Harbor invalid. The data protection supervisory authorities have
+threatened to start enforcement activities as early as end of
+January 2016 against European companies that still transfer
+data to the United States (or grant U.S. companies remote
+access to systems containing personal data in the EU) based on
+a transfer mechanism that the authorities consider invalid.
+Enforcement activities against SAP or against SAP customers
+
+SAP 2015 Integrated Report Sustainability Content Security, Privacy, and Data Protection
+
+20
+
+Sustainable
+Procurement
+ SAP's on premise and cloud procurement solutions support our company
+in achieving our sustainability goals.
+ Our Global Procurement Organization fosters and encourages
+sustainability throughout the entire supply chain.
+ SAP solutions help make our customers and suppliers more sustainable
+businesses.
+SOURCING FROM SUSTAINABLE SUPPLIERS TO FURTHER
+IMPROVE OUR PERFORMANCE
+SAP not only promotes sustainability within the company, but
+also goes further to work with suppliers in procuring the most
+sustainable products possible. Throughout, we seek to buy
+products and services only from suppliers that meet high
+environmental and social standards. Furthermore, SAP started
+to partner with the ‘Made in a Free World’ initiative in order to
+identify and eliminate potential child and forced labor in our
+supply chain. Such procurement practices help us create a
+positive impact and provide levers through which we can reduce
+our emissions. In addition, working with suppliers that
+demonstrate a commitment to sustainability enables us to
+comply with the requirements of our own customers and to lead
+by example as well.
+SAP works with a supply chain that supports the development of
+our software, global operations, and employee base. Our
+purchases consist primarily of consulting and development
+services, travel, and marketing, as well as tangible goods related
+to IT equipment, car fleet, and facilities.
+DESIGNING AND UPDATING POLICIES TO MEET THE
+HIGHEST ENVIRONMENTAL AND SOCIAL STANDARDS
+To drive progress throughout our supply chain, SAP has made
+sustainability an integral part of our Global Procurement Policy,
+to which all procurement employees must adhere. Our goal is
+making sustainable procurement a seamless part of our Global
+Procurement Organization, thereby supporting SAP’s overall
+sustainability goals. This integration involves a continual
+
+evaluation of trade-offs among economic, environmental, and
+social aspects of our sourcing decisions.
+SAP makes social and environmental criteria mandatory in the
+selection process for new suppliers. To help realize these
+sourcing practices, a section on sustainability has been added to
+our global master contracts, asserting the right to receive
+information from our suppliers in advance on labor rights,
+health, safety, environmental protection, and other key
+sustainability issues to protect and comply with our daily
+business with regards to sustainability.
+In addition, our suppliers are required to accept the SAP
+Supplier Code of Conduct. This code is designed to be based on
+international standards that are relevant to our industry,
+including but not limited to, the Electronic Industry Citizenship
+Coalition (EICC) and the United Nations Global Compact. It
+contains provisions regarding human and labor rights,
+corruption and bribery, waste, water, air, and materials.
+For applicable goods and services, SAP sources suppliers that
+provide such goods and services on a local basis, for example,
+for the food available in our cafeterias. In our SAP Innovation
+Center in Potsdam, for example, we offer regional and local
+products. By using predominantly local products in our catering,
+we demonstrate that we support regional agriculture and thus
+have a positive impact on the environment.
+
+SAP 2015 Integrated Report Sustainability Content Sustainable Procurement
+
+21
+
+ASSESSING THE ENVIRONMENTAL AND HUMAN RIGHTS
+PERFORMANCE OF SUPPLIERS
+As part of our supplier management program, within a pilot
+program running for the USA we ask all new SAP suppliers, just
+as all our direct suppliers worldwide with an annual spend above
+€ 10k (reached in the reference year 2014) to answer
+sustainability related questions, which cover their sustainability
+strategy, dedicated company targets to drive environmental and
+social improvements, ISO 14001 certification and ensuring of
+human rights and labor standards. The answers help us to
+identify risks in our supply chain, as well as areas where we can
+work with our suppliers to improve performance. We also
+document the diversity of our suppliers in the United States
+quarterly.
+Our screening has helped to confirm there are no major risks or
+significant negative impact related to social or environmental
+performance. As a result, the intervals to conduct additional indepth impact assessments can be extended. When we identify
+risks, we assert the right to conduct on-site audits.
+Since 2012, we assess the greenhouse gas emissions of our
+supply chain, and continuously improve our respective
+methodology to identify and implement opportunities to reduce
+our collective footprint. For more information on these efforts,
+see the Energy and Emissions section.
+INCREASING EMPLOYEE INCENTIVES TO SELECT
+PREFERRED SUSTAINABLE PRODUCTS
+We remain conscious about what we purchase to run our
+business, and make it easy for our employees to do the same.
+Employees can easily identify and buy sustainable IT and office
+supplies from our SAP Ariba catalog. We have flagged these
+products with a “green leaf” to help employees make the right
+decision when buying products needed for everyday business.
+The green leaf represents products that are classified according
+to sustainability guidelines and certifications. For IT equipment,
+we use the externally accepted TCO Development label that
+considers not only environmental criteria but also takes into
+account under which conditions the hardware was produced. In
+Germany, we have also set up a completely green office supply
+catalog.
+
+– Enterprise mobility: SAP offers the option of a full year rail
+travel ticket in Germany, as an alternative to our company car
+option.
+– Electric vehicles: See chapter Energy and Emissions.
+– Bicycles: SAP has begun offering leased bicycles to
+employees in Germany. SAP has now leased 1,094 bicycles at
+the end of 2015.
+– Food catering: We defined key performance indicators
+(KPIs) for food service suppliers at our locations to measure
+their environment, health, or safety performance, and are
+exploring and pursuing more sustainable alternatives. At our
+offices in Germany, for example, our entire coffee and cocoa
+supply is organic and fair trade. Rollout is planned for
+selected locations worldwide. Using water dispensers instead
+of plastic bottles is already standard in most of the locations
+and should be implemented in all the remaining ones in 2016.
+– Renewable energy: See chapter Energy and Emissions.
+– Recycling paper: We now use 100% recycled paper in
+Germany and in the whole EMEA region. Furthermore, we
+plan to finalize the rollout globally in 2016, at the latest.
+– Paperless invoicing: We are achieving a reduction of
+150,000 paper invoices annually by utilizing e-invoicing
+available in cloud solutions from SAP Ariba. Also the travel
+expense reimbursement process proceeds fully paperless
+with receipts being scanned by the end users for the
+countries where original receipts are not needed for
+archiving.
+– Sustainable events: In 2015, some events such as CeBIT in
+Germany were powered by 100% renewable electricity. In
+2016, our SAP Development Kick-Off Meeting (SAP d-kom)
+will be run as a sustainable event. Together with an event
+agency, we will create a state-of-the-art approach and define
+KPIs to measure the initiative.
+– Green office materials: SAP now offers alternative
+environmental friendlier office materials products in their
+catalogs. These products are marked with a green leaf; on
+average one third of our office materials purchased in
+Germany in 2015 is considered green.
+
+We provide various information on CO2 emissions for business
+flights during the booking process with our Concur solution.
+Through this transparency, our employees can reconsider the
+CO2 emissions of business flights in their decision making
+process.
+CO-INNOVATING TO BENEFIT OUR SUPPLIERS AND SAP
+Since the beginning of the sustainability team in 2009, our
+procurement organization has worked closely with key suppliers
+and internal SAP organizations such as solutions and
+development to encourage sustainable practices in their
+respective businesses. We have continued to work directly with
+suppliers in key areas to ensure measurable improvement:
+
+SAP 2015 Integrated Report Sustainability Content Sustainable Procurement
+
+22
+
+Human Rights and
+Labor Standards
+ SAP respects, supports, and upholds global standards regarding human
+rights.
+ The SAP Global Human Rights Commitment Statement focuses on three
+main areas: our employees, our ecosystem of partners and suppliers, and
+our solutions.
+ We enforce our standards through targeted training, an auditing process,
+and grievance procedures.
+UPHOLDING STANDARDS FOR OUR EMPLOYEES, OUR
+ECOSYSTEM, AND OUR SOLUTIONS
+As a signatory of the United Nations Global Compact since
+2000, we believe that business has a responsibility to respect
+human rights throughout all business operations. Upholding
+high standards protects our reputation, supports diversity, helps
+to attract and keep top talent, and fosters our innovation as our
+employees work in fair, ethical conditions.
+We respect and support the values of the Universal Declaration
+of Human Rights, the OECD Guidelines for Multinational
+Enterprises and the International Labor Organization (ILO)
+Declaration on Fundamental Principles and Rights at Work by
+integrating human rights considerations into our standard
+business practices. In working to ensure that our commitment
+to human rights translates into practice, we take guidance from
+the United Nations “Protect, Respect, and Remedy” framework.
+We adopted a SAP Global Human Rights Commitment
+Statement that details our respect, support, and activities based
+on the international standards mentioned above. This
+commitment statement is based on, and is an extension of, the
+SAP Code of Business Conduct and has been approved by our
+Executive Board. It is applicable to all our operations and
+subsidiaries globally and will be reviewed on a regular base. We
+are committed to regularly updating the commitment statement
+and implemented some changes in 2015. As a result, the
+statement now includes stronger guidance for employee
+behavior and accountability for each topic, as well as clear
+
+references to our other guidelines (SAP Global Health and
+Safety Management Policy; SAP Data Protection and Privacy
+Policy, among others).
+We based this commitment statement on a global impact
+assessment that entailed interviewing stakeholders to assess
+the issues of greatest importance to SAP. For example, we
+found that child labor, freedom of association, and forced labor
+are less material issues for us as a business software provider.
+We do not manufacture products using vendor factories and
+contracted labor, and our employees are highly specialized and
+skilled, with an expectation of a competitive salary and benefits.
+Nevertheless, we are enforcing human rights and labor
+standards with our supply chain partners through our SAP
+Global Human Rights Commitment Statement and SAP Supplier
+Code of Conduct. We also believe that our employees are in a
+strong position to voice their opinions, making freedom of
+association a less relevant issue. For example, in our People
+Survey conducted in 2015, 76% of employees characterize the
+climate within SAP as one of trust. At the same time, however,
+we have identified complex, constantly evolving human rights
+risks and opportunities that the software industry as a whole
+faces, from accessibility to security and privacy.
+To that end, our commitment statement focuses on three main
+areas where SAP has the greatest impact: our employees, our
+ecosystem of partners and suppliers, and our solutions.
+
+SAP 2015 Integrated Report Sustainability Content Human Rights and Labor Standards
+
+23
+
+ENFORCING OUR STANDARDS THROUGH AN AUDIT
+PROCESS AND GRIEVANCE PROCEDURES
+Our sustainability organization is responsible and accountable
+for orchestrating our approach to respecting human rights and
+integrating human rights considerations into our business. The
+team works with colleagues from human resources (HR),
+procurement, and product development to create a
+comprehensive approach. To assess whether our human rights
+measures are sufficient, we consider external benchmarks,
+performance ratings, audit results, and stakeholder feedback. In
+addition, in 2012, we launched a global internal audit program to
+verify that our subsidiaries adhere to our standards. Since then,
+we conduct regular audits to check internal compliance with this
+policy. In 2015, we conducted a labor audit in our locations SAP
+China Labs and AGS operations in Shanghai and Beijing. There
+were no material findings within the audit. However, areas for
+improvement were identified and include establishing an
+employee council, enhancing air quality inside the buildings, and
+increasing awareness of team-building events.
+RESPECTING THE RIGHTS OF OUR EMPLOYEES AND
+PROVIDING THEM WITH A VOICE
+Our most material human rights and labor standards relate to
+our employees, and we maintain detailed policies in this area.
+For example, we have a long-standing policy of nondiscrimination in all aspects of our dealings with employees. We
+are also committed to providing a work environment free from
+unlawful harassment. Employees who feel they are being
+subjected to conduct that violates this policy are encouraged to
+report the conduct to their managers, HR officers, or a
+compliance office. In the United States, reports regarding
+harassment and discrimination must be escalated to the Legal
+Compliance and Integrity Office (LCIO). Prompt, thorough, and
+objective investigations are conducted upon receiving
+complaints, and if it is determined that prohibited
+discrimination, harassment, or other conduct has occurred, we
+take appropriate remedial action.
+Our global ombudsperson also plays a crucial role in
+representing the voice of employees. An independent and
+neutral authority, the ombudsperson is the main contact person
+for our global employee base to address issues and settle
+disputes. This work includes the investigation of employee
+complaints and the mediation of fair settlements. All employees
+can reach out to the ombudsperson on a confidential basis. The
+ombudsperson also helps the Executive Board analyze HRrelated complaints and consider ways to address potential
+issues before they occur.
+Employees have access to other channels to raise concerns
+about the workplace, including colleagues who are trained to be
+part of our internal mediation pool. Our LCIO oversees our
+antibribery and antitrust policies, along with other issues related
+to our business conduct. In addition to such grievance
+procedures, we work to uphold high standards by providing
+training to our employees on human rights issues that are most
+
+relevant to our business – namely, security, privacy, and
+antidiscrimination.
+COLLABORATING WITH OUR WORKS COUNCILS TO
+ENSURE FAIR LABOR PRACTICES
+As published in the SAP Human Rights Commitment Statement,
+we strive for constructive labor relations across the world,
+working within each country’s requirements.
+For example, since 2006, our employees in Germany are
+represented by works councils. The councils consist of elected
+union members and non-union members. The councils have the
+right to be consulted by SAP management on topics that define
+the work environment and work processes. These include HR
+initiatives, talent development, payment and benefits, equal
+opportunities, changes in work or IT processes, privacy
+protection, and health and safety protection.
+Other works councils exist in Belgium, France, Ireland, Italy, the
+Netherlands, Slovenia, Spain, and the United Kingdom. In
+addition, since 2012, we have a European Works Council (now
+SAP SE Works Council Europe) representing employees from all
+SAP subsidiaries in Europe. This body must be informed or, in
+special cases, consulted, on important transnational issues.
+Collective bargaining agreements with unions are only made in
+countries where legally required. Overall, about 50% of
+employees are represented by works councils, an independent
+trade union, or are covered by collective bargaining agreements.
+SAP management is committed to collaborate and
+communicate with councils’ representatives on corporate
+management decisions. While we do not have a global minimum
+notice period in place for making operational changes, we do
+provide timely information and consult with employee
+representatives whenever and wherever required.
+ADDRESSING HUMAN RIGHTS AND LABOR STANDARDS IN
+OUR SUPPLY CHAIN AND SOLUTIONS
+We expect all our business partners to respect human rights and
+to avoid complicity in human rights abuses. Our SAP Supplier
+Code of Conduct and our SAP Partner Code of Conduct require
+suppliers and partners, respectively, to uphold human and labor
+rights and to provide a safe and healthy work environment to
+employees. In addition, we work collaboratively with our
+suppliers on the implementation of these codes, which may
+include on-site audits to assess performance.
+As a business software company, we are committed to
+respecting and protecting human rights throughout the lifecycle
+of our products and services from design through development
+to use. We uphold internal standards for the protection of
+personal information and privacy rights as defined in the SAP
+Global Product Development Policy, the SAP Quality Policy, and
+related SAP Product Standards as well as in the SAP Data
+Protection and Privacy Policy. In addition, to support inclusion
+
+SAP 2015 Integrated Report Sustainability Content Human Rights and Labor Standards
+
+24
+
+efforts worldwide, we follow the recommendations of the
+current versions of the Web Content Accessibility Guidelines
+and Section 508 of the United States Access Board when
+designing our products and services.
+
+SAP 2015 Integrated Report Sustainability Content Human Rights and Labor Standards
+
+25
+
+Waste and Water
+ SAP continues to reduce our global e-waste.
+ We invest in technology for the composting and recycling of organic and
+other waste.
+ We increase efficiency by using gray water and by installing waterless
+restroom fixtures.
+CREATING A GLOBAL APPROACH TO RECYCLING
+E-WASTE
+Taking steps to recycle our waste and save water contributes to
+both our environmental and business performance, as we keep
+waste out of landfills, reduce our operational costs, and engage
+our employees in our efforts.
+While we seek to reduce all types of waste – from the food in our
+cafeteria to the paper in our printers – our single largest source
+of waste comes from the IT equipment, PCs, peripherals, and
+range of mobile devices that we use to develop our software. A
+sustainable procurement program complements our waste
+reduction efforts by offering sustainably produced IT
+equipment. Despite the significant growth of the company, we
+were able to reduce the ratio of laptops or PCs per user to a ratio
+of 1.09 (approximately 90,000 devices in use) in 2015
+compared to a ratio of 1.18 in 2011. To ensure quality, our
+software must be tested on multiple devices and on different
+platforms leading to laptop or PC user ratio greater than 1.
+In 2015, we continued our engagement with one of the world’s
+most sustainable companies as our e-waste disposal partner.
+This partner adheres to ISO 14001 standards and ensures that
+we have one uniform disposal process for e-waste. In addition,
+we support the reuse of “gently used” IT equipment internally if
+applicable through used equipment shops in some countries (in
+Germany and the United States). All other used equipment is
+resold or recycled in an environmentally friendly manner
+depending on the condition of the equipment (recycling quota
+for Germany: 99%).
+COMPOSTING AND RECYCLING OUR ORGANIC AND
+OTHER WASTE IN LOCATIONS WORLDWIDE
+In addition to e-waste, we estimate that we generated
+approximately 18 kilotons of waste in our offices, cafeterias, and
+product packaging worldwide in 2015 (2014: 12 kilotons).
+
+To reduce this waste, we run comprehensive recycling programs
+for our offices and cafeterias. For example, we process leftover
+food in our Walldorf headquarters in an external composting
+plant. The SAP Labs location in Bangalore, India, has installed an
+“organic waste converter” to recycle organic waste from its
+larger food services and cafeteria operations into odor-free,
+homogenized compost. At SAP offices in Palo Alto, an externally
+certified zero waste management system led to a landfill
+diversion rate of nearly 100% of the entire waste produced and
+significant savings over the past three years. At SAP offices in
+Dublin, California, applying the same leading practice resulted in
+95% waste diversion near the end of 2015. The SAP office in
+Vancouver is now approaching 81% waste to landfill diversion
+using the same leading practices. SAP America headquarters in
+Newtown Square, Pennsylvania, is currently in the zero waste
+program development. As our zero waste practice proved
+successful, we continue to roll it out and transfer these
+experiences to all our other sites across the globe as part of our
+ISO 14001 program across SAP, starting in North America.
+Beyond recycling, we try to use more sustainable materials in
+our business. For example, while we seek to encourage
+electronic download of our software, we package our software
+compact discs in cardboard and paper instead of plastic when
+customers request a physical disk. By end of 2015, employees in
+our EMEA locations only use recycled paper, and we are seeking
+to expand the availability and use of recycled paper globally.
+From 2009 to 2015, we have reduced our paper usage by almost
+25% through a global printing optimization initiative that, among
+other improvements, sets our printers to a default setting for
+double-sided printing and black-and-white printouts instead of
+color.
+In 2015, we continued our rollout of a new secure pull printing
+system on devices in public printing rooms that started in 2014.
+Employees must bring their ID badges to the public printing
+
+Fehler! Kein Text mit angegebener Formatvorlage im Dokument. Waste and Water
+Created: 29.03.2016 09:48
+
+26
+
+room to activate a job – thereby heightening awareness and
+adding a step to the printing process. At the end of 2015, we
+finished the global rollout with more than 56,000 employees
+using this secure pull printing method. Since Q3/2014, our
+printing volume has been reduced by 13.7 million pages. A
+printing dashboard – available to all SAP employees – shows the
+company’s progress in reducing paper consumption on global,
+regional, and country levels.
+In 2016, we plan to pilot an employee mobile app that will give
+employees their personal carbon footprint. The app will provide
+key figures such as number of printed pages or total gas
+consumption of a company car. We expect this will further
+create awareness towards the employees and will support the
+effort of changing working behaviors to act even more
+sustainable.
+USING GRAY WATER, INSTALLING WATERLESS FIXTURES,
+AND APPLYING OTHER EFFICIENCY EFFORTS
+While our operations are not water-intensive, we continue to use
+water as efficiently as possible. We estimate that we used
+approximately 1,060,000 cubic meters of water worldwide in
+2015 (2014: 972,000 cubic meters). As part of our efficiency
+efforts, we use rain and run-off water for irrigation and toilets in
+Walldorf, Germany, and other office locations. In some of our
+offices in Brazil, Canada, India, Israel, Singapore, Switzerland,
+and the United States, we have installed waterless restroom
+fixtures, flow restrictor valves, and reduced-flush or dual-flush
+toilets. For example, at SAP Labs in São Leopoldo, we reduced
+37% of potable water consumption, optimizing sewage
+treatment operation when compared to 2014. A few of our
+offices are located in areas with significant water scarcity. In
+locations such as Ra’anana, Israel, or in Bangalore, we address
+this issue with dedicated water management efforts that range
+from sound water management and reuse of treated sewage
+water to employee awareness campaigns.
+
+Fehler! Kein Text mit angegebener Formatvorlage im Dokument. Waste and Water
+Created: 29.03.2016 09:48
+
+27
+
+Non-Financial Notes:
+Social Performance
+GENERAL INFORMATION ABOUT THE SOCIAL NONFINANCIAL INDICATORS
+Boundaries
+Our boundaries take two different perspectives: SAP as a
+company, which includes all our legal entities and operations
+and supply chain, and SAP as a solution provider enabling our
+customers. These boundaries are listed in detail in the GRI G4
+Content Index.
+Social Indicators
+Data for our social indicators is collected and reported on a
+quarterly basis and is subject to external assurance for annual
+reporting.
+Employee Retention
+We define employee retention as a ratio that puts emphasis on
+employee-initiated turnover – in other words, we seek to
+measure how many employees choose to stay with SAP. We
+derive our retention rate by starting with our average number of
+employees expressed in FTEs in a given year and subtracting
+employee-initiated turnover. We then divide this figure by our
+average number of employees in that year to get our retention
+rate. As opposed to keeping a low turnover rate – which
+companies generally seek to do – we aim to keep our retention
+rate high. A higher retention rate signifies that fewer employees
+are choosing to leave SAP.
+In 2015, we scaled back in areas where we see no significant
+growth in the future, to fund our continued investments in
+growth areas including cloud, SAP HANA, and business
+networks all while keeping a solid financial foundation. As part of
+this program, roughly 3,000 employees moved into new jobs or
+left SAP.
+
+position is filled, there will be integration costs, for example for
+onboarding and training. These costs are usually higher than the
+savings from not occurring payroll costs during the time of the
+vacancy. From a revenue perspective, there is a gap during the
+vacancy period as no new revenue can be generated. Even when
+the position is filled, a new hire will need a certain amount of
+time to achieve 100% productivity.
+Women in Management
+We define women in management as the share of women in
+management positions as compared to the total number of
+managers.
+– At SAP, we differentiate between the following categories of
+managers:
+– Managers managing teams: Refers to managing teams of at
+least one employee or empty positions
+– Managers managing managers: Refers to managing
+managers that manage teams
+– Board members
+Business Health Culture Index
+The Business Health Culture Index (BHCI) measures the general
+cultural conditions in an organization that enable employees to
+stay healthy and balanced. The index covers questions
+concerning how employees rate their personal well-being and
+the working conditions at SAP, including our leadership culture.
+The BHCI is an indicator to what extent SAP successfully offers
+employees a working environment that promotes health
+supporting their long-term employability and their active
+engagement in reaching our ambitious corporate goals.
+
+We do not differentiate between gender when we analyze
+retention and turnover rates.
+
+The BHCI is calculated based on the results of an employee
+survey that is conducted annually. All employees were invited to
+take part in the 2015 people survey and 56,557 employees
+(response rate: 72%) participated in the people survey.
+
+Financial Impact of Employee Retention
+We understand that every replacement of an employee has a
+significant financial impact, from both a cost perspective and a
+lost revenue perspective. On the cost side there are recruiting
+costs such as advertisements or cost for interviews. Once a
+
+The BHCI score for 2014 was recalculated from 70% to 72%
+based on two updated questions in the people survey
+concerning work-life balance. The changes were done to simplify
+the questionnaire and to achieve better comparability against
+external benchmarks.
+
+SAP 2015 Integrated Report Sustainability Content Non-Financial Notes: Social Performance
+
+28
+
+Employee Engagement
+We define employee engagement as a score for the level of
+employee commitment, pride, and loyalty, as well as our
+employees’ feeling of advocacy for SAP.
+It is calculated based on the results of an employee survey that
+is conducted annually. All employees were invited to take part in
+the 2015 people survey and 56,557 employees (response rate:
+72%) participated in the people survey.
+Customer Loyalty
+We measure customer loyalty using the Net Promoter Score
+(NPS). The NPS is derived from the following survey question
+“How likely would you be to recommend SAP to friends or
+colleagues?” Customers choose from a range of 0 - 10.
+Customers choosing a 9 or 10 are considered Promoters.
+Passives answer the question with a rating of 7 or 8, and
+Detractors with a rating of 6 or less.
+The survey questionnaire is sent out once a year to all direct
+customers in all regions. From each company, multiple
+stakeholder groups (decision makers, influencers, end-users)
+are invited to participate in the survey. In 2015, 19% of our
+customers took part in the survey (that is, unique customer
+responses). In 2015 customers from SAP Hybris and Concur
+were included for the first time. Due to changes in sampling,
+resulting from ongoing efforts to implement the survey process
+holistically in recently acquired entities, the 2015 score is not
+fully comparable with the prior year’s score.
+The NPS is calculated using the following formula: NPS = % of
+Promoters - % of Detractors. Passives are not included in the
+calculation. The NPS can range from -100% to 100%.
+
+SAP 2015 Integrated Report Sustainability Content Non-Financial Notes: Social Performance
+
+29
+
+Non-Financial Notes:
+Environmental
+Performance
+WHAT CAUSES OUR EMISSIONS: A DETAILED VIEW
+We look at our energy usage and emissions throughout our
+entire value chain, gaining insights to help us manage our
+environmental performance and, in turn, help our customers do
+the same. Below we highlight the activities and trends that lie
+behind our results for 2015, from where we consume the most
+purchased electricity to the impact we have through the use of
+our products.
+Direct Emissions (Scope 1)
+Consumption of fuel for our company cars remains the single
+greatest contributor to our Scope 1 emissions. In 2015, we
+continued to enhance our car policy by linking emissions caps to
+efficiency improvements of the automotive industry. In addition,
+we focused on greater shifts in commuting habits. We continued
+the global roll-out of TwoGo by SAP, our ride sharing solution,
+which is now available in 114 SAP locations worldwide. To
+increase scale and attractiveness of TwoGo, the solution is
+available to the public free of charge. With our 20% electric
+vehicles in 2020 initiative we continue to offer incentives to our
+employees to purchase electrical cars. As example of additional
+mobility alternatives for our employees we established a
+company bike program in Germany, where employees have the
+opportunity to select between using a bicycle or a company car
+to commute to work. Furthermore we expanded the “Bahncard
+100” offering as a commuting alternative to a company car in
+Germany.
+Indirect Emissions (Scope 2)
+Our purchased electricity powers everything from our data
+centers to our buildings throughout the world. Whenever we
+refer to our green Cloud, we mean our Cloud is carbon neutral
+due to purchasing 100% renewable electricity certificates and
+compensation by offsets, at SAP. We continued a wide range of
+efficiency projects to reduce our energy usage, including facility
+upgrades and new LEED certifications. We also expanded the
+
+management of our environmental performance through ISO
+14001.
+Upstream Emissions (Scope 3)
+Only selected upstream emissions like business flights, paper
+consumption and co-locations of data centers are directly
+measured and hence included in our corporate target. The
+additional upstream emissions products and services or grey
+energy of our buildings are based on an estimate. Together our
+upstream emissions are responsible for about 16% of SAPs total
+carbon footprint.
+As it is expected that the emissions from external data centers
+(Co-Locations) will continue to grow in the future, SAP
+committed to a green cloud strategy, to compensate the
+emissions with renewable electricity certificates.
+Downstream Emissions (Scope 3)
+The vast majority of our overall emissions stem from the use of
+our software. When SAP software runs on our customers’
+hardware and on their premises, the resulting carbon footprint is
+about 21 times the size of our Scope 1 and Scope 2 emissions.
+We have developed a strategy to help our customers, hardware
+providers, and others address this impact. Given that we cannot
+control our customers’ IT landscapes because they usually
+contain many elements not related to SAP software, we share
+this responsibility with others.
+Our downstream emissions strategy focuses on two main areas.
+We continue to engage with our customers to optimize their on
+premise landscapes. We work with our customers to help them
+decommission legacy systems, archive unused data, and
+consolidate their business applications, as well as virtualize their
+system landscape – all of which helps reduce the size and cost
+of their IT environment. The second part of our strategy involves
+SAP HANA, which not only increases computing speed but can
+also help create much leaner and simpler operations. With SAP
+
+SAP 2015 Integrated Report Sustainability Content Non-Financial Notes: Environmental Performance
+
+30
+
+HANA, the worlds of analytic and transactional data are merged
+into one real-time, in-memory platform, which can further
+simplify the system landscape for our customers.
+
+(kWh/employee) by data center energy (own data centers plus
+external co-locations) per million Euro non-IFRS revenue
+(kWh/million € non-IFRS revenue).
+
+One of the most important ways that we can help our customers
+reduce their energy usage and emissions is by managing their
+SAP systems through managed cloud services provided by
+SAP’s green Cloud offerings, thereby enabling them to share our
+infrastructure. Using 100% renewable energy in our data
+centers in 2015, our green cloud strategy will further advance
+our ability to help our customers reduce their carbon footprints.
+
+GREENHOUSE GAS FOOTPRINT
+We define the Greenhouse Gas Footprint (GHG Footprint) or
+carbon footprint as the sum of all greenhouse gas emissions
+measured and reported for SAP, including the compensation
+with renewable energy or offsets. SAP’s preparation of the GHG
+Footprint is based on the Corporate Accounting and Reporting
+Standard (Scope 1 and 2) and the Corporate Value Chain (Scope
+3) Standard of the World Resources Institute/World Business
+Council for Sustainable Development. This approach conforms
+with the requirements of GRI G4 indicators EN3, EN4, EN15,
+EN16, and EN17.
+
+Offsets
+It is our policy to only apply offsets to our Scope 3 emissions.
+Our investment in Livelihoods Fund has provided us with 23
+ktons of high-quality carbon credits, which we used to
+compensate Scope 3 emissions in 2015.
+As a new approach we introduced carbon emission offsets for
+business flights in 2015. In addition to avoiding and reducing
+overall business flights, we began to offset selected business
+flights in the second half of 2015. This offset effort resulted in a
+compensation of 35 ktons of CO2.
+GENERAL INFORMATION ABOUT THE ENVIRONMENTAL
+NON-FINANCIAL INDICATORS
+Boundaries
+Our boundaries take two different perspectives: SAP as a
+company, which includes all our legal entities and operations
+and supply chain, and SAP as a solution provider enabling our
+customers. These boundaries are listed in detail in the GRI G4
+Content Index.
+Environmental Indicators
+Data for our environmental indicators is collected and reported
+on a quarterly basis and is subject to external assurance for
+annual reporting.
+Reporting on Total Energy Consumed, Data Center Energy, and
+Renewable Energy is based on the data collected for the
+calculation of our Greenhouse Gas Footprint (GHG Footprint).
+Therefore, the same reporting principles apply as for the GHG
+Footprint.
+All numbers are based on the metric system. Whenever we state
+“tons” we mean metric tons.
+The indicators greenhouse gas emissions per employee, total
+energy consumed per employee are calculated on the basis of
+an average number of employees. This average is calculated by
+adding the full-time equivalents (FTE) at the end of each quarter
+and then dividing the result by four. Representing our cloud
+strategy and increased consumption of computing power and
+thus data center energy by our customers we replace the
+performance indicator data center energy per employee
+
+Reporting Principles
+GHG accounting and reporting practices are evolving and are
+new to many businesses; however, the principles listed below
+are derived in part from generally accepted financial accounting
+and reporting principles. They also reflect the outcome of a
+collaborative process involving stakeholders from a wide range
+of technical, environmental, and accounting disciplines. (Source:
+GHG Protocol – Corporate Accounting and Reporting Standard)
+GHG accounting and reporting shall be based on the following
+principles:
+– Relevance: Ensuring the GHG inventory appropriately
+reflects the GHG emissions of the company and serves the
+decision-making needs of users – both internal and external
+to the company.
+– Completeness: Accounting for, and reporting all of GHG
+emissions sources and activities within the chosen inventory
+boundary. Disclose and justify any specific exclusion.
+– Consistency: Using consistent methodologies to allow for
+meaningful
+comparison
+of
+emissions
+over
+time.
+Transparently document any changes to the data, inventory
+boundary, methods, or any other relevant factors in the time
+series.
+– Transparency: Addressing all relevant issues in a factual and
+coherent manner, based on a clear audit trail. Disclose any
+relevant assumptions and make appropriate references to
+the accounting and calculation methodologies and data
+sources used.
+– Accuracy: Ensuring that the quantification of GHG emissions
+is systematically neither over nor under true emissions, as far
+as can be judged, and that uncertainties are reduced as far as
+practicable. Achieving sufficient accuracy to enable users to
+make decisions with reasonable assurance as to the integrity
+of the reported information.
+(Source: GHG Protocol – Corporate Accounting and Reporting
+Standard)
+
+SAP 2015 Integrated Report Sustainability Content Non-Financial Notes: Environmental Performance
+
+31
+
+SAP does not consider a dual reporting of the recently
+introduced amendment to the GHG Protocol Scope 2.
+
+Below you will find the different parameters contributing to our
+carbon footprint:
+
+Organizational Boundaries
+SAP defines our organizational boundaries by applying the
+operational control approach as set out in the GHG Protocol.
+Operational control is established when SAP has the full
+authority to introduce and implement its operating policies. The
+emissions of all operations over which the company has
+operational control and all owned, leased facilities, co-location
+data centers and vehicles that the company occupies/operates
+are accounted for in the GHG Footprint, being based on either
+measurements or, where no measured data is available, on
+estimations and extrapolations.
+A portion of SAP’s leased facilities operates under full-service
+and/or multi-tenant leases, where the building owner/manager
+pays for the utilities directly and SAP does not have access to
+actual energy consumption information. SAP includes these
+facilities in its definition of operational control and accounts for
+them by estimating related energy consumption.
+To support the growing demand for SAP’s cloud offerings, we
+sub-contract computation power in local third party data
+centers. Carbon emissions are approximated and included
+based on the consumed computation power.
+In most instances, however, SAP has 100% ownership of our
+subsidiaries. Accordingly, the difference between applying the
+control versus the equity approach is about 0.6 % based on SAP
+revenue. If further investments in associates were included, the
+difference would be even smaller, about 0.5%.
+The 2015 carbon footprint also includes the emissions from our
+acquisitions like Concur (official acquisition in Q4/2014),
+SuccessFactors (official acquisition in Q1/2012), Ariba (official
+acquisition in Q3/2012), Hybris (official acquisition in Q3/2013)
+and Fieldglass (official acquisition in Q2/2014).
+Our gross carbon footprint for 2015 was 704 ktons CO2 (683
+ktons CO2 in 2014). Our gross carbon footprint includes all
+relevant GHG emission categories in scope 1, 2 and 3 (see Figure
+1). Our net carbon footprint is reduced by purchased renewable
+energy certificates and carbon offsets in the respective
+reporting period.
+Methodology
+In our efforts to continuously improve the data quality of our
+corporate carbon footprint data, we conducted a
+comprehensive methodology update in 2010 to fully adapt the
+GHG Protocol guidelines. We are reporting all our GHG
+emissions in CO2 equivalents (CO2e), including the impact from
+CH4, N2O, and HFCs in our Scope 1 and 2 emissions. As SF6 and
+PCFs mainly occur in chemical processes, they are not relevant
+for us.
+
+Scope 1
+Stationary Combustion Facilities: Inclusion of CH4 and N2O;
+stable values (kWh/m2) instead of actual average consumption
+are used for extrapolation of buildings where no measured data
+is available (50% measured data). In cases where no specific
+information is available, natural gas reported by local sites is
+assumed to be reported in Lower Heating Value.
+Refrigerants Facilities: Refrigerant data is reported for
+completeness of our carbon footprint, but HFC emissions are
+fully estimated (0% measured data) based on the number of
+server units and office space with an A/C system; all
+refrigerants are assumed to be HFC134a.
+Mobile Combustion Corporate Cars: Inclusion of CH4 and N2O;
+in 2015, 31 countries reported actual fuel data (92% data
+coverage); for other countries stable values (liters/car) are used
+for extrapolation based on the number of corporate cars
+reported. The stable values for extrapolation are based on SAP’s
+2009 carbon footprint data.
+Refrigerants Corporate Cars: Refrigerant emissions are based
+on a rough estimate of HFC emissions per car and are
+extrapolated based on the number of corporate cars reported
+(0% measured data).
+Mobile Combustion Corporate Jets: Inclusion of CH4 and N2O
+(100% data coverage)
+
+SAP 2015 Integrated Report Sustainability Content Non-Financial Notes: Environmental Performance
+
+32
+
+Scope 2
+Electricity Office: Updated CO2 conversion factors and inclusion
+of CH4 and N2O based on country specific grid factors; stable
+values (kWh/m2) instead of actual average consumption are
+used for the extrapolation of buildings where no measured data
+is available (75% data coverage). The stable values are based on
+SAP’s 2009 carbon footprint data.
+Electricity Data Centers: Updated CO2 conversion factors and
+inclusion of CH4 and N2O based on country specific grid factors;
+electricity consumption for internal data centers is extrapolated
+based on the number of server units (73% data coverage). The
+stable values are based on SAP’s 2009 carbon footprint data.
+Purchased Chilled and Hot Water, Steam: Inclusion of CH4 and
+N2O based on country-specific grid factors (100% data
+coverage)
+Scope 3
+The following scope 3 GHG emissions are included in our
+corporate GHG target:
+Business Flights: Average emission factors for business flights
+are calculated based on short-, medium-, and long-haul flights;
+extrapolation of CO2 is based on the actual distance travelled
+and the net (excluding tax) costs (58% data coverage), emission
+factors for business flights do not consider the radiative forcing
+factors.
+Rental Cars: Average emission factors from rental cars are
+calculated based on actual distance traveled and these factors
+are used for extrapolation based on the costs (89% data
+coverage).
+Train Travel: Average emission factors from train travel are
+calculated based on an actual distance traveled and these
+factors are used for extrapolation based on the costs (31% data
+coverage).
+Business Trips with Private Cars: Carbon calculation is based
+on distance traveled with a private car. Train and company car
+trips are excluded from this activity type (58% data coverage).
+Employee Commuting: A system-integrated commuting survey
+about the distance to work and the mode of transport is
+conducted annually for SAP globally. The survey responses are
+the basis for carbon calculation of employee commuting in the
+following year. More than 24’000 employees responded to the
+survey in 2014. Commuting for non-responding employees and
+quarterly updates are extrapolated based on the number of
+FTEs excluding those employees who own a corporate car.
+Electricity External Data Centers: Updated CO2 conversion
+factors and inclusion of CH4 and N2O based on country specific
+grid factors; electricity consumption for external data centers is
+extrapolated based on the data center capacity, a utilization and
+
+power usage effectiveness (PUE) factor. As the utilization and
+PUE factors are not available for all external data centers, the
+average of all provided factors is used as estimate for external
+data centers with missing information (87% data coverage).
+Logistics: Calculation is based on the actual number of parcels
+and mail sent from the German logistics center and is
+extrapolated globally.
+Data Download: Carbon calculation is based on the data volume
+downloaded by our customers globally (100% data coverage).
+Paper Consumption: Calculation for emissions caused by the
+consumption of printing paper is based on printer tracker data
+(100% data coverage).
+An External Data Center is a local computing center with server
+units running SAP software that is operated by an external
+partner. Those emissions are classified as Scope 3. The SAP
+owned and managed data centers, coming from acquisitions
+(e.g. Sybase or Ariba) are classified as Scope 2 GHG emissions.
+Additionally, we annually measure and publish the following
+Scope 3 GHG emissions based on the GHG Protocol’s Corporate
+Value Chain (Scope 3) Accounting and Reporting Standard.
+These GHG emissions are not included in our corporate target
+and are meant to be for indicative purpose only.
+Upstream:
+Purchased Goods and Services: Globally available monetary
+information is used to assess the carbon emitted in the
+production of goods and services by different sectors in the
+economy. The financial data used covers about 90-95% of our
+purchased goods and services.
+Capital Goods: Globally available monetary information is used
+to assess the carbon emitted in the production of capital goods
+by different sectors in the economy (financial data coverage:
+100%)
+Fuel and Energy-Related Activities Not Included in Scope 1 or
+2: Upstream emissions of purchased fuels, upstream emissions
+of purchased electricity, and transmission and distribution
+losses. Emissions are calculated based on fuel and electricity
+consumption data and on regional emission factors for energy
+losses and fuel production in CO2equivalents (data coverage of
+energy/fuel consumption data: see relevant Scope 1 and 2
+categories above).
+Waste Generated in Operations: Includes all recyclable and
+non-recyclable waste (including e-waste) generated by offices
+and data centers from our global operations. Estimates are
+based on German totals and are extrapolated by FTE headcount.
+Emissions are calculated using Scope 1 and 2 emission factors
+for end-of-life treatment. Data on municipal waste was provided
+
+SAP 2015 Integrated Report Sustainability Content Non-Financial Notes: Environmental Performance
+
+33
+
+(estimated) for about 40% of the total space, e-waste data was
+provided for about 25% of the FTEs (for Germany).
+
+Permanent: The GHG reductions will be permanent or have
+guarantees to ensure that any losses are replaced in the future.
+
+Due to the link of our upstream to operating expenses, for 2015
+we extrapolated our upstream figures by multiplying our four key
+contributors to our upstream emissions from 2014 with the year
+over year increase of operating expenses between 2014 and
+2015.
+
+Verifiable: The GHG reductions will result from projects whose
+performance can be readily and accurately quantified,
+monitored and verified.
+
+Downstream:
+Use of Sold Products: Resource need per year is determined
+using a landscape simulation. It is extrapolated globally based
+on the number of productive installations and power usage
+effectiveness (PUE). We use a PUE factor of 1.9, representing a
+global average determined by The Green Grid Consortium.
+Emissions are calculated using a global electricity emission
+factor. Due to the special characteristics of software products,
+an assessment of resource need per year was chosen. This
+deviates from the minimum boundaries as defined by the GHG
+Protocol’s Corporate Value Chain (Scope 3) Accounting and
+Reporting Standard, which requires assessment and disclosure
+of “direct use-phase emissions of sold products over their
+expected lifetime”. The calculation covers all SAP’s main
+solutions including on premise product portfolio, Sybase
+installations and for the first time SAP HANA, SAP Mobile and
+SAP Cloud. Mobile apps are not included. Calculation
+parameters will be adapted when significant technology changes
+occur.
+Not included: Upstream Transportation and Distribution (due to
+data complexity and de minimis); Upstream Leased Assets (not
+applicable); Processing of Sold Products (not applicable); Endof-Life Treatment of Sold Products (not applicable);
+Downstream Leased Assets (not applicable); Franchises (not
+applicable); and Investments (not applicable).
+External Reduction
+Renewable Electricity: Purchased renewable electricity is
+already deducted from our Scope 2 emissions in the net carbon
+footprint; CO2, CH4, and N2O conversions are based on grid
+specific factors from the origin of renewable electricity; data is
+only valid with an official certificate or written confirmation of
+the electricity supplier (100% data coverage).
+Offsets: Purchased offsets are reported separately based on the
+carbon reduction amount purchased. SAP ensures that the GHG
+emission reductions from offsets are credible and that they
+meet four key accounting principles:
+Real: The quantified GHG reductions will represent actual
+emission reductions that have already occurred.
+Additional: The GHG reductions will be surplus to regulation and
+beyond what would have happened in the absence of the project
+or in a business-as-usual scenario based on a performance
+standard methodology.
+
+A requirement for offsets is that the minimum standard (VCS –
+Voluntary Carbon Standard) is applied. In 2015 our strategic
+investment in the Livelihoods fund has provided us 23 ktons of
+offsets which are included in our overall net carbon footprint.
+CO2 Emission Factors
+The calculation of the above emissions is based on factors for
+conversion and extrapolation provided, among others, by IEA,
+WRI, US EPA, UK DEFRA, DEHSt, Environment Canada, GHG
+Protocol, and SAP’s own measurements.
+Where relevant, our CO2 Emission Factors consider all CO2
+equivalents (CO2e) for all greenhouse gases. Global Warming
+Potential factors are based on the Second Assessment Report
+(SAR) of the Intergovernmental Panel on Climate Change
+(IPCC).
+Comparability
+The GHG Protocol requires that, in the case of a
+structural/organizational change or a change in methodology,
+companies adjust to historic year inventories if the change has a
+significant effect on reported emissions. SAP uses a significance
+threshold of 5% for structural/organizational changes and 1%
+for methodology changes of total current year emissions. For
+example, a structural/organizational change that increases or
+decreases the total inventory by 5% or more will trigger an
+adjustment of historic years. A structural/organizational change
+that increases or decreases the total inventory by less than 5%
+will be considered insignificant and thus no adjustment will be
+made.
+Additionally, we annually measure the cumulative cost
+avoidance of our carbon emissions, compared to a business-asusual scenario. In 2015 we introduced a cumulative cost
+avoidance calculation based on a triennial rolling method. This
+leads to additional comparability and we will continue to
+calculate our cumulative cost avoidance with the triennial rolling
+approach.
+Data Quality Carbon Footprint
+Error Correction: If a significant error is found in the base year
+inventory, it will be corrected. If a significant error is found which
+does not affect the base year but has an impact on this year’s or
+last year’s emissions, it will be corrected. An error is significant if
+it effects SAP’s gross carbon footprint by more than 1%. No
+restatement due to error correction of historical data was
+necessary in 2015.
+
+SAP 2015 Integrated Report Sustainability Content Non-Financial Notes: Environmental Performance
+
+34
+
+RENEWABLE ENERGY
+We define renewable energy as electricity coming from
+renewable energy sources such as wind, solar, hydro,
+geothermal, and biomass. The shares of renewable energy used
+by SAP are calculated by adding the amount of renewable
+energy specifically sourced, produced onsite by our own solar
+cells and covered by Renewable Energy Certificates (RECs). We
+have developed a quality standard that defines key criteria for
+the procurement of RECs in order to drive change in the
+electricity market and to avoid the risk caused by low quality
+products. The key characteristics of SAP’s Renewable Energy
+purchasing guidelines are:
+
+the creation, the maintenance and the cloud consumption of our
+software in internal and external data centers.
+
+Type of renewable electricity: SAP considers solar, wind,
+biogas, geothermal and hydro power as renewable electricity.
+Renewable electricity from biomass is only considered if it is
+disconnected from coal or other fossil power plants and if the
+biomass itself is not related to deforestation.
+
+TOTAL ENERGY CONSUMED
+We define total energy consumed as the sum of all energy
+consumed through SAP own operations, including energy from
+renewable sources. It is calculated based on the consumption
+data obtained through our measurements for the GHG footprint
+and is the sum of energy consumption from stationary
+combustion facilities, mobile combustion corporate cars, mobile
+combustion corporate jets, electricity offices, electricity data
+centers, electricity external data centers, and purchased chilled
+water, purchased hot water, and purchased steam. For more
+information, see Greenhouse Gas Footprint.
+
+Installation: The power plant producing the renewable energy
+shall not be older than 10 years. In case of a renovation of an old
+power plant, the 10 year rule applies only to the additional
+electricity output due to efficiency increase. Furthermore, SAP
+does not consider RECs from government supported power
+plants.
+Vintage: The renewable electricity must be produced in the
+same year or the year before with regard to the reporting period
+it will be applied.
+Accounting: To calculate the carbon reduction achieved by the
+REC, SAP will use the grid-specific emissions factor. As RECs
+are considered independently to the electricity delivered
+physically to our facilities, the carbon reduction achieved
+through their procurement can be allocated to any location
+globally.
+
+Data center energy consumption per euro is calculated by
+dividing the electricity consumption of all internal and external
+data centers measured for the calculation of our GHG Footprint
+(for more information, see Greenhouse Gas Footprint: Electricity
+Data Centers and Electricity External Data Centers) by the total
+non-IFRS revenue.
+We will continuously improve data
+consumption of external data centers.
+
+quality
+
+of
+
+energy
+
+WATER
+By water, we mean total freshwater withdrawn for our facilities.
+Data is based on estimations from sites and is largely
+extrapolated. Data was provided (estimated) for 55% of the
+total space; the remaining data is extrapolated based on square
+meter footage.
+WASTE
+By waste, we mean any recyclable or non-recyclable waste
+produced in our offices and data centers. Data is based on
+estimations from sites and is largely extrapolated. For more
+information, see Greenhouse Gas Footprint.
+
+All energy outside the above mentioned categories falls within
+conventional energy. We define conventional energy as
+electricity coming from the standard electricity grid. The
+electricity grid provides a country-specific energy mix including
+all available sources, either fossil, nuclear, or renewable. Energy
+from renewable sources as part of the local grid is calculated as
+conventional energy and not displayed as part of renewable
+energy.
+DATA CENTER ENERGY
+We define data center energy as the sum of energy consumed to
+provide internal and external computation power in SAP data
+centers and contracted third party data centers. A data center is
+any global, regional, or local computing center (location with any
+number of server units) that is part of our Global IT
+infrastructure strategy. In 2015 we continued analyzing and
+reporting internal and external data center energy consumption
+intensity against our non-IFRS revenue. Our revenue represents
+
+SAP 2015 Integrated Report Sustainability Content Non-Financial Notes: Environmental Performance
+
+35
+
+Management’s
+Acknowledgement of
+the SAP Integrated
+Report 2015
+The International Integrated Reporting (<IR>) Framework
+launched by the International Integrated Reporting Council in
+December 2013 has a provision that an integrated report should
+include a statement in which management acknowledges its
+responsibility for the report. Our respective statement for 2015
+is as follows:
+
+continue to strive for further alignment with the <IR>
+Framework in future reports.
+
+The SAP Integrated Report 2015 is available online only. The
+Executive Board is aware of its responsibility to ensure the
+integrity of our integrated report. The members of the Executive
+Board have applied their collective mind to the preparation and
+presentation of our integrated report.
+Similar to our previous reports in 2013 and 2014, our 2015
+integrated report is structured along the content elements
+suggested in the <IR> Framework. We have applied the Guiding
+Principles of the <IR> Framework, but we also must ensure our
+compliance with legal requirements, such as the provisions
+regarding financial reporting in the German Commercial Code as
+set out in detail in the German Accounting Standard 20 Group
+Management Report, while balancing other reporting standards
+such as the G4 guidelines of the Global Reporting Initiative
+(GRI), with the <IR> Framework.
+Our Executive Board has reviewed the SAP Integrated Report
+2015, including the consolidated financial statements, the
+combined management report, as well as the other additional
+content related to the GRI G4 Content Index.
+Our Executive Board believes that the integrated report is
+presented in accordance with the <IR> Framework as far as
+possible given the aforementioned restrictions. Should the
+aforementioned restrictions ever cease to apply, we will
+
+SAP 2015 Integrated Report Sustainability Content Management’s Acknowledgement of the SAP Integrated Report 2015
+
+36
+
+Integrated
+Performance Analysis:
+A holistic view of our
+performance
+APPROACH
+Linking our non-financial and financial performance:
+Advancing our model
+Integrated reporting is based on the idea that social,
+environmental, and economic performance are interrelated,
+with each realm creating tangible impacts on the others. To
+achieve a truly integrated strategy, we believe that we must
+understand these connections and work to support them
+throughout SAP.
+Over the past several years, we have created a framework for
+establishing concrete links between non-financial and financial
+performance. Building on this, we determined how four social
+and environmental indicators – our Business Health Culture
+Index (BHCI), employee engagement, retention and emissions –
+impact SAP’s operating profit. This year, for the first time, we
+calculated and documented the complete return on investment
+(ROI) along one of our cause-and-effect chains using a concrete
+example. Our results offer hard data showing how an integrated
+strategy not only mitigates our environmental impact and
+enhances the wellbeing of our employees, but also boosts our
+business success.
+We act on this data both within SAP and our broader network of
+customers and partners. We are transparent about our
+methodology in the hopes of inspiring other companies to
+document the benefits of an integrated strategy. And we will use
+our results to evolve our own strategy and invest in tangible
+steps to create positive economic, social and environmental
+change.
+
+RESULTS
+As cited in the diagram accompanying our “approach”, recent
+studies have documented the correlation between such
+indicators as employee engagement and revenue or profit. In
+2014, utilizing our own internal data, we established these links
+in concrete terms for SAP, putting a dollar value on such
+measures as how well we engage our employees, support their
+work/life balance, inspire them to commit to our vision and
+strategy, and succeed in reducing our carbon emissions.
+Our methodology started with the creation of cause-and-effect
+chains. These diagrams show how specific actions we take at
+SAP lead to shifts in behavior, which in turn create impacts for
+our business and finally produce a financial result. Such analysis
+establishes more than a correlation between non-financial
+indicators and financial impact. Instead, they reveal why and
+how something such as employee engagement ultimately leads
+to gains or losses in business performance. We believe that such
+insights are a prerequisite for fully modeling the financial impact
+of non-financial performance.
+Using cause-and-effect analysis to document financial
+impact
+To create and validate these chains of cause and effect, we
+turned to both internal and external stakeholders. We started
+with those inside SAP, meeting in small groups that rigorously
+examined the cascade of impacts from activities related to each
+of our non-financial indicators. We next conferred with external
+stakeholders, including academics, financial investors, and SAP
+peers, to vet our findings.
+We then used real data from SAP to translate our cause-andeffect chains into a documented impact on operating profit. For
+
+SAP 2015 Integrated Report Sustainability Content Integrated Performance Analysis: A holistic view of our performance
+
+37
+
+example, our initial assessment found that by fostering work
+flexibility, we could improve work-life balance, which in turn
+enhances productivity. Building on this assessment, our analysis
+determined that this greater productivity leads to tangible
+financial gains.
+Since 2014, utilizing such techniques as linear regression
+analysis, we have been documenting the financial impact of four
+non-financial indicators: our BHCI (explained in more detail
+below), employee engagement, retention, and carbon
+emissions. We assessed the first three indicators in terms of
+what a change by one percentage point would mean for SAP’s
+operating profit, and we also assessed what a 1% decrease in
+emissions would mean for operating profit, as detailed below.
+Our results for 2015:
+–
+–
+–
+–
+
+Business Health Culture Index1: €75 million to €85 million
+Employee engagement1: €40 million to €50 million
+Retention1: €45 million to €55 million
+Carbon emissions1: €4 million
+
+A case study: Documenting the financial impact of a
+healthy work culture
+Below we present the cause-and-effect chain for BHCI,
+illustrating how we established the financial impact of this nonfinancial indicator. BHCI assesses the health of both our
+organizational culture and our employees. Our chain starts with
+activities that support health at SAP, from flexible work
+arrangements to leadership development to our global health
+and innovation awareness weeks. Each of these strengthens our
+organizational culture and helps our employees manage stress,
+achieve work/life balance, feel empowered in their roles, and
+perform at their best.
+Cause-and-Effect Chain for the Business Health Culture Index
+(BHCI)
+
+Moving from left to right, we diagram the impact of these
+activities. Flexibility, for example, enhances stress resilience and
+work/life balance, which in turn leads to greater productivity.
+Greater productivity then results in a higher operating profit.
+A case study: Calculating the ROI for the “Join In – Stay
+Fit!” health initiative at SAP Deutschland SE & Co.KG
+This year, for the first time, we were able to calculate the ROI for
+a concrete example along one of our cause-and-effect chains,
+using real data from the “Join In – Stay Fit!” program at SAP
+Deutschland SE & Co.KG. The result: a positive ROI of 3.9. This
+means that operating profit increased €3.90 for every €1
+invested in the program.
+The cause-and-effect chain for our Business Health Culture
+Index (BHCI) illustrated above was taken as the basis for the
+calculation. In 2014, we implemented a number of specific
+measures within SAP Deutschland SE & Co. KG (around 4,800
+staff) that were aimed at improving work-life balance (including
+employee workshops that raised awareness and provided
+concrete tips on how to change one's behavior). We were able to
+clearly map the direct and indirect costs of this implementation,
+as well as measure the difference in the work-life balance plus its
+effect on the business health culture index (BHCI) before and
+after the program's launch.
+The calculation of the ROI in this example, based on the direct
+and indirect costs of the measures as well as the positive
+monetary impact of the resulting change in the BHCI, shows the
+measures make sense from a financial perspective as well.
+IMPACT
+Producing an integrated report signals our commitment to the
+idea that traditional financial measures alone do not paint a full
+picture of a company’s performance. But we also believe that
+integrated reporting is only as effective as the actions that
+surround it. Even having an integrated strategy is not enough.
+We must also implement such a strategy by taking real steps to
+support our performance in every dimension – economic, social
+and environmental.
+We believe that documenting the financial impact of nonfinancial indicators brings us closer to taking these steps. Rather
+than simply stating the business case for social or
+environmental change, we now have the numbers to back it up.
+This documentation helps to shift the conversation for business
+leaders, investors, employees and other key stakeholders. It
+establishes a level playing field for a wider range of actions that
+support financial success; engaging employees or reducing our
+emissions can no longer be seen as a nice-to-have, but as
+essential to carrying out a successful business strategy.
+
+The results reflect a quantification of a gross effect related to a change of a certain KPI and does not allow for
+any net impact measurement. The evaluation of required investments to change the non-financial KPI's was
+excluded from the scope. The economic gross impact of a single KPI includes interdependencies to other
+KPIs, which is why our results do not allow for a cumulative effect across all KPIs included in this report. All
+calculations are based on non-IFRS figures (as shown in the Integrated Report 2015).
+1
+
+Moving from creating a model to taking action
+As we move forward, we aim to continually do our part to help
+spread these ideas and their adoption, both inside and outside
+SAP. We are working to embed these results more and more
+
+SAP 2015 Integrated Report Sustainability Content Integrated Performance Analysis: A holistic view of our performance
+
+38
+
+into our decision-making and quarterly business reviews, so that
+they are used to help steer our business along with such factors
+as revenue and cost. Our goal is for all senior business leaders at
+SAP to recognize – and be held accountable for – the fact that
+improving such measures as employee engagement also boosts
+financial performance.
+At the same time, we will continue to share our methodology
+with our customers to help them win in the marketplace. We
+now know that companies can achieve higher operating profit –
+resulting from both greater cost efficiency as well as revenue
+growth – by acting across economic, social and environmental
+dimensions. More important, such companies will be better
+equipped to lead in the future, as they navigate the world’s most
+pressing challenges and help to bring about long-term
+sustainable change.
+
+SAP 2015 Integrated Report Sustainability Content Integrated Performance Analysis: A holistic view of our performance
+
+39
+
+Details: How our nonfinancial and financial
+performance indicators
+are interconnected
+EMPLOYEE ENGAGEMENT
+Employee engagement is the level of employee commitment,
+pride, and loyalty, as well as the feeling of employees of being
+advocates for their company.
+Capability Building >> Employee Engagement:
+Because it is closely linked to how much a company develops its
+employees and supports their careers, internal hiring to
+management and expert positions positively affects employees’
+commitment and loyalty. This hypothesis was confirmed by a
+study of Bedarkar & Pandita (2014), which identified “career
+opportunities” as the key driver of employee engagement.
+Employer Ranking >> Employee Engagement:
+Studies find that a company’s image and the associated pride of
+employees (important criteria in employer rankings) are key
+drivers of employee engagement (Global workforce study,
+2012).
+Employee Engagement >> Employer Ranking:
+We believe that SAP will achieve higher rankings as an employer
+if our employees demonstrate a high level of employee
+engagement, as employee engagement is an important criterion
+of employer rankings.
+Social Investment >> Employee Engagement:
+Mueller et al. (2012) have found that employees’ perception of a
+company’s commitment to corporate social responsibility is
+positively linked to their own commitment to the organization.
+With corporate social responsibility and social investment
+becoming more and more important to SAP, we expect to see
+employee engagement increase as well.
+
+Employee Engagement >> Profit:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of Employee Engagement. Now we can show
+what a change by one percentage point of Employee
+Engagement would mean for SAP’s operating profit, as you can
+see under the section “Results”.
+Profit >> Employee Engagement:
+In our view, a high profit, as great business news, can raise
+employee morale, encourage identification with our vision, and
+thus drive employee engagement. On the other hand, we believe
+that a high profit can also have a negative impact on employee
+engagement. If, to reach an ambitious profit target, cost savings
+and budget cuts are implemented, employees might feel
+constrained and dissatisfied.
+BHCI (Business Health Culture Index)
+>> Employee Engagement:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of the BHCI. We could proof that there is a
+significant positive correlation between the BHCI and Employee
+Engagement (the BHCI is influencing positively the Leadership
+Trust Index, which is influencing positively the Employee
+Engagement index, all correlations are significant).
+Employee Engagement >> Employee Retention:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of Employee Engagement. We could proof that
+there is a significant positive correlation between Employee
+Engagement and Employee Retention.
+
+SAP 2015 Integrated Report Sustainability Content
+Details: How our non-financial and financial performance indicators are interconnected
+
+40
+
+GHG Footprint >> Employee Engagement:
+We believe that lowering SAP’s GHG footprint can have a
+positive impact on employee engagement because loyalty will
+rise as employees see their company act responsibly towards
+the environment. However, because lowering emissions also
+brings certain restrictions, such as flying less, it may also have a
+negative impact on employee engagement.
+Employee Engagement >> GHG Footprint:
+We believe that engaged employees are likely to want to help
+SAP achieve its target in lowering its GHG emissions. Yet
+another possible outcome is that a higher level of employee
+engagement may lead to more business activity requiring travel
+and therefore could lead to an increase in GHG emissions.
+Employee Engagement >> Revenue:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of Employee Engagement. We could proof that
+there is a significant positive correlation between Employee
+Engagement and Revenue.
+Revenue >> Employee Engagement:
+We believe that a higher revenue will have a positive impact on a
+company’s work environment, thereby increasing employees’
+pride and loyalty. This is also stated in a study of Harter et al.
+(2010), saying that improving financial performance appears to
+increase general satisfaction and some specific work
+perceptions.
+BHCI (BUSINESS HEALTH CULTURE INDEX)
+The BHCI is a score for readiness of employees to accept
+change, in particular their perception of affiliation and purpose,
+leadership, recognition, empowerment, reward, stress level, and
+life balance at SAP.
+Women in Management
+>> BHCI (Business Health Culture Index):
+We believe that a balance of men and women in management
+will help to create a more balanced working environment, one in
+which diversity is valued and people feel free to express their
+individual styles. It is our expectation that such an environment
+will positively affect our Business Health Culture Index.
+BHCI (Business Health Culture Index)
+>> Women in Management:
+McKinsey (2013) found that different elements of the BHCI such
+as flexible working hours, the ability to work from home, or
+career flexibility – can make it easier for women to balance work
+and family life. This leads us to conclude that the higher our
+BHCI, the more attractive SAP will become to women who are
+seeking management positions.
+BHCI (Business Health Culture Index) >> Profit:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of the BHCI. Now we can show what a change
+
+by one percentage point of the BHCI would mean for SAP’s
+operating profit, as you can see under the section “Results”.
+Social Investment
+>> BHCI (Business Health Culture Index):
+We believe that by supporting our employees in engaging in
+activities with a positive social impact, such as skills-based
+volunteering, we are enhancing the meaning they find in work.
+This sense of purpose helps to create a richer and more
+rewarding work environment that reduces stress and promotes
+satisfaction and well being.
+BHCI (Business Health Culture Index)
+>> Employee Engagement:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of the BHCI. We could proof that there is a
+significant positive correlation between the BHCI and Employee
+Engagement (the BHCI is influencing positively the Leadership
+Trust Index, which is influencing positively the Employee
+Engagement index, all correlations are significant).
+BHCI (Business Health Culture Index) >> Revenue:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of the BHCI. We could proof that there is a
+significant positive correlation between the BHCI and Revenue.
+GHG Footprint >> BHCI (Business Health Culture Index):
+Many of SAP’s GHG emissions are caused by business travel
+and commuting, which we believe can have both negative and
+positive impacts on employee health. Some people may
+experience greater stress through more travel because they
+have less time to spend at home, are jet lagged, or lose valuable
+working hours; others may enjoy travel, which enables them to
+experience other places, meet new people, and get a taste of life
+as a ‘jet setter’.
+BHCI >> Customer Loyality:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of the BHCI. We could proof that there is a
+significant positive correlation between the BHCI and Customer
+Loyality.
+EMPLOYEE RETENTION
+Employee retention is the ratio of the average headcount
+(expressed in full-time equivalents) minus employee-initiated
+terminations (turnover) divided by the average headcount,
+taking into account the past 12 months.
+Capability Building >> Employee Retention:
+According to the Global Workforce Study (2012) the “chances to
+advance the career” is the second-most important driver of
+employee retention. By promoting and thus growing from within,
+SAP creates career opportunities for its employees. In turn, it is
+our expectation that this opportunity leads to an increase in
+employee retention.
+
+SAP 2015 Integrated Report Sustainability Content
+Details: How our non-financial and financial performance indicators are interconnected
+
+41
+
+Employee Engagement >> Employee Retention:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of Employee Engagement. We could proof that
+there is a significant positive correlation between Employee
+Engagement and Employee Retention.
+Employee Retention >> Revenue:
+Meifert (2005) stated a clear relationship between employee
+retention and the company’s revenue and margin
+Employee Retention >> Customer Loyalty:
+Koys (2001) has found evidence that employee turnover has a
+negative impact on customer satisfaction. We believe this effect
+stems from the fact that experienced employees work more
+efficiently, have better product knowledge, can build trusting
+relationships with colleagues and customers, and thus have the
+ability to better serve customers’ needs.
+Employee Retention >> Profit:
+Meifert (2005) stated a clear relationship between employee
+retention and the company’s revenue and margin
+WOMEN IN MANAGEMENT
+Women in Management is the percentage of women in
+management positions (managing teams, managing managers,
+executive board) as compared to the total number of managers,
+expressed by the number of individuals.
+Capability Building >> Women in Management:
+Like many other companies, SAP has more women in less senior
+positions than in more senior ones. Given this significant pool of
+talent, we assume that internal promotions will increase the
+percentage of women in management positions.
+Women in Management
+>> BHCI (Business Health Culture Index):
+We believe that a balance of men and women in management
+will help to create a more balanced working environment, one in
+which diversity is valued and people feel free to express their
+individual styles. It is our expectation that such an environment
+will positively affect our Business Health Culture Index.
+BHCI (Business Health Culture Index)
+>> Women in Management:
+McKinsey (2013) found that different elements of the BHCI such
+as flexible working hours, the ability to work from home, or
+career flexibility – can make it easier for women to balance work
+and family life. This leads us to conclude that the higher our
+BHCI, the more attractive SAP will become to women who are
+seeking management positions.
+Women in Management >> Employer Ranking:
+Several research findings indicate that diversity and inclusion
+programs (Roland Berger, 2011), as well as the presence of
+female board directors (Catalyst, 2013), have a positive effect
+on corporate reputation (an important criterion in employer
+
+rankings). Looking at German companies, Roland Berger (2011)
+estimate that the monetary impact of this relationship amounts
+to €20.8 billion per year.
+Employer Ranking >> Women in Management:
+We believe that a highly ranked employer can attract talent
+more easily. As SAP focuses on diversity – and in particular
+women in management – women will likely feel more attracted
+to our emloyer brand. As a result, we would expect to find more
+women on the short list for management positions.
+Women in Management >> Revenue Impact:
+Studies show that companies with a relatively high percentage
+of women in upper management ranks or as board members
+achieve stronger financial performance compared to those with
+a relatively low percentage (Catalyst, 2013). We believe that
+having more women in management positions will increase our
+revenue as it helps us to better serve our diverse customer base.
+Women in Management >> Customer Loyalty:
+Diversity programs – including those focused on the promotion
+of women to management positions – have a direct and positive
+impact on customer satisfaction. (Catalyst, 2013).
+Women in Management >> Profit:
+Studies show that companies with a high level of gender
+diversity outperform companies with an average level in terms
+of return on equity (11.4% vs. an average 10.3%); operating
+results (EBIT 11.1% vs. 5.8%); and stock price increases (64%
+vs. 47% over the period 2005-2007) (McKinsey, 2007). It is
+therefore likely that a higher share of women in management
+positions will result in a higher profit for SAP.
+SOCIAL INVESTMENT
+Social investment reflects SAP’s activities in volunteering and
+technology and cash donations.
+Social Investment
+>> BHCI (Business Health Culture Index):
+We believe that by supporting our employees in engaging in
+activities with a positive social impact, such as skills-based
+volunteering, we are enhancing the meaning they find in work.
+This sense of purpose helps to create a richer and more
+rewarding work environment that reduces stress and promotes
+satisfaction and well being.
+Social Investment >> Employee Engagement:
+Mueller et al. (2012) have found that employees’ perception of a
+company’s commitment to corporate social responsibility is
+positively linked to their own commitment to the organization.
+With corporate social responsibility and social investment
+becoming more and more important to SAP, we expect to see
+employee engagement increase as well.
+
+SAP 2015 Integrated Report Sustainability Content
+Details: How our non-financial and financial performance indicators are interconnected
+
+42
+
+Social Investment >> Revenue:
+A study by Muritala (2013) suggests that corporate social
+responsibility (or what we characterize as social investment) is
+likely to have a positive impact on an organization’s financial
+performance. In our experience, social investments do in fact
+have a positive impact on our ability to acquire new customers,
+especially in emerging markets.
+Profit >> Social Investment:
+It is a common best practice for companies to invest a certain
+percentage of their annual profits in programs and activities that
+create a positive social impact. We believe that a higher profit is
+therefore likely to lead SAP to make greater social investments.
+Social Investment >> Employer Ranking:
+As a company’s social activities such as volunteering or
+donations are an important criterion in employer rankings, we
+are certain that our social investment activities will affect our
+ranking as an employer positively.
+CAPABILITY BUILDING
+Capability building is the internal hiring rate (promotions only)
+into management or expert positions as compared to the
+external hiring rate into such positions.
+Capability Building >> Employee Retention:
+According to the Global Workforce Study (2012) the “chances to
+advance the career” is the second-most important driver of
+employee retention. By promoting and thus growing from within,
+SAP creates career opportunities for its employees. In turn, it is
+our expectation that this opportunity leads to an increase in
+employee retention.
+Capability Building >> Employee Engagement:
+Because it is closely linked to how much a company develops its
+employees and supports their careers, internal hiring to
+management and expert positions positively affects employees’
+commitment and loyalty. This hypothesis was confirmed by a
+study of Bedarkar & Pandita (2014), which identified “career
+opportunities” as the key driver of employee engagement.
+Capability Building >> Women in Management:
+Like many other companies, SAP has more women in less senior
+positions than in more senior ones. Given this significant pool of
+talent, we assume that internal promotions will increase the
+percentage of women in management positions.
+EMPLOYER RANKING
+Employer ranking is the attractiveness of SAP as an employer,
+measured through external ratings and rankings.
+Women in Management >> Employer Ranking:
+Several research findings indicate that diversity and inclusion
+programs (Roland Berger, 2011), as well as the presence of
+female board directors (Catalyst, 2013), have a positive effect
+on corporate reputation (an important criterion in employer
+
+rankings). Looking at German companies, Roland Berger (2011)
+estimate that the monetary impact of this relationship amounts
+to €20.8 billion per year.
+Employer Ranking >> Women in Management:
+We believe that a highly ranked employer can attract talent
+more easily. As SAP focuses on diversity – and in particular
+women in management – women will likely feel more attracted
+to our emloyer brand. As a result, we would expect to find more
+women on the short list for management positions.
+Employer Ranking >> Employee Engagement:
+Studies find that a company’s image and the associated pride of
+employees (important criteria in employer rankings) are key
+drivers of employee engagement (Global workforce study,
+2012).
+Employee Engagement >> Employer Ranking:
+We believe that SAP will achieve higher rankings as an employer
+if our employees demonstrate a high level of employee
+engagement, as employee engagement is an important criterion
+of employer rankings.
+GHG Footprint >> Employer Ranking:
+According to Brown et al. (2010), corporate sustainability
+reporting (including GHG) leads to an increase of reputation.
+Notably, efforts to promote environmental protection are a key
+differentiator for employers. Because a company’s appeal to
+potential new hires helps to determine most employer rankings,
+SAP’s commitment to lower our GHG Footprint is likely to
+increase our ranking as an employer.
+Employer Ranking >> Profit:
+As a highly ranked employer, we believe SAP is able to attract
+talented employees more easily, which could reduce the costs of
+searching for talent and hiring new employees, thereby
+increasing our profit.
+REVENUE
+Revenue is the total revenue SAP receives from the sale of its
+products and services.
+Social Investment >> Revenue:
+A study by Muritala (2013) suggests that corporate social
+responsibility (or what we characterize as social investment) is
+likely to have a positive impact on an organization’s financial
+performance. In our experience, social investments do in fact
+have a positive impact on our ability to acquire new customers,
+especially in emerging markets.
+Women in Management >> Revenue Impact:
+Studies show that companies with a relatively high percentage
+of women in upper management ranks or as board members
+achieve stronger financial performance compared to those with
+a relatively low percentage (Catalyst, 2013). We believe that
+
+SAP 2015 Integrated Report Sustainability Content
+Details: How our non-financial and financial performance indicators are interconnected
+
+43
+
+having more women in management positions will increase our
+revenue as it helps us to better serve our diverse customer base.
+BHCI (Business Health Culture Index) >> Revenue:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of the BHCI. We could proof that there is a
+significant positive correlation between the BHCI and Revenue.
+Employee Retention >> Revenue:
+Meifert (2005) stated a clear relationship between employee
+retention and the company’s revenue and margin
+GHG Footprint >> Revenue:
+Lowering SAP’s GHG Footprint could have a positive impact on
+SAP’s revenue because customers increasingly ask their
+suppliers to act sustainably. This reasoning is supported by a
+study of PwC (2013) confirming the existence of a positive
+correlation between a company’s environmental performance
+and financial performance.
+Employee Engagement >> Revenue:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of Employee Engagement. We could proof that
+there is a significant positive correlation between Employee
+Engagement and Revenue.
+Revenue >> Employee Engagement:
+We believe that a higher revenue will have a positive impact on a
+company’s work environment, thereby increasing employees’
+pride and loyalty. This is also stated in a study of Harter et al.
+(2010), stating that improving financial performance appears to
+increase general satisfaction and some specific work
+perceptions.
+Customer Loyalty >> Revenue:
+Reichheld (2003) found a strong correlation between
+companies’ Net Promoter Score results and their revenue
+growth rates. We support this view as we believe that loyal SAP
+customers are likely to recommend SAP products to other
+companies, which is likely to result in increased sales and
+stronger revenue.
+Revenue >> Profit:
+Profit (or loss) is the total of income less expenses; if revenue as
+the main part of total income grows at a higher rate than costs, it
+will lead to greater profit.
+PROFIT
+Profit (or loss) is the total of income less expenses.
+BHCI (Business Health Culture Index) >> Profit:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of the BHCI. Now we can show what a change
+by one percentage point of the BHCI would mean for SAP’s
+operating profit, as you can see under the section “Results”.
+
+Employee Engagement >> Profit:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of Employee Engagement. Now we can show
+what a change by one percentage point of Employee
+Engagement would mean for SAP’s operating profit, as you can
+see under the section “Results”.
+Profit >> Employee Engagement:
+In our view, a high profit, as great business news, can raise
+employee morale, encourage identification with our vision, and
+thus drive employee engagement. On the other hand, we believe
+that a high profit expectation can also have a negative impact on
+employee engagement. If, to reach an ambitious profit target,
+cost savings and budget cuts are implemented, employees
+might feel constrained and dissatisfied.
+Women in Management >> Profit:
+Studies show that companies with a high level of gender
+diversity outperform companies with an average level in terms
+of return on equity (11.4% vs. an average 10.3%); operating
+results (EBIT 11.1% vs. 5.8%); and stock price increases (64%
+vs. 47% over the period 2005-2007) (McKinsey, 2007). It is
+therefore likely that a higher share of women in management
+positions will result in a higher profit for SAP.
+Profit >> Social Investment:
+It is a common best practice for companies to invest a certain
+percentage of their annual profits in programs and activities that
+create a positive social impact. We believe that a higher profit is
+therefore likely to lead SAP to make greater social investments.
+Renewable Energy >> Profit:
+The purchase of renewable energy over conventional energy
+sources is often correlated with higher costs, and thus we
+expect a small negative impact on our profit when we augment
+our purchase of renewable energy.
+Employee Retention >> Profit:
+Meifert (2005) stated a clear relationship between employee
+retention and the company’s revenue and profit
+Total Energy Consumed >> Profit:
+We have found that reduced energy consumption is strongly
+correlated with a reduction in costs. The thus achieved cost
+avoidance has a positive impact on our profit.
+Employer Ranking >> Profit:
+As a highly ranked employer, we believe SAP is able to attract
+talented employees more easily, which could reduce the costs of
+searching for talent and hiring new employees, thereby
+increasing our profit.
+Revenue >> Profit:
+Profit (or loss) is the total of income less expenses; if revenue as
+the main part of total income grows at a higher rate than costs, it
+will lead to greater profit.
+
+SAP 2015 Integrated Report Sustainability Content
+Details: How our non-financial and financial performance indicators are interconnected
+
+44
+
+Customer Loyalty >> Profit:
+We believe that positive experiences among our customers can
+significantly increase business with existing customers, as well
+as help attract new customers. Both results can lower the cost
+of sales, thereby increasing our profit.
+Data Center Energy >> Profit:
+We have found that reduced energy consumption is strongly
+correlated with a reduction in costs. The thus achieved cost
+avoidance has a positive impact on our profit.
+GHG Footprint >> Profit
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of the GHG Footprint. Now we can show what a
+reduction of SAP’s carbon emissions by one percentage would
+mean for SAP’s operating profit, as you can see under the
+section “Results”.
+CUSTOMER LOYALTY
+Customer loyalty is measured with the Net Promoter Score:
+Percentage of customers that are likely to recommend SAP to
+friends or colleagues minus the percentage of customers that
+are unlikely to do so.
+Women in Management >> Customer Loyalty:
+Diversity programs – including those focused on the promotion
+of women to management positions – have a direct and positive
+impact on customer satisfaction. (Catalyst, 2013).
+Employee Retention >> Customer Loyalty:
+Koys (2001) has found evidence that employee turnover has a
+negative impact on customer satisfaction. We believe this effect
+stems from the fact that experienced employees work more
+efficiently, have better product knowledge, can build trusting
+relationships with colleagues and customers, and thus have the
+ability to better serve customers’ needs.
+GHG Footprint >> Customer Loyalty:
+We believe that lowering SAP’s carbon emissions has a positive
+reputational effect, thereby enhancing SAP’s standing with its
+customers.
+Customer Loyalty >> Revenue:
+Reichheld (2003) found a strong correlation between
+companies’ Net Promoter Score results and their revenue
+growth rates. We support this view as we believe that loyal SAP
+customers are likely to recommend SAP products to other
+companies, which is likely to result in increased sales and
+stronger revenue.
+Customer Loyalty >> Profit:
+We believe that positive experiences among our customers can
+significantly increase business with existing customers, as well
+as help attract new customers. Both results can lower the cost
+of sales, thereby increasing our profit.
+
+BHCI (Business Health Culture Index)
+>> Customer Loyality:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of the BHCI. We could proof that there is a
+significant positive correlation between the BHCI and Customer
+Loyality.
+GHG FOOTPRINT (GREENHOUSE GAS FOOTPRINT)
+Our GHG footprint is the sum of all greenhouse gas emissions
+measured and reported, including renewable energy and third
+party reductions, for example, offsets.
+GHG Footprint >> BHCI (Business Health Culture Index):
+Many of SAP’s GHG emissions are caused by business travel
+and commuting, which we believe can have both negative and
+positive impacts on employee health. Some people may
+experience greater stress through more travel because they
+have less time to spend at home, are jet lagged, or lose valuable
+working hours; others may enjoy travel, which enables them to
+experience other places, meet new people, and get a taste of life
+as a ‘jet setter’.
+GHG Footprint >> Employer Ranking:
+According to Brown et al. (2010), Corporate sustainability
+reporting (including GHG) leads to an increase of reputation.
+Notably, efforts to promote environmental protection are a key
+differentiator for employers. Because a company’s appeal to
+potential new hires helps to determine most employer rankings,
+SAP’s commitment to lower our GHG Footprint is likely to
+increase our ranking as an employer.
+GHG Footprint >> Employee Engagement:
+We believe that lowering SAP’s GHG footprint can have a
+positive impact on employee engagement because loyalty will
+rise as employees see their company act responsibly towards
+the environment. However, because lowering emissions also
+brings certain restrictions, such as flying less, it may also have a
+negative impact on employee engagement.
+Employee Engagement >> GHG Footprint:
+We believe that engaged employees are likely to want to help
+SAP achieve its target in lowering its GHG emissions. Yet
+another possible outcome is that a higher level of employee
+engagement may lead to more business activity requiring travel
+and therefore could lead to an increase in GHG emissions.
+GHG Footprint >> Revenue:
+Lowering SAP’s GHG Footprint could have a positive impact on
+SAP’s revenue because customers increasingly ask their
+suppliers to act sustainably. This reasoning is supported by a
+study of PwC (2013) confirming the existence of a positive
+correlation between a company’s environmental performance
+and financial performance.
+
+SAP 2015 Integrated Report Sustainability Content
+Details: How our non-financial and financial performance indicators are interconnected
+
+45
+
+GHG Footprint >> Customer Loyalty:
+We believe that lowering SAP’s carbon emissions has a positive
+reputational effect, thereby enhancing SAP’s standing with its
+customers.
+Renewable Energy >> GHG Footprint:
+Increasing the percentage of renewable energy in our overall mix
+of energy sources directly translates into a lower GHG footprint,
+as we replace some of the energy generated by fossil fuels.
+
+through offsets or – for electricity consumption – renewable
+energy certificates (RECs).
+Data Center Energy >> Total Energy Consumed:
+The energy consumed in SAP’s data centers forms part of the
+total energy consumed in our operations.
+DATA CENTER ENERGY
+Data center energy is the amount of energy consumed in SAP’s
+data centers related to the number of employees.
+
+Total Energy Consumed >> GHG Footprint:
+The emissions caused by SAP’s energy consumption add
+directly to the corporate carbon footprint if they are not reduced
+through offsets or – for electricity consumption – renewable
+energy certificates (RECs).
+
+Data Center Energy >> Profit:
+We have found that reduced energy consumption is strongly
+correlated with a reduction in costs. The thus achieved cost
+avoidance has a positive impact on our profit.
+
+Data Center Energy >> GHG Footprint:
+The emissions caused by SAP’s data center energy
+consumption add directly to the corporate carbon footprint if
+they are not reduced through offsets or renewable energy
+certificates (RECs).
+
+Data Center Energy >> GHG Footprint:
+The emissions caused by SAP’s data center energy
+consumption add directly to the corporate carbon footprint if
+they are not reduced through offsets or renewable energy
+certificates (RECs).
+
+GHG Footprint >> Profit:
+Since 2014, we used real data from SAP to analyze and proof the
+financial impact of the GHG Footprint. Now we can show what a
+reduction of SAP’s carbon emissions by one percentage would
+mean for SAP’s operating profit, as you can see under the
+section “Results”.
+
+Data Center Energy >> Total Energy Consumed:
+The energy consumed in SAP’s data centers forms part of the
+total energy consumed in our operations.
+
+TOTAL ENERGY CONSUMED
+Total energy consumed is the sum of all energy consumed
+through SAP’s own operations, including energy from renewable
+sources.
+Total Energy Consumed >> Profit:
+We have found that reduced energy consumption is strongly
+correlated with a reduction in costs. The thus achieved cost
+avoidance has a positive impact on our profit.
+Total Energy Consumed >> GHG Footprint:
+The emissions caused by SAP’s energy consumption add
+directly to the corporate carbon footprint if they are not reduced
+
+RENEWABLE ENERGY
+Renewable energy reflects the shares and types of electricity
+obtained from renewable sources such as hydro, wind, solar,
+and biomass.
+Renewable Energy >> Profit:
+The purchase of renewable energy over conventional energy
+sources is often correlated with higher costs, and thus we
+expect a small negative impact on our profit when we augment
+our purchase of renewable energy.
+Renewable Energy >> GHG Footprint:
+Increasing the percentage of renewable energy in our overall mix
+of energy sources directly translates into a lower GHG footprint,
+as we replace some of the energy generated by fossil fuels.
+
+SAP 2015 Integrated Report Sustainability Content
+Details: How our non-financial and financial performance indicators are interconnected
+
+46
+
+Independent
+Assurance Report
+TO THE EXECUTIVE BOARD OF SAP SE, WALLDORF
+We have performed an independent assurance engagement on
+selected qualitative and quantitative sustainability disclosures
+on the web pages of the Integrated Report (further: “the
+Report”) for the business year 2015 of SAP SE, Walldorf (further
+“SAP”), published under
+www.sapintegratedreport.com/2015/en/.
+For the performance indicators Business Health Culture Index,
+Employee Engagement, Employee Retention, Women in
+Management, Greenhouse Gas Emissions (Scope 1 and 2 as well
+as selected Scope 3 emissions including business flights and
+employee commuting), Renewable Energy and Total Energy
+Consumed, including the explanatory notes thereto, a
+reasonable assurance engagement was performed.
+For the disclosures on materiality and stakeholder engagement,
+the disclosures on management approaches for the material
+aspects (Business Conduct; Climate and Energy; Human Capital
+Management; Security and Privacy) as well as for the other
+qualitative and quantitative sustainability disclosures in relation
+to these material aspects a limited assurance engagement was
+performed.
+The qualitative and quantitative sustainability disclosures
+included in the scope of our assurance engagement are marked
+in the GRI G4 Content Index, published online under
+www.sap.com/integrated-reports/2015/en/gri-index-andunited-nations-global-compact/, with the following symbol: 
+It was not part of our engagement to review product or services
+related information, references to external information sources,
+expert opinions and future-related statements in the Report.
+Management´s Responsibility for the Report
+The legal representatives of SAP are responsible for the
+preparation of the Report in accordance with the Reporting
+Criteria. SAP applies the principles and standard disclosures of
+the G4 Sustainability Reporting Guidelines of the Global
+Reporting Initiative in combination with the Corporate
+Accounting and Reporting Standard (Scope 1 and 2) and the
+Corporate Value Chain (Scope 3) Standard of World Resources
+
+Institute / World Business Council for Sustainable Development,
+as well as internally developed definitions, as described in the
+‘Notes to Environmental respectively Social Performance
+Reporting’ as Reporting Criteria.
+This responsibility includes the selection and application of
+appropriate methods to prepare the Report and the use of
+assumptions and estimates for individual qualitative and
+quantitative sustainability disclosures which are reasonable
+under the circumstances. Furthermore, this responsibility
+includes designing, implementing and maintaining systems and
+processes relevant for the preparation of the Report in a way
+that is free of – intended or unintended – material
+misstatements.
+Independence and quality assurance on the part of the
+auditing firm
+We have complied with the independence and other ethical
+requirements of the Code of Ethics for Professional Accountants
+issued by the International Ethics Standards Board for
+Accountants (IESBA-Codex), which is founded on fundamental
+principles of integrity, objectivity, professional competence and
+due care, confidentiality and professional behavior.
+The quality assurance system of the KPMG AG
+Wirtschaftsprüfungsgesellschaft is based on the International
+Standard on Quality Control 1 "Quality Control for Audit,
+Assurance and Related Service Practices" (ISQC 1) and, in
+addition on national statutory requirements and professional
+standards, especially the Professional Code for Certified
+Accountants as well as the joint statement of WPK (Chamber of
+Public Accountants) and IDW (Institute of Public Auditors in
+Germany): Requirements for quality assurance in the auditing
+practice (VO 1/2006).
+Practitioner’s Responsibility
+Our responsibility is to express a conclusion based on our work
+performed and the evidences obtained on the qualitative and
+quantitative sustainability disclosures marked in the GRI G4
+Content Index with the following symbol: 
+
+SAP 2015 Integrated Report Sustainability Content Independent Assurance Report
+
+47
+
+Nature and extent of the assurance engagement
+We conducted our work in accordance with the International
+Standard on Assurance Engagements (ISAE) 3000 (Revised):
+“Assurance Engagements other than Audits or Reviews of
+Historical Financial Information” and the International Standard
+on Assurance Engagements (ISAE) 3410: “Assurance
+Engagements on Greenhouse Gas Statements” of the
+International Auditing and Assurance Standards Board (IAASB).
+These standards require that we comply with our professional
+duties and plan and perform the assurance engagement to
+obtain a reasonable level of assurance to conclude that the
+above mentioned performance indicators are prepared, in all
+material respects, in accordance with the aforementioned
+Reporting Criteria respectively to obtain a limited level of
+assurance to preclude that the above mentioned qualitative and
+quantitative sustainability disclosures are not prepared, in all
+material respects, in accordance with the aforementioned
+Reporting Criteria. In a limited assurance engagement the
+evidence gathering procedures are more limited than in a
+reasonable assurance engagement and therefore less
+assurance is obtained than in a reasonable assurance
+engagement. The choice of audit procedures is subject to the
+auditor’s own judgement. This includes the assessment of the
+risk of material misstatement in the Report under consideration
+of the Reporting Criteria.
+Within the scope of our engagement, we performed amongst
+others the following procedures when conducting the limited
+assurance:
+– An evaluation of the approach to determining material
+sustainability topics and respective boundaries, including
+results of stakeholder engagement.
+– A risk analysis, including a media search, to identify relevant
+information on SAP’s sustainability performance in the
+reporting period.
+– Reviewing the suitability of the internally developed
+definitions.
+– Evaluation of the design and implementation of the systems
+and processes for the collection, processing and control of
+the qualitative and quantitative sustainability disclosures
+included in the scope of this engagement, including the
+consolidation of the data.
+– Inquiries of personnel on corporate level responsible for
+providing the data and information, carrying out internal
+control procedures and consolidating the data and
+information, including the ‘Notes to Environmental
+respectively Social Performance Reporting’.
+– Evaluation of internal and external documentation, to
+determine whether the qualitative and quantitative
+sustainability disclosures are supported by sufficient
+evidence.
+– An analytical review of the data and trend explanations
+submitted by all sites for consolidation at corporate level.
+– Reviewing the consistency of GRI G4 in-accordance option
+‘Core’ as declared by SAP with the qualitative and
+
+quantitative sustainability disclosures presented in the
+Report.
+– Evaluation of the overall presentation of the selected
+qualitative and quantitative sustainability disclosures
+included in the scope of our engagement.
+In addition we conducted the following procedures to obtain
+reasonable assurance:
+– An evaluation of the design and implementation, and tests of
+the operating effectiveness of the systems and methods used
+to collect and process the data, including the aggregation of
+these data into the performance indicators as presented in
+the Report.
+– Auditing internal and external documentation in order to
+determine in detail whether the performance indicators for
+the business year 2015 correspond with the relevant
+underlying sources, and whether all the relevant information
+contained in such underlying sources has been included in
+the Report.
+– Location visits to Walldorf and St. Leon Rot (both Germany),
+Vienna (Austria) and Budapest (Hungary) to assess the
+quality of information management systems and the
+reliability of the data as reported to corporate level.
+Conclusions
+Based on the procedures performed and evidences received to
+obtain reasonable assurance, the performance indicators
+Business Health Culture Index, Employee Engagement,
+Employee Retention, Women in Management, Greenhouse Gas
+Emissions (Scope 1 and 2 as well as selected Scope 3 emissions
+including business flights and employee commuting),
+Renewable Energy and Total Energy Consumed for the business
+year 2015, including the explanatory notes thereto, are, in all
+material respects, presented in accordance with the Reporting
+Criteria.
+Based on the procedures performed and evidences received to
+obtain limited assurance, nothing has come to our attention that
+causes us to believe that the disclosure on materiality and
+stakeholder engagement, the disclosures on management
+approaches for the material aspects (Business Conduct;
+Climate and Energy; Human Capital Management; Security and
+Privacy) as well as the other qualitative and quantitative
+sustainability disclosures in relation to these material aspects
+for the business year 2015, are, in all material respects, not
+prepared in accordance with the Reporting Criteria.
+Recommendation
+Without affecting the conclusions presented above, we
+recommend to further develop existing methods and
+partnerships on software solutions’ impacts in a global
+sustainability context, and to link the results with the materiality
+analysis.
+
+SAP 2015 Integrated Report Sustainability Content Independent Assurance Report
+
+48
+
+This assurance report is issued based on an assurance
+engagement agreed upon with SAP. The assurance engagement
+to obtain reasonable respectively limited assurance is issued on
+purpose of SAP and the assurance report is solely for
+information purposes of SAP on the results of the assurance
+engagement. This assurance report must not be used as basis
+for (financial) decision-making by third parties of any kind. We
+have responsibility only towards SAP. We do not assume any
+responsibility for third parties.
+
+Düsseldorf, February 25, 2016
+KPMG AG
+Wirtschaftsprüfungsgesellschaft
+
+Simone Fischer
+Wirtschaftsprüferin
+(German Public Auditor)
+
+ppa.
+Christian Hell
+
+SAP 2015 Integrated Report Sustainability Content Independent Assurance Report
+
+49
+
+

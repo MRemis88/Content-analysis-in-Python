@@ -1,0 +1,4082 @@
+sap integrated report 2014
+Financial and Non-Financial Performance
+
+Your Personal Report
+
+www.sapintegratedreport.com
+
+About This Integrated Report
+In this, our third integrated report, we show how we create value
+through financial, social, and environmental measures. In
+addition, we describe how we identify what is material for our
+sustainable business success.
+
+About Our Reporting ›
+This integrated report meets financial and non­
+financial reporting frameworks.
+
+GRI Index and United
+Nations Global Compact ›
+We meet established standards of financial
+and non­financial reporting.
+
+About This Integrated Report
+About This Report
+
+CONTENT
+Since 2012, we have reported on our full year financial, social, and environmental performance
+in one integrated report (“SAP Integrated Report”). The SAP Integrated Report 2014 contains a
+comprehensive and integrated presentation of our performance in 2014 based on both financial
+and non­financial measures and is exclusively available online. Additionally, we continue to
+provide the “SAP Annual Report 2014.” This report is an excerpt from the SAP Integrated
+Report 2014 which comprises all of the information legally required to be presented to our
+shareholders. This SAP Annual Report 2014 is available in PDF format as well as in print.
+The financial reporting presented in the SAP Integrated Report includes our Consolidated
+Financial Statements, our combined Management Report, and certain financial measures
+derived from our management reporting. The non­financial data presented includes aspects of
+intellectual, human, social and relationship, and environmental capitals derived from our
+materiality assessment.
+Similar to 2013, our online SAP Integrated Report is aligned with the content elements
+suggested in the International Integrated Reporting Framework of the International Integrated
+Reporting Council (IIRC).
+BASIS OF PRESENTATION
+Our combined Management Report is prepared in accordance with sections 315 and 315a of
+the German Commercial Code and German Accounting Standards No. 17 and 20. The
+combined Management Report is also a management commentary complying with the
+International Financial Reporting Standards (IFRS) Practice Statement Management
+Commentary.
+Our Consolidated Financial Statements are prepared in accordance with IFRS. Internal control
+over financial reporting ensures the reliability of the information presented in the Consolidated
+Financial Statements. Our executive management has confirmed the effectiveness of our
+internal controls over financial reporting.
+The social and environmental data and information included in the SAP Integrated Report is
+prepared in accordance with the core option of the international guidelines G4 of the Global
+Reporting Initiative (GRI). We applied the GRI principles for defining report content
+(sustainability context, stakeholder inclusiveness, materiality, and completeness). We applied
+the principle of sustainability context in a number of ways, such as looking at global issues or
+trends including climate change and demographic shifts. For example, we assessed our
+
+greenhouse gas emissions in the context of the emissions of the entire information and
+communications technology landscape, with particular focus on the abatement potential of the
+industry. When it comes to completeness, we recognize that while we comply with this principle
+in reporting on our own operations, we are still developing methodologies to reliably quantify
+our impact through our solutions. In addition, the non­financial information has been prepared
+by applying the principles of inclusivity, materiality, and responsiveness. Greenhouse gas data
+was prepared based on the Greenhouse Gas Protocol.
+DATA
+All financial and non­financial data and information for the reporting period was collected and/or
+reported utilizing SAP software solutions and was sourced from the responsible business units.
+The reporting period is fiscal year 2014. The report encompasses SAP SE and all subsidiaries
+of the SAP Group.
+To make this report as current as possible, we have included relevant information available up
+to the auditor’s opinion and the responsibility statement dated February 19, 2015. The report is
+available in English and in German.
+INDEPENDENT AUDIT AND ASSURANCE
+KPMG AG Wirtschaftsprüfungsgesellschaft has audited our Consolidated Financial Statements
+and our combined Management Report (see the Independent Auditor’s Report). Additionally,
+KPMG has provided assurance on selected non­financial, social, and environmental data and
+information in accordance with the International Standard on Assurance Engagements (ISAE)
+3000, and 3410 (“Assurance Engagements on Greenhouse Gas Statements”), two pertinent
+standards for the assurance of sustainability reporting. Where our SAP Integrated Report
+makes reference to our SAP public Web site, that Web site information is unaudited. Both the
+Independent Auditor’s Report and the Independent Assurance Report for non­financial
+information are available in the Independent Auditor's Report and Independent Assurance
+Report section.
+For more information about the reasons we publish an integrated report, about our materiality
+assessment, and related stakeholder engagement, see the About Integrated Reporting,
+Materiality, and Stakeholder Engagement sections.
+
+About This Integrated Report
+Materiality
+
+In 2013, we revised our approach to assessing the materiality of issues that are relevant to our
+innovation and sustainable growth. This change reflects the updated guidelines from the Global
+Reporting Initiative (GRI) G4, which define material issues as those that “reflect an
+organization’s significant economic, environmental, and social impacts, or substantively
+influence the assessments and decisions of stakeholders.” We also conduct a materiality
+assessment for our financial reporting based on the International Financial Reporting
+Standards. The process described here pertains to issues that fall outside these standards.
+For SAP, the key change in the GRI G4 materiality methodology is the focus on impacts,
+whereas in the past we looked more at our responsibilities and potential for innovation
+regarding various issues. We have started to assess our economic, social, and environmental
+impacts from two distinct points of view: SAP as a company (which includes our operations and
+supply chain) and SAP as a solution provider (which is how we serve our customers). Our goal
+is to determine materiality based on what is most relevant to our core business strategy. By
+analyzing our impacts as a solution provider, we can incorporate our conclusions as we work to
+create a truly sustainable strategy. Such a strategy will enable us to holistically manage the
+economic, environmental, and social contexts in which we operate.
+ASSESSING AND RATING THE RELEVANCE OF NUMEROUS ISSUES
+We followed the GRI G4 guidelines to undertake a four­step process in assessing the
+materiality of issues: Review of previous reports, identification, prioritization, and validation by
+our chief sustainability officer. We initially identified approximately 60 issues for consideration,
+from economic performance and procurement practices to water consumption, emissions,
+waste, and human rights. We chose our initial list from issues referenced in the GRI G4
+guidelines, as well as those that emerged from our stakeholder engagement, our conversations
+with our sustainability advisory panel, prior materiality assessments, the review of previous
+reports (including an analysis of which content was read most often), and the draft issues
+identified by the Sustainability Accounting Standards Board (SASB) for the Technology and
+Communications sector.
+We then used three main criteria to evaluate each issue, assessing how mission­critical each is
+to SAP, how relevant each is to our financial performance, and what financial, social or and
+environmental impact we create. We weighed all stakeholder feedback equally as we
+determined whether an issue substantively influences stakeholders’ assessments and
+decisions and if so, whether that influence is low, medium, or high. Our 2014 review confirmed
+our identified most material topics, which are also clearly linked to our four financial and non­
+financial core objectives.
+
+DRAWING CONCLUSIONS AND UNDERSTANDING THE IMPLICATIONS OF OUR
+ASSESSMENT
+We identified six main areas that are material to SAP as a company. For the most part, these
+are consistent with our past assessments and comprise:
+Human capital management – Helps us ensure we employ, develop, and retain the very
+best talent within our company and be attractive to potential employees
+Intellectual capital management – Helps us innovate and deliver new solutions with the
+highest quality through continuous organizational learning, people development, and
+suitable internal structures and processes. Such capital also leads to increased customer
+loyalty
+Security and privacy – Ensures we design and deliver our solutions in ways that afford the
+very highest levels of data security and privacy control
+Financial performance – Mirrors the success of our strategy and ensures our long­term
+viability
+Business conduct – Ensures we conduct our business activities while upholding the
+highest levels of behavior, as set out in the SAP Code of Business Conduct for Employees
+and other company policies
+Climate and energy – Helps us offer solutions to our customers for reducing energy
+consumption and emissions, find ways to minimize the environmental impact of our solutions
+and transform our corporate operations accordingly
+While these issues are critical for us as a company, we see our solutions touching on a broad
+range of issues that are highly material to our customers – from financial viability to natural
+resources, energy, and human rights. While we do not yet offer solutions in all of these areas,
+technology such as SAP HANA and our Cloud offerings hold enormous potential to help our
+customers improve and differentiate their own operations and impacts. For example, our
+software already enables many of the world’s largest companies to better measure, track, and
+manage their energy usage and carbon emissions, as well as increase their efficiency in a host
+of areas. Addressing our most material impacts means finding additional ways to support our
+customers in becoming more sustainable organizations. In this sense, our materiality
+assessment helps point the way to creating a truly integrated strategy, in which sustainability is
+seamlessly connected to how we serve our customers and drive our own long­term success.
+APPLYING OUR ASSESSMENT TO FURTHER DEVELOP AN INTEGRATED STRATEGY
+Our environmental and social performance remains critically important to SAP. We have gained
+important insights into helping our customers tackle challenges by doing so ourselves. In
+addition, working to become more sustainable has fed our innovation and improved our bottom
+line. SAP’s sustainability performance, as well as our work to create a sustainable corporate
+strategy, is also of increased importance to investors and newer generations of talent we want
+to attract and hire. At the same time, we recognize that it is in our role of solution provider that
+we continue on the path to creating the greatest customer value and designing our integrated
+strategy.
+As noted above, we have already headed down this path with a number of our solutions, which
+are enabling our customers to comply with regulation, become more efficient, operate more
+sustainably, and begin to transform how business is conducted. We also have more to do – for
+example, we have not yet created a methodology to quantify our impact as a solution provider.
+To do so, we will continue to work with customers and partners. Namely, we need to
+understand our impacts in the context of the limits and demands of economic, environmental,
+and social resources. We also need to frame these impacts in terms of broader sustainable
+
+development conditions and goals. In addition, we must explain our approach to our employees
+and other key stakeholders to enlist them in realizing our vision “help the world run better and
+improve people’s lives”. We observe an increasing trend in our customer base to initiate
+business transformations based on new sustainable corporate strategies. Supporting our
+customers with our solutions enables them to execute accordingly and helps us on our journey
+to fulfill our vision.
+To achieve these goals, we will continue to drive behavioral change throughout SAP through
+bottom­up strategies such as employee engagement, education, and the promotion of peer
+leadership and role models. We will also continue to emphasize co­innovation with our
+customers, as customers are the means through which we can help create long­term,
+sustainable change. Specifically, we will work with our customers to provide technology
+innovations that act as an engine of business transformation and help them navigate global
+trends. We will continue to develop criteria to evaluate our sustainability impacts to help us
+inform and refine our materiality assessment.
+
+About This Integrated Report
+General Information about This Management Report
+
+BASIS OF PRESENTATION
+This combined group management report by the SAP Group (collectively, “we,” “us,” “our,”
+“SAP,” “Group,” or “Company”) and management report of SAP SE has been prepared in
+accordance with sections 289, 315, and 315a of the German Commercial Code and German
+Accounting Standards (GAS) No. 17 and 20. The management report is also a management
+commentary complying with the International Financial Reporting Standards (IFRS) Practice
+Statement Management Commentary.
+All of the information in this report relates to the situation on December 31, 2014, or the fiscal
+year ended on that date, unless otherwise stated.
+The report contains references to additional information in other parts of the SAP Integrated
+Report that is available online. This additional information is not part of the management report.
+FORWARD­LOOKING STATEMENTS
+This management report contains forward­looking statements and information based on the
+beliefs of, and assumptions made by, our management using information currently available to
+them. Any statements contained in this report that are not historical facts are forward­looking
+statements as defined in the U.S. Private Securities Litigation Reform Act of 1995. We have
+based these forward­looking statements on our current expectations, assumptions, and
+projections about future conditions and events. As a result, our forward­looking statements and
+information are subject to uncertainties and risks, many of which are beyond our control. If one
+or more of these uncertainties or risks materializes, or if management’s underlying assumptions
+prove incorrect, our actual results could differ materially from those described in or inferred from
+our forward­looking statements and information. We describe these risks and uncertainties in
+the Risk Management and Risks section.
+The words “aim,” “anticipate,” “assume,” “believe,” “continue,” “could,” “counting on,” “is
+confident,” “development,” “estimate,” “expect,” “forecast,” “future trends,” “guidance,” “intend,”
+“may,” “might,” “outlook,” “plan,” “project,” “predict,” “seek,” “should,” “strategy,” “want,” “will,”
+“would,” and similar expressions as they relate to us are intended to identify such forward­
+looking statements. Such statements include, for example, those made in the Operating
+Results section, our quantitative and qualitative disclosures about market risk pursuant to the
+International Financial Reporting Standards (IFRS), namely IFRS 7 and related statements in
+our Notes to the Consolidated Financial Statements, the Expected Developments and
+Opportunities section, the Risk Management and Risks section, and other forward­looking
+information appearing in other parts of this report. To fully consider the factors that could affect
+
+our future financial results, both this report and our Annual Report on Form 20­F should be
+considered, as well as all of our other filings with the Securities and Exchange Commission
+(SEC). Readers are cautioned not to place undue reliance on these forward­looking
+statements, which speak only as of the date specified or the date of this report. We undertake
+no obligation to publicly update or revise any forward­looking statements as a result of new
+information that we receive about conditions that existed upon issuance of this report, future
+events, or otherwise unless we are required to do so by law.
+This report includes statistical data about the IT industry and global economic trends that
+comes from information published by sources including International Data Corporation (IDC), a
+provider of market information and advisory services for the information technology,
+telecommunications, and consumer technology markets; the European Central Bank (ECB);
+and the International Monetary Fund (IMF). This type of data represents only the estimates of
+IDC, ECB, IMF, and other sources of industry data. SAP does not adopt or endorse any of the
+statistical information provided by sources such as IDC, ECB, IMF, or other similar sources that
+is contained in this report. In addition, although we believe that data from these sources is
+generally reliable, this type of data is imprecise. We caution readers not to place undue reliance
+on this data.
+
+About This Integrated Report
+Responsibility Statement
+
+To the best of our knowledge, and in accordance with the applicable reporting principles, the
+consolidated financial statements give a true and fair view of the assets, finances, and
+operating results of the Group, and the management report of the Group and SAP SE includes
+a fair review of the development and performance of the business and the position of the Group
+and SAP SE, together with a description of the material opportunities and risks associated with
+the expected development of the Group and SAP SE.
+Walldorf, February 19, 2015
+SAP SE
+Walldorf, Baden
+The Executive Board
+Bill McDermott
+
+Robert Enslin
+
+Bernd Leukert
+
+Luka Mucic
+
+Gerhard Oswald
+
+About This Integrated Report
+Governance for Integrated Reporting
+
+MANAGEMENT’S ACKNOWLEDGEMENT ON THE SAP INTEGRATED REPORT 2014
+The International Integrated Reporting (<IR>) Framework launched by the International
+Integrated Reporting Council in December 2013 requires that management should include a
+statement regarding an integrated report. For 2014, that statement is as follows:
+The SAP Integrated Report 2014 is available online only. The collective mind of the SAP
+Executive Board is the basis for this integrated report. The Executive Board is aware of its
+responsibility to ensure the integrity of the integrated report.
+Building on our 2013 report, our 2014 integrated report is structured along the content elements
+suggested in the <IR> Framework. We have applied the Guiding Principles of <IR>, but we also
+must ensure our compliance with legal requirements, such as the provisions regarding financial
+reporting in the German Commercial Code as set out in detail in the German Accounting
+Standard 20 “Management Report,” while balancing other reporting standards such as the
+Global Reporting Initiative (GRI) G4 guidelines with the <IR> Framework.
+Our Executive Board has reviewed the SAP Integrated Report 2014, including the Consolidated
+Financial Statements, the Combined Management Report, as well as the other additional
+content related to the GRI G4 content index.
+Our Executive Board believes that the integrated report is presented in accordance with the
+<IR> Framework as far as possible given the aforementioned restrictions. We will continue to
+strive for further alignment with the <IR> Framework in future reports.
+
+About This Integrated Report
+Independent Auditor’s Report
+
+TO SAP SE
+Report on the Consolidated Financial Statements
+We have audited the accompanying consolidated financial statements of SAP SE, Walldorf
+(“SAP” or “the Company”), and its subsidiaries, which comprise the consolidated statement of
+financial position as of December 31, 2014, and the consolidated income statement, the
+consolidated statement of comprehensive income, the consolidated statement of changes in
+equity, the consolidated statement of cash flows, and the notes to the consolidated financial
+statements for the year then ended.
+Management’s Responsibility for the Consolidated Financial Statements
+Management is responsible for the preparation of consolidated financial statements. This
+includes the responsibility that the consolidated financial statements give a true and fair view of
+the Company’s net assets, financial position, and results of operations in accordance with
+International Financial Reporting Standards (IFRSs) as adopted by the European Union (“EU”),
+the supplementary provisions of German law to be applied in accordance with the German
+Commercial Code (Handelsgesetzbuch, “HGB”), section 315a (1), and IFRSs as issued by the
+International Accounting Standards Board. Management’s responsibility includes maintaining
+such internal control as management determines necessary to enable the preparation of
+consolidated financial statements that are free from material misstatement, whether due to
+fraud or error.
+Auditor’s Responsibility
+Our responsibility is to express an opinion on these consolidated financial statements based on
+our audit. We conducted our audit in accordance with HGB, section 317, and German generally
+accepted standards for the audit of consolidated financial statements, promulgated by the
+Institut der Wirtschaftsprüfer (“IDW”), and in supplementary compliance with International
+Standards on Auditing and standards of the Public Company Accounting Oversight Board
+(United States). Those standards require that we comply with ethical requirements and plan
+and perform the audit to obtain reasonable assurance about whether the consolidated financial
+statements are free from material misstatement.
+An audit involves performing procedures to obtain audit evidence about the amounts and
+disclosures in the consolidated financial statements. The procedures selected depend on the
+auditor’s judgment, including the assessment of the risks of material misstatement in the
+consolidated financial statements, whether due to fraud or error. In making those risk
+assessments, the auditor considers internal control relevant to the entity’s preparation of the
+consolidated financial statements that give a true and fair view in order to design audit
+
+procedures that are appropriate in the circumstances. An audit also includes evaluating the
+appropriateness of accounting policies used and the reasonableness of accounting estimates
+made by management, as well as evaluating the overall presentation of the consolidated
+financial statements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a
+basis for our audit opinion.
+Opinion
+In accordance with HGB, section 322 (3) sentence 1, we declare that our audit of the
+consolidated financial statements has not led to any reservations.
+In our opinion, based on our audit, the consolidated financial statements give a true and fair
+view of the Company’s net assets and financial position as of December 31, 2014; and of its
+results of operations for the year then ended, in accordance with IFRSs as adopted by the EU,
+the supplementary provisions of German law to be applied in accordance with HGB, section
+315a (1), and IFRSs as issued by the International Accounting Standards Board.
+Report on the Management Report
+We have audited the accompanying combined management report for SAP Group and SAP SE
+(“management report”) for the business year ended December 31, 2014.
+Management’s Responsibility for the Management Report
+Management is responsible for the preparation of the management report in accordance with
+the provisions of German law to be applied in accordance with HGB, section 315a (1), the
+German Accounting Standards Nos. 17 and 20 (GAS 17, GAS 20) and the provisions of the
+IFRS Practice Statement Management Commentary.
+Auditor’s Responsibility
+Our responsibility is to express an opinion on this management report based on our audit. We
+conducted our audit of the management report in accordance with HGB, section 317 (2), and
+German generally accepted standards for the audit of management reports promulgated by the
+IDW. Those standards require that we plan and perform the audit of the management report in
+such a way that we obtain reasonable assurance about whether the management report is
+consistent with the consolidated financial statements and the findings from our audit of the
+consolidated financial statements and as a whole provides a suitable understanding of the
+Company’s position and suitably presents the opportunities and risks of future development.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a
+basis for our audit opinion.
+Opinion
+In accordance with HGB, section 322 (3) sentence 1, we declare that our audit has not led to
+any reservations.
+In our opinion, based on our audit of the consolidated financial statements and the
+management report, the management report is consistent with the consolidated financial
+statements and as a whole, provides a suitable view of the Company’s position and suitably
+presents the opportunities and risks of future development.
+Report on the Effectiveness of Internal Control over Financial Reporting in the
+Consolidated Financial Statements in accordance with the standards of the Public
+
+Company Accounting Oversight Board (United States)
+We have audited SAP’s internal control over financial reporting in the consolidated financial
+statements as of December 31, 2014, based on criteria established in Internal Control –
+Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the
+Treadway Commission (COSO).
+Management’s Responsibility for Internal Control
+Management is responsible for maintaining effective internal control over financial reporting in
+the consolidated financial statements, and for the assessment of its effectiveness, as included
+in the accompanying Management’s Annual Report on Internal Control over Financial Reporting
+in the Consolidated Financial Statements.
+A company’s internal control over financial reporting in the consolidated financial statements is
+a process designed to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles. A company’s internal control over financial reporting
+in the consolidated financial statements includes those policies and procedures that (1) pertain
+to the maintenance of records that, in reasonable detail, accurately and fairly reflect the
+transactions and dispositions of the assets of the company; (2) provide reasonable assurance
+that transactions are recorded as necessary to permit preparation of financial statements in
+accordance with generally accepted accounting principles; and (3) provide reasonable
+assurance regarding prevention or timely detection of unauthorized acquisition, use, or
+disposition of the company’s assets that could have a material effect on the financial
+statements.
+Because of its inherent limitations, internal control over financial reporting in the consolidated
+financial statements may not prevent or detect misstatements. Also, projections of any
+evaluation of effectiveness to future periods are subject to the risk that controls may become
+inadequate because of changes in conditions, or that the degree of compliance with the policies
+or procedures may deteriorate.
+Auditor’s Responsibility
+Our responsibility is to express an opinion on SAP’s internal control over financial reporting in
+the consolidated financial statements based on our audit. We conducted our audit in
+accordance with the standards of the Public Company Accounting Oversight Board (United
+States). Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether effective internal control over financial reporting in the consolidated
+financial statements was maintained in all material respects. Our audit included obtaining an
+understanding of internal control over financial reporting in the consolidated financial
+statements, assessing the risk that a material weakness exists, and testing and evaluating the
+design and operating effectiveness of internal control based on the assessed risk. Our audit
+also included performing such other procedures as we considered necessary in the
+circumstances.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a
+basis for our audit opinion.
+Opinion
+In our opinion, SAP maintained, in all material respects, effective internal control over financial
+reporting in the consolidated financial statements as of December 31, 2014, based on criteria
+established in Internal Control – Integrated Framework (2013) issued by COSO.
+
+Mannheim, February 19, 2015
+KPMG AG
+Wirtschaftsprüfungsgesellschaft
+Dr. Gutsche
+Wirtschaftsprüfer
+Dr. Böttcher
+Wirtschaftsprüfer
+
+About This Integrated Report
+Independent Assurance Report
+
+TO THE EXECUTIVE BOARD OF SAP SE, WALLDORF
+We were engaged to provide assurance on selected 2014 sustainability information published
+on SAP’s 2014 Integrated Reporting web pages under www.sapintegratedreport.com/2014/en/
+of SAP SE (in the following ‘SAP’). The Executive Board of SAP is responsible for the
+appropriateness of the preparation and presentation of qualitative claims and the
+appropriateness of the determination and presentation of quantitative indicators on
+sustainability information in accordance with the reporting criteria. This responsibility includes
+the conception, implementation and maintenance of systems and processes for ensuring
+adherence to sustainability reporting principles when determining material report contents. Our
+responsibility is to issue an assurance report on the selected 2014 sustainability information
+published on SAP’s Integrated Reporting web pages.
+Scope
+Our engagement was designed to provide:
+Reasonable assurance on whether the 2014 data on the indicators Business Health Culture
+Index, Employee Engagement, Employee Retention, Women in Management, Greenhouse
+Gas Emissions (Scope 1 and 2 as well as selected Scope 3 emissions including business
+flights and employee commuting), Renewable Energy, Total Energy Consumed and
+Customer Loyalty, are, in all material respects, presented in accordance with the reporting
+criteria.
+Limited assurance on whether selected qualitative claims and quantitative indicators on
+sustainability performance information, published on SAP’s Integrated Reporting web pages,
+are, in all material respects, presented in accordance with the reporting criteria.
+The Integrated Reporting web pages that have been part of the scope of our engagement are
+marked with:
+Procedures performed to obtain a limited level of assurance are aimed at determining the
+plausibility of data and are less extensive than those for a reasonable level of assurance.
+Reporting criteria and assurance standards
+SAP applies the Global Reporting Initiative (GRI) Sustainability Reporting Guidelines G4
+Reporting Principles of Stakeholder Inclusiveness, Sustainability Context, Materiality and
+Completeness, as described in the section ‘About this Report’, as reporting principles for
+determining material aspects and report content.
+SAP applies GRI Sustainability Reporting Guidelines G4, as described in the section ‘About this
+
+Report’, as reporting criteria for selected sustainability performance information.
+SAP applies the Corporate Accounting and Reporting Standard (Scope 1 and 2) and the
+Corporate Value Chain (Scope 3) Standard of World Resources Institute / World Business
+Council for Sustainable Development, as described in the ‘Non­Financial Notes Environmental
+Performance’, as reporting criteria for the Greenhouse Gas Emissions.
+SAP applies internally developed definitions reporting on the Business Health Culture Index,
+Employee Engagement, Employee Retention and Customer Loyalty as described in the ‘Non­
+Financial Notes Social Performance’, as reporting criteria.
+It is important to view the reported information in the context of these criteria.
+We conducted our engagement in accordance with the International Standard on Assurance
+Engagements (ISAE) 3000: Assurance Engagements other than Audits or Reviews of Historical
+Financial Information and International Standard on Assurance Engagements (ISAE) 3410:
+Assurance Engagements on Greenhouse Gas Statements, issued by the International Auditing
+and Assurance Standards Board. Amongst others, these standards require that the assurance
+team possesses the specific knowledge, skills and professional competencies needed to
+provide assurance on sustainability information, and that we comply with the requirements of
+the Code of Ethics for Professional Accountants of the International Federation of Accountants
+to ensure their independence.
+Work undertaken
+Our procedures included:
+An evaluation of the process for determining material aspects and respective boundaries,
+including results of SAP’s stakeholder engagement.
+A risk analysis, including a media search, to identify relevant sustainability aspects for SAP
+in the reporting period.
+Interviewing management at corporate level responsible for sustainability performance goal
+setting and monitoring processes.
+Reviewing the suitability of the internally developed reporting criteria.
+Evaluation of the design and implementation of the systems and processes for the
+collection, processing and control of the data on sustainability performance indicators,
+including the consolidation of the data.
+Interviews with relevant staff at corporate level responsible for providing the data, carrying
+out internal control procedures and consolidating the data, including the ‘Non­Financial
+Notes’.
+Evaluating internal and external documentation to determine whether selected qualitative
+claims and quantitative indicators on sustainability performance are supported by sufficient
+evidence.
+Reviewing the consistency of GRI G4 in­accordance option ‘Core’ as declared by SAP with
+sustainability performance information presented on SAP’s Integrated Reporting web
+pages.
+In addition for reasonable assurance we conducted the following procedures:
+An evaluation of the design and implementation, and tests of the operating effectiveness of
+the systems and methods used to collect and process the data, including the aggregation of
+these data into the information as presented on SAP’s Integrated Reporting web pages.
+
+Auditing the 2014 data using internal and external documentation in order to determine in
+detail whether the data correspond to the information in the relevant underlying sources, and
+whether all the relevant information contained in such underlying sources has been included
+on SAP’s Integrated Reporting web pages.
+Location visits to Walldorf, St. Leon Rot (both Germany) and Sao Leopoldo (Brazil) to
+assess the quality of information management systems and the reliability of the data as
+reported to corporate level.
+Conclusions
+The 2014 data on the indicators Business Health Culture Index, Employee Engagement,
+Employee Retention, Women in Management, Greenhouse Gas Footprint (Scope 1 and 2 as
+well as selected Scope 3 emissions including business flights and employee commuting),
+Renewable Energy, Total Energy Consumed and Customer Loyalty, published on the
+Integrated Reporting web pages, are, in all material respects, presented in accordance with
+the reporting criteria.
+Based on the procedures performed nothing came to our attention to indicate that the
+selected qualitative claims and quantitative indicators on sustainability performance,
+published on SAP’s Integrated Reporting web pages, are not, in all material respects,
+presented in accordance with the reporting criteria.
+Frankfurt am Main, February 19, 2015
+KPMG AG
+Wirtschaftsprüfungsgesellschaft
+Simone Fischer
+ppa. Christian Hell
+Wirtschaftsprüferin
+(German Public Auditor)
+
+About This Integrated Report
+GRI Index and United Nations Global Compact
+
+The social and environmental data and information included in the SAP Integrated Report 2013
+is prepared in accordance with the core option of the international guidelines G4 of the Global
+Reporting Initiative (GRI).
+
+General Standard Disclosures
+General
+Links and Content
+Standard
+Disclosures
+
+External
+Assurance
+
+Global
+Compact
+Principles
+
+Strategy and Analysis
+G4­1
+
+Letter from the CEO
+
+Organizational Profile
+G4­3
+
+Overview of the SAP Group
+
+G4­7
+
+Investor Relations
+
+G4­8
+
+Customers
+
+G4­9
+
+Headcount;
+Subsidiaries, Associates, and Other Equity Investments
+Consolidated Financial Statements
+
+G4­10
+
+Chart Generator
+
+6
+
+G4­11
+
+Human Rights and Labor Standards
+
+3
+
+G4­12
+
+Sustainable Procurement
+
+G4­13
+
+There were no changes with significant impacts regarding our supply
+chain.
+
+G4­14
+
+We support a precautionary approach towards environmental
+management. While we see little apparent risk for our own operations, we
+do see an opportunity to help our customers anticipate and manage this
+risk in a more agile and responsive fashion through effective product
+lifecycle management and sustainable design.
+
+G4­15
+
+Memberships
+
+G4­16
+
+Memberships
+
+Identified Material Aspects and Boundaries
+G4­17
+
+Subsidiaries, Associates, and Other Equity Investments
+All entities are covered by the report.
+
+G4­18
+
+Materiality;
+About This Report
+
+G4­19
+
+Materiality
+
+G4­20
+
+GRI Content Index;
+Environmental Non­Financial Notes;
+Social Non­Financial Notes
+
+G4­21
+
+GRI Content Index;
+Environmental Non­Financial Notes;
+Social Non­Financial Notes
+
+G4­22
+
+Environmental Non­Financial Notes;
+Social Non­Financial Notes
+
+7
+
+G4­23
+
+Environmental Non­Financial Notes;
+Social Non­Financial Notes
+
+Stakeholder Engagement
+G4­24
+
+Stakeholder Engagement
+
+G4­25
+
+Stakeholder Engagement
+
+G4­26
+
+Stakeholder Engagement
+We have not engaged stakeholders specifically as part of the report
+preparation process.
+
+G4­27
+
+Stakeholder Engagement
+
+Report Profile
+G4­28
+
+About This Report
+
+G4­29
+
+March 21, 2014
+
+G4­30
+
+About This Report
+
+G4­31
+
+Contact
+
+G4­32
+
+GRI Content Index
+
+G4­33
+
+Independent Assurance Report;
+Governance for Integrated Reporting
+
+Governance
+G4­34
+
+Governance;
+Sustainability Management and Policies
+
+Ethics and Integrity
+G4­56
+
+Business Conduct
+
+10
+
+Specific Standard Disclosures
+DMA and Links and Content
+Indicators
+
+Omissions
+
+Boundaries
+
+External
+Assurance
+
+Global
+Compact
+Principles
+
+Material Aspect: Business Conduct
+DMA
+
+Sustainability Management
+and Policies;
+Business Conduct;
+Materiality
+
+10
+
+SO3
+
+Business Conduct
+
+SAP
+
+10
+
+SO4
+
+Business Conduct
+
+SAP
+
+10
+
+SO5
+
+Business Conduct
+
+SAP
+
+10
+
+SO6
+
+Public Policy
+
+SAP
+
+10
+
+SO7
+
+Litigation and Claims
+
+SAP
+
+SO8
+
+Litigation and Claims
+
+SAP
+
+Material Aspect: Climate and Energy
+DMA
+
+Sustainability Management
+and Policies;
+Sustainable Procurement
+
+8
+
+EC2
+
+Risk Management and Risks
+Energy and Emissions
+In addition, SAP provides
+details on risks and
+opportunities related to
+climate change through the
+CDP
+
+SAP +
+outside
+
+7
+
+EN3
+
+Energy and Emissions
+Environmental Non­Financial
+Notes
+
+SAP
+
+7, 8
+
+EN4
+
+Energy and Emissions
+
+outside
+
+8
+
+EN5
+
+Energy and Emissions
+
+SAP
+
+8
+
+EN6
+
+Energy and Emissions
+
+SAP
+
+8, 9
+
+EN8
+
+Waste and Water
+
+SAP
+
+7, 8
+
+EN15
+
+Energy and Emissions;
+Chart Generator;
+Environmental Non­Financial
+Notes
+
+SAP
+
+7, 8
+
+EN16
+
+Energy and Emissions;
+Chart Generator;
+Environmental Non­Financial
+Notes
+
+SAP
+
+7, 8
+
+EN17
+
+Energy and Emissions;
+Chart Generator;
+Environmental Non­Financial
+Notes
+
+outside
+
+7, 8
+
+EN18
+
+Energy and Emissions
+
+SAP +
+outside
+
+8
+
+EN19
+
+Energy and Emissions
+
+SAP +
+outside
+
+8, 9
+
+EN23
+
+Waste and Water
+
+SAP
+
+8
+
+EN30
+
+Energy and Emissions;
+Environmental Non­Financial
+Notes
+
+SAP +
+outside
+
+8
+
+EN32
+
+Sustainable Procurement
+
+outside
+
+8
+
+Our operations are not
+water­intensive. Therefore,
+we do not report on the
+sources of water withdrawal.
+
+Our operations are not
+waste­intensive. Therefore,
+we do not report on the
+different types of waste and
+disposal methods.
+
+Material Aspect: Financial Performance
+DMA
+
+Sustainability Management
+and Policies;
+Materiality;
+Report on Expected
+Developments;
+Report from the Supervisory
+Board
+We are working with our
+customers to understand the
+impact our solutions have on
+their success and document
+this in case studies. This is in
+line with the expectations of
+our stakeholders as well as
+public policy makers. SAP
+does not conduct community
+assessment programs.
+
+N/A
+
+Report on Economic Position
+
+SAP
+
+EC8
+
+Our Customers
+
+outside
+
+9
+
+Material Aspect: Human Capital Management
+DMA
+
+Sustainability Management
+and Policies;
+Sustainable Procurement;
+Human Rights and Labor
+Standards
+
+1, 2, 3, 4,
+5, 6
+
+LA1
+
+Employees and Social
+Performance;
+Chart Generator
+
+A breakdown of new
+employee hires by age
+group and gender as well as
+total numbers is proprietary
+information for SAP.
+
+SAP
+
+LA6
+
+In Germany, we measure the
+accident rate with a “1000­
+
+Injuries, diseases, lost days,
+or absenteeism are not a
+
+SAP
+
+6
+
+Mann­Quote” (TMQ). This is
+calculated as the number of
+reportable accidents × 1000
+employees/number of full­time
+equivalents. Reportable
+accidents are work­related
+and include commuting
+accidents that result in more
+than three days of absence
+from work. In 2014, the TMQ
+was 4.2 (3.5 in 2013). We also
+measure the accident rate per
+one million working hours. In
+2014, this value increased to
+2.7 reportable accidents per
+one million working hours (2.2
+in 2013).
+
+material issue for SAP as we
+track our Business Health
+Culture Index on a global
+basis.
+
+LA9
+
+Employees and Social
+Performance
+
+Training hours split by
+gender and employee
+category are not a material
+issue for SAP as we align
+our training activities
+according to the needs of
+each employee and do not
+tolerate discrimination.
+
+LA10
+
+Employees and Social
+Performance
+For continued employability
+and managing career endings,
+SAP has dedicated staff to
+support generational
+intelligence. These experts
+work on continuously
+improving processes and
+designing programs for
+sustaining employability as
+long as possible; providing
+training for cross­generation
+collaboration; managing
+career endings in a flexible
+way (for example, part­time
+options); and keeping
+employees connected with the
+company after retirement.
+SAP also participates in
+external research studies and
+networks on workforce
+demographics to share and
+learn about best practices in
+this field.
+
+LA11
+
+Employees and
+Social Performance
+
+LA12
+
+SAP
+
+6
+
+SAP
+
+The split by gender is
+proprietary information for
+SAP.
+
+SAP
+
+6
+
+Employees and
+Social Performance;
+Chart Generator
+
+SAP
+
+6
+
+LA14
+
+Sustainable Procurement
+
+outside
+
+HR4
+
+Human Rights and Labor
+Standards
+
+SAP
+
+3
+
+HR5
+
+Human Rights and Labor
+Standards
+
+SAP
+
+5
+
+HR6
+
+Human Rights and Labor
+Standards
+
+SAP
+
+4
+
+HR10
+
+Sustainable Procurement
+
+outside
+
+2
+
+Material Aspect: Intellectual Capital Management
+DMA
+
+Sustainability Management
+and Policies;
+Customers
+
+PR5
+
+Customers
+
+SAP
+
+Material Aspect: Security and Privacy
+DMA
+
+Sustainability Management
+and Policies;
+Security and Privacy;
+Materiality
+
+PR8
+
+Security and Privacy
+
+SAP +
+outside
+
+1
+
+About This Integrated Report
+Recognition
+
+In 2014, we received the following awards and recognition for our performance and efforts
+related to sustainability:
+Dow Jones Sustainability Indices (SAP is one of very few companies who have been listed
+in the DJSI since the launch in 1999).
+Global 100 Most Sustainable Corporations of the World (Corporate Knights Inc. and
+Innovest Strategic Value Advisors ranking)
+SAP was recognized with a prestigious award for contributions for the inclusion of differently
+abled people.
+Global Challenges Index
+STOXX® Global ESG Leaders
+SAP Labs Israel won the Ma’ala Platinum Award for Best Sustainable Company.
+SAP has qualified for inclusion in the RobecoSAM Sustainability Yearbook 2014 and
+received the Industry Leader and Gold Class distinction for its excellent sustainability
+performance.
+SAP reached a maximum Score of 100 points at the CDP DACH Climate Disclosure Report
+2014
+SAP is listed in the CDP Climate Performance Leadership Index 2014 for the third
+consecutive year.
+FTSE4GOOD
+NASDAQ OMX CRD Global Sustainability 50 Index
+In addition, we received the following awards for being a globally recognized employer of
+choice:
+SAP Labs India ranked #5 at Great Places to Work.
+SAP China won “Best Performance Management 2014” from 51job (read more).
+SAP China listed in the ranking of “China Top 100 Ideal Employers 2014” (read more).
+SAP America ranked #14 in 100 Top Companies for Remote Jobs in 2014.
+SAP Labs Latin America ranked #1 Best Company to Work for in Brazil according to Você
+S/A magazine.
+SAP America, Inc. listed in Top 100 Workplaces in Atlanta by the Atlanta Journal­
+Constitution.
+SAP America, Inc. ranked #8 as a Top Workplace by philly.com.
+SAP America, Inc. ranked Top Employer by Top Workplaces for Bay Areas.
+SAP ranked #8 in Great Places to Work in Argentina.
+SAP Canada, Inc. won Best Employer in Canada and also Best Employer in Quebec by Aon
+Hewitt.
+
+SAP ranked #14 among the 100 best IT Companies in Brazil and #2 for Rio Grande do Sul
+by Great Places to Work.
+SAP Argentina ranked #9 in the Apertura Ranking by Revista Apertura.
+SAP is among the Best Multinational Companies in Brazil according to Great Places to
+Work.
+SAP France was awarded the Top Employers France 2014 certification.
+SAP UKI Ltd. was awarded the Top Employers United Kingdom 2014 certification.
+SAP Turkey is ranked #5 for companies with 50­500 employees according to Great Places
+to Work.
+SAP Switzerland is ranked #12 for Most Attractive Employer in IT by Universum.
+SAP Bulgaria won Best Employer in midsized and large companies awarded by Aon Hewitt.
+SAP ranked #15 in the Absolventa and Clevis Group list of companies offering valuable
+internships.
+SAP ranked #22 in the OTaC Social Media Talent Interaction 2014 Study by Potentialpark.
+SAP ranked #2 in the Top Employer IT ranking by Trendence.
+SAP won Best Employer 2014 category IT awarded by Focus, Xing and Statista.
+SAP Switzerland ranked #12 in Universums list of Switzerland’s Most Attractive Employers
+for IT Students.
+SAP Labs France was listed among the 2014 Best Workplaces in France.
+SAP Czech Republic listed #3 in Top Employers by Aon Hewitt in the category large
+companies.
+SAP Africa was awarded the Top Employers Africa 2015 as well as Top Employers awards
+for the Ivory Coast, Kenya, Nigera and South Africa (read more).
+
+Glossary
+
+AA1000 AccountAbility Principles
+Standard (AA1000APS)
+
+Provides a framework for organizations to
+identify, prioritize, and respond to
+sustainability challenges. The other AA1000
+standards – the Assurance Standard and the
+Stakeholder Engagement Standard – are
+based on the APS principles and support their
+achievement.
+
+ABAP
+
+SAP software programming language.
+
+add­on
+
+A software application that is technically
+dependent on – and can only be installed on
+top of – another application.
+
+Americas’ SAP Users’ Group
+(ASUG)
+
+Non­profit organization of SAP customer
+companies dedicated to providing educational
+and networking opportunities in support of
+SAP software and implementation. These user
+groups are established in regions around the
+world to share knowledge and influence SAP
+development efforts. ASUG is the largest user
+group with more than 100,000 individuals at
+3,800 companies in more than 17 industries
+across the SAP ecosystem.
+
+analytics
+
+Data analysis typically generated in the form
+of reports and charts that can be used for
+business insight and decision making.
+
+analytics solutions from SAP
+
+Analytics solutions from SAP enable people to
+unleash the power of collective insight in Big
+Data by empowering them with the right
+information at the right time to make insightful
+
+business decisions, anticipate change, and
+uncover new opportunities. Analytics solutions
+cover the areas of business intelligence,
+enterprise performance management, and
+governance, risk, and compliance.
+
+application
+
+Software that enables organizations to
+address specific business needs and to
+perform certain business processes or
+activities and.
+
+application lifecycle management
+
+Describes the processes, tools, services, and
+organizational model used to manage SAP
+and non­SAP software throughout the solution
+lifecycle, from concept to phase­out. This
+recommended approach to application
+lifecycle management enables companies to
+adopt innovations from SAP rapidly and gain
+optimal value from their business solutions.
+
+applied analytics
+
+Category of offerings within the portfolio of
+analytics solutions from SAP comprising
+individual offerings for analytic applications,
+analytic content, and accelerators.
+
+Ariba
+
+Company acquired by SAP in October 2012.
+All cloud­related supplier assets of SAP are
+now consolidated under Ariba, which operates
+as an independent business under the name
+“Ariba, an SAP company.” Ariba solutions for
+procurement, financials, and sourcing, as well
+as the Ariba Network, continue to maintain the
+Ariba brand.
+
+Ariba Network
+
+Business commerce network where
+companies of all sizes can connect to their
+trading partners anywhere, at any time from
+any application or device to buy, sell, and
+manage their cash more efficiently and
+effectively than ever before. Companies
+around the world use the Ariba Network to
+simplify interenterprise commerce and
+enhance the results they deliver. See
+
+“business network.”
+
+benchmarking
+
+Process of measuring products, services, and
+practices against those of leading companies,
+which can also be used as a reference point of
+measurement for evaluating best practices.
+
+best practice
+
+A management concept that involves devising
+a method of process that most effectively
+produces a desired outcome. SAP
+applications use business best practices to
+help customers automate common business
+processes through software and technology.
+See “SAP Best Practices.”
+
+Big Data
+
+The large volume of data created by billions of
+connected devices and people generating a
+tremendous amount of information about their
+behavior, location, and activity. This
+availability of massive amounts of data
+requires companies to rethink technology
+architecture and database structures.
+
+Business Health Culture Index
+
+A score for the general cultural conditions in
+an organization that enable employees to stay
+healthy and balanced. The index is calculated
+based on the results of regular employee
+surveys.
+
+business intelligence (BI)
+
+Software that enables users to analyze an
+organization’s raw data and make fact­based
+decisions. BI­related processes include data
+mining, analytical processing, querying, and
+reporting. SAP BusinessObjects BI solutions
+include the SAP BusinessObjects BI platform,
+SAP Crystal Reports, SAP BusinessObjects
+Dashboards, and SAP Lumira.
+
+business network
+
+An online service that connects businesses
+and their systems to those of their trading
+partners and enables new processes and
+
+information and insight sharing only possible
+in a digital environment. See “Ariba Network.”
+
+business priority
+
+An important topic for success in business or
+industry. SAP recommends end­to­end
+solutions by business priority to help
+businesses run better and address the
+complex and challenging requirements within
+their particular industries or functional areas.
+See “end­to­end solution.”
+
+business process
+
+Set of logically related activities performed
+within an organization to complete a defined
+business task. Order processing is a typical
+example. SAP provides software and
+technology that enable and support business
+processes.
+
+Business Process Expert (BPX)
+community
+
+Part of SAP Community Network, this online
+network connects SAP customers, business
+analysts, consultants, and SAP internal
+experts. The BPX community is a unique
+repository for knowledge that focuses on a
+wide variety of process, implementation, and
+solution issues.
+
+business user
+
+Employees who spend significant time finding
+and sharing information, collaborating with
+others, coordinating projects, devising strategy
+or operational tactics, and coming up with new
+ideas based on information gathered from
+multiple sources. Also called knowledge or
+information workers or business consumers.
+
+carbon offset or greenhouse gas
+(GHG) offset
+
+A unit of carbon dioxide­equivalent (CO2
+
+cloud computing
+
+Generic term for flexible, IT­related services
+
+equivalent) that is reduced, avoided, or
+sequestered to compensate for emissions
+occurring elsewhere.
+
+available through, or hosted on, the Internet
+for consumers and business, including
+storage, computing power, software
+development environments, and applications,
+combined with service delivery. Accessed as
+needed “in the cloud,” these services eliminate
+the need for in­house IT resources. See
+“software as a service.”
+
+cloud deployment models
+
+The different infrastructure, software lifecycle
+management, and licensing models used for
+deploying software, that is, where the software
+is running and how much control and flexibility
+a customer has.
+
+cloud service model
+
+“As­a­service” offerings where cloud services
+are offered either as software as a service
+(SaaS), platform as a service (PaaS), and
+infrastructure as a service (IaaS).
+
+cloud solutions from SAP
+
+Category used to communicate all of SAP
+offerings and efforts related to the cloud,
+including platform, managed services,
+solutions, technology, and infrastructure. It
+includes line­of­business cloud applications
+from both SuccessFactors and SAP.
+
+CO2 equivalent
+
+A measure to compare the emissions of
+various greenhouse gases based upon their
+global warming potential. For example, the
+global warming potential for methane over 100
+years is 21. This means that emissions of one
+million metric tons of methane are equivalent
+to emissions of 21 million metric tons of
+carbon dioxide.
+
+component
+
+Modular piece of software offering functions
+accessible via interfaces.
+
+Concur Technologies
+
+Travel and expense management company
+acquired by SAP in 2014 to deliver a new
+
+model for managing business resources,
+processes, and spend through the world’s
+largest business network in the cloud for T&E.
+
+core applications
+
+Standard business applications available in
+SAP Business Suite, including SAP ERP, SAP
+Customer Relationship Management (SAP
+CRM), SAP Product Lifecycle Management
+(SAP PLM), SAP Supply Chain Management
+(SAP SCM), and SAP Supplier Relationship
+Management (SAP SRM).
+
+corporate social responsibility
+
+SAP’s corporate social responsibility (CSR)
+program is about how the company creates
+social impact for people, both inside and
+outside SAP, to help make society more
+sustainable and the world run better.
+
+custom development project
+(CDP)
+
+Realization of a custom­developed solution
+that meets unique business needs, realized at
+SAP or in a customer’s development system.
+
+customer competence center
+
+A program established by SAP in 1994 to
+assist customers in setting up and optimizing
+their own support operations. The program
+focuses on sharing best practices, providing
+operational tools, and creation of operations
+standards across all organizations involved
+with IT service and application management.
+
+customer connection
+
+A simple process directed at incrementally
+enhancing and improving the products and
+solutions SAP customers are using today. It
+offers SAP customers the opportunity to
+suggest small enhancements to products and
+solutions in mainstream maintenance, for fast
+and non­disruptive delivery using notes and
+support packages.
+
+customer engagement lifecycle
+
+Model that provides an integrated framework
+of practices to help create and deliver
+
+customer value. The phases of the customer
+engagement lifecycle represent the common
+route followed by the SAP and the customer
+teams in the process of identifying, delivering,
+operating, and managing solutions that best fit
+the customer’s needs.
+
+Customer Net Promoter Score
+(NPS)
+
+Describes the willingness of customers to
+recommend or promote an organization or
+company to others. It is defined as the
+percentage of customers that are likely to
+recommend an organization or company to
+friends or colleagues (promoters) minus the
+percentage of customers that are unlikely to
+do so.
+
+data center energy
+
+The amount of energy consumed in SAP’s
+data centers related to the number of
+employees (expressed in full­time
+equivalents/FTEs).
+
+data warehouse
+
+An electronic collection of information
+organized for easy access by computer
+programs. See “SAP Business Warehouse.”
+
+default release
+
+Most recent release of an SAP application
+after it enters the unrestricted shipment phase.
+The standard software release is shipped to
+customers unless a specific release is
+ordered. Usually, the most recent release of
+an SAP software product is declared the
+current default release once the restricted
+shipment phase has ended.
+
+dematerialization
+
+Refers to reducing the total material that goes
+toward providing products or services to
+customers. SAP achieves this effect through
+greater efficiency in the usage of materials,
+such as default double­sided printing, or by
+increasing online conferencing to reduce
+business travel.
+
+design thinking
+
+A methodology for routine innovation that brings together the right side of the brain
+(creative) with the left side of the brain (analytical).
+
+disruptive technology
+
+Process by which a product or service takes
+root initially in simple applications at the
+bottom of a market and then relentlessly
+moves “up market,” eventually displacing
+established competitors. Term coined by
+Clayton Christensen.
+
+DSAG
+
+Abbreviation for Deutschsprachige SAP­
+Anwendergruppe (German­Speaking SAP
+Users’ Group), with more than 50,000
+members in 2,900 member companies in
+German­speaking countries and beyond.
+
+Duet Enterprise
+
+Software resulting from collaboration between
+SAP and Microsoft that enables business
+users to boost individual and team productivity
+by giving business users access to selected
+SAP software and data using the familiar
+Microsoft Office environment.
+
+Early Knowledge Transfer
+
+SAP training program that delivers early
+product­related knowledge to presales, sales,
+consultants, partners, and support teams. This
+program contributes to the successful
+implementation of ramp­up projects and is a
+crucial element of the ramp­up process in the
+product innovation lifecycle at SAP. Formerly
+called Ramp­Up Knowledge Transfer.
+
+ecosystem
+
+Construct encompassing SAP and its
+customers and partners that extends the value
+SAP provides to its customers. By bringing
+together community­based insight, innovative
+partner solutions, and industry­leading
+collaboration and co­innovation, it enables
+customers to extract the greatest possible
+
+value from their SAP investments.
+
+electronic waste (e­waste)
+
+Electronic products that are discarded by
+consumers or companies, such as computers,
+computer monitors, or mobile devices.
+
+Employee Engagement Index
+
+A score for the level of employee commitment,
+pride, and loyalty, as well as the feeling of
+employees of being advocates for their
+company. The index is calculated based on
+the results of regular employee surveys.
+
+employee retention
+
+The ratio of the average headcount
+(expressed in full­time equivalents/FTEs)
+minus employee­initiated terminations
+(turnover) divided by the average headcount,
+taking into account the past 12 months.
+
+enabler effect
+
+Reduction of greenhouse gas emissions and
+increase of energy savings in the entire
+economy through innovative technology
+provided by the ICT sector.
+
+end­to­end process
+
+Set of activities supporting defined
+management, core, or support processes.
+Customers can use these activities as a
+reference to map their own processes.
+
+end­to­end solution
+
+Solutions that drive strategic business
+outcomes and directly contribute to a business
+priority in an industry, line of business, or
+technology area. The solutions are structured
+into solution capabilities which comprise a
+number of individual products and/or license
+materials. End­to­end solutions provide a
+business scope with a comprehensive value
+proposition. See “business priority.”
+
+enhancement package
+
+Optional software packages that enable
+
+companies to take advantage of innovation
+while keeping their core software stable.
+Enhancement packages contain improved
+general business and industry functionality,
+enterprise services, and other user interface
+and functional improvements. Organizations
+can activate selected business functions
+contained within the enhancement packages
+and deploy them on their own timetable with
+minimal disruption to business operations.
+
+enterprise mobility
+
+Term used in business and industry to refer to
+the concept and approach to making a
+business mobile. At SAP, we use “enterprise
+mobility” as our umbrella term for an overall
+mobile strategy.
+
+enterprise resource planning
+
+See “SAP ERP.”
+
+environmental impact
+
+A positive or negative change to the natural
+environment.
+
+Fieldglass
+
+Company acquired by SAP in 2014 to
+strengthen the cloud portfolio with a unique
+end­to­end solution that addresses the entire
+workforce including contract workers and
+permanent staff. Fieldglass software offerings
+are available now as SAP Fieldglass
+Approvals, SAP Fieldglass Contingent
+Workforce Management, SAP Fieldglass
+Services Procurement, SAP Fieldglass Vendor
+Management, and SAP Fieldglass Worker
+Profile Management.
+
+Global Customer Reference
+Program
+
+SAP program offering detailed information
+about reference customers from around the
+world, using a database that channel partners
+can access to help close a deal with a new
+SAP customer. Reference customers have
+agreed to participate in one or more reference
+activities on behalf of SAP.
+
+Global Partner Operations
+
+As of May 2014, Global Partner Operations (GPO) is the new name of SAP Ecosystem &
+Channels (ECO). It brings all SAP partner relationships under one leader and one
+organization. It includes the existing SAP Ecosystem & Channels team and is
+responsible for managing strategic partnerships, as well as the SAP Business One
+channel and the growing OEM business.
+
+Global Reporting Initiative (GRI)
+
+A non­profit organization that provides
+companies and organizations with a
+comprehensive sustainability reporting
+framework that is widely used around the
+world.
+
+greenhouse gas footprint
+
+The sum of all greenhouse gas emissions
+measured and reported, including renewable
+energy and third­party reductions, for
+example, offsets.
+
+Greenhouse Gas Protocol (GHG
+Protocol)
+
+The most widely used international accounting
+tool to understand, quantify, and manage
+greenhouse gas emissions.
+
+Hasso Plattner Founders' Award
+
+Introduced in 2014, an employee award that
+signifies the highest employee recognition at
+SAP, awarded annually by the CEO to an
+individual or a team.
+
+hybrid cloud
+
+A hybrid cloud deployment model uses
+resources comprised of a mix of two or more
+distinct cloud deployment models that are
+integrated by standardized or proprietary
+technology enabling data and application
+portability.
+
+hybrid landscape
+
+A mix of on­premise and any cloud
+deployment model(s). Alternatively referred to
+as an “on premise to cloud” or “hybrid
+environment.”
+
+hybris
+
+Company acquired by SAP in August 2013
+that offers an extensible omnichannel
+commerce platform that helps businesses sell
+more goods, services, and digital content
+through every touch point, channel, and
+device. The renamed hybris Commerce Suite
+(SAP hybris B2B Commerce and SAP hybris
+B2C Commerce solutions) support product
+content management and unified commerce
+processes that give a business a single view
+of its customers, products, and orders, and its
+customers a single view of the business.
+hybris operates as an independent business
+under the name “hybris, an SAP company.”
+
+in­memory computing
+
+A major advance in information technology
+that creates a dramatic change in computing,
+analytics, and data storage. Combining
+advances in multicore processing with more
+affordable servers, in­memory computing
+allows information to be stored in the main
+memory rather than in relational databases to
+greatly accelerate processing times. It disrupts
+the traditional IT stack comprised of hardware,
+middleware, and software, where disk­based
+relational databases can become bottlenecks.
+
+in­memory data fabric
+
+A concept that uses smart data access
+technology from SAP HANA to deliver
+accelerated business intelligence to
+customers.
+
+in­memory database
+
+Database that keeps all active records in main
+memory rather than on disk. Accessing in­
+memory records is considerably faster than
+retrieving them from the disk, significantly
+increasing performance. SAP HANA is SAP’s
+groundbreaking database that allows
+businesses to take advantage of in­memory
+computing. See “SAP HANA.”
+
+inclusivity
+
+Software suite that helps companies build a
+
+comprehensive business process platform to
+run and perform better. The software supports
+core business operations ranging from
+supplier relationships to production,
+warehouse management, sales, and
+administrative functions, through to customer
+relationships. The main applications in the
+suite are SAP CRM, SAP ERP, SAP PLM,
+SAP SRM, and SAP SCM. SAP Business
+Suite, SAP CRM, and SAP ERP are now
+available powered by SAP HANA.
+
+independent software vendor
+(ISV)
+
+Company that makes and sells software
+products that run on one or more computer
+hardware or operating system platforms.
+
+industry
+
+An economic sector characterized by a value
+chain, business processes, and a set of
+products and services that is typical or
+common for all companies belonging to this
+sector. At SAP, “industries” is also used as a
+term to differentiate between lines­of­business
+functions such as marketing, procurement,
+and finance, and those functions specific to an
+industry.
+
+industry portfolios
+
+SAP offers software portfolios that address the
+business needs of 25 different industries.
+
+Industry Value Network
+
+SAP program that brings together customers,
+independent software vendors, system
+integrators, technology vendors, and SAP to
+form a network of groups to stimulate co­
+innovation and the development of high­
+impact business solutions for a particular
+industry.
+
+infrastructure as a service (IaaS)
+
+Processing, storage, network, other computing
+resources and typically a defined level of
+support for consumers to deploy software
+(such as operating systems and applications).
+IaaS consumers do not manage underlying
+cloud infrastructure but may control
+
+networking components (such as host
+firewalls).
+
+Internet of Things
+
+A fusion of the digital world and the physical
+world that brings together different concepts
+and technical components. Everyday objects
+and machines have sensors that can
+“communicate” with each other over the
+Internet, making new models possible for
+business processes, collaboration,
+miniaturization of devices, and mobile
+communications. SAP offers several solutions
+that address the Internet of Things.
+
+ISO 14001
+
+A standard for environmental management
+systems that provides practical tools for
+companies and organizations to identify and
+control their environmental impact and
+constantly improve their environmental
+performance.
+
+key performance indicator (KPI)
+
+Performance figure for which threshold values
+are defined and against which validation is
+executed.
+
+lean
+
+Set of manufacturing principles that first
+defines customer value, then reorganizes
+every step required to design, order, build,
+deliver, and maintain this value across all the
+organizations and units. As a result, firms can
+do more with less, respond more quickly to
+customer needs, create jobs that are more
+rewarding for employees, and reduce their
+impact on the environment.
+
+legal change
+
+Correction to SAP software to adapt an SAP
+software release to changes in legal and
+regulatory requirements.
+
+line of business (LoB)
+
+Internal organizational area or business unit in
+a company (division) that combines all
+
+responsibilities for a particular product, group,
+or set of processes. Examples include sales,
+purchasing, human resources, finance,
+marketing, and so on.
+
+line­of­business portfolios
+
+SAP offers software portfolios that address the
+needs of organizations in 12 lines of business,
+or functional areas. The following solution
+portfolios are currently available: SAP for
+Asset Management, SAP for Commerce, SAP
+for Finance, SAP for Human Resources, SAP
+for Manufacturing, SAP for Marketing, SAP for
+R&D/Engineering, SAP for Sales, SAP for
+Service, SAP for Sourcing and Procurement,
+SAP for Supply Chain Management, and SAP
+for Sustainability.
+
+mainstream maintenance
+
+First SAP maintenance phase, which includes
+the full scope of support. It is followed by an
+extended maintenance, customer­specific
+maintenance, or priority­one support phase.
+
+maintenance
+
+Software support comprising support for legal
+changes and corrections delivered through the
+SAP Notes tool, support packages, problem
+support, and access to information and online
+service channels – depending on the
+maintenance phase.
+
+maintenance strategy
+
+Set of rules that determine the length and
+conditions of maintenance for SAP software
+releases. Detailed rules can differ depending
+on the type of application.
+
+managed cloud
+
+Deployment that implies resources are
+dedicated to one customer, managed by the
+cloud provider, and accessed through a VPN.
+SAP HANA Enterprise Cloud is SAP’s
+managed cloud offering.
+
+master price list
+
+Catalog for customers containing separately
+
+priced SAP products as well as terms and
+conditions.
+
+materiality
+
+Determines the relevance and significance of
+an issue to an organization and its
+stakeholders. A material issue is an issue that
+will influence the decisions, actions, and
+performance of an organization or its
+stakeholders.
+
+mobile apps
+
+Applications for mobile devices available for
+download, demo, and purchase on SAP Store,
+App Store, and other online stores. Mobile
+apps are categorized as either
+business/product in focus or as consumer­
+focused. At SAP, our mobile apps are task­
+oriented or allow access to existing on­
+premise software.
+
+mobile solutions from SAP
+
+Provide a foundation for enterprise mobility
+and seamless integration with the core
+enterprise applications of our customers. Our
+portfolio of mobile solutions includes
+enterprise mobility management, including the
+SAP Afaria mobile device management
+solution and the SAP Mobile Documents
+solution; mobile apps; and SAP Mobile
+Platform.
+
+non­profit or not­for­profit
+
+A corporation or an association that conducts
+business for the benefit of the public without
+shareholders and without a profit motive.
+
+on demand
+
+Model of software deployment whereby
+providers license an application to customers
+for use as a service when they need it, that is,
+“on demand.” It eliminates the need for on­site
+IT resources to manage infrastructure and
+thereby reduces operational expenses. Due to
+their software­as­a­service nature, on­demand
+solutions are often available in the cloud. See
+“cloud solutions from SAP.”
+
+on premise
+
+Traditional model of software deployment where enterprises purchase software licenses
+and deploy applications in­house. A deployment model where a software license is
+purchased and deployed on the servers at the premises of the customer. The customer
+manages and controls the software.
+
+open source
+
+Software based on the concept of software
+developers coming together to build a virtual
+community and solving a common problem by
+developing working software that everyone
+has a right to change. Successful
+development projects under the open source
+model include Linux – a free operating system
+supported by SAP.
+
+Partner Direct
+
+A program that offers a selection of SAP
+products to customers exclusively from SAP
+partners.
+
+platform as a service (PaaS)
+
+Cloud infrastructure, operating system,
+programming languages, libraries, services,
+tools and typically a defined level of support
+for consumers to deploy consumer­created or
+acquired applications. PaaS consumers do not
+manage underlying cloud infrastructure but
+have control over deployed applications.
+
+point­of­sale (POS)
+
+Generic term used in distribution to describe
+all information that is recorded at the time a
+product is sold. The data typically includes the
+location of the sale, price point, SKU, end­user
+contact information, and partner contact
+information. The SAP Point­of­Sale application
+can help retail businesses reduce the
+operating costs of store systems – while
+delivering an enhanced customer experience.
+
+powered by SAP HANA
+
+An SAP offering powered by SAP HANA runs
+on the SAP HANA platform. More than 100
+
+SAP applications are currently “powered by
+SAP HANA.” Partner solutions or applications
+that are powered by SAP HANA are certified
+by SAP to run on the SAP HANA platform.
+These applications take advantage of
+distinctive capabilities of SAP HANA to deliver
+key benefits, such as simpler administration,
+reduced overhead, and better business
+intelligence over conventional traditional
+technology platforms.
+
+predictive analytics
+
+Brings advanced analytics capabilities to a
+broad spectrum of users to help uncover new
+business opportunities, predict trends, and
+proactively respond to change. Through the
+acquisition of KXEN, SAP extends predictive
+analytics tools beyond data scientists to line­
+of­business users and analysts in the
+workplace by automating key modeling and
+analytical tasks and enabling faster
+deployment and adoption. Available in SAP
+Predictive Analysis software.
+
+priority­one support
+
+An additional optional maintenance phase
+offered after expiration of mainstream
+maintenance for specific releases of the SAP
+BusinessObjects Business Intelligence
+platform and former SAP BusinessObjects
+solutions no longer actively sold or marketed.
+
+private cloud
+
+Deployment implies resources dedicated to
+one customer and accessed through the
+internet. The infrastructure is owned, managed
+and operated by the customer, a third­party, or
+both, and is on the premises of the customer,
+cloud provider, or a third party.
+
+private edition
+
+A private edition is identical to the public
+cloud, except that the application is dedicated
+to one customer. See “public cloud.”
+
+product
+
+A non­versioned high­level view of software
+from a software logistics perspective. It is a
+
+“bracket” that contains corresponding software
+product versions.
+
+Product Availability Matrix (PAM)
+
+Database that bundles technical and release
+planning information on SAP components for
+quick reference. Information on the availability
+of SAP component releases and maintenance
+end dates, as well as release information are
+available.
+
+product footprint
+
+The environmental impact of products,
+processes, or services by production, usage,
+and disposal.
+
+product instance
+
+A group of technically dependent software
+component versions that are part of a
+(software) product version and have to be
+installed and operated on a single logical
+system/server. The software product instances
+of a software product version show the
+maximal distribution possibility of the software
+product version. Also known as “software
+product instance.”
+
+product line
+
+Individual products grouped together based on
+their main brand names, including all versions,
+technical releases, editions, options, add­ons,
+delivery types, and related tools. Example:
+The product line “SAP Customer Relationship
+Management” would include SAP CRM 7.0,
+SAP Cloud for Sales, SAP Cloud for Service,
+SAP CRM rapid­deployment solution, the SAP
+Customer Insight mobile app, and so on.
+
+product version
+
+One or more software component versions
+made available at the same time for
+implementing a well­defined scope of
+functionality. The versions of a product fulfill
+the principle of functional continuity. From a
+delivery point of view, the version indicates the
+release of a product and can either be stand­
+alone or add­on. Also known as “software
+product version.”
+
+public cloud
+
+Provides consumers access to the provider’s
+applications running on cloud infrastructure.
+The resources are located on the premises of
+the cloud provider, not of the customer, and
+are shared by multiple customers accessing
+them through the Internet. The application is
+shared by multiple customers and accessible
+from various client devices via either a thin
+client interface, such as a Web browser, or a
+program interface. The customer does not
+manage or control the underlying cloud
+infrastructure including network, servers,
+operating systems, storage, or even individual
+application capabilities, with the possible
+exception of limited user­specific application
+configuration. The customer is provided self­
+service access and tools.
+
+Ramp­Up Knowledge Transfer
+
+see “Early Knowledge Transfer.”
+
+release
+
+SAP software that has a version number, is
+shipped at a particular time, and has defined
+maintenance phases.
+
+release­to­customer date
+
+Date that marks the initial availability of a
+release to customers and the beginning of the
+restricted shipment phase.
+
+renewable energy
+
+The shares and types of electricity obtained
+from renewable sources such as hydro, wind,
+solar, geothermal, and biomass. It is
+calculated by adding the amount of renewable
+energy specifically sourced, produced on­site
+by our own solar cells and covered by
+Renewable Energy Certificates (RECs).
+
+responsiveness
+
+In the context of stakeholder engagement, an
+organization’s cooperation and communication
+with stakeholders, and the decisions and
+actions taken in response to addressed topics
+
+and issues.
+
+restricted shipment phase
+
+First phase of a release delivery, which is
+rolled out within the framework of the SAP
+Ramp­Up program. The program determines
+how many customers receive the release and
+increases distribution in a controlled way. This
+phase is followed by the unrestricted shipment
+phase.
+
+road map
+
+Product timeline that has a variety of
+objectives, including communication to
+customers, users, or other parties interested in
+the timing of future product releases; the
+features planned for those releases; general
+prioritization of features; and in some cases,
+the requirements of features in enough detail
+that current and prospective customers can
+give feedback on the feature itself and the
+product’s direction.
+
+Run Simple
+
+SAP’s operating principle that refers to how
+SAP solutions can help our customers run at
+their best by addressing complexity and
+innovating for future growth as well as to how
+SAP can radically simplify how we conduct
+business internally and externally. Run Simple
+helps our employees concentrate on ways to
+master complexity for SAP and our customers.
+When fulfilled, it serves as a powerful
+differentiator in the market.
+
+SAP Accounting powered by SAP
+HANA
+
+Formerly called Smart Accounting software.
+
+SAP Active Global Support (SAP
+AGS)
+
+A global organization with more than 4,000
+support engineers and developers that
+focuses on support offerings, helping
+companies manage the application lifecycle
+and optimize solution performance and
+consequently manage complexity, mitigate
+risks, and control costs. The services are
+available through seven strategically located
+global support centers and more than 30 local
+
+support centers.
+
+SAP ActiveEmbedded
+
+Enhanced engagement services for optimizing
+solutions and accelerating adoption of
+technologies without disrupting customer
+businesses.
+
+SAP Adaptive Server Enterprise
+(SAP ASE)
+
+A high­performance relational database
+management system for mission­critical, data­
+intensive environments. It ensures highest
+operational efficiency and throughput on a
+broad range of platforms. Key features include
+data encryption to protect from internal and
+external breaches, partitioning technology for
+better performance and easier maintenance,
+and virtualization and clustering capabilities for
+continuous availability and efficient use of
+resources. Formerly called SAP Sybase ASE.
+
+SAP Afaria
+
+A mobile device management solution that
+provides a single administrative console to
+centrally manage, secure, and deploy mobile
+data, applications, and devices. SAP Afaria
+simplifies the management complexities of a
+workforce on the go by making the data stored
+and transmitted by mobile devices secure.
+
+SAP Anywhere
+
+New solution from the SMB Solutions Group at
+SAP designed for smaller companies that
+need a seamless way to manage their
+customer interactions in a single front­office
+system. It is an affordable, easy­to­use
+solution that enables companies to deliver a
+consistent customer experience across all
+their digital marketing, sales, and commerce
+activities.
+
+SAP API Management
+
+New cloud offering that helps customers
+manage their application programming
+interfaces; an on­premise edition is also
+available.
+
+SAP Best Practices
+
+Packages that provide proven methods and tools for organizations to implement best
+business practices in key areas and a range of industries using SAP software. The
+packages deliver methodology, documentation, and preconfiguration that enable rapid,
+reliable deployment with quick return on investment.
+
+SAP Business All­in­One
+
+Comprehensive and flexible business
+management solution targeted to midsize
+companies with up to 2,500 employees that
+are looking for a comprehensive, integrated
+industry­specific ERP solution with built­in best
+practices.
+
+SAP Business ByDesign
+
+Adaptable, cloud­based business suite ideally
+suited for SMEs and subsidiaries of large
+corporations, it is a complete, integrated suite
+that can run a whole enterprise – financials,
+human resources, sales, procurement,
+customer service, and supply chain. The latest
+versions enable partners and customers to
+extend the system capabilities or build cloud­
+based applications using SAP Business
+ByDesign Studio.
+
+SAP Business One
+
+Application designed especially for small
+businesses with up to 100 employees,
+providing a single, integrated solution for
+managing the entire business across
+financials, sales, customer relationships,
+purchasing, inventory, analytics, and
+operations.
+
+SAP Business Suite
+
+Software suite that helps companies build a
+comprehensive business process platform to
+run and perform better. The software supports
+core business operations ranging from
+supplier relationships to production,
+warehouse management, sales, and
+administrative functions, through to customer
+relationships. The main applications in the
+suite are SAP CRM, SAP ERP, SAP PLM,
+SAP SRM, and SAP SCM. SAP Business
+
+Suite, SAP CRM, and SAP ERP are now
+available powered by SAP HANA.
+
+SAP Business Suite 4 SAP HANA
+
+See “SAP S/4HANA.”
+
+SAP Business Suite powered by
+SAP HANA
+
+In January 2013, SAP launched SAP Business
+Suite powered by SAP HANA, a next­
+generation business suite that captures and
+analyzes data in real time on a single in­
+memory platform empowering customers to
+run their business in real time to transact,
+analyze, and predict instantly and proactively.
+The core applications in the suite now take
+advantage of SAP HANA for smarter
+innovations, faster business processes, and
+simpler interactions.
+
+SAP Business Warehouse (SAP
+BW)
+
+Application of the SAP NetWeaver technology
+platform that provides a complete view of a
+company and the tools needed to make the
+right decisions, optimize processes, and
+measure strategic success, such as business­
+critical factors and benchmarks. Formerly
+called SAP NetWeaver Business Warehouse.
+
+SAP BusinessObjects Business
+Intelligence solutions
+
+Category of solutions designed to help
+optimize business performance and provide
+business insight by connecting people with
+information. The SAP BusinessObjects brand
+name was dropped in 2012 from all SAP
+offerings except for business intelligence. SAP
+BusinessObjects Business Intelligence suite
+comprises the majority of SAP
+BusinessObjects Business Intelligence
+solutions. See “analytics solutions from SAP.”
+
+SAP Cloud for Customer
+
+A cloud­based offering of CRM applications
+and tools developed for sales, service, and
+marketing teams that provides an overview of
+your end­to­end business, as well as deep
+customer insight and personalized
+engagement, so that they can deliver a
+relevant experience at every step of your
+
+customer’s journey. It also offers designed­in
+social collaboration to help transform social
+media conversations into business insight.
+The offering currently includes SAP Cloud for
+Sales, SAP Cloud for Service, SAP Cloud for
+Marketing, and SAP Cloud for Social
+Engagement solutions.
+
+SAP Cloud for Financials
+
+A cloud­based financial management solution
+with an intuitive, easy­to­consume interface
+and personalized information. It features
+embedded, dynamic analytics, enabling
+companies to achieve superior financial insight
+across the business. Customers can use the
+solution to drive streamlined, end­to­end
+compliant financial processes as well as real­
+time financial performance information for
+everyone in the business. It includes the
+solution formerly called SAP Financials
+OnDemand and is part of the SAP Cloud for
+Finance portfolio.
+
+SAP Cloud for Planning
+
+Cloud­based solution for all types of planning
+powered by SAP HANA. Formerly called SAP
+Cloud for Enterprise Performance
+Management.
+
+SAP Cloud for Sales, SAP Cloud
+for Service, and SAP Cloud for
+Marketing
+
+Cloud­based solutions targeted at sales,
+service, and marketing organizations with
+designed­in social collaboration to help
+transform social media conversations into
+business insight.
+
+SAP Cloud for Social Engagement
+
+Cloud­based solution that helps transform
+social media conversations into business
+insight. Marketing and customer service
+organizations can use it to better engage with
+customers to increase brand loyalty, manage
+reputational risks, and capitalize on
+opportunities.
+
+SAP Cloud powered by SAP
+HANA
+
+Term that refers to all of SAP and
+SuccessFactors offerings related to the cloud,
+
+including platforms, services, applications,
+technology, and infrastructure. It is not the
+name of a single offering or a category of
+solutions. SAP Cloud powered by SAP HANA
+comprises public cloud applications, managed
+cloud applications delivered via SAP HANA
+Enterprise Cloud, and a platform delivered as
+a service, SAP HANA Cloud Platform. SAP
+Cloud always refers to more than just
+solutions or applications.
+
+SAP Co­Innovation Lab
+
+SAP location featuring a simulated,
+heterogeneous data center that incorporates
+hardware and infrastructure software from
+various vendors. The lab provides a hands­on
+environment for SAP, customers, and partners
+to innovate, accelerate, and showcase new
+business solutions and technologies
+collaboratively. Customers and partners can
+visit the lab to evaluate the latest SAP and
+partner solutions in a simulated, real­world
+infrastructure.
+
+SAP Community Network
+
+Online portal with nearly two million members
+in more than 200 countries, providing
+individuals with the opportunity to trade
+experience and insights, pursue business
+opportunities, and learn from each other. SAP
+offers distinct communities in the network that
+offer information, trusted resources, and co­
+innovation. See “Business Process Expert
+community,” “SAP Developer Network,” and
+“SAP University Alliances community.”
+
+SAP CRM powered by SAP HANA
+
+First SAP Business Suite application powered
+by SAP HANA.
+
+SAP Crystal Reports
+
+Software that enables businesses to design
+interactive reports and connect them to
+virtually any data source.
+
+SAP Crystal solutions
+
+Integrated, affordable, and user­friendly family
+of offerings for reporting, dashboarding,
+
+presentation, and ad hoc analysis that can
+empower individuals in organizations of any
+size to discover and share insight for optimal
+decision making. With insight into every
+aspect of the business, companies can
+monitor performance, identify opportunities for
+growth, and transform how they run their
+businesses.
+
+SAP Custom Development
+
+SAP organization that specializes in building
+individual software solutions that address the
+unique needs of customers, and that fit
+seamlessly with existing SAP software. The
+organization draws on SAP innovations,
+especially SAP HANA, to deliver unmatched
+impact and value for specific customer use
+cases. See “custom development project.”
+
+SAP Customer Relationship
+Management (SAP CRM)
+
+Application that provides comprehensive
+software support to help marketing, sales, and
+service professionals obtain complete
+customer intelligence that they can leverage to
+manage customer relationships and customer­
+related processes effectively. SAP CRM can
+enable multichannel customer interactions,
+including mobile smartphones, the Internet,
+and social media and also offers a
+communications infrastructure that is designed
+to help connecting with other users anytime,
+anywhere. SAP offers CRM applications in
+both on­premise and on­demand deployment
+models.
+
+SAP Data Management
+
+Portfolio that replaces and extends the
+concept and previously named offering of SAP
+Real­Time Data Platform. It refers to the data
+management capabilities in the following
+offerings, which are still available as individual
+offerings: SAP HANA; SAP ASE; SAP IQ;
+SAP SQL Anywhere; SAP ESP; SAP
+Replication Server; SAP PowerDesigner; SAP
+Control Center, SAP PowerBuilder, and SAP
+Data Services. Together, these allow users to
+access, store, and capitalize on Big Data to
+support business decision making in real time.
+
+SAP Developer Network
+
+Part of SAP Community Network, this online community offers deep technical content
+and expertise for SAP developers, analysts, consultants, and administrators.
+
+SAP EcoHub
+
+Online solution marketplace that centralizes
+information about SAP and partner solutions –
+and includes features such as feedback,
+ratings, and demos to help discover, evaluate,
+and buy solutions to complement an
+investment in SAP software.
+
+SAP Ecosystem & Channels
+
+See “Global Partner Operations.”
+
+SAP Education
+
+An organization with more than 1,000
+resources on global scale that provides a
+complete and high­quality enablement offering
+across the entire customer lifecycle for all
+target audiences (business users, project
+teams, customers, partners, and so on). The
+comprehensive portfolio of educational
+products and services leverages a multimodal
+offering (on­site, e­learning, and virtual
+classrooms) to accelerate enablement and
+reduce cost and certifications paths to help
+ensure enablement quality.
+
+SAP Enterprise Portal
+
+Intranet or corporate portal that provides easy
+access to business processes and
+information, social collaboration, and content
+management across various consumption
+channels and helps customers implement
+business­to­employee, partner, and consumer
+scenarios. Formerly called SAP NetWeaver
+Portal.
+
+SAP Enterprise Support
+
+Services that provide proactive support in
+addition to all features of SAP Standard
+Support services. These proactive support
+services encompass tools, processes, and
+services that enable continuous improvement,
+holistic application lifecycle management for
+
+continuous innovation, business and
+operational process improvements, and levers
+to address the total cost of operation (TCO).
+
+SAP Environment, Health & Safety
+Management (SAP EHS
+Management)
+
+An application that supports sustainability
+initiatives – enabling companies to manage
+EHS operational, financial, and reporting risks
+holistically across their facilities and extended
+business network. As an integral part of SAP
+Business Suite, the application systematically
+embeds EHS requirements and tasks directly
+into enterprise business processes, reinforcing
+compliance and risk reduction across global
+operations.
+
+SAP ERP
+
+Application designed to optimize business and
+IT processes by reducing IT complexity,
+increasing adaptability, and delivering more IT
+value at a lower cost than traditional ERP
+solutions. It can support mission­critical, end­
+to­end business processes for finance, human
+capital management, asset management,
+sales, procurement, and other essential
+corporate functions. SAP ERP can also
+support industry­ specific processes by
+providing industry­specific business functions
+that can be activated selectively via the switch
+framework, keeping the application core stable
+and helping ensure maximum performance.
+
+SAP ERP powered by SAP HANA
+
+The second SAP Business Suite application
+powered by SAP HANA.
+
+SAP Event Stream Processor
+(SAP ESP)
+
+A high­performance complex event processing
+engine designed to analyze streams of
+business event information in real time.
+Formerly called SAP Sybase ESP.
+
+SAP Executive Board
+
+The official governing body of SAP,
+overseeing and deciding on the activities of
+the company. Subject to the requirements of
+stock corporation law, the SAP Executive
+Board is committed to the interests of SAP
+
+and bound by company policy. It provides the
+SAP Supervisory Board with regular, prompt,
+and comprehensive reports about all essential
+issues of business, corporate strategy, and
+potential risks. Membership in the SAP
+Executive Board is part of the official titles for
+these board members.
+
+SAP Financing
+
+Service that helps companies invest in SAP
+solutions implemented by a strategic partner
+of SAP: Siemens Financial Services GmbH
+(SFS). SFS targets the financing service
+chiefly at midsize companies. Depending on
+local conditions, the SFS plan leases solutions
+to customers and provides loan finance.
+
+SAP Fiori
+
+First developed as a set of extensible HTML5
+apps specific to key user roles, offering a
+seamless user experience across devices
+using responsive design principles. SAP Fiori
+apps target all employees of existing SAP
+customers, addressing the most common
+business functions, such as workflow
+approvals, information lookups, and self­
+service tasks. In May 2014, SAP Fiori also
+became the new user experience (UX) for
+SAP software. Based on modern design
+principles, it represents a consumer­like,
+consistent experience across devices,
+including tablets and smartphones.
+
+SAP for Aerospace & Defense
+(SAP for A&D)
+
+Solution portfolio specifically designed to meet
+the needs of the aerospace and defense
+industry. It offers capabilities for maintenance,
+repair and overhaul, airline operations,
+defense, manufacturing, contract and program
+management, and business acquisitions.
+
+SAP for Automotive
+
+Solution portfolio designed to meet the specific
+needs of the automotive industry. Its
+capabilities help link complex business
+processes into a logical flow, maximizing
+efficiency and profitability and satisfying
+customers’ expectations.
+
+SAP for Banking
+
+Solution portfolio that enables banks to obtain all customer information at a glance and
+offers a full complement of high­performance capabilities for strategic planning, financial
+accounting, costing, and enterprise­wide control. It also features key industry­specific
+applications for profitability management, risk management, customer relationship
+management, and integrated customer account systems.
+
+SAP for Chemicals
+
+Solution portfolio that delivers support for
+specific processes and tools that chemical
+companies require. Industry­specific
+capabilities include recipe management, batch
+management, and version control.
+
+SAP for Consumer Products
+
+Solution portfolio that supports the integration
+of every step of the consumer product value
+chain – from suppliers to consumers. Key
+capabilities include mobile and Internet sales,
+trade promotion management, inventory
+management, brand and channel
+management, and demand signal
+management.
+
+SAP for Defense & Security
+
+Solution portfolio that offers a variety of
+capabilities that meet the critical needs of the
+defense and security sector. Key industry­
+specific capabilities include acquisition and
+materials management; force planning;
+maintenance, repair, and overhaul (MRO);
+personnel and organization; infrastructure
+management; planning and support for
+deployed operations; in­service support; and
+line maintenance.
+
+SAP for Engineering,
+Construction & Operations (SAP
+for EC&O)
+
+Solution portfolio designed to meet the specific
+requirements of project­oriented enterprises
+that offers capabilities for industrial plant
+construction, construction of commercial and
+private buildings, and shipbuilding.
+
+SAP for Healthcare
+
+Solution portfolio for hospitals and clinics to manage a variety of required administrative
+and clinical processes.
+
+SAP for High Tech
+
+Solution portfolio that meets the demands of
+high­tech industries, including RosettaNet
+support.
+
+SAP for Higher Education and
+Research (SAP for HE&R)
+
+Solution portfolio that supports organizational
+processes and unique needs of public and
+private universities, multicampus institutions,
+research agencies, and medical colleges,
+including campus management, grants
+management, student life­cycle management,
+financials, operations, human capital
+management, procurement, analytics,
+research, and asset management.
+
+SAP for Industrial Machinery &
+Components (SAP for IM&C)
+
+Solution portfolio that coordinates the entire
+scope of business activities (estimating, order
+entry, project management, and production
+planning) for the industrial sector and supports
+areas ranging from maintenance and services
+to billing and profitability analysis.
+
+SAP for Insurance
+
+Solution portfolio that integrates steps in the
+insurance business process, including
+capabilities for customer contact, policy and
+product management, collections and
+disbursement, and claims management.
+
+SAP for Life Sciences
+
+Solution portfolio that meets the requirements
+of pharmaceutical, biotechnology, and
+diagnostics companies, as well as
+manufacturers of medical devices and
+products.
+
+SAP for Media
+
+Solution portfolio that supports processes
+specific to the media industry with capabilities
+
+that include sales and distribution, advertising
+management, product development, and
+intellectual property management.
+
+SAP for Mill Products
+
+Solution portfolio for manufacturers of building
+materials, the paper and timber industry, metal
+and primary metal producers, and textile and
+furniture manufacturers.
+
+SAP for Mining
+
+Solution portfolio that supports processes
+specific to the mining industry, including
+mining operations and asset performance;
+sales and supply chain management;
+operational risk and compliance; as well as
+human resources; finance; procurement; and
+IT management.
+
+SAP for Oil & Gas (SAP for O&G)
+
+Solution portfolio that meets the demands of
+oil and gas companies of all sizes.
+
+SAP for Professional Services
+
+Solution portfolio that delivers integrated tools,
+best practices, and support for automated
+processes designed specifically for the
+demands of the professional services industry,
+including management consultancies as well
+as accounting and legal firms.
+
+SAP for Public Sector
+
+Solution portfolio for public administration,
+providing an electronic framework that enables
+online communication through various
+applications for the public, government
+authorities, and related entities.
+
+SAP for Retail
+
+Solution portfolio that offers multichannel
+applications designed specifically to provide
+the best retail services to a large customer
+base.
+
+SAP for Sports & Entertainment
+
+Solution portfolio that comprises solutions for
+
+sports teams, leagues, and venues, designed
+to help them deepen fan engagement, drive
+on­field performance, and optimize business
+efficiency.
+
+SAP for Telecommunications
+
+Solution portfolio that provides
+telecommunications enterprises of all types
+and sizes a range of industry­specific
+capabilities, including support for convergent
+invoicing and contract accounting.
+
+SAP for Transportation &
+Logistics
+
+Solution portfolio that covers the unique
+business needs of postal services, railways,
+airlines, and toll collection companies, as well
+as logistics service providers, to optimize
+supply chain and planning.
+
+SAP for Utilities
+
+Solution portfolio for all supply and energy
+industries, with capabilities ranging from call
+centers and Internet communications to
+consumption billing.
+
+SAP for Wholesale Distribution
+
+Solution portfolio that addresses the needs of
+midsize and large wholesale distribution
+businesses in a wide range of segments.
+Industry­specific capabilities support new
+business models and strategies that meet the
+needs of an important supply sector.
+
+SAP Ganges
+
+Name of a solution evolving from an SAP
+project that focused on improving the IT
+infrastructure of microbusinesses (small,
+usually family­owned shop selling groceries
+and other sundries). Solution includes
+software for POS devices as well as services
+provided to retailers, distributors, wholesalers,
+and manufacturers. The services also include
+providing banks with reporting that
+supplements credit worthiness for retailers.
+Solution is currently only available for the
+Indian market.
+
+SAP Gateway
+
+A technology framework enabling exposure and simplified access to SAP software from
+any device or environment using standard, open protocols. It opens data and processes
+running on SAP applications for software developers to create apps in different
+environments and devices to engage many more business consumers. Formerly called
+SAP NetWeaver Gateway.
+
+SAP Global Managing Board
+
+The SAP Global Managing Board was
+established in May 2012 in addition to the SAP
+Executive Board and allows SAP to appoint a
+broader range of global leaders to help steer
+the organization. It comprises members of the
+SAP Executive Board and selected additional
+executives, and has advisory and decision­
+supporting functions for the SAP Executive
+Board. Per definition, all members of the SAP
+Executive Board are members of the SAP
+Global Managing Board.
+
+SAP HANA
+
+Flexible, data­agnostic, in­memory platform
+that helps organizations analyze their
+business operations, using huge volumes of
+detailed transactional and analytic information
+from virtually any data source. The platform
+provides the foundation for innovative
+applications that take advantage of an in­
+memory database and calculation engine,
+allowing customers to conduct complex
+planning, forecasting, and simulation based on
+real­time data.
+
+SAP HANA Cloud Platform
+
+An open cloud platform that is the foundation
+for running applications and analytics today
+and allows developers to build custom
+applications in the cloud as either stand­alone
+or connected to on­premise solutions. It
+includes infrastructure, application, and
+database services in a subscription model.
+This platform allows developers from SAP,
+customers, partners, and independent
+software vendors to build applications in the
+cloud with infrastructure, database, and
+application services using in­memory
+technology and the acceleration provided by
+SAP HANA. Separately licensed, SAP HANA
+
+Cloud Platform is part of SAP Cloud powered
+by SAP HANA.
+
+SAP HANA Enterprise Cloud
+
+This service enables customers to access
+solutions in the cloud. It contains managed
+cloud applications, in­memory infrastructure,
+managed services, and through an additional
+license, SAP HANA Cloud Platform, to build
+custom applications in the cloud. On­premise
+applications from SAP can be delivered to
+customers via SAP HANA Enterprise Cloud.
+
+SAP HANA Live
+
+Umbrella term for a group of analytics
+foundations for SAP HANA, specific to an
+industry or for a particular software (SAP
+HANA Live for Event Management, SAP
+HANA Live for SAP CRM), and so on, as well
+as a browser (SAP HANA Live Browser).
+
+SAP HANA One
+
+Deployment of SAP HANA certified for
+productive use on the Amazon Web Services
+Cloud. SAP HANA One can be deployed for
+production use with small data sets, in
+minutes, opening a door to starter projects
+from customers, ISVs, and startups.
+
+SAP IQ
+
+An analytics server designed specifically for
+advanced analytics, data warehousing, and
+business intelligence environments. Able to
+work with massive volumes of structured and
+unstructured data, it is ideally suited to take
+advantage of Big Data opportunities by
+discovering more accurate insight into
+business performance and market dynamics.
+Formerly called SAP Sybase IQ.
+
+SAP Jam
+
+Social software platform that includes the
+former SuccessFactors Jam, SAP
+StreamWork, and new software. It enables
+sales teams and internal experts to socially
+connect and communicate with customers in
+the context of each opportunity. Customers
+can also easily provide feedback and share
+
+what is important to them to strengthen
+relationships.
+
+SAP Learning Solution
+
+Portfolio of learning tools including a learning
+portal, learning management system,
+authoring tools, and content management
+system. Individual training and strategic
+personnel development are supported in the
+solution.
+
+SAP Lumira
+
+Data visualization software that helps connect,
+access, and visualize data without a single line
+of code.
+
+SAP Managed Services
+
+Organization and offerings that enable SAP
+customers to access SAP applications and
+that provide the infrastructure required. In this
+way, solutions are ready to use and can be
+adapted to customers’ growing requirements.
+
+SAP Manufacturing
+
+Solution for managing manufacturing
+operations with embedded lean manufacturing
+and Six Sigma principles. It provides
+capabilities for planning, execution, quality,
+maintenance, as well as environment, health,
+and safety.
+
+SAP Match Insights
+
+An showcase on­premise solution developed
+as part of a customer co­innovation project for
+the German Soccer Association (DFB). The
+solution was available for DFB coaches and
+players in a pilot trial during the preparation
+phase and throughout the 2014 FIFA World
+Cup in Brazil. The solution enables members
+across the DFB team to analyze players' and
+teams' performances in individual matches
+using streamed video from the match
+combined with analytics powered by SAP
+HANA.
+
+SAP MaxAttention
+
+Support option with a full range of services
+
+customized for individual customer needs and
+covering all stages of an SAP solution’s
+lifecycle, driven by an on­site technical quality
+manager.
+
+SAP Mobile
+
+Category term used to communicate all SAP
+mobile offerings together. These include any
+type of mobile apps, solutions, technology, or
+platform (including SAP Mobile Platform), as
+well as solutions extensions and rapid­
+deployment solutions and any Sybase­related
+products.
+
+SAP Mobile Platform
+
+A platform of mobile capabilities and
+technology that bundles three existing
+offerings under one name (Sybase Unwired
+Platform, Sybase Mobiliser, and a Syclo
+offering named Agentry). SAP Mobile Platform
+is offered in enterprise or consumer editions
+and each edition is available as either an on­
+premise or a cloud version.
+
+SAP Month of Service
+
+Held in October, SAP’s signature corporate
+volunteerism effort offers SAP employees
+around the world opportunities to come
+together to support social change in their
+communities.
+
+SAP NetWeaver
+
+A comprehensive technology platform
+designed to efficiently develop, run, and
+extend business applications. SAP NetWeaver
+provides foundation and enterprise software,
+including the SAP Business Warehouse
+application, and the SAP NetWeaver
+Application Server, SAP Enterprise Portal, and
+SAP Process Orchestration components. It
+facilitates the easy integration of SAP software
+with heterogeneous system environments,
+third­party solutions, and external business
+partners. See “technology platform.”
+
+SAP NetWeaver Application
+Server (SAP NetWeaver AS)
+
+Component of SAP NetWeaver that provides
+support for platform­independent Web
+
+services, business applications, and
+standards­based development based upon
+key technologies such as Java and ABAP.
+
+SAP NetWeaver Business
+Intelligence
+
+See “SAP Business Warehouse.”
+
+SAP Notes
+
+Tool that provides instructions on how to
+remove known errors from SAP software,
+including a description of the symptoms,
+cause, and location of the errors.
+
+SAP ONE Service
+
+A single channel for SAP support and
+maintenance customers to access all SAP
+support delivery engagements that come with
+SAP MaxAttention and SAP ActiveEmbedded
+offerings.
+
+SAP ONE Support
+
+A program to simplify the delivery and
+consumption of support and maintenance for a
+growing portfolio of solutions from both SAP
+and acquired companies. The program
+provides customers with comprehensive and
+harmonized support, regardless of whether
+their SAP solutions operate on premise or in
+the cloud.
+
+SAP PartnerEdge
+
+Global, partner­to­partner business
+collaboration network where SAP partners can
+share expertise, development capabilities,
+solutions, and knowledge to extend their
+market reach. In late 2012, SAP’s extranet for
+partners, SAP Channel Partner Portal, merged
+with SAP PartnerEdge. The combined site,
+available at www.sappartneredge.com now
+gives partners access to information, product
+and business news, tools, training, and
+business resources to order products.
+Partners can also manage their relationship
+with SAP and collaborate with other SAP
+partners through SAP PartnerEdge.
+
+SAP Pinnacle Award
+
+Annual partner recognition awarded to SAP partners in various categories.
+
+SAP PowerBuilder
+
+Application development tool for creating high­
+performance, data­driven business
+applications with advanced visual user
+interface design. Formerly called SAP Sybase
+PowerBuilder.
+
+SAP PowerDesigner
+
+Business process and data modeling software
+and metadata management solution for data
+architecture, information architecture, and
+enterprise architecture. Available in enterprise
+editions tailored to data architects or business
+analysts. Formerly called SAP Sybase
+PowerDesigner.
+
+SAP Premier Customer Network
+
+Exclusive SAP community of top industry
+leaders representing some of the world’s
+largest and best­run businesses. For these
+premier customers, SAP aims to simplify and
+tailor the partnership toward the unique needs
+of each customer by proactively assembling
+the best talent and synchronization across all
+SAP lines of business (product development,
+sales, services, support, and marketing)
+globally.
+
+SAP Product Lifecycle
+Management (SAP PLM)
+
+Application that helps companies manage,
+track, and control all product­related
+information over the complete product and
+asset lifecycle as well as throughout the
+extended supply chain. SAP PLM is designed
+to facilitate creativity and to free the process of
+product innovation from organizational
+constraints.
+
+SAP R/2
+
+Business software for mainframe computers
+launched by SAP in 1979; precursor to SAP
+R/3.
+
+SAP R/3
+
+Business software for client/server environments launched by SAP in 1992 with
+enterprise software components for human resources, logistics, financials, sales and
+distribution, and others; precursor to SAP ERP.
+
+SAP Ramp­up
+
+Program SAP uses to introduce new
+application releases on the market to selected
+customers during the restricted shipment
+phase.
+
+SAP Rapid Deployment Solutions
+
+Packages of preconfigured software and
+predefined services with content including best
+practices, templates, tools, and business user
+enablement with predetermined scope, time,
+and costs. Because the solutions are installed
+quickly, customers can benefit from crucial
+software functionality within as little as 12
+weeks, helping lower the total cost of
+implementation and giving customers
+immediate and tangible value.
+
+SAP Replication Server
+
+Software that moves and synchronizes data in
+real time, allowing companies to gain better
+use of application data and to create reports
+without affecting operational systems.
+Administrators can set up redundant disaster
+recovery sites and distribute, consolidate, and
+synchronize data across multiple platforms.
+Formerly called SAP Sybase Replication
+Server.
+
+SAP Resolve
+
+A new help desk program for SAP partners to
+manage customer support problems and
+queries.
+
+SAP road maps
+
+Available for industries, lines of business, and
+technology, SAP road maps highlight the SAP
+solutions available today, planned innovation,
+and the SAP vision for the future.
+
+SAP S/4HANA
+
+A family name for SAP’s next­generation
+business suite offered exclusively on the SAP
+HANA platform, with on­premise and cloud
+deployment options. Also known by its full
+name SAP Business Suite 4 SAP HANA.
+
+SAP Safeguarding
+
+Project­based support option that helps
+customers manage risks and enable the
+technical robustness of SAP solutions during
+implementation, upgrade, and operations.
+
+SAP Service and Support
+
+Service and support from SAP helps
+customers derive value from their SAP
+solutions in a fast, cost­effective, and
+predictable way. The SAP Service and
+Support portfolio includes a variety of named
+services and support offerings including SAP
+MaxAttention, SAP Safeguarding, SAP
+Enterprise Support, and others.
+
+SAP Service Marketplace
+
+Extranet platform that offers capabilities for
+collaboration between SAP, customers, and
+partners. The extranet provides central access
+and guided navigation to SAP’s complete
+product listing with support, maintenance, and
+upgrade information.
+
+SAP Simple Finance
+
+A global financial solution powered by SAP
+HANA offering a complete choice of
+deployment (cloud, on premise, hybrid). For
+customers who choose to deploy SAP Simple
+Finance in the cloud, SAP offers SAP HANA
+Enterprise Cloud as a managed service,
+available via full subscription.
+
+SAP Smart Business
+
+Cockpit dashboards that enable users to
+quickly aggregate data, perform analytics, and
+gain insights into KPIs related to various
+corporate functions. A variety of options are
+available for specific use cases/roles including
+
+accounts payable, event management,
+financial close, purchasing, and other
+corporate functions.
+
+SAP SMS 365
+
+Interoperability services that simplify the
+deployment and delivery of inter­operator
+messaging over incompatible networks,
+protocol stacks, and handsets among mobile
+operators worldwide. Messages are delivered
+through a secure operator­grade messaging
+platform, with advanced protocol conversion,
+routing, queuing, and transcoding capabilities.
+
+SAP Solidarity Fund
+
+The SAP Solidarity Fund e.V. was set up by
+SAP employees as an immediate response to
+the terrorist attacks on September 11, 2001.
+The goal of this charitable association was to
+help people – as a result of a natural disaster,
+for example – quickly and with minimum
+bureaucracy. The activities of the SAP
+Solidarity Fund are made possible mainly
+through contributions from SAP employees
+and people associated with SAP. Since its
+foundation, the SAP Solidarity Fund has
+managed to make more than €2 million
+available for various projects.
+
+SAP Solution Explorer
+
+A customer­facing self­service tool that helps
+users find the business management software
+solutions they need from SAP to operate
+profitably, adapt continuously, and grow
+sustainably. Content includes value maps and
+executive summaries for all SAP­supported
+lines of businesses, industries, technology,
+and selected topics.
+
+SAP Solution Manager
+
+Application management solution that enables
+customers to manage their SAP and non­SAP
+applications better. With SAP Solution
+Manager, customers can centralize, enhance,
+automate, and improve the management of
+their entire system landscape, thus reducing
+total cost of ownership. The solution includes
+features such as diagnostics, testing, root
+cause analysis, and solution monitoring.
+
+SAP solutions for customer
+engagement and commerce
+
+Category of solutions that help businesses
+create experiences that engage customers like
+never before and can lead to more effective
+marketing promotions, increased revenue
+share of new customers, reduced customer
+churn, increased revenue growth, and
+improved cart­to­order conversion rate.
+
+SAP solutions for enterprise
+information management (EIM)
+
+Category of solutions that help you deliver
+integrated, accurate, and timely data across
+your enterprise.
+
+SAP solutions for enterprise
+performance management (EPM)
+
+Category of solutions that helps companies
+improve performance, organizational agility,
+and decision making.
+
+SAP solutions for fan engagement
+
+Category of solutions to help sports teams and
+entertainment venues interact with their fans
+to drive engagement and revenue.
+
+SAP solutions for governance,
+risk, and compliance (GRC)
+
+Category of solutions that provide
+organizations with a real­time approach to
+managing GRC across heterogeneous
+environments.
+
+SAP solutions for small
+businesses and midsize
+companies
+
+Category of solutions that combine business
+management and business intelligence
+software for small and midsize enterprises
+(SMEs). It currently includes SAP Business
+All­in­One solution, SAP Business One
+application, and SAP BusinessObjects Edge
+solutions. As with large enterprises, these
+firms seek to streamline business processes,
+cut costs, drive growth, and increase
+profitability by receiving the right information at
+the right time – across all operations.
+
+SAP solutions for sustainability
+
+Category of solutions that helps companies
+
+measure sustainability key performance
+indicators; energy and carbon management;
+and environment, health, and safety. SAP
+solutions for sustainability help organizations
+tackle energy consumption and greenhouse
+gas emissions, as well as support efforts in
+product safety, healthcare, and sustainability
+performance management.
+
+SAP SQL Anywhere
+
+A mobile, embedded, and cloud­enabled fully
+relational database that is embedded in more
+than 10 million installations worldwide, from
+laptops to tablets to smartphones. Formerly
+called SAP Sybase SQL Anywhere.
+
+SAP Standard Support
+
+Support option offering a reliable response to
+technical disruptions and for maintaining
+system health and integrity. This basic support
+offering features including updates, problem
+resolution, knowledge transfer, quality
+management, and more to keep IT landscapes
+up­to­date and stable.
+
+SAP Startup Focus
+
+Program that offers a variety of resources for
+young companies including technology,
+training, technical advice and valuable go­to­
+market support. It serves as a development
+and growth accelerator that provides an
+integrated approach for startups to innovate
+on the SAP HANA platform.
+
+SAP StreamWork
+
+See “SAP Jam.”
+
+SAP Supplier Relationship
+Management (SAP SRM)
+
+Procurement application that helps
+organizations in all industries improve their
+centralized sourcing and contract
+management and interact with suppliers
+through multiple channels. SAP SRM is
+designed to accelerate and optimize the entire
+end­to­end procure­to­pay process by
+supporting integrated processes and by
+enforcing contract compliance, which can
+result in realizable savings.
+
+SAP Supply Chain Management
+(SAP SCM)
+
+Application that helps companies adapt their
+supply­chain processes to a rapidly changing
+competitive environment. SAP SCM helps
+transform traditional supply chains from linear,
+sequential processes into open, configurable,
+responsive supply networks in which
+customer­centric, demand­driven companies
+can monitor and respond more smartly and
+quickly to demand and supply dynamics
+across a globally distributed environment.
+
+SAP TechEd
+
+Annual technical education conference that
+encompasses a broad scope of topics and
+audience, focusing on technology with an
+emphasis on collaboration and hands­on
+workshops.
+
+SAP University Alliances
+
+Program that introduces students to the
+exciting technologies shaping business today,
+and designed to connect students around the
+world interested in SAP solutions, careers,
+and research opportunities. Students
+participate in classroom sessions, app
+development, networking opportunities,
+events, and more. As part of SAP Community
+Network. the SAP University Alliances
+community provides connections between
+university leaders and students, SAP
+customers and partners, and SAP internal
+experts.
+
+SAP User Group Executive
+Network (SUGEN)
+
+In 2007, SAP initiated a program that
+encouraged all SAP user groups to share their
+expertise and recommended practices with the
+wider user­group community. It kindled some
+valuable discussion, which, in the end, is good
+for all SAP stakeholders. An umbrella
+organization, SUGEN embraces 12 national
+SAP user groups with the shared aim of
+defining priorities and agreeing on plans of
+action to bring greater focus to the dialog
+between SAP and its user groups on the
+global plane.
+
+SAP Ventures
+
+see “Sapphire Ventures.”
+
+SAP Web Channel Experience
+Management
+
+An application that SAP developed to address
+companies’ needs to deliver an integrated and
+consistent customer experience over the
+Internet. The software allows organizations to
+deploy state­of­the­ art Web shops, fully
+integrated with their back­end order
+management and inventory systems. This next
+generation e­commerce solution also brings
+together e­marketing, sales, online self­
+service, and social customer conversations on
+a single platform to provide a one­stop,
+synchronized Web customer experience.
+Formerly called SAP Sybase PowerBuilder.
+
+SAPPHIRE NOW
+
+SAP’s signature business technology event
+and the largest SAP customer­driven
+conference is held annually in several
+locations around the globe. The global event
+in the United States is co­located with the
+Americas’ SAP Users’ Group (ASUG) annual
+conference. Attendees discover new
+initiatives, solutions, products, and services,
+as well as unique access to the latest
+business strategies and industry best
+practices from SAP customers, partners,
+executives, and industry experts to help them
+drive business results across all levels.
+
+Sapphire Ventures
+
+New name of independent venture firm spun
+off from SAP, providing the agility of a start­up
+while allowing companies to tap into SAP’s
+global enterprise ecosystem of customers and
+partners. The firm partners with outstanding
+entrepreneurs and venture firms worldwide to
+build industry­leading businesses. Formerly
+called SAP Ventures.
+
+Scope 1 (emissions)
+
+Direct greenhouse gas emissions from
+sources that are owned or controlled by the
+
+reporting company, for example, fuel burned in
+corporate cars.
+
+Scope 2 (emissions)
+
+Indirect greenhouse gas emissions from
+consumption of purchased electricity, heat, or
+steam.
+
+Scope 3 (emissions)
+
+Indirect emissions that are a consequence of
+the activities of the reporting company, but
+occur from sources owned or controlled by
+another company, such as business flights.
+
+SMB Solutions Group
+
+New business unit created at SAP in 2014
+responsible for the go­to­market strategy and
+development of innovative solutions for the
+small and midsize business (SMB) market,
+comprising companies with <500 employees
+only. Includes all corporate areas (marketing,
+sales, and development) responsible for SAP
+Business ByDesign, SAP Business One, and
+the new SAP Anywhere front­office solution for
+small businesses. See “SAP Anywhere.”
+
+software and software­related
+services (SSRS)
+
+SAP reports revenues in software and
+software­related services (SSRS), which
+encompasses software, support, subscription,
+and other software­related service revenue.
+
+software as a service (SaaS)
+
+Software that is provided literally “as a
+service.” Software applications are delivered
+and managed remotely over a secure Internet
+connection and a standard Web browser.
+Access is charged on a subscription basis
+usually on a dedicated time basis and with
+expandable feature access options. Typically
+a defined level of support is included. See
+“cloud computing.”
+
+solution
+
+SAP solutions enable a customer to meet a
+challenge or take advantage of an opportunity
+and are built or assembled by flexibly
+
+combining SAP applications and other SAP
+software. The solutions may include support
+for best business practices and be aided by
+consulting and ongoing support. They may
+also be enhanced or extended by SAP partner
+applications and services.
+
+solution extensions
+
+Developed by independent partners, solution
+extensions integrate easily with SAP software,
+offering customers cross­solution and cross­
+industry functions that complement SAP
+software. These select third­party offerings are
+branded with “SAP,” and sold and supported
+by SAP and partners.
+
+standard­related custom
+development project (SCDP)
+
+Customer­specific development with a
+contractually binding commitment for at least a
+partial retrofit.
+
+SuccessFactors
+
+Acquired by SAP in 2013, the company
+operates as an independent business under
+the name “SuccessFactors, an SAP
+company.”
+
+SuccessFactors Compensation
+
+As part of SuccessFactors HCM Suite, this
+solution helps companies create a more
+simplified compensation plan management
+with more accurate budgeting and reduced
+risk. With performance data is calibrated
+across the company to ensure fairness and
+employee retention, insight for total employee
+compensation analysis and assurance that
+budgets are used wisely, companies can
+retain top performers. Risk can be significantly
+reduced with improved audit compliance.
+
+SuccessFactors Employee
+Central
+
+The foundation of the SuccessFactors HCM
+Suite of solutions, Employee Central is a next­
+generation core HR software delivered
+securely as a service from the SuccessFactors
+cloud. It offers one global system of record,
+complete workforce overview combining HR
+and talent data, powerful analytics, and social
+
+collaboration fine­tuned to meet local needs. It
+is currently available in 10 countries. An
+additional offering specifically for payroll was
+launched in 2013 called SAP SuccessFactors
+Employee Central Payroll.
+
+SuccessFactors HCM Suite
+
+Suite of HR solutions for talent management,
+core HR, collaboration, and workforce
+analytics. The cloud­based suite provides
+solutions to bridge the gap between strategy
+and execution with tools to hire, reward, and
+develop the right people with the right skills to
+grow a business sustainably. Formerly called
+SuccessFactors Business Execution Suite
+(SuccessFactors BizX Suite).
+
+SuccessFactors Learning
+
+As an integrated part of SuccessFactors HCM
+Suite, this solution helps companies transform
+how a workforce learns by combining formal,
+social, and extended learning with content
+management, reporting, and analytics,
+available from an office or on a mobile device.
+
+SuccessFactors Workforce
+Analytics
+
+As part of SuccessFactors HCM Suite, this
+solution helps companies get the insights they
+need to make strategic workforce decisions by
+finding answers to key questions about
+workforce challenges and how to solve them.
+
+support package
+
+Bundle of software corrections compiled
+periodically and available for ABAP or Java
+programming languages.
+
+support release
+
+Release offered after the beginning of the
+unrestricted shipment phase – if required –
+that contains a collection of all previously
+available support packages.
+
+sustainability
+
+For SAP, sustainability is the ability to manage
+economic, social, and environmental risks and
+opportunities holistically for increased
+
+profitability. It contributes to our vision to help
+the world run better and improve peoples’
+lives. SAP is committed to fully integrating
+sustainability into our strategy and business
+model and in this way the company pursues a
+corporate strategy that is sustainable rather
+than a stand­alone sustainability strategy.
+
+Sybase
+
+Company acquired by SAP in 2010,
+broadening the SAP portfolio for enterprise
+mobility, introducing a complete mobile
+platform and mobile solutions that enable
+customer access to data stored in SAP
+software and systems from anywhere and
+from any device.
+
+Syclo
+
+Company acquired by SAP in 2012. Former
+Syclo solutions extend SAP ERP and SAP
+CRM for mission­critical work on the go and
+out in the field. They offer a quick, flexible,
+reliable path to mobilizing asset management,
+field service, inventory/warehouse, and sales,
+regardless of language, user type, device
+selection, or connectivity.
+
+systems integrator (SI)
+
+Company focused on integrating IT systems
+and providing related consulting. This is a
+classic channel used by large software
+vendors, large hardware vendors, and original
+equipment manufacturers.
+
+technology platform
+
+The technical foundation for a business­driven
+software architecture that increases the
+adaptability, flexibility, openness, and cost­
+efficiency of IT operations and enables
+organizations to become more agile in
+responding to change. See “SAP
+NetWeaver.”
+
+total energy consumed
+
+The sum of all energy consumed through
+SAP’s own operations, including energy from
+renewable sources and energy consumed by
+external data centers delivering our cloud
+
+offerings.
+
+United Nations Global Compact
+(UN Global Compact)
+
+A policy initiative for businesses that are
+committed to aligning their operations and
+strategies with ten universally accepted
+principles in the areas of human rights, labor
+standards, environment, and anti­corruption.
+
+unrestricted shipment phase
+
+Second phase of release delivery, during
+which all customers can obtain the release.
+The phase follows the restricted shipment
+phase.
+
+upgrade
+
+Replacement of an existing application
+component with a newer component of that
+same application.
+
+value map
+
+A structural overview of SAP’s end­to­end
+solutions organized according to industry, line
+of business, or technology. Value maps are
+presented in SAP Solution Explorer.
+
+value­added reseller (VAR)
+
+Partner that receives the majority of its
+revenue from reselling a vendor’s hardware or
+software solutions directly to end users.
+Additionally, VARs often provide consulting,
+implementation, postsales support, and
+training to their own customers. VARs may
+develop and sell add­on applications to meet
+the needs of vertical markets and may expand
+SAP product functionality.
+
+vertical solution
+
+A specialized application designed to meet the
+unique needs of a particular business or
+industry. Also called “industry solution.”
+
+virtualization
+
+The decoupling of physical and logical
+computer resources. This approach can be
+implemented on different levels such as
+
+network, storage, central processing unit,
+server, and application.
+
+visual enterprise
+
+Ability to visually communicate parts of the
+business helps maximize productivity, improve
+process efficiency and quality, and reduce
+cost and cycle time. Solutions that support the
+“visual enterprise” unify and synchronize
+product information from multiple systems and
+deliver it in role­specific and workflow­
+controlled processes to people. The SAP 3­D
+Visual Enterprise applications, resulting from
+the RightHemisphere acquisition, enrich SAP
+Business Suite software with new 3­D
+visualization features that integrate business
+data, which will support new standards to
+increase speed, enhance productivity, and
+improve quality across the entire value chain.
+
+women in management
+
+Phrase used to refer to the percentage of
+women in management positions (managing
+teams, managing managers, executive
+boards) as compared to the total number of
+managers, expressed by the number of
+individuals and not full­time equivalents
+(FTEs).
+
+works council
+
+As dictated by the German Works Council
+Constitution Act, a works council is a legal
+body for representing employees’ interests to
+the employer and codetermining the works in
+private companies. On June 21, 2006, the
+SAP AG employees working in Germany
+elected its first works council. A European
+works council was created in the spring of
+2012. The SAP AG works council evolved to
+become the SAP SE works council in 2014 to
+reflect the legal entity of SAP SE.
+
+

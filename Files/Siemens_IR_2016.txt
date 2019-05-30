@@ -1,0 +1,4352 @@
+Sustainability
+Information 2016
+siemens.com
+
+Foreword
+
+Dear Reader,
+It was Werner von Siemens, the founder of our Company, who first defined the purpose of the Company. He stated that science and engineering should be applied for the common good. The company has remained
+true to that purpose for nearly 170 years by providing technologies that
+improve quality of life and create lasting value for society.
+Our reference for determining the value we create for society is the
+United Nations’ 2030 Agenda for Sustainable Development. It sets out
+17 Sustainable Development Goals. Working from these goals, we identify issues relevant to the development of a country and demonstrate
+how we contribute to reaching them: We call this new approach “Business to Society.” To date, we have completed Business to Society studies
+for countries including Germany, the United Kingdom, Turkey and South
+Africa. Further studies in key markets, such as the United States, the
+United Arab Emirates, and Australia are in progress.
+Combating climate change is one of the Sustainable Development Goals.
+With the Paris Agreement, 193 countries pledged to limit global warming
+to well below two degrees Celsius. This was the first time ever that so
+many countries made such a comprehensive commitment to protect the
+climate, and we believe it will boost investment in low-carbon technologies. We also believe that fighting climate change is not only prudent,
+but profitable. Siemens is leading this effort.
+In fiscal 2016, our products and solutions from the Environmental Portfolio enabled customers and partners throughout the world to reduce
+their CO2 emissions by 521 million metric tons, which corresponds to
+almost 60 % of the annual CO2 emissions of Germany. Simultaneously,
+we increased our customer ’s energy efficiency and competitiveness.
+Siemens is the first major industrial company to commit to cutting its
+CO2 emis­sions by half by 2020 and to being carbon neutral by 2030. We
+launched our CO2-neutral program in September 2015, and we are on
+track: we have already invested € 32 million in 11 energy efficiency projects. Three of them have been completed, and the results are impressive: per year, they reduce operating costs by about € 1 million and CO2
+emissions by about 6,000 metric tons.
+But we will do even more. We will be investing a total of € 100 million
+over the next four years and expect to achieve accumulated annual savings of € 20 million. In 2016, we inaugurated our new headquarters building in Munich. It is certified as a LEED Platinum building and consumes
+90 percent less energy than the old building complex. Its photovoltaic
+system meets about 30 percent of the demand for electricity. We will
+continue to install our own energy systems at a growing number of our
+facilities, for example at the Siemens Campus in Erlangen.
+
+2
+
+Foreword
+
+Technological innovation plays a key role in meeting many Sustainable
+Development Goals. To foster new disruptive ideas, we have bundled our
+start-up activities in a separate unit called “next47”. It will receive funding of € 1 billion over the next five years and focus on Distributed Electri­
+fi­cation, Artificial Intelligence, Connected (E)-Mobility, Autonomous Machines, Block-Chain Applications, and E-Aircraft.
+Improved governance is one of the goals for sustainable development,
+and that involves fighting corruption. It was just 10 years ago that we
+had to deal with our own corruption scandal. We made fundamental
+changes in our Company’s organizational setup and culture. We developed and implemented a comprehensive worldwide compliance program and made clear that we have zero tolerance for compliance violations and for any illegal behavior. Today, we are glad that we have been
+able to regain the trust of stakeholders and to restore our reputation.
+However, markets and regulations change. So we will stay vigilant. We
+will continue to support the Siemens Integrity Initiative and Collective
+Action in our markets.
+Achieving the Sustainable Development Goals requires collaboration
+among many stakeholders. We are fully committed to the targets and
+principles of the United Nations Global Compact and its CEO Water
+­Mandate. In August 2016, we signed the CEO statement for the United
+Nations Women Empowerment Principles. We continue to support the
+“WEF Climate CEO” and the "We mean business" initiatives.
+Our contribution to sustainable development has been reconfirmed by
+excellent ratings. Siemens has been included in the DJSI World Index for
+17 consecutive years. RobecoSAM rates Siemens as one of the most sustainable companies in our industry. And CDP has recognized our per­
+formance by rating us among the best when it comes to capturing business opportunities arising from low-carbon technologies, mitigating
+climate risks, and reducing the carbon footprint in our supply chain.
+Siemens does business in almost every country in the world. Wherever
+we do business, our promise is to support sustainable development by
+providing technologies that improve quality of life. That’s how we create
+lasting value for society. And that’s what we call “Ingenuity for life”.
+Sincerely yours,
+
+Joe Kaeser
+
+Dr. Roland Busch
+
+Foreword
+
+3
+
+Content
+
+Sustainability at Siemens
+
+Facts and Figures
+
+Annex
+
+P. 6
+
+P. 12
+
+P. 37
+
+Materiality
+
+Employees
+
+Reporting method
+
+P. 7
+
+P. 15
+
+P. 38
+
+Business to Society
+
+Occupational health and safety ­management
+
+Environmental Portfolio ­reporting principles
+
+P. 8
+
+P. 17
+
+P. 42
+
+Decarbonization
+
+Research and Development
+
+GRI G4 key aspects and boundaries
+
+P. 9
+
+P. 20
+
+P. 43
+
+Sustainability management and organization
+
+Supply chain management
+
+United Nations Global Compact
+
+P. 10
+
+P. 23
+
+P. 46
+
+Sustainability collaboration
+
+Distribution and customer relations
+
+United Nations Water Mandate
+
+P. 10
+
+P. 24
+
+P. 47
+
+External recognition of our ­sustainability
+­performance
+
+Siemens Environmental Portfolio
+
+Independent auditor’s limited
+­assurance ­report
+
+P. 25
+Environmental protection
+P. 31
+Compliance
+P. 35
+Corporate citizenship
+
+P. 49
+Notes and forward-looking ­statements
+P. 50
+Further information and i­nformation
+resources
+
+Sustainability at Siemens
+
+In 2015, all 193 UN member states adopted the Agenda 2030 for
+Sustainable Development and agreed on the 17 sustainable development goals (SDGs). For us at Siemens, sustainable development is the means to achieve profitable and long-term growth.
+We have a clear commitment to think and act in the interest of
+future generations, achieving a balance between Profit, Planet
+and People.
+“Ingenuity for life” describes our unrelenting drive and promise
+to create value for customers, employees and societies. “For life”
+relates to our role in society: to make real what matters. We deliver on this promise by combining our innovation with our knowhow – in the areas of electrification and automation, enhanced
+by digitalization – aiming at improving the lives of people today
+and creating lasting value for future generations.
+Sustainability at Siemens is a key enabler of our strategy program.
+We are guided by responsible business practices in our interactions with external and internal stakeholders and we walk the
+talk within our own operations with regard to environmental and
+social aspects. We are convinced that sustainability is a business
+opportunity, especially in the sense of energy and resource efficiency, and a key element for our aim to be the employer of choice.
+
+PROFIT
+We contribute to our customers’ competitiveness with our
+products, solutions and services.
+We partner with our customers to identify and develop sustainability-related business opportunities.
+We operate an efficient and resilient supply chain through a
+supplier code of conduct, risk management, and capacity
+building.
+We proactively engage with our stakeholders to manage project and reputational risks and identify business-relevant trends.
+We adhere to the highest compliance and anti-corruption
+standards and promote integrity via the Siemens Integrity Initiative.
+
+PLANET
+We enable our customers to increase energy efficiency, save
+resources and reduce carbon emissions.
+We develop our products, solutions and services based on a
+life-cycle perspective and sound eco-design standards.
+We minimize the environmental impact of our own operations
+by applying environmental management programs and aim
+to become carbon neutral by 2030.
+
+PEOPLE
+
+Materiality
+For almost a decade we have included opportunities and risks
+derived from the five megatrends – Climate Change, Urbanization, Demographic Change, Globalization and Digitalization – in
+our decision-making processes. External frameworks, like the
+Sustainable Development Goals, the ten principles of the UN
+Global Compact, and the Global Reporting Initiative (GRI) G4
+guidelines inform our material aspects. We identified key issues
+in regular dialog with external and internal stakeholders, and prioritized them with regard to their importance for Siemens and
+our stakeholders. In fiscal 2014, the results from this materiality
+process were then discussed with our Sustainability Board and
+finally approved by our Managing Board and Supervisory Board.
+The following twelve principles were defined in this process and
+are annually reviewed:
+
+6
+
+Sustainability at Siemens
+
+We contribute to the sustainable development of societies
+with our portfolio, local operations, and thought leadership.
+We foster long-term relationships with local societies through
+Corporate Citizenship projects carried out jointly with partners.
+We live a zero-harm culture and promote the health of our
+employees.
+We live a culture of leadership based on common values, an
+innovation mindset, people orientation and diversity.
+The Siemens Divisions and regional entities define their material
+action areas according to their local needs and circumstances. In
+fiscal 2015, we defined two sustainability focus areas – Business
+to Society and Decarbonization – which span the 12 principles
+above. These focus areas aim to accelerate specific aspects while
+we continue to improve our performance along all 12 principles.
+In the following sections we set out the key facts and figures on
+environmental and social topics that are most material to Siemens
+and significantly impact our stakeholders. These topics are directly
+derived from the 12 principles and guided by the GRI G4 reporting
+guidelines. The “GRI G4 key aspects and boundaries” overview in
+the Annex illustrates how we link our 12 principles with the key
+material aspects of GRI G4.
+
+Business to Society
+At the heart of the Agenda 2030 for Sustainable Development are
+the 17 Sustainable Development Goals (SDGs) and 169 underlying
+targets to guide governments, civil society and the private sector
+in a collaborative effort for change. In order to enable our organization to conduct a structured analysis of our contribution to the
+global SDGs as well as to national development priorities, we
+have developed our Business to Society (B2S) approach. Understanding our impact and making it transparent not only lays the
+foundation for informed strategic decisions and stakeholder dialogs, but also gives purpose to our employees. The B2S approach
+consists of four steps:
+
+1 Adopting an outside-in perspective of the most relevant development priorities in a given context (e. g. global, national,
+project).
+2 Identifying and measuring our contribution to these priorities.
+3 Defining strategic actions to enhance our contribution and
+shape further development.
+4 Providing transparency on our contribution to external and
+internal stakeholders.
+The SDGs were clustered to six globally applicable impact areas
+that have been developed in two pilot projects in fiscal 2015 to
+provide an intuitive structure to the organization and external
+stakeholders. This was the first step to comprehensively evaluate
+our company-wide contribution to the SDGs, which we will finalize in fiscal 2017.
+In fiscal 2016, we rolled out the approach globally, with eight
+countries completing all the steps by the end of fiscal 2016: Argentina, China, Germany, Russia, Singapore, South Africa, T
+­ urkey
+and the U.K.
+
+Sustainable Development Goals (SDG) 1 are clustered into to the Business to Society impact areas
+Strengthening
+the Economy
+
+Developing local
+Jobs and Skills
+
+Driving
+Innovations
+
+Sustaining the
+Environment
+
+Improving
+Quality of Life
+
+Shaping Societal
+Transformation
+
+1 UN – transforming our world: The 2030 agenda for sustainable development.
+
+Sustainability at Siemens
+
+7
+
+Highlight results include:
+Siemens’ global operations contribute to about € 250 billion in
+GDP creation and more than 4.3 million jobs, equaling more
+than ten times the number of our own employees.¹
+In Germany, 40 % of both purchasing volume and revenue are
+attributable to business done with small and medium-sized
+companies (SMEs).¹
+Over the last six years the number of patients in emerging
+countries with access to Siemens imaging systems increased
+by more than two thirds from about 760 million in fiscal 2010
+to about 1,270 million in fiscal 2016.²
+In the U.K., more than 400,000 students were reached by
+education p
+­ rojects in fiscal 2015.
+In September 2016, Siemens and the Argentinian government
+agreed to intensify cooperation to create employment, support development of local SMEs, and train future engineers
+and technicians.
+1 Numbers from fiscal 2015.
+2 Heathineers – Based on the number of installed Siemens computed tomography (CT) systems
+in 113 developing countries (UN HDI 2010 < 0.785).
+
+For fiscal 2017, we plan to roll out the approach in even more
+countries in addition to developing empowerment concepts. At
+the same time, first-wave countries will move into review cycles,
+thus advancing from a project approach to a sustainable process.
+
+We tackle greenhouse gas emissions (GHG) along the entire value
+chain – in the supply chain, in our own operations and at our
+customers.
+Compared to emissions from our supply chain (approximately
+17 Mt CO2), those of Siemens’ own operations (1.7 Mt CO2) constitute about 10 % of the overall cradle-to-gate emissions. This is
+due to the fact that operations within our supply chain are more
+energy-intensive than our own, mainly due to processing of raw
+materials. We intend to collaborate more intensively with our
+suppliers to support them in improving energy efficiency and reducing their CO2 footprints.
+
+ENVIRONMENTAL PORTFOLIO
+Our main contribution to climate change mitigation is our Environmental Portfolio. In fiscal 2016, we helped our customers save
+more than 521 Mt CO2 with our products installed in previous
+years and still in use. This amounts to more than 25 times the size
+of our cradle-to-gate emissions. For further details please refer to
+the
+CHAPTER ENVIRONMENTAL PORTFOLIO and the
+CHAPTER
+­E NVIRONMENTAL PORTFOLIO REPORTING PRINCIPLES IN THE ANNEX .
+
+Value chain emissions and savings from Environmental
+­Portfolio (EP) in fiscal 2016 (in Mt CO2)
+521
+
+Decarbonization
+~25x
+
+We have considered Climate Change a megatrend for over a decade. In December 2015, 193 countries adopted the Paris Agreement and committed to limiting global warming to well below
+2°C. The Agreement entered into force in November 2016, after
+being ratified by more than 90 countries. Consistent with the
+SDGs, Siemens is committed to contributing to the decarbonization of the global economy, which is required by the end of the
+century. There are two main fields for action in order to achieve
+decarbonization in the long term:
+Decarbonization of the energy system by:
+– Increasing the share of renewable energies
+– Electrification of consuming sectors that currently use fossil
+fuels for their energy demand
+Reducing demand by increasing energy efficiency
+
+8
+
+Sustainability at Siemens
+
+1.7
+18.5
+
+16.8
+
+Supply
+Chain
+
+Own
+­ perations
+o
+
+Cradle to
+gate
+
+1 Total annual savings of products installed since 2002 at our customers and still
+in use in ­fiscal 2016: 521 Mt CO2.
+
+EP savings 1
+
+CO 2-NEUTRAL SIEMENS
+To address our own operations, Siemens launched the global CO2neutral program in September 2015: Based on a positive business
+case, we plan to halve the footprint from our own operations by
+2020 and be carbon neutral by 2030 (baseline fiscal 2014). The
+reduction of CO2 will be achieved through a series of ongoing
+activities:
+
+CO2-neutral target trajectory (in Mt CO2)¹
+
+2.2
+
+– 50%
+2.0
+1.7
+
+1.1
+
+Drive Energy Efficiency Program
+Between fiscal 2016 and fiscal 2020 we will invest more than
+€ 100 million in improving energy efficiency at our own sites. With
+these investments, we expect to achieve approximately € 20 million energy cost savings per year once all the measures are
+­implemented. In this fiscal year, 11 projects within the Energy
+Efficiency Program were already started at our manufacturing
+sites with an investment volume of € 32 million. Furthermore, in
+June 2016, Siemens moved into its new headquarter, a landmark
+in terms of sustainable building. The new building consumes 90 %
+less primary energy than its predecessor, has a solar photovoltaic
+installation that covers approximately 30 % of its electricity demand and achieved the highest level of “green” building certification “LEED Platinum”.
+
+Leverage distributed energy systems
+We will expand our use of distributed energy systems at our own
+sites by combining wind turbines, small gas turbines, solar panels, intelligent energy management systems and energy storage
+solutions. Our long-term target is to generate 10 % of our electricity demand through distributed energy systems at our sites. The
+Siemens Campus in Erlangen will be one of the first showcases.
+
+Reduce fleet emissions
+We will improve our Company ’s car fleet of about 47,000 vehicles, emitting roughly 300,000 t CO2 per year. Our goal is to reduce these emissions and related fuel costs by 30 % by 2020.
+In fiscal 2016, offerings of hybrid and electric vehicles were expanded. Based on a survey on mobility requirements performed
+by approx. 1,500 senior managers, additional innovative mobility
+concepts are scheduled to be introduced in 2017. We will continue to roll out a CO2 component in our company car policies to
+other countries.
+
+Purchase “green” energy
+We are increasing the share of purchased electricity from renewable sources like wind parks. In fiscal 2016, more than 30 sites in
+Germany and several in the U.K. and the U. S. were already supplied with “green” electricity, covering more than a third of the
+demand in these countries.
+
+0.0
+
+2014 2015 2016
+1
+
+2020
+
+2030
+
+As reported in respective fiscal year.
+
+With all the described measures performed in fiscal 2016, we reduced our CO2 emissions by more than 440,000 t CO2 compared
+to fiscal 14, which is the program’s base year. We are thus well
+on track to achieve our interim goal of a 50 % reduction by 2020.
+By executing the CO2-neutral program, we are not only protecting the environment and improving our cost position, but also
+strengthening our expertise to apply innovative and environmentally-friendly technologies for our customers.
+
+Sustainability management and
+organization
+The importance we attach to sustainability is evident from the
+central position it holds within the Company ’s organization, in
+our programs and in the measures we execute. Efficient sustainability management is a company-wide task that requires clear
+structures and a thorough embedding of sustainability within our
+Vision 2020 and our corporate culture.
+All our sustainability activities are steered by the Chief Sustain­
+ability Officer (CSO), who is a member of our Managing Board.
+This person chairs the Siemens Sustainability Board (SSB), consisting of representatives from the Managing Board, Divisions,
+countries and corporate functions. The SSB is the central steering
+committee for sustainability at Siemens. It meets regularly to direct our sustainability activities as part of our corporate strategy
+and adopts appropriate measures and initiatives. The Sustainability Director manages the Sustainability department, which is responsible for driving sustainability within Siemens and for coordinating the sustainability activities and other company-wide
+programs and measures. The director reports to the Chief Sustainability ­Officer. Additionally, sustainability is anchored across the
+organization by our global network of Sustainability Managers in
+the Divisions and countries, ensuring that all measures and initiatives are implemented.
+
+Sustainability at Siemens
+
+9
+
+Sustainability collaboration
+We believe that close collaboration with stakeholders supports us
+in addressing complex, interlocking sustainability challenges.
+Maintaining an intensive dialog with our customers, partners
+along the supply chain, and other external stakeholder groups
+and organizations helps us to regularly adjust our focus on material issues and upcoming trends and individual needs. We listen
+to our stakeholders and integrate their perspectives into our business priorities and decision-making processes. Stakeholder engagement creates value for both stakeholders and the Company
+through knowledge exchange and co-creativity. It is essential for
+our business license to operate and it contributes to the improvement of business conditions and risk reduction on customer projects and in our own operations.
+Stakeholder engagement is managed by dedicated departments
+at corporate, regional, divisional or project level according to their
+individual stakeholder landscape. Our key stakeholders include,
+but are not limited to, customers, investors, suppliers, employees,
+communities, policy-makers, media, non-governmental organizations, business organizations, and academia. Our Stakeholder
+engagement requirements are anchored in our Project Management System (PM@Siemens) from the pre-tender and project
+execution to the service phase.
+We are continuing with our engagement with leading sustainability organizations, such as the World Business Council for Sustainable Development and the United Nations Global Compact
+(UN GC). We are committed to its ten principles and actively contribute to the CEO Water Mandate. In fiscal 2016, we committed
+to the Women Empowerment Principles of the UN GC and signed
+the “Charta der Vielfalt”. For years, we have been a committed
+member of One Young World. This year we participated with 50
+delegates in Ottawa, Canada.
+Since fiscal 2015, we have disclosed our sustainability information with reference to the guidelines (G4) of the Global Reporting
+Initiative (GRI), which aim at high transparency and comparability for corporate sustainability reporting. In November 2015, we
+contributed to the business voice at the United Nations Climate
+Change conference in Paris and demonstrated Siemens’ role in
+limiting global warming to well below 2°C through our decarbo­
+nization activities.
+
+10
+
+Sustainability at Siemens
+
+At the end of fiscal 2013, our Chief Compliance Officer was elected
+Chairman of the Task Force on Anti-Bribery / Corruption of the
+Business and Industry Advisory Committee to the OECD.
+Furthermore, he was appointed Chairman of the B20 Cross-­
+thematic Group on Responsible Business Conduct and Anti-Corruption during the German G20 presidency 2016 / 2017. Activities
+in the World Economic Forum include the Company’s participation in the Partnering Against Corruption Initiative (PACI).
+
+External recognition of our
+­sustainability ­performance
+Our sustainability performance has continuously been externally
+confirmed by the most renowned and relevant sustainability indexes and ratings.
+With a score of 89 points, Siemens is a member of the DJSI World
+Index of RobecoSAM/Dow Jones Sustainability Indices for the 17th
+consecutive year and hence one of the most sustainable companies in our industry. Siemens leads the industry in the economic
+dimension and ranks second in the environmental dimension. In
+the social dimension, we rank third. In 7 of 19 categories, we lead
+the industry group “IDD Industrial Conglomerates”.
+We also received high ratings on a number of other indexes and
+rankings, including CDP, who rated us with “A−”. We responded
+to the climate change and supply chain assessment to explain how
+we reduce our greenhouse gas emissions and mitigate climate
+change risks while at the same time motivating our ­suppliers to
+disclose information on how they are approaching c­ limate and
+water risks and opportunities. Financial Times Stock Exchange
+(FTSE) included Siemens in its FTSE4Good series. F
+­ TSE4Good is
+designed to identify companies that demonstrate strong Environmental, Social and Governance (ESG) practices, measured against
+globally recognized standards. In addition, Oekom awarded
+Siemens with its “Prime” label, qualifying Siemens shares on the
+stock market for an investment from an ecological and social perspective. Oekom research AG is the German market-leading provider of information for social and environmental performances
+of companies and industries. EcoVadis rated Siemens with the
+“Silver recognition level”, underlining our performance as a sustainable supplier to our customers.
+
+Facts and Figures
+Employees
+
+The proportion of women as a percentage of the total workforce
+remained unchanged at 23%.
+
+Demographic change, employability and the impact of digitalization are key challenges we have been focusing on for several
+years. People are the decisive factor for future success, and that is
+why we strive to continuously win and retain the best employees
+worldwide. We aim to be the employer of choice by empowering
+and motivating all employees with a high-performance culture,
+life-long learning and development possibilities. We are respectful, inclusive and diverse. At Siemens, everyone can develop according to individual talent and passion, while being treated fairly
+independent of their ethnicity, sexual orientation, gender identity, age, disability status and professional background. In projects
+for our customers, we train our people thoroughly – enabling
+them to use the opportunity for personal and professional growth.
+Since fiscal 2010, we have been measuring employee satisfaction
+with our management tool: the Siemens Global Engagement Survey. We aim to achieve an approval rating of over 75 % on a sustainable basis in the key categories of Leadership and Diversity.
+These targets are also anchored in our strategy program “Vision
+2020”. In fiscal 2015, more than 260,000 Siemens employees (77 %
+response rate) took part in our worldwide survey, which is conducted every two years. Based on the constantly high employee
+engagement and our results in both key categories in fi
+­ scal 2015,
+we are confident that we will achieve our targets by fiscal 2020.
+On September 30, 2016, we employed 351,000 employees worldwide, which represents an increase of approximately 3,000 in
+comparison to fiscal 2015. Of these employees, 61 % were in
+­Europe, C. I.S, Africa and the Middle East, 21 % in the Americas
+region and 18 % in Asia, Australia.
+
+Proportion of women
+September 30,
+(as a percentage of total employees)
+
+2016
+
+2015
+
+Siemens
+
+23
+
+23
+
+Europe, C.I.S., 1 Africa, Middle East
+
+22
+
+22
+
+Americas
+
+24
+
+25
+
+Asia, Australia
+
+26
+
+27
+
+1 Commonwealth of Independent States.
+
+New hires were about one tenth of the total employee base and
+up by 8 % in the year under review compared to fiscal 2015. In the
+same period, exits were up by 7 %. The percentage of all company
+dismissals – as share of employee exits – was 15.9 % for the year,
+compared with 18.3 % in the previous year.
+
+Siemens employee hires
+Fiscal year
+(in thousands)
+
+2016
+
+2015
+
+Siemens
+
+35.1
+
+32.6
+
+Europe, C.I.S.,1 Africa, Middle East
+
+18.5
+
+15.4
+
+Americas
+
+8.5
+
+9.1
+
+Asia, Australia
+
+8.1
+
+8.0
+
+1 Commonwealth of Independent States.
+
+Women hired
+Fiscal year
+
+Siemens employees
+
+(as a percentage of new hires)
+September 30,
+
+2016
+
+2015
+
+Siemens
+
+25
+
+25
+
+2016
+
+2015
+
+Europe, C.I.S., 1 Africa, Middle East
+
+24
+
+24
+
+351
+
+348
+
+Americas
+
+26
+
+25
+
+Europe, C.I.S., 1 Africa, Middle East
+(as a percentage of total employees)
+
+Asia, Australia
+
+26
+
+27
+
+61
+
+61
+
+Americas
+(as a percentage of total employees)
+
+21
+
+21
+
+Asia, Australia
+(as a percentage of total employees)
+
+18
+
+18
+
+Siemens (in thousands)
+
+1 Commonwealth of Independent States.
+
+Siemens employee exits
+Fiscal year
+
+1 Commonwealth of Independent States.
+
+12
+
+Facts and Figures
+
+(in thousands)
+
+2016
+
+2015
+
+Siemens
+
+30.8
+
+28.8
+
+Employee turnover rate
+
+Use of working hour programs at Siemens
+Fiscal year
+
+(in %) 1
+
+2016
+
+2015
+
+4.0
+
+Part-time
+
+10.4
+
+10.0
+
+Employees on leave of absence
+
+9.0
+
+8.4
+
+2015
+
+4.1
+
+Employee decision
+Other reasons for exit
+
+4.7
+
+4.3
+
+Total
+
+8.8
+
+8.3
+
+1 Employee turnover rate is defined as the ratio of voluntary and involuntary e
+­ xits
+from Siemens during the fiscal year to the average number of employees.
+
+DIVERSITY
+
+Retiring within the next five years
+September 30,
+(as a percentage of total employees) 1
+
+2016
+
+2015
+
+15
+
+15
+
+Siemens
+
+September 30,
+(in thousands)
+
+2016
+
+1 Based on the Siemens worldwide average retirement age of 60.
+
+Changes in age structure
+The distribution of employees by age group remained virtually
+unchanged compared to the year before. The median age in the
+year under review was 41.
+
+At Siemens, we foster diversity throughout the organization –
+through a variety of activities, measures and programs. Siemens
+today is home for over 170 nationalities worldwide. Diversity
+strengthens our innovative capacity, unleashes the potential of
+Siemens’ employees and thereby directly contributes to our business success. We want to create an open workplace for all employees dedicated to our goals. After the new organizational
+setup, we strengthened our diversity activities by phrasing a new
+­strategy. The identified action areas reflect our strategy program
+“Vision 2020”. Our focus areas are:
+Consciously addressing Unconscious Bias
+Promoting Gender Balance
+Fostering the value of Globality
+Encouraging Diversity & Inclusiveness
+
+Age structure in fiscal 2016
+(as a percentage
+of total employees) 1
+
+< 35
+
+35 – 44
+
+45 – 54
+
+> 55
+
+Siemens
+
+31
+
+28
+
+26
+
+15
+
+Europe, C.I.S., 1 Africa,
+Middle East
+
+27
+
+27
+
+30
+
+16
+
+Americas
+
+26
+
+26
+
+26
+
+22
+
+Asia, Australia
+
+51
+
+33
+
+13
+
+3
+
+Our focus on diversity is reflected, for example, in the adaptations made to our recruitment processes: These ensure that the
+preliminary selection of candidates better reflects the diversity of
+customers and employees at all levels and in all regions.
+
+Employees in management positions¹
+September 30,
+
+1 Commonwealth of Independent States.
+
+Siemens
+
+Working hours and working arrangements
+
+Female employees in management positions
+(percentage of all management positions)
+
+Average official weekly working hours
+
+2016
+
+2015
+
+61,800
+
+63,000
+
+15.6
+
+15.4
+
+1 Employees in management positions include all managers with disciplinary r­ esponsibility,
+plus project managers.
+
+September 30,
+(in hours) 1
+
+2016
+
+2015
+
+Siemens
+
+39.0
+
+39.0
+
+Europe, C.I.S., 2 Africa, Middle East
+
+37.7
+
+37.6
+
+Americas
+
+41.0
+
+41.1
+
+Asia, Australia
+
+41.3
+
+41.3
+
+Today, Siemens has 15.6 percent of female employees in management positions and, due to concerted efforts, this share is continuing to grow.
+
+1 Contractually agreed weekly working hours at the end of the fiscal year.
+2
+
+Commonwealth of Independent States.
+
+Facts and Figures
+
+13
+
+TALENT ACQUISITION AND DEVELOPMENT
+It is our employees that make Siemens successful. Therefore, we
+are convinced that attracting, developing and retaining them are
+essential activities. Recruiting in all of our countries is consistently based on the same global principles. This guarantees a high-­
+quality hiring experience for all candidates around the globe.
+We ensure continuous individual development with dedicated
+processes and practices: The Performance Management Process
+is one core element of talent development. It aims to create a
+continuous dialog between employee and manager, about expectations regarding individual contributions and behavior as well
+as feedback on actual impact and a demonstrated mindset of
+ownership culture. We believe that achievements should be rewarded based on meritocracy: The compensation system for our
+top executives and senior management worldwide includes a
+significant variable component. Through a variety of concepts,
+employees are encouraged to reflect on their aspirations and abilities, thus enabling them to grow into different roles and take
+ownership of their career development. A portfolio of measures
+ranging from balanced people development measures (on the
+job, people experiences and formal learning) to dedicated potential development programs ensures that our talents are developed
+continuously.
+
+LEARNING, LEADERSHIP DEVELOPMENT AND
+VOCATIONAL EDUCATION
+
+As part of Siemens’ commitment to education, every year young
+talents from all over the world are provided with the opportunity
+to gain work experience in Germany. Since 2012, the company
+has been offering specifically designed apprenticeship training
+for approximately 30 young Europeans a year from different European countries in Berlin. This year we extended the group with
+talents from African countries like Algeria and Morocco. In total,
+26 people from 15 European and African countries participated.
+After completing their apprenticeships in mechatronics and electrical / electronic engineering, they return to their home countries
+and work in one of our local operating companies.
+The education program at Siemens is increasingly attracting interest abroad. That’s why Siemens is currently training around
+2,240 young people in its local regional companies both inside
+and outside Europe, for example, in the context of large customer
+projects in Egypt and India.
+We encourage our employees at all locations to develop their
+competencies and qualifications. In fiscal 2016, we spent around
+€ 270 million in continuing education (without travel expenses),
+which equals about € 775 per employee.
+The average number of training hours is divided between management training courses and several training courses specified
+for our workforce. Each employee is encouraged to participate in
+educational development to increase their lifelong employability.
+
+Possessing the necessary skills at the right place and the right
+time is a success factor for Siemens.
+Siemens Global Learning Campus provides training courses to all
+employees, helping to develop their personal skills, supporting
+managers as they work to develop their teams, and assisting those
+responsible for entire organizational areas as they seek to implement strategic steps and change processes. Siemens continues
+to be one of Germany ’s largest providers of professional edu­
+cation for secondary school graduates (about 6,740 places for
+Siemens trainees, and about 2,460 places for trainees from other
+companies). As in previous years, we again made 10 % of our
+trainee positions available to young people from disadvantaged
+backgrounds.
+
+Average number of training hours of employees
+in ­management positions
+Fiscal year
+(per participant per category) 1
+
+2016
+
+2015
+
+SLE Training Alumni Top Management
+(no trainings in fiscal 2016)
+
+0
+
+25
+
+New general management appointees
+(99 participants in fiscal 2016)
+
+94
+
+94
+
+New advanced management appointees
+(405 participants in fiscal 2016)
+
+66
+
+66
+
+New management appointees
+(461 participants in fiscal 2016)
+
+66
+
+66
+
+1 Based on mandatory participants in Siemens Leadership Excellence
+programs or executive courses.
+
+14
+
+Facts and Figures
+
+SIEMENS EQUITY CULTURE
+It is our conviction that employees who hold shares of their company will identify more closely with it and thus be willing to assume greater responsibility and foster an ownership culture –
+which ultimately enables the sustainable development of Siemens.
+Right now, 97 % of the company’s employees have the opportunity to become Siemens shareholders via our company program.
+With this program – the Share Matching Plan – Siemens rewards
+the commitment and loyalty of employees with a participating
+interest in the company. For every three Siemens shares employees buy and then hold for the applicable vesting period of two or
+three years, they receive one Siemens share without payment of
+consideration (matching share) – provided they are still employed
+by Siemens and have not transferred or sold the shares. Thus, the
+plan enables stock ownership for employees regardless of their
+income level. Siemens “Vision 2020” aims to further raise the
+num­ber of employee shareholders by at least 50 %. In fiscal 2015,
+Siemens Profit Sharing was additionally implemented as a concept
+with the aim of allowing employees below senior manage­ment
+level worldwide to benefit from free Siemens shares in the case of
+extraordinarily successful business years. In fiscal 2015, Siemens
+endowed € 200 million to a Profit Sharing Pool.
+
+EMPLOYEE RIGHTS AND RELATIONS WITH
+EMPLOYEE REPRESENTATIVES
+Siemens practices fair-minded collaboration between Company
+management, employees and employee representatives, and upholds the fundamental rights of the employees. These already
+apply worldwide and are firmly anchored in our Business Conduct
+Guidelines. Underscoring the commitment to social responsibility and respect, the Siemens Central Works Council, the German
+trade union IG Metall and the global industrial union IndustriALL
+have signed an international framework agreement (IFA) in 2012
+on the principles of corporate responsibility with reference to the
+relevant international conventions of the United Nations, such as
+the International Labour Organization (ILO) and the UN Global
+Compact.
+
+Occupational health and safety
+­management
+Occupational health and safety management is anchored in our
+sustainability principles and in our business processes. We have
+therefore developed central programs and processes that are applied locally and adapted to the respective business needs. Occupational health and safety management is an integral part of our
+Business Conduct Guidelines, our internal monitoring systems and
+our risk management and internal controls. In addition, occupational safety is part of the international framework agreement
+between Siemens AG, the Central Works Council of Siemens AG,
+IG Metall and the global union IndustriALL.
+
+PROMOTING A CULTURE OF SAFETY
+In addition to technical protective measures, we foster practicing
+occupational safety culture by providing optimal working conditions for all Siemens employees and those of our contractors. Both
+as a Company and as individuals, we are responsible for ensuring
+that the working environment at Siemens is safe at all times and
+for every employee. We strive for a global and consistent approach
+that builds on local management systems and best practices to
+achieve a sustainable performance.
+Our customers, suppliers and regulatory authorities require high
+safety standards. Safe behavior is governed not only by complying with laws, regulations and procedures, but also by the personal values of managers and employees. Our “Zero Harm Culture @ Siemens” program (ZHC@Siemens), which we launched in
+fiscal 2012, has been further developed and rolled out to drive the
+targeted cultural change on occupational health and safety. It
+contains three principles:
+
+Zero incidents – it is achievable! Everyone must be able to
+work at Siemens without suffering an incident. Everywhere.
+At any time.
+Health and safety – no compromises! The health and safety
+of all employees are our highest priority and must not be compromised by time or cost pressure.
+We take care of each other! We work with open eyes to recognize dangerous situations and look after one another.
+Risky behavior is not tolerated – we intervene when we see it,
+and we lead by example.
+
+Facts and Figures
+
+15
+
+To further align the different businesses and countries and to
+achieve global coverage we are driving the rollout of our Zero
+Harm Culture @ Siemens Country Concept. In addition, our businesses and countries further improve safety at the local level
+through various activities according to local needs and requirements. To underline the importance of ZHC @ Siemens we introduced the ZHC @ Siemens Label as an additional element of the
+ZHC @ Siemens program in fiscal 2016. To achieve the label, the
+organizational units within the country have to deploy the Zero
+Harm Culture @ Siemens program in a comprehensive and systematic way. The criteria for the Zero Harm Culture @ Siemens
+Label cover procedural, quantitative and qualitative elements,
+and are reviewed by an independent Label Panel. In fiscal 2016,
+nine countries achieved the Zero Harm Culture @ Siemens Label:
+Austria, Canada, China, Czech Republic, Ireland, Portugal, Turkey,
+United Kingdom and South Africa.
+
+ACCIDENTS WORLDWIDE
+When recording lost-time injuries (LTIs), we incorporate the applicable national definitions for categorizing incidents as being
+work-related.
+
+LTIFR employees and contractors 1
+Fiscal year
+2016
+
+2015
+
+Employees 2
+
+0.56
+
+0.62
+
+Contractors 3
+
+0.47
+
+0.45
+
+1 Lost-time injury frequency rate: number of lost-time injuries (LTI) x 200,000 / work hours
+performed; LTIs are accidents that result in at least one lost day of work.
+2 Depending on national regulations, foreign or temporary workers may also count
+as employees.
+3 Contractors who bill by time, especially those who work on large project sites.
+
+After a slight increase in the LTIFR for Siemens employees in fiscal
+2015 (0.62) we achieved further reduction in fiscal 2016 (0.56) as
+a result of all our implemented measures within Divisions and
+countries.
+
+Fatalities
+Fiscal year
+2016
+
+2015
+
+Fatalities at Siemens
+(work related)
+
+2
+
+4
+
+Fatalities at Siemens
+(commuting accidents)
+
+5
+
+4
+
+Fatalities at Siemens Contractors
+(work related)
+
+0
+
+4
+
+Total
+
+7
+
+12
+
+In fiscal 2016, the overall number of fatalities was lower than in
+fiscal 2015. Regrettably, we reported seven fatalities. All of them
+involved Siemens employees. The seven Siemens cases included
+five commuting accidents on the way to or from work and two
+work-related cases. In the previous year, there were four fatalities
+involving contractors and eight involving Siemens employees. In
+fiscal 2016, there were five commuting fatalities compared to four
+fatalities in fiscal 2015. Road safety was identified as a focus topic
+for 2017.
+Management attention is key to fostering and improving safety.
+The responsible CEO of the business concerned therefore demonstrates commitment by personally reporting work-related fatalities or serious incidents to the Siemens Managing Board. This
+includes the root causes and contributing factors of the incident
+as well as corrective and preventive actions taken to prevent recurrence.
+To achieve sustainable improvement and share lessons learned,
+we continuously strengthen our incident investigation capabilities by providing professional training and support. To systematically analyze the causes of our incidents, root cause analysis
+training courses have been conducted in Austria, in the U.K., the
+U.S., China, Germany and the Middle East, with more to come.
+One of our main safety risks is related to electrical safety. To significantly improve electrical safety, a Center of Competence for
+Electrical Safety (CoC ES) has been established. This CoC ES is
+based on a global team of highly experienced and qualified electrical engineers. Divided into several work streams, the team gives
+specific advice. One key initiative is a global electrical safety campaign based on on-site workshops for electricians to raise awareness and improve electrical safety.
+
+16
+
+Facts and Figures
+
+Contractors are a main resource, especially in our project business. Contractor performance and safety are important factors
+for Siemens’ business success. In order to reduce the number of
+accidents related to contractors we have introduced additional
+business-specific actions and activities. Particularly on construction sites, such as our megaproject in Egypt, which includes three
+4.8 gigawatt turnkey combined cycle power plants and 12 wind
+parks with approximately 600 wind turbines, specific hands-on
+training centers for employees of Siemens and its contractors
+have been set up on site in order to improve relevant competencies and skills.
+We also launched a global Center of Competence for Safety in
+Projects (CoC SiP) in fiscal 2016. This CoC SiP consists of team
+members with cross-functional expertise. One main focus is to
+improve contractor management covering the entire process
+from contractor selection and qualification, contracting and execution to contractor evaluation. It is integrated in our project
+management process, and clear roles and responsibilities for all
+functions involved are defined for each phase, with relevant documents and tools provided.
+In fiscal 2016, health and safety audits also focused on highrisk
+activities. The Siemens internal audit department was a
+­ ssigned
+to conduct EHS audits in order to check internal and external EHS
+requirements. In total, 25 EHS audits have been conducted within
+our Energy Management, Wind Power and Renewables, Power
+and Gas, Mobility, Process Industries and Drives and Power Generation Services Divisions. The audits will be continued in fiscal 17
+within other selected divisions and countries.
+
+OCCUPATIONAL ILLNESS
+The total number of cases of occupational illness relative to the
+number of employees has remained at a low level for many years.
+The corresponding indicator (occupational illness frequency rate,
+or OIFR, relative to 1,000,000 work hours performed) was 0.48
+in the year under review (fiscal 2015: 0.35). Here we report the
+figures for Siemens Germany, only. OIFR is calculated solely on
+the basis of cases of occupational illness recognized by the Employers’ Liability Insurance Association.
+
+PROMOTING HEALTH
+We are convinced that sustainable health promotion among our
+employees will only succeed if all health-related measures and
+initiatives are consistently aligned with the permanently changing requirements of today ’s working environment and complement each other in a sensible manner. Increasing the number
+of individual measures is not enough. A systematic approach is
+called for to manage health as a resource and act proactively. Our
+company-wide program Healthy @ Siemens outlines a framework
+for workplace health and well-being. It focuses on engaging top
+management, local leaders and employees, enhancing collaboration of all health-relevant players and establishing a continuous
+improvement process. In fiscal 2014, we introduced the Healthy
+@ Siemens Label as a quality characteristic for sustainable health
+management to encourage implementation. To achieve the
+Healthy @ Siemens Label, Siemens country organizations have to
+meet requirements in seven categories and pass a comprehensive ­on-site-assessment. So far, 19 countries have been awarded
+the Healthy @ Siemens Label.
+
+Research and Development
+Our research and development (R & D) activities are ultimately
+geared to developing innovative, sustainable solutions for our
+customers – and the Siemens businesses – and simultaneously
+safeguarding our competitiveness. For these reasons, we focus
+in particular on
+enabling energy supplies that are economically sustainable;
+further enhancing efficiency in the generation of renewable
+and conventional power and minimizing losses during power
+transmission;
+finding novel solutions for smart grids and for the storage of
+energy from renewable sources with irregular availability;
+promoting the efficient utilization of energy, especially in
+buildings, industry and transportation, e. g. through highly
+efficient drives for production facilities or for local and longdistance trains;
+creating the highly flexible, connected factories of tomorrow
+using advanced automation and digitalization technologies;
+turning unstructured data into value-adding information, e. g.
+when providing services such as preventive maintenance;
+advancing the integration of medical imaging technology, in
+vitro diagnostics and IT for medical engineering to support
+improved patient outcomes.
+Beyond these points of focus, we recognize how important highly
+sophisticated software solutions are for all the fields of business
+in which Siemens is active. R & D activities are carried out by our
+businesses as well as our Corporate Technology (CT) department.
+
+Facts and Figures
+
+17
+
+Corporate Technology is both a creative driver of disruptive innovations and a partner to the Siemens businesses. Its R & D activities are focused on the Company’s core activities in the fields
+of electrification, automation and digitalization. In many research
+projects, CT works closely with scholars from leading universities
+and research institutions. These partnerships, along with close
+collaborations with start-ups, are an important part of Siemens’
+open innovation concept, which is designed to make the Company even more innovative.
+In fiscal 2016, Siemens announced the creation of an autonomous
+unit that will place the Company's partnership with start-ups on
+a much higher level: next47. The unit went into operation in October 2016. It has been given a budget of € 1 billion for its first five
+years. With the creation of next47, Siemens plans to further enhance its innovativeness and speed up the introduction of innovations to the marketplace. next47 is focusing on five innovation
+fields: artificial intelligence, distributed electrification, autonomous machines, blockchain applications and connected electric
+mobility. Electrically powered flight is an example of a disruptive
+development being pursued by next47. In cooperation with Airbus, Siemens intends to demonstrate by 2020 that electricity can
+be used to power large planes.
+In fiscal 2016, we reported research and development expenses
+of € 4.7 billion, compared to € 4.5 billion in fiscal 2015. The resulting R & D intensity, defined as the ratio of R & D expenses and revenue, was 5.9 % – the same level as in fiscal 2015. Additions to
+capitalized development expenses amounted to € 0.3 billion in
+both fiscal 2016 and 2015, mainly at Healthineers. As of September 30, 2016, Siemens held approximately 59,800 granted patents worldwide in its continuing operations. As of September 30,
+2015, it held approximately 56,200 granted patents. On average,
+we had 33,000 R & D employees in fiscal 2016.
+
+18
+
+Facts and Figures
+
+RESEARCH AND DEVELOPMENT
+IN OUR BUSINESSES
+R & D at the Power and Gas Division concentrates on developing
+products and solutions for enhancing efficiency, flexibility and
+economy in power generation and in the oil and gas industry.
+These products and solutions include turbomachinery – primarily
+high-performance, low-emission gas turbines for single operation
+or for combined cycle power plants – and compressor solutions
+for various process industries. The Division’s current technology
+initiative, which started in fiscal 2015, is aimed at intensifying
+R & D in innovative materials, advanced manufacturing methods
+and plant optimization. Along with promoting digitalization in
+overall product lifecycles, Power and Gas is on track preparing for
+changing energy markets and their increasingly diversified centralized and decentralized structures.
+At the Wind Power and Renewables Division, our R & D efforts
+are focused on innovative products and solutions that allow us to
+take the lead in performance, improve our competitiveness, and
+build a stronger business case for customers. This includes finding ways to more intelligently monitor and analyze turbine conditions, and smart diagnostic services. Our R & D efforts also focus
+on digitalization. At our remote diagnostics center in Brande,
+Denmark, we collect digital data from more than 10,000 turbines
+in more than 30 countries, which total more than 24 million data
+sets annually. We use this data to provide value for our customers: in 85 % of cases, issues can be corrected and turbines restarted without sending out a service team.
+The R & D activities of our Energy Management Division focus
+on preparing our portfolio for changes on all voltage levels in the
+world of electricity. The increasing infeed of renewable energy to
+power grids requires that those grids become more flexible and
+efficient, particularly with distributed generation on the rise. The
+digitalization of future grids will enable intelligent grid operation
+and data-driven services. Cost-out programs and optimization of
+our footprint are improving the competitiveness of our product
+port­folio on global markets. Our innovations are centered on
+power electronics, digitalization or grid stabilization. The full
+­integration of energy supply systems with process automation
+is a core portfolio element for industrial applications and infrastructures.
+
+R & D work at the Building Technologies Division focuses on optimizing comfort, operational and energy efficiency in buildings
+and infrastructures, protecting against fire and security hazards,
+and minimizing related risks. We aim to create a portfolio of products and services ranging from the field to the cloud, based on
+open standards wherever possible. This includes data-based services for new ways of optimizing energy consumption, easily
+scalable and reasonably priced services, a new and harmonized
+system landscape with effective integration of electrical consumption, fire detection and HVAC (heating, ventilation, air conditioning) systems, and a complete range of products tailored
+specifically to growing markets.
+The Mobility Division’s R & D strategy addresses customers’ demand for maximum availability, high throughput and enhanced
+passenger experience. Although there is a growing need for mobility worldwide, possibilities for building new roads and railways
+are limited. Meeting the demand for mobility requires intelligent
+solutions that make transport more efficient, safe and environmentally friendly. Reflecting this, Mobility ’s R & D activities emphasize digitalization in developing state-of-the art rail vehicles,
+automation solutions for rail and road traffic, and rail electrification systems. Most of these goals can be achieved only with intelligent IT solutions such as WLAN-based control systems for driverless and conductorless metro train operation, decentralized
+wayside architecture for rail automation, cloud-based product
+solutions, and Integrated Mobility Platforms that intelligently
+network passengers, mobility service providers and traffic management centers.
+One of the R & D priorities at the Digital Factory Division is the
+Digital Enterprise Software Suite. It includes Teamcenter software.
+Serving as a data backbone, Teamcenter digitizes the entire product lifecycle management (PLM) process – from product design
+through planning and engineering to production and service. In
+addition, the TIA (Totally Integrated Automation) Portal engineering platform is being intensively improved. Thanks to its open
+interfaces, it exchanges data with other systems. The seamless
+link to simulation tools enhances the benefits of virtual commissioning, which is used to identify flaws at an early stage and in
+a cost-effective manner. Data-based services are another field
+of research. Siemens offers MindSphere, an industry cloud that
+­industrial companies can use to develop and provide their own
+digital services. As a result, new types of services such as predictive maintenance and resource optimization can be provided.
+Machinery and plant builders can use it to monitor production
+operations around the world. MindSphere helps them reduce
+downtimes and offer new business models.
+
+The focus of R & D activities in the Process Industries and Drives
+Division is on the digital transformation of products, solutions
+and services for all sectors in the process industry, such as oil and
+gas, chemicals and pharmaceuticals. Information and communication technologies (ICT) play a crucial role in areas such as improvements in instrumentation, analytics, industrial communication and process control systems. The end-to-end use of ICT is
+as essential a prerequisite for the expansion of drive and trans­
+mission platforms by means of integrated condition monitoring
+and service cloud connections as it is for the commissioning and
+­operation of processing plants or the use of computer-assisted
+simulations to support their operators. The same applies for new
+service offerings that complement operational engineering data
+with additional condition-related data (condition monitoring) and
+use it for purposes such as asset management. The digitalization
+of our comprehensive process automation and industrial communication portfolio includes a holistic industrial security concept.
+Another central objective of our R & D activities is to further increase energy efficiency while reducing the consumption of raw
+materials and cutting emissions. This applies to our own product
+creation processes as well as to our customers’ processes that are
+facilitated by our products (systems, solutions and services).
+The R & D activities of Healthineers are directed toward our growth
+fields in therapy, molecular diagnostics, and services. We want to
+tap the full potential of imaging solutions in therapy and to establish a closer connection between diagnostics and therapy in
+cardiology, interventional clinical disciplines, surgery, and radiation oncology. Strategic partnerships are an essential part of our
+strategy to reach this goal. Expanding our innovation map beyond our established portfolio, and investing in new ideas will
+help us tap new business fields. For example, we will extend our
+activities in the highly dynamic growth field of molecular diagnostics. We will expand our services business beyond productrelated services by adding a digital services portfolio and increasing enterprise transformation services to help customers in their
+transition to value-based care within more and more provider
+organizations across geographical borders.
+
+Facts and Figures
+
+19
+
+Supply chain management
+
+IDENTIFYING RISKS AND IMPLEMENTING
+IMPROVEMENT MEASURES
+
+SUPPLY CHAIN MANAGEMENT PRINCIPLES
+
+Due to our very large and dispersed supplier network – we procure from some 90,000 suppliers in around 150 countries – it is
+not possible for us to inspect all suppliers to the same extent, for
+example, via site audits. We have therefore established a riskbased system to systematically identify potential risks in our supply chain. The main factors are:
+
+The principal goal of supply chain management (SCM) at Siemens
+is to provide a substantial and sustainable value contribution for
+the success of our businesses. The four elements of this value
+contribution include:
+Productivity
+Quality
+Availability
+Innovation
+
+Risk identification and categorization of all our commodities
+Weighting the countries' risk level grouped by sustainability
+indicators like legal compliance and prohibition of corruption
+and bribery, respect for the basic human rights of employees,
+prohibition of child labor, etc. We also use information from
+internationally recognized organizations
+Other strategic decisions, such as preparation for upcoming
+projects with large local procurement volume
+
+As such, the objectives clearly go beyond cost savings alone. In
+fiscal 2016, Siemens’ purchasing volume amounted to ap­proxi­
+mate­ly € 39 billion, which equaled roughly half of our total revenue.
+In line with the objectives of “Vision 2020”, Siemens Supply Chain
+Management has set up a range of activities in its “Bold Moves”
+program to foster cost effectiveness and support global business.
+Key elements of the Bold Moves program are “Cost and Value
+Engineering” and “Global Value Sourcing”.
+“Cost and Value Engineering” is a cross-functional program to
+achieve cost-optimized technical solutions, including cost transparency across the entire value chain. “Global Value Sourcing” intends to strengthen the local presence and leverage the potential
+in emerging markets. In both programs, Siemens strives to significantly increase activities by fiscal 2020.
+All purchasing activities are being executed within the framework
+of our sustainability requirements. These are the guiding principles and form an integral part of all relevant supplier management
+processes – such as supplier selection, supplier qualification and
+evaluation, and supplier development.
+
+REQUIREMENTS FOR SUPPLIERS
+Instituted in fiscal 2007, we require all our suppliers to comply
+with the principles of our “Code of Conduct for Siemens Suppliers
+and Third Party Intermediaries”. It includes, among others, respect
+for the basic rights of employees, strong health and safety and
+environmental protection standards as well as zero tolerance on
+corruption and bribery. In fiscal year 2015, we updated our Code
+of Conduct and included additional requirements on fair competition, anti-trust laws and intellectual property rights, a chapter
+on conflicts of interest and the avoidance of conflict minerals.
+The Code of Conduct is based on the ten principles of the UN
+Global Compact and reflects the content of our Siemens Business
+Conduct Guidelines.
+
+20
+
+Facts and Figures
+
+This risk-based system consists of sustainability self-assessments
+by suppliers, risk evaluations conducted by our purchasing departments, sustainability questions within supplier quality audits,
+and sustainability audits by external auditors.
+
+Sustainability self-assessments 1
+Fiscal year
+(Number)
+
+Europe, C.I.S., 2 Africa, Middle East
+Americas
+
+2016
+
+2015
+
+1,157
+
+940
+
+684
+
+543
+
+Asia, Australia
+
+2,377
+
+2,025
+
+Total
+
+4,218
+
+3,508
+Fiscal year
+
+(Results)
+
+Category “green” (no deviations)
+Category “yellow” (minor deviations) 3
+Category “red”
+(suspicion of serious deviations) 3
+Total
+
+2016
+
+2015
+
+2,974
+
+2,577
+
+686
+
+436
+
+558
+
+495
+
+4,218
+
+3,508
+
+1 To be conducted mainly by suppliers from non-OECD countries with a purchasing volume
+> € 50,000 p. a. Questionnaires initiated and completed in the year under review.
+2
+
+Commonwealth of Independent States.
+
+3 Clarification of the situation by the designated buyer, agreement on corrective measures
+within a defined period of time, or conduct of an external sustainability audit.
+
+The sustainability self-assessments are, as part of the Siemens
+supplier qualification process, under continuous review in order
+to meet the latest requirements. Besides the qualification of new
+suppliers, we furthermore renewed the qualification of other suppliers in accordance with our supplier qualification process which
+requires the periodic requalification of suppliers every three years.
+Over the years, we have constantly increased the number of conducted sustainability self-assessments. Both strengthened internal processes and monitoring, as well as growing awareness of
+suppliers to evaluate their own sustainability performance, led to
+a 20 % increase in fiscal 2016.
+
+Supplier quality audits with integrated sustainability questions
+Fiscal year
+(Number)
+
+2016
+
+2015
+
+External sustainability audits
+Fiscal year
+(Number)
+
+2016
+
+2015
+
+Europe, C.I.S., 1 Africa, Middle East
+
+68
+
+9
+
+Americas
+
+50
+
+1
+
+Asia, Australia
+
+202
+
+40
+
+Total
+
+320
+
+50
+
+(Agreed improvement measures) 2
+
+2016
+
+2015
+
+Legal compliance / prohibition
+of corruption and bribery
+
+1,063
+
+136
+
+Respect for the basic
+human rights of employees
+
+2,371
+
+357
+
+Fiscal year
+
+Prohibition of child labor
+Health and safety of employees
+
+185
+
+35
+
+2,679
+
+388
+170
+
+Europe, C.I.S., Africa, Middle East
+
+470
+
+463
+
+Americas
+
+224
+
+172
+
+Environmental protection
+
+422
+
+Supply chain
+
+316
+
+56
+
+7,036
+
+1,142
+
+1
+
+Asia, Australia
+
+254
+
+346
+
+Total
+
+948
+
+981
+
+1 Commonwealth of Independent States.
+
+The second element is supplier quality audits with integrated
+sustainability questions. In fiscal 2016, we conducted 948 on-site
+quality audits, thus keeping up our strong efforts over the last
+years.
+The most effective approach to review our suppliers’ sustainability performance is an external sustainability audit. This is conducted by one of our audit partners. As a quintessential part of
+our risk-based approach we use these audits as a control mechanism for high-risk suppliers. In fiscal 2016, we increased the number of external sustainability audits conducted to 320 (from 50 in
+the previous fiscal year) to be in line with our Global Value Sourcing initiative. The latter increases both the number of suppliers
+and sourcing volumes from emerging markets. Hence, external
+sustainability audits follow this trend of increasing globalization.
+
+Total
+1 Commonwealth of Independent States.
+
+2 Improvement measures agreed with suppliers relate either to actual deviations from the
+Code of Conduct for Siemens Suppliers or to structural improvements to management
+systems and the lack of specific processes and guidelines at the supplier.
+
+If deviations from our requirements are identified in our sustainability self-assessments or audits, they must be remedied by the
+suppliers in question within a reasonable period of time. Besides
+follow-up audits handled by our external audit partners, the responsible procurement units directly agree with the respective
+suppliers on the corrective actions defined during our audits.
+Deviations identified in the audits mainly relate to structural deficiencies in management systems and the lack of specific processes and guidelines at the supplier. Serious deviations, all cases
+in the area of health and safety for employees, were identified at
+eight suppliers but were corrected by the set deadline.
+In all we do, we are guided by the principles of developing our
+suppliers in close partnership and building up their competencies
+for the long term. Nevertheless, in the event of substantial deviations or an unwillingness to implement measures for improvement, we exclude suppliers from any business with Siemens.
+Since fiscal 2015, we have implemented the tightened process
+of the “Central Warning Message” which ensures a faster and
+more effective reaction to major breaches of the Code of Conduct
+requirements: All local blockings now have to be reported to
+­Corporate SCM. There, the necessity of a worldwide blocking is
+decided centrally. It allows us to block suppliers for all Siemens
+organizations worldwide at short notice.
+
+Facts and Figures
+
+21
+
+We continuously work on the requirements for occupational
+health and safety standards for suppliers at our project construction sites. Specifically for the health and safety management systems, we require a detailed risk assessment for every trade, an
+appraisal of the risks identified, and measures to mitigate them.
+In fiscal 2016, we have focused on a stricter contractor selection
+and the extensive evaluation of the contractors’ safety performance while present on Siemens project sites. For fiscal 2017, we
+will implement this joint SCM and EHS process. The process will
+be tool-based and mandatory for all relevant Siemens organizations worldwide.
+
+KNOW-HOW TRANSFER AND CAPACITY BUILDING
+We still believe that our suppliers’ commitment to complying with
+our sustainability principles is most effective when it is based on
+their own convictions. The key is to build our suppliers’ competence and intensify knowledge transfer related to sustainability.
+Supporting this, we updated our “Code of Conduct brochure” in
+fiscal 2015, available both electronically and as a print version. In
+addition to in-person meetings we support our suppliers with an
+inter­net-based information and training platform, which we updated in fiscal 2016, available free of charge to all suppliers. In
+parallel, we also updated the company-wide training program for
+Siemens buyers including the training module “Sustainability in
+the ­Supply Chain” that is mandatory for all Siemens employees
+with purchasing responsibility.
+
+CLIMATE PROTECTION AND CONFLICT MINERALS
+As part of Siemens’ CO2-neutral program and our CDP reporting,
+we collect and publish data on our greenhouse gas emissions
+(Scope 3 upstream) caused by purchased products and services.
+As of fiscal 2016, we disclose our Scope 3 upstream emissions in
+the chapter “Industrial Environmental Protection” of this report.
+We have started to evaluate our CO2 emissions more deeply in
+key commodities and at specific suppliers. The result will be the
+basis for future decisions on how to select suppliers for joint work
+on decreasing the CO2 emissions for our purchased products.
+Siemens is well aware that products and components purchased
+from suppliers may contain minerals from conflict regions. The
+Conflict Minerals Statutory Provision defines “conflict minerals”
+as tin, tantalum, gold, tungsten and the ores from which they are
+extracted, or any other minerals or their derivatives determined
+by the Secretary of State of the United States of America to be
+financing conflict in the Democratic Republic of Congo region.
+Siemens has developed a “Conflict Minerals Policy” and integrated
+it into the purchasing process to ensure that uniform, enterprisewide duty of care is in place within the supply chain. Our approach
+is informed by the risk-based requirements of the “OECD Due
+Diligence Guidance for Responsible Supply Chains of Minerals
+from Conflict-Affected and High-Risk Areas”. Responsibility for the
+adherence and related activities lies with the Supply Chain Management organization.
+In order to establish transparency on the use, sources and origins
+of conflict minerals in our supply chain, we work to identify the
+smelters involved in our supply chain. We collaborate closely with
+the “Conflict-Free Sourcing Initiative (CFSI)” and with our direct
+suppliers. In surveying our suppliers, we make use of the “Conflict
+Minerals Reporting Template” developed by the CFSI. We notify
+our CFSI partners of the smelting facilities identified in the course
+of the supplier survey. The CFSI then checks whether the smelters
+cited are certified. We are an active member of the “Conflict-Free
+Smelter Program” and encourage those smelters not yet certified
+to take part in audit programs. Here we stand alongside these
+smelters as they progress to their final audit and eventual certification. The results of each case are communicated via the CFSI
+website.
+We are confident that this joint approach and the certification of
+smelters and refiners will increase the demand for conflict-free
+raw materials and transparency within the supply chain as a whole.
+
+22
+
+Facts and Figures
+
+Distribution and customer relations
+Our strategy program “Vision 2020” has a clear focus on customers: We want to be closer to our customers and markets and aim
+to foster an intimate and trusting partnership with our customers.
+We serve customers in almost every country of the world and
+want our management to reflect this global orientation even more
+strongly in the future. To measure customer satisfaction, in other
+words, the quality of the partnership, we use the Net Promoter
+Score (NPS). Hence, we annually conduct a comprehensive customer satisfaction survey. In addition, we implement processes
+and systems that facilitate fostering long-term customer loyalty.
+Moreover, loyal customers not only keep buying and increasing
+their purchases over time, but are also more likely to recommend
+Siemens to a colleague or business partner.
+During the survey, we also receive feedback from our customers
+on where we could improve. In accordance with these improvement areas, the Divisions and regions define measures that are
+reviewed on a regular basis to enhance customer relations. The
+definition and implementation of measurements is a crucial step
+toward getting closer to the overall Siemens goal of becoming
+our customers’ partner of choice. A follow-up process is implemented both internally and externally – regardless of the customer rating. In the case of a critical NPS rating (1–6 on a scale
+from 1–10), we immediately follow up on the interview to create
+transparency on critical issues and evaluate whether reasonable
+measures can be initiated to substantially enhance the relationship. The NPS for fiscal 2016 was based on the results of approximately 26,000 interviews in 116 countries and in 36 languages.
+In fiscal 2016, our company-wide NPS rose once again compared
+to the previous fiscal year.
+
+Most of our customers are small and medium-sized companies
+and organizations that care about local interaction. To address
+local business opportunities with them, we are able to draw on a
+large global sales force steered by our regional companies. They
+are responsible for serving our customers in the respective countries, leveraging our global network of market partners like consultants, distributors, integrators, engineering, procurement and
+construction companies (EPCs) and machine builders. We are currently selling products and services in almost every country in the
+world. Our Divisions drive sales on a global scale. They are able
+to support customers around the world directly from their respective headquarters, especially for large contracts and projects.
+Sustainable customer relationships are the basis for our long-term
+success. We employ a structured key account management (KAM)
+approach throughout the Company to take care of our key customers. Our key account managers continually develop and maintain relationships with them over the long term. This approach is
+supplemented by our Executive Relationship Program. In this program, members of the Company’s Executive Management stay in
+direct contact with selected customers and maintain an ongoing
+dialogue with them to familiarize Siemens with their needs.
+We drive close cooperation with renowned universities. This provides access to top-grade knowledge to constantly develop our
+go-to-market approach. One example is a study we conducted
+this year in cooperation with the Technical University of Munich
+on changes in the information and buying behavior of B2B customers in general and our customers in particular due to digital
+media and sales channels.
+To address these changes, Siemens has developed global and local
+channels on relevant social media platforms within the last years
+including Facebook, Twitter, LinkedIn, YouTube and Instagram. In
+total, we address about three million followers directly on these
+channels. We follow a clear conversation paradigm and aspire to
+respond within one day. Established processes between cor­porate
+communications and customer care cater for a high and timely
+response rate. Siemens orchestrates topics that are relevant for
+customers and prospects across all social media platforms and in­
+fluences the customer decision-making process in the early stages.
+
+Facts and Figures
+
+23
+
+Siemens Environmental Portfolio
+The Siemens Environmental Portfolio is part of Siemens’ response
+to global challenges such as climate change, scarcity of natural
+resources and environmental pollution. It is therefore a key element of the Sustainability focus area “Decarbonization”, as described in the
+CHAPTER SUSTAINABILIT Y AT SIEMENS . The Environmental Portfolio consists of products, systems, solutions and
+services (Environmental Portfolio elements) that meet one of our
+selection criteria, namely energy efficiency and renewable energy. These elements reduce impact on the environment and
+emissions of carbon dioxide and other greenhouse gases (defined
+together in the following as carbon dioxide emissions), which are
+responsible for climate change. The reduced level of impact is
+measured by carrying out comparisons with reference solutions
+(baselines).
+With our Environmental Portfolio we intend, among other things,
+to help our customers reduce their carbon dioxide footprint, cut
+their energy costs and improve their profitability through an
+­increase in their productivity. In addition to its environmental
+benefits, our Environmental Portfolio enables us to compete successfully in attractive markets and generate profitable growth
+underlining Siemens’ strategic focus on technologies for energy
+efficiency and climate and environmental protection. For fiscal
+2016, more than three-quarters of the revenue from our Environmental Portfolio was generated from products and solutions for
+energy efficiency.
+
+Key results of the Environmental Portfolio
+Fiscal year
+
+Revenue generated by the
+Siemens Environmental Portfolio
+(continuing operations, in billions of €)
+
+2016
+
+2015
+
+36.3
+
+32.7
+
+Annual customer reductions of carbon dioxide
+emissions generated by elements from the
+Siemens Environmental Portfolio newly
+installed in the reporting year (continuing
+operations, in millions of metric tons)
+
+60
+
+58
+
+Accumulated annual customer reductions
+of carbon dioxide emissions generated by
+elements from the Siemens Environmental
+Portfolio within the reporting year (continuing
+operations, in millions of metric tons)
+
+521
+
+487
+
+The Environmental Portfolio elements that contribute the most
+to the total reduction of carbon dioxide emissions at our customers are combined cycle power plants (CCPP), power plant moderni­
+zation and upgrade activities, power generation from wind power,
+frequency converters and high-voltage direct current (HVDC)
+power transmission systems.
+Including revenue from newly developed and additionally qualified Environmental Portfolio elements and excluding revenue
+from elements that no longer fulfill our qualification criteria, revenue from continuing operations relating to the Environmental
+Portfolio in the current year amounted to € 36.3 billion, exceeding the comparable revenue of € 32.7 billion from fiscal 2015. This
+means that in fiscal 2016 our Environmental Portfolio accounted
+for 46 % of our revenue from continuing operations.
+Furthermore, with our Siemens Environmental Portfolio elements
+installed in fiscal 2016, we helped our customers reduce their
+emissions by a further 60 million metric tons of carbon dioxide.
+With the total of our Siemens Environmental Portfolio elements
+installed at customer locations since the beginning of fiscal 2002
+that remain in use today, we reduced accumulated annual customer carbon dioxide emissions by 521 million metric tons in fiscal 2016.
+To learn more about the Siemens Environmental Portfolio, please
+visit:
+WWW.SIEMENS.COM/ENVIRONMENTALPORTFOLIO
+
+24
+
+Facts and Figures
+
+Environmental protection
+Siemens aims to increase customer benefits and strengthen its
+position as a sustainable company while improving energy and
+resource efficiency and fulfilling growing international requirements with regard to environmental protection. To reach these
+objectives, Siemens has installed a comprehensive Environmental
+Protection, Health Management and Safety (EHS) management
+system. The requirements of this system help our operating units
+comply with the applicable laws, regulations and customer requirements, satisfy our corporate requirements and achieve our
+Siemens-wide environmental targets. The system requires that
+all our relevant production and office sites implement an environmental management system which fulfills the requirements of
+the ISO 14001 standard. For product-related environmental protection all relevant external standards addressing lifecycle aspects
+are integrated in our own internal standard “Specifications on
+environmentally compatible product and system design” covering international standards, e. g., IEC 62430 and ISO 14040 / 44. It
+defines requirements to reduce the environmental impact of our
+products and systems during the production, use, service, and
+disposal phase. It forms an integral part of our business processes
+and is mandatory for all our products.
+Our programs “Serve the Environment” (StE)”, “CO2-neutral ” and
+“Product Eco Excellence” (PrEE) address all our material environmental impact with regards to industrial environmental protection and product-related environmental protection, respectively.
+Our objective is to improve our performance. The energy efficiency target of StE forms an integral part of our CO2-neutral program, targeting a net-zero carbon footprint by 2030 in of own
+operations. We encourage our employees to engage in our programs by conducting training and workshops in all key markets.
+In addition, we are running a “We say thank you” campaign, which
+honors outstanding individual employees’ performance in environmental protection.
+
+Compared with baseline fiscal 2014, we were able to significantly
+improve efficiency in primary energy use by 18 % with respect to
+comparable revenue, and reduce scope 1 and scope 2 emissions
+by 355,000 t CO2 on a portfolio adjusted basis. By purchasing
+“green” energy, as one of the levers in the CO2-neutral program,
+we not only reduce our carbon emissions but also decrease the
+primary energy input of our own operations. This trend has also
+been supported by the implementation of energy efficiency measures. Compared with fiscal 2015, waste production in fiscal 2016
+increased disproportionately to comparable revenue. Waste efficiency was slightly reduced by a further 1 %, making a total of
+-3 % compared with base year 2014. We were nevertheless able to
+further reduce waste to landfill by 12 % compared with the base
+year, which underlines our “zero waste to landfill” ambitions. The
+rising demand of environmental information led to a 25 % increase
+in the total number of Lifecycle Assessments (LCAs) in fiscal 2016.
+To further extend the value added of LCAs, pilot projects have
+been conducted within the PrEE program in our business.
+
+INDUSTRIAL ENVIRONMENTAL PROTECTION
+Our industrial environmental protection efforts focus on optimizing energy and resource efficiency at our sites. Our two programs
+“Serve the Environment” and “CO2-neutral” complement each
+other and define Siemens-wide targets in the period to 2020 for
+StE and 2030 for CO2-neutral:
+Reduce absolute CO2 emissions by 50 % until 2020 and become
+carbon neutral for our own operations by 2030 at the latest,
+by driving energy efficiency, leveraging distributed energy systems, reducing fleet emissions and purchasing “green” energy.
+Improve waste efficiency.
+Reduce waste for disposal.
+Assess water-related risks, apply adequate mitigation measures
+and thereby implement the Siemens Water Strategy.
+To continue the StE program, we are integrating energy and waste
+efficiency aspects into our supply chain, assessing the total costs
+of ownership for energy-intensive products. Air pollution control
+will be considered holistically, taking into account the local air
+emission situation at our production plants and offices. All energy-relevant sites will be trained in on-site energy generation in
+order to foster energy efficiency and resilience against energy
+price increases in the next two years. In 2016, Siemens further
+enhanced its water strategy with a view to meeting modern challenges in water management, such as water scarcity, water pollution and impact from climate change, such as changing patterns
+in flooding and precipitation.
+
+Facts and Figures
+
+25
+
+Environmental management system
+All our locations have an environmental management system in
+place; 285 locations are also certified to ISO 14001. 283 are externally certified, while two have been audited and certified by
+Siemens internal auditors. The decision as to whether a unit has
+its environmental management system certified in accordance
+with ISO 14001 is taken by the environmental protection executives of the businesses and countries in close consultation with
+the environmental protection officers.
+The requirements of the new ISO 14001:2015 standard are integrated into our management processes on an ongoing basis. At
+least 30 sites are already certified to ISO 14001:2015, including
+matrix certification for all sites of Divisions Wind Power and Renewables and Power Generation Services. A total of 49 Siemens
+locations have implemented an energy management system in
+accordance with ISO 50001 and further locations are in the process of implementing such a system. To implement the EU Energy
+Efficiency Directive EED (2012 / 27 / EU), a European-wide approach
+has been developed taking full advantage of our own energy services.
+
+Secondary energy
+Fiscal year
+(1,000 gigajoules)
+
+Electricity
+District heating
+Total
+
+2016
+
+2015
+
+8,875
+
+8,768
+
+1,971
+
+2,072
+
+10,846
+
+10,840
+
+Electricity consumption increased by 1 %. The implemented efficiency measures partly managed to offset the increase in production and newly acquired business activities. The share of renewable electricity amounted to 23 % of the total electricity consumption.
+The consumption of district heating decreased, mostly due to the
+shorter heating period in Europe compared with previous years.
+In total we were able to substantially improve our Primary Energy
+Efficiency by 18 % compared with the base year fiscal 2014. This
+efficiency indicator incorporates weighted calculations related to
+the primary fuels consumed in generating the energy used at our
+sites and the amount of energy used to extract, convert and distribute the fuels consumed.
+
+Energy consumption
+Primary energy
+Fiscal year
+(1,000 gigajoules)
+
+Natural gas/liquid petroleum gas
+Fuel oil, coal, gasoline/diesel
+Total
+
+2016
+
+2015
+
+5,480
+
+5,335
+
+434
+
+370
+
+5,914
+
+5,704
+
+The energy consumed by the Company business vehicles is recorded centrally. Staff vehicles, service vehicles, and trucks owned
+by Siemens are grouped together for this purpose. In fiscal 2016,
+the Company fleet consumed fuel with an energy content of
+around 4.0 million gigajoules, compared with 4.3 million gigajoules in fiscal 2015. This is a decrease in consumption by almost
+7 % mainly due to our car policy which encourages employees to
+use more energy-efficient vehicles.
+
+Greenhouse gas emissions
+In fiscal 2016, the total consumption of natural and liquid petroleum gases increased by 3 %. The consumption of other fossil fuels
+plays a minor role with respect to natural gas consumption. In
+particular, there has been an increase in the consumption of onsite car fuels and fuel oil by 17 %, mainly due to newly acquired
+sites. Overall, the total primary energy consumption increased by
+4 % compared with the previous year. Despite the efficiency measures implemented and a reduced demand for heating energy, it
+was not possible to offset the newly acquired business activities
+and in general increased production.
+
+26
+
+Facts and Figures
+
+We report our greenhouse gas emissions on the basis of the Corporate Standard of the Greenhouse Gas Protocol of the World
+Resource Institute (WRI) and of the World Business Council for
+Sustainable Development (WBCSD). Direct greenhouse gas emissions (Scope 1) arise from sources in the Company ’s ownership
+or under its control. Indirect greenhouse gas emissions (Scope 2)
+refer to the consumption of purchased electricity and district
+heating. We also started this year to report upstream emissions
+(Scope 3) from our supply chain, such as purchases, goods and
+services, capital goods, fuel and energy-related activities, waste
+in operations, transportation upstream and business travel (already disclosed in previous years). Scope 3 emissions from our
+supply chain have been calculated by means of a multi-regional
+macroeconomic input-output model on the basis of our volume
+of purchased goods and services.
+
+Atmospheric pollutant emissions
+Greenhouse gas emissions
+Fiscal year
+(in 1,000 metric tons of CO2 equivalents)
+
+2016
+
+Scope 1
+
+856
+
+907
+
+Scope 2
+
+883
+
+1,222
+
+1,738
+
+2,129
+
+Sum Scope 1 and 2
+
+2015
+
+Scope 3
+15,071
+
+—
+
+Capital Goods
+
+393
+
+—
+
+Fuel and energy related activities
+
+235
+
+—
+
+55
+
+—
+
+Purchases goods & services
+
+Waste in operations
+Transportation upstream
+
+634
+
+—
+
+Business travel
+
+380
+
+378
+
+Total Scope 3
+
+1
+
+16,768
+
+Other industrial emissions into the atmosphere are also relevant
+in terms of environmental protection. Volatile organic compounds
+(VOC) contribute to the formation of ozone close to the earth’s
+surface and are responsible for what is known as summer smog.
+We use these organic compounds as solvents in paints and adhesives, in impregnation processes, and for surface cleaning. We
+also monitor the use of ozone-depleting substances (ODS) and
+comply with the Montreal Protocol, the international convention
+on the protection of the ozone layer, as well as with country-specific legislation.
+
+Atmospheric pollutant emissions
+
+378¹
+
+In fiscal 2015 only business travel reported as Scope 3 Emissions.
+
+For Scope 1 and 2 combined, we reached a reduction in emissions
+of 391 Mt CO2 compared to fiscal 2015. Direct greenhouse gas
+emissions (Scope 1) have been reduced by 6 %. This is due to reduced heating emissions from natural gas, attributable to lower
+consumption, warm winters and energy efficiency measures,
+while taking account of portfolio changes. For the other Kyoto
+gases, including sulfur hexafluoride, we have also seen a reduction. For SF6 alone, our emissions amounted to 162,000 t CO2
+which is a reduction of close to 2 %, due to improvements in handling and emission control.
+The significant reduction in Scope 2 emissions is mainly a result
+of a change in our power purchasing policy as part of our CO2neutral program, as we move towards a cleaner power mix with
+a strong focus on renewable energies and gas. We have therefore
+purchased “green” electricity from hydro and wind power mainly
+in Germany, Denmark, the UK, the US, and Austria, or we have
+acquired suitable certificates there. According to the location-­
+based approach which takes account of the average grid factors
+of the above nations (converting the use of power to equivalent
+CO2 emissions), we have saved 309 Mt CO2 through our “green”
+electricity purchasing strategy.
+Scope 3 upstream emissions amount to almost 17 Mt CO2. The biggest contribution comes from purchasing of goods and services,
+adding up to almost 90 % of Scope 3 upstream emissions.
+
+Fiscal year
+(in metric tons)
+
+2016
+
+2015
+
+Volatile organic compounds
+
+915
+
+886
+
+Ozone-depleting substances in metric tons of
+R11 equivalent ¹
+
+0.17
+
+0.27
+
+1
+
+R11 equivalent measures ozone depletion potential.
+
+The volume of emissions of volatile organic carbon increased due
+to emissions from aquired businesses, while the other sites reported a slight decrease in emissions. Some sites, such as Siemens
+Standard Motors Ltd in China, have implemented effective emission-reduction projects. This clearly shows that training from the
+Serve the Environment program (Module Air) has been usefully
+deployed at the sites.
+The volume of emissions of ozone-depleting substances decreased from 0.27 to 0.17 tons of R11 equivalents. Overall, we
+have seen constant awareness with respect to implementing
+phase-out plans for a step-by-step substitution, especially for the
+primarily used R22.
+In calculating nitrogen oxides, we have assumed typical combustion conditions in the relevant thermal processes, resulting in a
+figure of 193 metric tons for environmentally relevant locations
+in the year under review. The figure includes nitrogen oxides released during the incineration of fuels reported in the section on
+primary energy.
+
+Facts and Figures
+
+27
+
+Waste
+
+Water and wastewater
+
+The environmental relevance of waste depends on the type of
+waste and its method of disposal. Our waste performance indicator addresses both waste efficiency and absolute disposal waste
+reduction. Several sites have already achieved a Zero Disposal
+waste status, like Power and Gas in Erfurt / Germany.
+
+With the Siemens Water Strategy, we aim to reduce the local
+negative impact of our water use, taking water stress and other
+risks into account, such as water pollution or flooding of environmentally relevant areas. To date, we have analyzed 330 relevant
+sites centrally using the Global Water Tool of the WBCSD, the
+precipitation forecasts of the 5th Assessment Report of the Intergovernmental Panel on Climate Change and flood risks according
+to a risk consultant. These results show that water stress, impact
+from climate change and flood risks are relevant to Siemens. The
+results also show that our centralized risk assessments have to be
+complemented with a local assessment, in order to produce a
+sufficiently precise risk assessment. This is being carried out now.
+From the start of fiscal 2015 until the end of fiscal 2016, 18 % of
+our sites have implemented the water strategy.
+
+We differentiate between hazardous, non-hazardous waste and
+construction waste. The groups of hazardous and non-hazardous
+waste are each further divided into recyclable waste and waste
+for disposal. We report waste from construction or demolition
+work separately because this kind of waste material arises independently of production.
+
+Waste
+Fiscal year
+(in 1,000 metric tons)
+
+2016
+
+2015
+
+Non-hazardous waste
+
+365
+
+340
+
+Hazardous waste
+
+27
+
+26
+
+Construction waste
+
+43
+
+168
+
+436
+
+533
+
+Total
+
+Implementation of Water Strategy
+Fiscal year
+2016 ¹
+
+1
+
+Year-on-year, non-hazardous waste increased by 7 %. Hazardous
+waste rose by 4 %. The sharp reduction in construction waste in
+fiscal 2016 is due to fewer construction activities. In total and including all waste types, we reduced the waste volumes of Siemens
+by 18 % compared with fiscal 2015, although our total waste efficiency dropped to –3 % compared with our base year considering
+comparable revenue. This is mainly due to the restructuring of
+Divisions with the highest waste volumes and to increased metal
+processing from large orders in another Division. Waste efficiency
+therefore went down slightly by 1 % in fiscal 2016. We were nevertheless able to further reduce waste to landfill sites by 12 % compared with the base year, underlining our zero landfill ambitions.
+
+Recycling
+Fiscal year
+(in %, including construction waste)
+
+Share of recycling in total waste
+
+2016
+
+2015
+
+90
+
+91
+
+The waste recycling rate was 90 %, 1 % lower than in fiscal 2015.
+This change lies within the usual range of volatility and reflects
+only small shifts within waste fractions.
+
+28
+
+Facts and Figures
+
+18
+
+Percent implemented Water Strategy
+First reported year.
+
+For the last two years, water consumption without chemically
+unchanged cooling water has remained more or less stable and
+only increased slightly by 3 %. If you take into account that 0.5 million cubic meters of water usage can be attributed to our new
+acquisition sites, the other Siemens sites have reduced their consumption by 0.27 million cubic meters.
+
+Water consumption
+Fiscal year
+(in million cubic meters)
+
+2016
+
+2015
+
+Water consumption
+
+7.70
+
+7.47
+
+Ground and surface water for cooling water
+purposes (returned to receiving water body
+chemically unchanged, but warmed)
+
+21.86
+
+20.73
+
+Total
+
+29.56
+
+28.20
+
+Wastewater from manufacturing processes amounts to less than
+one million cubic meters. Volume-wise, our main water use is for
+cooling processes, most of which is returned to the receiving water body with the same chemical water quality as when it was
+drawn from the environment.
+
+Wastewater
+Fiscal year
+(in million cubic meters)
+
+2016
+
+2015
+
+Wastewater from employee facilities
+
+4.81
+
+4.89
+
+Wastewater from manufacturing processes
+(­total)
+
+0.89
+
+0.75
+
+Other (incl. losses, )
+
+1.38
+
+1.43
+
+Conditioned cooling water discharged
+as wastewater
+
+0.46
+
+0.46
+
+Total waste water without chemically
+­unchanged cooling water
+
+7.54
+
+7.53
+
+Cooling water (returned to receiving water
+body chemically unchanged, but warmed)
+
+21.86
+
+20.73
+
+Total wastewater
+
+29.40
+
+28.26
+
+Environment-related incidents and penalties
+In the year under review, we recorded 15 incidents classed as
+being of environmentally minor relevance, 11 were oil or diesel
+spillages, three were dust releases and one related to water hygiene. These are occurrences that have to be notified to the authorities – notifiable incidents – or that had an external impact
+on the environment. Total fines from penalties in the year under
+review were not significant.
+
+Methodology, reporting on environmental factors
+and collection of environmental data
+In fiscal 2016, we used our environmental information system to
+analyze 340 reports from sites in all relevant countries where
+defined threshold values were exceeded for parameters such as
+energy use, resource consumption and emissions within the environmental management. To measure and monitor our environmental impact, we use absolute values such as energy consumption in gigajoules. We report environmental data for continuing
+operations. Extrapolation to 100 % was applied to reflect complete consumptions in our figures. Overall, the extrapolation was
+only significant for water with 8 % and primary energy with 10 %.
+We monitor our environmental impact for all office and production sites of environmental relevance using environmental data
+gathered quarterly.
+
+We calculate environmental efficiency on a portfolio-adjusted
+basis equivalent to the adjustment used to calculate the comparable revenue change as stated in the Annual Report. Revenue
+change in this context means the change of revenue from fiscal
+2015 to fiscal 2016 excluding currency translations and portfolio
+effects. This portfolio adjustment procedure for revenue was
+used accordingly for the environmental efficiency parameters of
+waste and energy as well as for the percentage of revenue covered by LCA and Environmental Product Declarations (EPDs). The
+approach therefore enables us to monitor and compare our environmental performance over time, regardless of acquisitions and
+disposals from year to year, and closely relates environmental
+performance to business performance.
+
+PRODUCT-RELATED ENVIRONMENTAL PROTECTION
+The "Product Eco Excellence" program aims to increase transparency with respect to environmental product information, responds
+to market developments (e. g. legal and eco design requirements,
+labeling, and product environmental footprint) and delivers added
+value for the customer and our business. To this end, our program is focused on resource productivity by implementing a sustainable management approach over the entire lifecycle.
+Resource productivity starts with increasing awareness inside the
+Company. To work satisfactorily on materials and components,
+we therefore use product environmental assessments and a methodology to raise resource efficiency.
+
+By 2020 the “Product Eco Excellence” Program will
+Implement automated data collection and processing for declarable substances to increase transparency on substances in
+our products. This is the prerequisite for further proactive substitution activities to address future statutory requirements
+and customer demands.
+Improve the coverage of LCAs and EPDs as we consider the
+availability of product-related environmental information being an important basis to meet customer needs vis-à-vis product environmental performance.
+Reduce critical materials being used in Siemens products, supported by a material assessment methodology. The overall
+target of the program module is to reduce critical material
+purchasing volumes.
+
+Facts and Figures
+
+29
+
+Achievements in fiscal 2016
+During the supplier qualification process, suppliers must commit
+to declaring substances listed on the List of Declarable Substances
+(LoDS). These substance declaration requirements are mandatory
+for our suppliers and are included in procurement and project
+contracts. On this basis, suppliers must notify if product parts,
+components and / or compositions contain declarable substances
+and must disclose relevant details about these substances. As a
+systematic approach, it builds the foundations for our future automated data collection and processing with high data quality.
+In order to establish an easy-to-use method, Siemens relies on an
+internet-hosted database in which our suppliers declare the substances they use in their products. In 2016, we enhanced our tool
+to make quality-based judgments to prove the accuracy of the
+supplier information provided. As statutory requirements on declarable substances are increasingly stringent, our system for
+declarable substances frequently takes into consideration the
+possibility of enhancements.
+Within Siemens, we aim to identify and reduce the environmental load of our products by using Full-Scale and Screening LCAs.
+Both approaches follow the requirements of ISO 14040 / 44. However, screening LCAs only cover a part of the entire lifecycle, e. g.
+the use phase that is of highest importance for our customers or
+represents changes in product design in comparison with the
+predecessor product generated.
+By continuously increasing the number of LCAs, we gain a comprehensive knowledge base about the environmental footprint
+we create during the entire lifecycle. We therefore started to extend our lifecycle approach to also cover services of products
+placed on the market. Here, additive manufacturing is one of the
+key technologies in service business, as demonstrated by the gas
+turbine burner repair at Siemens Energy Management in Finspang
+(Sweden). At the same time, we use the insight gained from the
+LCAs to improve not only product-related but also process-related
+aspects, as well as to help optimize the internal production landscape.
+The current reporting period shows a continuously high coverage
+rate for business units with LCAs (Screening and Full-Scale) and
+EPDs. Compared with 2015, the revenue-based coverage ratio of
+EPDs shows a slight reduction of 1 %. Figures for fiscal 2015 have
+been adjusted to reflect changes in the composition of Business
+Units and therefore differ from last year ’s report. Nevertheless,
+in fiscal 2016, the absolute number of EPDs went up by 11 % compared with fiscal 2015.
+
+30
+
+Facts and Figures
+
+Lifecycle assessments and environmental
+product declarations
+Fiscal year
+(percentage of revenue ¹ covered)
+
+2016
+
+2015
+
+Full-scale LCAs
+
+65
+
+63
+
+Screening LCAs
+
+46
+
+44
+
+EPD
+
+65
+
+66
+
+1 We consider the revenue of a Business Unit in relation to Siemens revenue once we have
+carried out at least one “Full-scale LCA,” “Screening LCA,” or “EPD” for their products or
+­systems. No product-related coverage is calculated.
+
+With our product-related environmental program, we aim to increase our LCA and EPD investigations in the future.
+Furthermore, the product-related environmental program is supported by the module for Critical Materials. Based on the EU Commission communication “Report on critical raw materials for the
+EU”, 20 critical raw materials were identified as supply-critical out
+of 54 candidate materials.
+In fiscal 2016, our critical material assessment methodology was
+transformed within a tool as an internal application to accommodate the importance of the topic in our businesses. The tool
+itself presents a variety of topics to component and product engineers to evaluate risks associated with critical materials (e. g.
+ecological or toxicological effects or possible future scarcity) and
+to support decisions for reducing or avoiding particular materials.
+The purchasing volumes of the eight critical materials which are
+assignable to the Siemens Business Units are analyzed via a Supply
+Chain database. Compared with fiscal 2015, the current analysis
+of the SCM database shows a decrease in the purchasing rates of
+critical materials.
+
+Compliance
+For Siemens, integrity means acting in accordance with our values – responsible, excellent and innovative – wherever we do
+business. A key element of integrity is compliance: Adherence to
+the law and to our own internal regulations. We have zero tolerance for corruption and violations of the principles of fair com­
+petition, as well as for other violations of applicable law – and
+where these do occur, we rigorously respond.
+Our Business Conduct Guidelines describe how we fulfill our compliance-related responsibilities. They are also an expression of our
+values and lay the foundation for our own internal regulations.
+Our Business Conduct Guidelines are binding for all employees
+worldwide.
+Our Compliance System aims to ensure that all our worldwide
+business practices are in line with these guidelines and in compliance with all applicable laws. To serve this purpose and provide
+the Company with reliable protection against compliance risks,
+our Compliance System has three pillars: Prevent, Detect and
+­Respond. We are continuously working to further strengthen
+compliance in our Company and to combat corruption together
+with other organizations (Collective Action).
+
+We actively support the enactment of the United Nations Convention against Corruption and the Anti-Bribery Convention of
+the Organization for Economic Co-operation and Development
+(OECD), which – like the ten principles of the United Nations
+Global Compact – provide important guidance for our entire organization. At the end of 2013, our Chief Compliance Officer was
+elected Chairman of the Task Force on Anti-Bribery / Corruption of
+the Business and Industry Advisory Committee to the OECD. Furthermore, he has been appointed Chairman of the B20 working
+group on Responsible Business Conduct and Anti-Corruption during the German G20 presidency. We are also actively involved in
+Global Compact. Our activities in the World Economic Forum include the Company’s participation in the Pact Against Corruption
+Initiative.
+
+COMPLIANCE PRIORITIES FOR FISCAL 2016 AND
+ACHIEVEMENTS
+Our compliance priorities provide the basis for the ongoing
+­development and further improvement of our Compliance System. In this connection, we take into account and aim to fulfill
+continuously evolving requirements in the compliance field,
+which reflect both our own work and the changing market conditions and compliance risks of our business activities.
+With effect from fiscal 2015, we defined the compliance priorities
+as illustrated and briefly described in the figure below. These priorities, which have also guided our activities in fiscal 2016, are
+supplemented by focus areas and activities for each fiscal year.
+
+Foster Integrity
+Support business management to meet its
+responsibilities for compliance and further
+strengthen the culture of integrity in our
+­Company and beyond.
+
+Foster
+Integrity
+
+Ownership
+Culture
+
+Risk &
+age
+a n r an c e
+M Assu
+
+Further intensify cooperation between the
+Compliance Organization and our businesses
+and reinforce our Compliance System’s
+­market and customer focus.
+
+liance Priorit
+ies
+mp
+Co
+
+Committ
+e
+Busine d to
+ss
+
+Committed to Business
+
+Excellent Compliance Team
+
+Continue providing our businesses with
+the appropriate level of assurance within
+our Compliance System.
+
+Effective Processes
+e
+
+tiv
+ec e
+Eff cess
+o
+Pr
+
+s
+
+c
+m elle
+p
+Te lian nt
+am ce
+
+Ex
+Co
+
+Provide an excellent compliance team through
+a first-class learning and development landscape and close collaboration.
+
+Manage Risk & Assurance
+
+Continue to further optimize and streamline
+our compliance processes.
+
+Vision 2020
+
+Facts and Figures
+
+31
+
+Achievements in fiscal 2016 include the consolidation of most of
+the compliance-related company-wide internal regulations in one
+comprehensive circular and the start of the integration of scorecards for gifts and hospitality into a new company-wide webbased application.
+In the area of compliance in project execution, we have worked
+on intensifying the identification of compliance risks on an on­
+going basis together with further enhancing the collaboration
+between our project managers and Compliance officers, for example, through joint performance of structured compliance risk
+assessments for the execution phase of projects.
+Using the potential of big data, we have introduced Business Partner dashboards together with related analytics for better support
+of related risk management and monitoring of business partners.
+As a major component of the learning and development landscape for the Siemens Compliance Organization introduced in
+fiscal 2015, the first internal certification of compliance professionals has been successfully concluded.
+
+COMPLIANCE RISK MANAGEMENT
+Our Compliance Risk Assessment (CRA) process requires that CEOs
+and managers in the Company – together with the relevant Compliance Officers – systematically determine and assess the compliance risks to their units on a regular basis.
+Since fiscal 2014, the CRA has been performed in two different
+ways:
+In even-numbered years, the CRA process is performed for ’top-­
+risk’ countries in order to complement the analysis at Lead
+Country / Division level and in Healthineers with in-depth risk
+assessments for selected countries. We identify these countries in advance based on an analysis of external and internal
+compliance risks.
+In odd-numbered years (starting in fiscal 2015), the CRA
+­process is performed at Lead Country / Division level and in
+Healthineers.
+As previously reported, in fiscal 2015, the CRA was performed for
+the Divisions, Healthineers and Lead Countries. Accordingly, in
+fiscal 2016, the CRA was performed for ’top-risk’ countries identified as described above. The CRA results have been incorporated
+into the Group-level compliance risk analysis, which aims to determine systematic and globally recurring compliance risks to the
+
+32
+
+Facts and Figures
+
+Company as quickly as possible. As well as the CRA results, this
+analysis of the overall Group-level compliance risks takes into account, for example, the insights from compliance controls – the
+ongoing assessment of the operation of our compliance processes
+to ensure their effectiveness – and the results of case-related investigations.
+The corporate compliance risks are derived from these consolidated results, which are then shared with the Company ’s businesses. As in the CRA process, relevant risks are reported to
+Siemens’ Enterprise Risk Management (ERM), and measures to
+reduce the risks are drawn up and implemented.
+The identification of compliance risks in individual Siemens entities worldwide (CRA) and the Group-level compliance risk analysis are complemented by an interdisciplinary exchange during
+the quarterly Compliance Risk Radar meeting.
+
+BUSINESS PARTNERS AND SUPPLIERS
+Cooperation with third parties such as sales agents, customs
+clearing agents, consultants, distributors and resellers is part of
+Company operations and often essential in order to reach certain
+areas of the market. At the same time, however, the Company
+may be liable for the actions of these third parties.
+Our mandatory process and tool for business partner compliance
+due diligence is designed to help all Siemens entities conduct risk-­
+based integrity checks of business partners. Transparent and riskoriented decisions about a business partner relationship are based
+on high-quality compliance due diligence and – depending on
+the risk level – audits of the business partners conducted by the
+Siemens audit function or professional external service providers.
+The management of each Siemens unit is responsible for the
+unit’s use of business partners. This means that business partners
+must be carefully selected and appropriately monitored and managed throughout the course of a business relationship.
+As previously reported, we have introduced a common code of
+conduct that both suppliers and business partners have had to
+contractually commit to comply with since fiscal 2015. It has replaced the previous ’Code of Conduct for Siemens Suppliers’. Prior
+to the introduction of the new code of conduct, our business
+partners were obliged by the binding contract provisions to comply with principles of the Siemens Business Conduct Guidelines.
+
+COMPLIANCE TRAINING AND COMPLIANCE
+PERCEPTION
+One focus of our preventive measures under the Compliance System is to provide compliance training to all managers and employees who hold positions with a particular risk profile. In accordance
+with the company-wide binding definition of these “sensitive
+functions”, the Compliance Officers of the relevant company units
+identify the managers and employees whose participation is required and ensure that they attend the training sessions. They
+monitor and confirm the fulfillment of these requirements at
+regular intervals.
+Our company-wide compliance training portfolio consists of inperson and web-based training programs. The in-person training
+programs also provide our employees with an opportunity to discuss correct behavior based on day-to-day work examples. The
+third element of our compliance training portfolio is the annual
+Integrity Dialog to maintain an ongoing and high awareness of
+integrity and compliance topics at Siemens. The Dialog, which is
+conducted across the entire Company, serves as a forum for managers to discuss recent compliance matters with their employees.
+The assessment and analysis of compliance risks for the operating units and at Group level offers important indicators that help
+us develop and define the focus of our training activities, in­
+cluding the selection of themed modules for the annual events
+held in conjunction with the Integrity Dialog. Our operating units
+­address specific challenges by enhancing their training activities
+with additional topics from their own businesses or by extending
+the mandatory target groups for specific compliance training
+­programs in their units. In this way, our training activities reflect
+both Siemens-wide topics and the key topics specific to the operating units.
+We conduct regular surveys to gauge how Siemens employees
+perceive the topic of compliance. Since fiscal 2010, this has been
+an integral component of the company-wide Siemens Global Engagement Survey. As previously reported, the survey was carried
+out in fiscal 2015. We consider the results as an indication of the
+continued positive compliance perception of our employees. The
+next survey is planned for fiscal 2017.
+
+COMPLIANCE INDICATORS
+
+Compliance indicators 1
+Fiscal year
+2016
+
+2015
+
+Compliance cases reported
+
+675
+
+568
+
+Disciplinary sanctions
+
+233
+
+208
+
+therein warnings
+
+112
+
+116
+
+therein dismissals
+
+96
+
+79
+
+therein other  2
+
+25
+
+13
+
+1
+
+Continuing and discontinued operations.
+
+2
+
+Includes loss of variable and voluntary compensation elements, transfer and suspension.
+
+The “Tell us” whistleblowing system and the Company’s ombudsman are two secure reporting channels that can be used by our
+employees and external stakeholders to report violations of external and internal rules. Reports to these channels are passed on
+to our Compliance Organization. Possible misconduct may also
+be reported directly via the Managing Board or supervisors to the
+Compliance Organization and, in particular, to the Compliance
+Officers in our individual company units. Our employees regularly
+make use of this reporting channel. In fiscal 2016, the total number of compliance cases requiring further inquiries or investigations reported via all the above-mentioned reporting channels
+was 675. We believe that the increase from fiscal 2015 (568) is
+within the normal range of variation.
+The total number of disciplinary sanctions for compliance violations in fiscal 2016 was 233 (fiscal 2015: 208). The disciplinary
+sanctions reported in a specific fiscal year do not all relate to the
+compliance cases reported in the same period: Disciplinary sanctions are frequently not implemented in the year in which a case
+was reported. This is due to the fact that a reported compliance
+case has to undergo the Company’s entire internal case handling
+process, from the mandating and performing of an internal investigation to the documentation of its results in an investigation
+report that will form the basis for related disciplinary sanctions
+and remediation measures.
+Furthermore, a single reported compliance case may, for instance,
+result in several disciplinary sanctions or in no disciplinary sanctions at all – because, for example, the employee concerned has
+left the company for some other reason in the meantime. Therefore, here too, it is not possible to establish a direct correlation
+between the number of reported compliance cases and the number and type of disciplinary sanctions implemented in a given
+reporting period.
+
+Facts and Figures
+
+33
+
+In our view, the detected compliance violations in our Company
+in the past fiscal year demonstrate once again that our Compliance System has been properly designed and is being effectively
+implemented. Based on the nature of our businesses and the environment and regional areas we work in, we do not regard the
+number of such incidents as unusual.
+
+EXTERNAL REVIEW OF SIEMENS COMPLIANCE
+As previously reported, Siemens has retained the law firm Gibson,
+Dunn & Crutcher LLP (“Gibson Dunn”) to conduct an independent
+review and assessment of the implementation and operative effectiveness of Siemens’ anti-corruption policies, procedures, and
+internal controls. Gibson Dunn summarized the scope, methodology, and results of its review in a report issued to the Company
+dated November 15, 2015. See Sustainability Information 2015 for
+further details.
+
+COLLECTIVE ACTION AND SIEMENS INTEGRITY
+INITIATIVE
+If substantial progress is to be made in combating corruption and
+fostering fair competition, as many stakeholders as possible must
+act collectively. That is why we have joined forces with other
+­organizations to fight corruption and promote ethical markets
+through Collective Action and the Siemens Integrity Initiative.
+The global Siemens Integrity Initiative was launched by Siemens
+on December 9, 2009. It earmarks more than US$ 100 million to
+support organizations and projects fighting corruption and fraud
+through Collective Action, education and training. The initiative
+focuses on supporting projects that have a clear impact on the
+business environment, can demonstrate objective and measurable results, and have the potential to be scaled up and replicated. The Siemens Integrity Initiative constitutes one element of
+the July 2009 settlement between Siemens and the World Bank
+and the March 2013 settlement between Siemens and the European Investment Bank (EIB).
+
+Within the first funding round – based upon the settlement with
+the World Bank – 31 projects were funded with a total contractual
+funding volume of US$ 37.7 million.
+The second funding round was announced on June 27, 2013, and
+the deadline for applications was August 29, 2013. We selected
+projects which are to receive approximately US$ 35.6 million of
+total funding over a period of three to five years. Related funding
+contracts were concluded by the end of fiscal 2015.
+Our compliance priorities described above will further guide us
+and are specified by focus areas for fiscal 2017.
+Measures planned for fiscal 2017 include the comprehensive review and optimization of compliance training programs for our
+employees, further improvements of our business partner due
+diligence and the start of the third funding round of the Siemens
+Integrity Initiative.
+The effectiveness of compliance at Siemens is based on the global
+governance of our Compliance Organization and clear-cut reporting lines and close cooperation between our Compliance Officers
+around the world and our company units. The other pillar of our
+Compliance System – with its three action levels of Prevent, Detect and Respond – is the requirement that all Siemens managers
+assume personal responsibility for compliance in their respective
+units.
+We will continue to further develop our compliance system in
+order to adapt it to evolving requirements in the field of compliance. Our overall aim remains unchanged: We want to anchor
+integrity permanently throughout our company in order to ensure
+sound business decisions based on clear principles of integrity.
+
+FURTHER INFORMATION AND LEGAL
+PROCEEDINGS
+For further information, please refer to:
+COMPLIANCE RISKS ON PAGES 30–32
+
+in
+
+A. COMBINED MANAGEMENT
+
+REPORT AND NOTE 21 LEGAL PROCEEDINGS ON PAGES 84 F
+
+in
+
+B.6 NOTES
+
+TO CONSOLIDATED FINANCIAL STATEMENTS IN THE SIEMENS ANNUAL REPORT 2016.
+
+34
+
+Facts and Figures
+
+Corporate citizenship
+Corporate Citizenship has been an integral part of Siemens since
+our inception in 1847. While doing business in almost every country in the world, Siemens is deeply anchored in the societies in
+which we operate in aiming to contribute to their sustainable
+development. Corporate Citizenship is Siemens’ external, voluntary community engagement. The aim is to advance societies
+by making our technology, our skills, our infrastructure and our
+knowledge accessible to more people around the world. We strive
+to create shared value for society, while at the same time strengthening our business. These activities can take on a variety of forms
+ranging from philanthropic disaster relief to more strategic shared
+value or inclusive business approaches like our mobile clinics in
+India.
+
+These three pillars form the basis of our Corporate Citizenship
+Framework.
+In fiscal 2016, we donated € 22.8 million globally, reflecting a decrease of approximately 14 % compared to the previous fiscal year.
+
+Donations
+Fiscal year
+(in millions of €; in %)
+
+2016
+
+2015
+
+Total
+
+22.8
+
+26.6
+
+Share of net profit
+
+0.4 %
+
+0.5 %
+
+Donations by category
+
+Within our global Corporate Citizenship Framework, responsibility
+for choosing and carrying out charitable and socially innovative
+activities lies with the local units in each country. This ensures
+that we provide support where it is needed most. We generate
+business benefit by supporting local entities that are responsible
+for initiating Corporate Citizenship activities. We seek to generate
+shared value while applying high management standards.
+
+Fiscal year
+(in millions of €)
+
+2016
+
+2015
+
+Education and science
+
+16.0
+
+16.1
+
+Social
+
+4.6
+
+6.2
+
+Environment
+
+0.1
+
+0.1
+
+Arts and culture
+Total
+
+2.2
+
+4.2
+
+22.8
+
+26.6
+
+Our local engagement includes projects initiated by Siemens,
+monetary or in-kind donations to partners, the contribution of
+our knowledge, and employee volunteering.
+Donations by region
+
+Our citizenship commitment is driven by external global goals
+such as the UN Sustainability Development Goals and is based on
+our business strategy, core competencies and our Corporate Citizenship Principles. Referring to this we have defined three strategic focus areas of our Corporate Citizenship activities:
+
+Fiscal year
+(in millions of €)
+
+2016
+
+2015
+
+Europe, C.I.S.,¹ Africa, Middle East
+
+10.2
+
+14.8
+
+7.0
+
+11.5
+
+therein Germany
+Americas
+Asia, Australia
+
+Access to Technology: We provide shared value through access to our core competencies in digitalization, automation,
+electrification and scientific research.
+Access to Education: We provide our knowledge to a broader
+audience, especially in STEM (Science, Technology, Engineering and Mathematics) studies, and enable thought leadership.
+We support educational and research activities, particularly in
+natural sciences, engineering and heathcare.
+Sustaining Communities: We strive to improve people’s living conditions. We therefore focus on social, cultural and educational contributions to the society. Our cultural commitment
+is also part of our self-conception as a responsible corporation
+that preserves values, generates creativity and provides inspiration for progress. In addition, we provide urgent humanitarian relief, including financial and technical assistance after
+natural disasters.
+
+Total
+1
+
+10.1
+
+9.3
+
+2.5
+
+2.5
+
+22.8
+
+26.6
+
+Commonwealth of Independent States.
+
+Facts and Figures
+
+35
+
+Annex
+Reporting method
+Sustainability is a fundamental principle for us, guiding our very
+actions. Our “Sustainability Information 2016” supplements our
+financial reporting in fiscal 2016. The reporting method provides
+details of the underlying key elements on which our sustainability reporting is based.
+
+REPORTING APPROACH
+The “Sustainability Information 2016” (“the Report”) describes the
+strategy, organization, initiatives and goals for ensuring sustainability. It supplements our financial reporting in the Annual Report, following on from last year ’s reporting. It also serves as our
+annual progress report on implementing the United Nations CEO
+Water Mandate and sums up our performance with regards to the
+10 principles of the United Nations Global Compact. Furthermore, our Report is guided by the G4 Sustainability Reporting
+Guidelines of the Global Reporting Initiative (GRI) and the recommendations of the Global Compact and Transparency International regarding anticorruption reporting. All key performance
+indicators of the Environmental Portfolio are reported according
+to the “Environment Portfolio Reporting Principles” included in
+the Annex.
+
+DATA COLLECTION
+Given Siemens’ size and global spread, gathering data poses a
+major logistical challenge. Moreover, our companies throughout
+the world are required to comply with local regulations concerning the compilation and definition of performance figures, which
+means that the data generated is not always comparable. Where
+applicable, we point out any significant limitations in the information presented in the Report. As a rule, no company-wide
+standards exist for the information published in the Report. This
+applies in particular to specific financial figures, including, for
+example, the revenue attributable to the Environmental Portfolio.
+As a result, these figures may not be comparable with the data
+published under the same or similar designations by other companies. The data published in this Report is collected through
+various internal reporting systems which, for the most part, are
+different from those applicable for the financial information presented in our Consolidated Financial Statements. In particular, the
+standards and controls applied and the computer systems used
+during the preparation of the data may be less comprehensive in
+comparison. We reserve the right to change our internal guidelines regarding the inclusion of data in the Report without prior
+announcement. Due to rounding, numbers presented throughout this Report may not add up precisely to the totals provided
+and percentages may not precisely reflect the absolute figures.
+
+REVIEW PERIOD AND REPORT BOUNDARIES
+This Report is based on activities carried out during Siemens’ fiscal 2016 (October 1, 2015 – September 30, 2016). Any exceptions
+are indicated as such. In general, our fully consolidated companies are all covered by the Report. Here, too, possible exceptions
+regarding the pool of data used are indicated. Minority equity
+investments are not included in our reporting.
+
+INDEPENDENT ASSURANCE REVIEW
+We prepared our Report to high quality standards. Consequently,
+as in previous years, we again commissioned an independent
+accounting firm to conduct a limited assurance of the “Sustainability at Siemens” and “Facts and figures” chapters of this Report.
+You can find the results of the assurance by Ernst & Young GmbH
+Wirtschaftsprüfungsgesellschaft in the Annex.
+
+The indicators and information reported below relate to the Company’s continuing operations, unless indicated otherwise. In order
+to ensure comparability of the details, those for the previous year
+were adjusted accordingly with any exceptions duly indicated.
+
+Annex
+
+37
+
+Environmental Portfolio
+­reporting principles
+ENVIRONMENTAL PORTFOLIO ­GUIDELINE
+As there are currently no accepted international standards addressing the identification and reporting of “green” products, we
+report the revenue from our Environmental Portfolio and the accumulated annual customer reductions of carbon dioxide emissions generated by it in accordance with internal regulations defined in our Environmental Portfolio Guideline.
+This Guideline sets out criteria and processes for the qualification
+of elements for the Environmental Portfolio, defines roles and responsibilities as well as processes to account for annual customer
+reduction of carbon dioxide emissions and refers to financial reporting guidelines for recognition of revenue. It is based on the
+Reporting Principles set forth in “A Corporate Accounting and Reporting Standard – Revised Edition” and “GHG Protocol for Project
+Accounting” issued by the Greenhouse Gas Protocol Initiative.
+These principles are relevance, completeness, consistency, transparency, accuracy and conservativeness. Revenue generated by
+the Environmental Portfolio is recognized in accordance with
+revenue recognition policies as described in
+NOTE 2 in
+B.6
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS IN THE ANNUAL RE-
+
+Our Environmental Portfolio elements are typically long-lasting
+products (e. g. motors) or infrastructure elements (power plants,
+trains) that contribute to the reduction of carbon dioxide emissions not only in the reporting year but for many years. We therefore also calculate the accumulated annual customer reductions
+of carbon dioxide emissions. The accumulated annual emission
+reductions are calculated as customer reductions of carbon dioxide emissions generated by Environmental Portfolio elements installed in the current reporting period (see above) plus those elements installed since the beginning of fiscal 2002 that are still in
+use at the customer. If elements installed in previous reporting
+periods are no longer in use, they are no longer taken into consideration when calculating the accumulated annual customer
+reductions of carbon dioxide emissions in the respective reporting period.
+For the Environmental Portfolio elements installed in a given reporting period, we consider the reductions of carbon dioxide
+emissions for the entire reporting period, irrespective of the actual date of installation during the year of first time recognition.
+
+GOVERNANCE – PROCESSES AND ­D EFINITIONS
+The qualification of our Environmental Portfolio elements as well
+as the respective reporting is based on clearly defined processes
+and criteria.
+
+PORT OF THE SIEMENS GROUP (“SIEMENS”) AS OF SEPTEMBER 30, 2016 .
+
+SCOPE OF REPORTING
+To date, the Environmental Portfolio-related key performance indicators are revenue and customer reductions of carbon dioxide
+emissions generated by elements from the Siemens Environmental Portfolio.
+Carbon dioxide emission reductions at our customers are calculated based on comparing the Environmental Portfolio element
+(e. g. a combined cycle power plant and the related carbon dioxide emissions per kilowatt hour) with a reference solution (e. g. a
+global average grid factor for power production). The annual reduction of carbon dioxide in the reporting year is calculated based
+on technical parameters (e. g. the installed capacity in giga­watts
+in the reporting year or load hours). For all Environmental Portfolio elements sold in a reporting year, the annual reductions are
+added up to calculate the annual carbon dioxide emissions reductions at our customers at the end of that year.
+
+38
+
+Annex
+
+In principle, products, systems, solutions and services of operating
+units (Divisions and separately managed business Healthineers
+of the Siemens Group) may qualify for the Environmental Portfolio. The entire Siemens business portfolio is reviewed on an annual basis to ensure the appropriate qualification of Environmental Portfolio elements based on the criteria described hereafter.
+This covers the inclusion of newly developed elements as well as
+the integration of additionally qualified elements where evidence
+of fulfillment of the qualification criteria was not available in prior
+reporting periods. For additionally qualified Environmental Portfolio elements, we report their prior-year revenue and prior-year
+contribution to the accumulated annual customer reduction of
+carbon dioxide emissions on a comparable basis. Elements that
+no longer fulfill our qualification criteria are excluded from our
+Environmental Portfolio; prior periods are not adjusted.
+Prior to inclusion in the Environmental Portfolio, potential new
+Environmental Portfolio elements have to undergo a multilevel
+internal evaluation process which includes reviews in the respective Siemens divisions as well as a review in the Sustainability
+department.
+
+Within this process, Siemens verifies the completeness of documentation supporting the fulfillment of the qualification criteria.
+Furthermore, Siemens considers whether or not significant “adverse effects” exist. Adverse effects describe the situation that a
+potential Environmental Portfolio element, despite fulfilling the
+qualification criteria, might cause considerably higher environmental effects elsewhere in the element’s lifecycle. If material
+adverse effects are known, the element is not included in the
+Environmental Portfolio.
+If the revenue related to an Environmental Portfolio element cannot be accurately separated from our total revenue, the respective revenue will not be accounted for and reported due to the
+principle of conservativeness. In fiscal 2016, revenue and carbon
+dioxide emission reductions at our customers generated with the
+in 2015 acquired business of Dresser-Rand Group Inc. (DresserRand), a supplier for the oil and gas industry, has not been included in the Environmental Portfolio due to the fact that the
+evaluation process of the portfolio has not been finalized yet.
+
+Service types are differentiated between “product-related service”
+and “value-add service”. In cases in which a Siemens product,
+system or solution qualifies as an Environmental Portfolio element, the revenue, and if applicable, the annual customer reduction of carbon dioxide emissions of the “product-related service”
+shall generally be accounted for and reported on in line with the
+related Environmental Portfolio element. In cases of “value-add
+services” the revenue and, if applicable, the annual customer reduction of carbon dioxide emissions shall be accounted for and
+reported on only if the service itself qualifies as an Environmental
+Portfolio element by meeting one of the selection criteria as defined below.
+To qualify for inclusion in the Environmental Portfolio, an element must meet one of the following selection criteria. Products,
+systems, solutions and services with planned application in military use or nuclear power are not included in the Environmental
+Portfolio.
+
+Energy efficiency
+The Siemens Sustainability Board chaired by Siemens Managing
+Board member and Chief Sustainability Officer Roland Busch annually acknowledges changes in the composition of the Environmental Portfolio. Another task of the Sustainability Board is to
+discuss potential concerns of stakeholders with regard to the inclusion or deletion of certain technologies in the Environmental
+Portfolio.
+
+CRITERIA FOR INCLUDING ELEMENTS IN THE
+ENVIRONMENTAL PORTFOLIO
+An Environmental Portfolio element can be a product, a system,
+a solution or a service as defined above.
+If all products, systems, solutions or services of a Siemens’ orga­
+nizational unit meet one of the selection criteria, this unit may be
+considered as an Environmental Portfolio element as a whole.
+Furthermore, a core component of a system or solution may qualify as an Environmental Portfolio element, if the component provided by Siemens is key to enabling environmental benefits resulting from the system’s or solution’s overall application. This
+means that the environmental functionality of the overall system
+or solution cannot be achieved without the component provided
+by Siemens. Examples of core components qualifying as elements
+of the Siemens Environmental Portfolio are gear boxes for wind
+turbines or thyristor valves for high-voltage direct current (HVDC)
+power transmission systems.
+
+The criterion for energy efficiency is an improvement in energy
+efficiency of 20 % or more during the customer use phase compared to the applicable baseline, or a reduction of at least 100,000
+metric tons of carbon dioxide equivalents per reporting period in
+the customer use phase compared to the applicable baseline. If
+an energy efficiency increase can only be reasonably defined as
+reduction of dissipation losses (e. g. as defined by the International Electrotechnical Commission (IEC) standards for energy efficiency classification of motors), a 20 % reduction of dissipation
+loss would also qualify products for our Environmental Portfolio.
+Examples of products and systems meeting the above mentioned
+energy efficiency criterion are combined cycle power plants, intelligent building technology systems (both reduce carbon dioxide
+emissions by at least 100,000 metric tons per reporting period)
+or ELFA Hybrid Drives for buses (20 % efficiency improvement).
+
+Renewable energy
+This criterion covers technologies in the field of renewable energy sources or smart grid¹ applications and their respective core
+components. The scope of the renewable energy criterion is power
+generation and heat generation from, for example wind power
+(onshore and offshore), hydroelectricity or biomass.
+Examples of the respective Environmental Portfolio elements are
+wind turbines as well as core components such as gearboxes for
+wind turbines.
+
+1
+
+ ccording to the National Institute of Standards and Technology (NIST) – Smart Grid Interoperability
+A
+Standards Project (USA), the term smart grid, “refers to a modernization of the electricity delivery
+systems so it monitors, protects and automatically optimizes the operation of its interconnected
+elements – from the central and distributed generation through the high-voltage transmission
+net­work and the distribution system, to industrial users and building automation systems, to
+energy storage installations and to end-use consumers and their thermostats, electric vehicles,
+appliances and other household devices.”
+
+Annex
+
+39
+
+DETERMINING THE REFERENCE SOLUTION –
+BASELINE METHODS
+Energy efficiency and annual customer reduction of carbon dioxide are all assessed by carrying out a comparison with a reference
+solution (baseline). There are three different options for the reference solution: before-and-after comparison, direct-comparison
+with a reference technology or comparison with the installed base.
+The final decision as to which baseline is used is taken by the respective Division within Siemens based on the following options:
+
+Before-and-after comparison
+A before-and-after comparison refers to the difference between
+an initial situation at the customer and the situation after installation of a Siemens product, system, solution or service. A before-­
+and-after comparison implies the presence of a preexisting product, system, solution or service at the customer, the characteristics
+of which are improved or substituted by the employment of a
+Siemens product, system, solution or service. This comparison
+may be applied, for example, in cases in which a Siemens product, system, solution or service modernizes a power plant or optimizes the energy consumption of a building.
+
+Direct comparison with a reference technology
+Direct comparison with a reference technology refers to the difference between the Siemens product, system, solution or service and either an appropriate single other technology or a predecessor. Direct comparison with a reference technology implies
+the existence of one alternative or predecessor product, system,
+solution or service in the market which is employed for the same
+or a similar purpose. This comparison may be applied, for example, by using low-loss high-voltage direct current (HVDC) power
+transmission in comparison to conventional alternating current
+power transmission.
+
+Comparison with an installed base
+Comparison with an installed base refers to the difference between the Siemens product, system, solution or service and an
+average of several installations employed for the same or a similar purpose. Comparison with an installed base implies the existence of global or regional average data on several installed products, systems, solutions or services employed for the same or a
+similar purpose. This comparison may be applied, for example, to
+combined cycle power plants (CCPP) by drawing a comparison
+with the average global greenhouse gas emissions factor for electricity generation.
+
+40
+
+Annex
+
+When calculating emission reductions compared to the baseline,
+we consider either direct savings (e. g. by power plants or efficient
+motors) or the indirect effects that occur when different products
+in a system interact and create emission reductions (e. g. components for building automation). If Siemens only delivers core components but not the entire system, annual customer reduction of
+carbon dioxide emissions will only be calculated for these parts.
+The baselines are reviewed annually and, if necessary adjusted,
+such as when statistical data on the installed base is updated
+because of technical innovations or regulatory changes.
+The calculation of the reduction of carbon dioxide emissions is
+based on a specific comparison for every relevant Environmental
+Portfolio element with a baseline. For this calculation, we focus
+on those elements that have a material impact on the overall carbon dioxide emissions reduction.
+
+EMISSION FACTORS FOR CALCULATING THE
+ANNUAL REDUCTION OF CARBON DIOXIDE
+EMISSIONS
+For some emission reduction calculations, the baseline reference
+for the installed base is determined using known global emission
+factors such as those for power production. The baselines used
+for our calculations are mainly based on data from the International Energy Agency (IEA) for gross power production and for
+grid losses, on data from the Intergovernmental Panel on Climate
+Change (IPCC) for fuel-based emission factors, and our own assessments of power production efficiency.
+
+Most relevant emissions factors applied in fiscal 2016 are:
+
+Emission factors for CO2 abatement calculation
+
+Emission factor
+(g/kWh)
+
+Basis for comparison of Environmental ­Portfolio ­elements
+(g CO2/kWh)
+
+Global power generation all primary energy carriers
+
+576
+
+Power ­generation
+
+Global power generation fossil energy carriers
+
+854
+
+Renewables
+
+Utilization of electricity (including transmission losses)
+
+624
+
+All types of utilization of electricity apart from trains
+
+Category
+
+Source: IEA (IEA World Energy Outlook 2015) 1, own calculations
+1 Emission factors were updated to IEA World Energy Outlook 2015 (prior year: IEA World Energy Outlook 2014).
+
+For consistency reasons, we generally apply global emission factors for calculating emission reductions unless specific conditions
+of a solution require application of local emission factors. For
+the calculation of annual customer reductions of carbon dioxide
+emissions e. g. for wind turbines, we apply the emission factor
+854 g / kWh of global fossil power production as the baseline.
+Generally, our approach includes all greenhouse gases covered
+by the Kyoto-Protocol. However, for power production and electrical applications, we consider the only relevant greenhouse gas
+to be carbon dioxide. If other greenhouse gases occur in technical applications, they are included in our calculations.
+For some Environmental Portfolio elements, we do not know the
+detailed parameters of use at our customers. We therefore apply
+internal and external expert estimates for these, following the
+principle of conservativeness.
+
+REPORTING ESTIMATES
+To date, there is no applicable international standard that applies
+across companies for qualifying products, systems, solutions and
+services for environmental and climate protection, or for compiling and calculating the respective revenue and the quantity of
+reduced carbon dioxide emissions attributable to such products,
+systems, solutions and services.
+Thus, the inclusion of elements in the Environmental Portfolio is
+based on criteria, methodologies and assumptions that other companies and other stakeholders may view differently. Factors that
+may cause differences, among others, are: choice of applicable
+baseline methodology, application of global emission factors that
+may be different from local conditions, use patterns at customers
+that may be different from standard use patterns used for carbon
+dioxide emission reduction calculations, assessment of the life
+span of the Environmental Portfolio elements, internal assessments of our own power production efficiency factors, share of a
+core component and expert estimates if no other data is available.
+Accordingly, revenue from our Environmental Portfolio and the
+reduction of our customers’ annual carbon dioxide emissions may
+not be comparable with similar information reported by other
+companies. We report the annual carbon dioxide emissions reduction in the period of installation of the Environmental Port­
+folio element. The period of installation will be determined by
+milestones or based on estimated construction periods. This may
+differ from the timing of revenue recognition. Furthermore, we
+subject revenue from our Environmental Portfolio and the reduction of our customers’ annual carbon dioxide emissions to internal documentation and review requirements which are less sophisticated than those applicable for our financial information.
+We may change our policies for recognizing revenue from our
+Environmental Portfolio and the reduction of our customers’ annual carbon dioxide emissions in the future without prior notice.
+
+Annex
+
+41
+
+GRI G4 key aspects and boundaries
+Siemens principles, boundaries and key aspects
+No
+
+1. Profit
+
+1.1
+
+We contribute to our customers’ ­competitiveness
+with our products, ­solutions and services.
+
+1.2
+
+We partner with our customers to ­identify and develop sustainability related ­business opportunities.
+
+1.3
+
+We operate an efficient & resilient supply chain
+through supplier code of conduct, risk management,
+and capacity building.
+
+Internal
+­Boundaries
+
+External
+­Boundaries
+
+GRI G4 Aspects
+
+Customers
+
+Economic: Economic Performance
+
+own
+­operations
+
+Customers
+
+Economic: Economic Performance
+
+own
+­operations
+
+Suppliers
+
+Economic: Procurement practices
+Environmental: Supplier environmental assessment;
+Grievance mechanism (environmental)
+Labor practices: Supplier assessment for labor
+­practices; Grievance mechanism (labor practices)
+Human rights: Supplier human rights assessments;
+Grievance mechanism (human rights)
+Society: Supplier assessment (for impact on society);
+Grievance mechanism (for impacts on society)
+
+1.4
+
+We proactively engage with our stakeholders to manage project and reputational risks and identify business relevant trends.
+
+own
+­operations
+
+Customers,
+Suppliers,
+­Society
+
+Economic: Economic performance; Indirect
+­Economic Impacts
+
+1.5
+
+We adhere to the highest compliance & anti-­
+corruption standards and promote integrity via the
+Siemens Integrity Initiative.
+
+own
+­operations
+
+Customers,
+Suppliers,
+­Society
+
+Environmental: Compliance; Grievance
+­mechanism (environmental)
+Labor practices: Grievance mechanism
+(­labor ­practices)
+Human rights: Forced or Compulsory Labor; Grievance mechanism (human rights)
+Society: Anti-Corruption, Anti-competitive behavior;
+Grievance mechanism (for Impacts on society)
+Product responsibility: Compliance
+
+2. Planet
+
+2.1.
+
+We enable our customers to increase energy
+­efficiency, save resources and reduce carbon
+­emissions.
+
+2.2
+
+We develop our products, solutions and services
+based on a life-cycle perspective and sound eco-­
+design standards.
+We minimize the environmental impacts of our own
+operations by applying environmental management
+programs and aim to become carbon neutral by 2030.
+
+2.3
+
+Customers
+
+Environmental: Energy, Emissions
+
+own
+­operations
+
+Customers
+
+Environmental: Product and Services
+
+own
+­operations
+
+Society
+
+Environmental: Materials; Energy; Water; Emissions;
+Effluents and Waste; Transport
+
+Society
+
+Economic: Indirect economic impacts
+
+Product Responsibility: Product responsibility
+and service labelling
+
+3. People
+
+3.1
+
+3.2
+
+42
+
+We contribute to the sustainable development
+of ­societies with our portfolio, local operations, and
+thought leadership.
+
+Society: Local communities
+
+We foster long-term relationships with local societies
+through Corporate Citizenship projects jointly with
+partners.
+
+own
+­operations
+
+Society
+
+3.3
+
+We live a zero-harm culture and promote the health
+of our employees.
+
+own
+­operations
+
+Suppliers
+
+3.4
+
+We live a culture of leadership based on common
+­values, innovation mindset, people orientation
+and diversity.
+
+own
+­operations
+
+Annex
+
+Economic: Indirect economic impacts
+Society: Local communities
+Labor practices: Occupational health and safety
+Economic: Market Presence
+Labor practices: Employment; Training & Education;
+Diversity and equal opportunity;Equal remuneration
+for women and men; Non discrimination
+
+The detailed GRI G4 Index – Comprehensive Option
+is available at our Sustainabiltiy website
+
+United Nations Global Compact
+Siemens has been member of the UN Global Compact since 2003
+and is committed to upholding the Compact’s ten principles. Our
+“Sustainability Information 2016”, our online Communication on
+Progress at the UN Global Compact webpage and the following
+report index, describes the progress we have made during fiscal
+2016.
+
+Index according to the ten principles of the Global Compact
+Principle
+
+Systems
+
+Measures
+
+Achievements
+
+Principle 1
+
+Our Siemens Business Conduct
+Guidelines (BCG) provide the
+ethical and legal framework within
+we ­conduct our b
+­ usiness activities.
+They contain our ­basic principles
+and rules for our conduct internally
+and externally, for example on
+human rights core labor standards.
+The BCG are mandatory for all
+Siemens entities worldwide.
+With our Code of Conduct (CoC)
+for Siemens suppliers we ensure
+that these basic rights and principles
+are also observed in our supply chain.
+
+Our Code of Conduct (CoC)
+for Siemens suppliers and third
+party intermediaries includes
+besides other:
+respect for basic rights of employees
+strong “health and safety”
+environmental protection
+zero tolerance on bribery and
+­anti-corruption
+
+In the year under review, the number
+of sustainability self-assessments
+­added up to 4,218. We conducted 948
+supplier quality audits with integrated
+sustainability questions and 317
+­external sustainability audits. In the
+external sustainability audits, we
+­identified a total of 7,068 potential
+improvements. Serious deviations
+such in ­areas of “health and safety for
+­employees” were identified at eight
+suppliers but were corrected by the
+set deadline.
+
+Support of
+human rights
+
+Principle 2
+Exclusion of
+human rights
+abuses
+
+Principle 3
+Assurance of
+freedom
+of association
+
+Principle 4
+Elimination of
+all forms
+of forced labor
+
+Principle 5
+Abolition of
+child labor
+
+SUPPLY CHAIN MANAGEMENT
+THIS REPORT, PAGE 20
+
+We have implemented the tightened
+process of the “Central Warning
+­Message” which ensures a faster
+and more effective reaction to major
+breaches of the Code of Conduct
+requirements.
+
+Human Rights Risk assessment
+principles are is integral part of
+our project management and
+risk management systems.
+SUSTAINABILIT Y AT SIEMENS
+THIS REPORT PAGE 6
+
+SUPPLY CHAIN MANAGEMENT
+THIS REPORT, PAGE 20
+
+SUPPLY CHAIN MANAGEMENT
+THIS REPORT, PAGE 20
+
+Principle 6
+Elimination of
+discrimination
+
+We do not tolerate discrimination
+and have anchored that in the
+­Siemens Business Conduct Guidelines. We actively foster diversity
+within the Company by creating a
+working environment that is open
+to all people, independent of their
+cultural background, heritage,
+­ethnicity, sexual orientation, gender
+identity and individual gender expressions. We are amongst signatories
+of the “Charta der Vielfalt”.
+EMPLOYEES
+THIS REPORT, PAGE 12
+
+Our global diversity networks promote
+and discuss diversity topics across
+the Company. These groups and programs include the Global Leadership
+Organization of Women (GLOW),
+­Diversity Ambassador and GENE, our
+generation’s network to foster crossgeneration exchange. In addition, we
+have over 140 local employee networks worldwide with employees
+­actively engaged in diversity-related
+programs and activities. The success
+of all measures is assessed annually
+in the diversity scorecard.
+Diversity focus areas are:
+	Consciously addressing Unconscious Bias
+	Promoting Gender Balance
+	Fostering the value of Globality
+	Encouraging Diversity & Inclusiveness
+
+Internationality of our workforce is
+reflected in more than 170 different
+national working at Siemens.
+EMPLOYEES
+THIS REPORT, PAGE 12
+
+EMPLOYEES
+THIS REPORT, PAGE 12
+
+Annex
+
+43
+
+Index according to the ten principles of the Global Compact
+Principle
+
+Systems
+
+Measures
+
+Achievements
+
+Women
+Empowerment
+
+In fiscal 2016 we signed the CEO
+Statement to underline our commitment to the Women Empowerment
+Principles of the UN Global Compact.
+
+We encourage the use of the Women
+Empowerment Principles as guide
+posts for actions that advance and
+empower women in the workplace,
+marketplace and community, and
+communicate progress through the
+use of sex-disaggregated data and
+other benchmarks.
+
+In the year under review, women
+­accounted for 23 % of our total workforce. The proportion of female
+­employees in management positions
+at Siemens has risen continuously
+in recent years and is now 15.6 %.
+In fiscal 2016 women hired amounted 25 % of all new hires.
+
+EMPLOYEES
+THIS REPORT, PAGE 12
+
+EMPLOYEES
+THIS REPORT, PAGE 12
+
+Siemens has an EHS management
+­system in place to manage its environmental performance. All relevant
+relevant production and office sites
+are obliged to implement an environmental management ­system which
+fulfills the requirements of the internationally recognized ISO 14001
+standard as well as our own internal
+standard “Specifications on environmentally compatible ­product and
+system design”.
+
+Our programs “Serve the Environment” (StE)” , “CO2 neutral Siemens”
+and “Product Eco Excellence” address
+all our material environmental
+­impacts for industrial environmental
+protection and product-related environmental protection respectively.
+
+ENVIRONMENTAL PROTECTION
+THIS REPORT, PAGE 25
+
+SUSTAINABILIT Y AT SIEMENS
+THIS REPORT, PAGE 8
+
+In fiscal 2016, we reduced our CO2
+emissions by 400,000 tons CO2 compared to the baseline in fiscal 2014
+and thus we are well on track to
+achieve our interim goal of 50 % reduction by 2020. In the year under
+review, we already launched 11 energy efficiency projects with a total
+­investment ­volume of € 32 mio. Furthermore, in June 2016 Siemens
+moved into its new headquarter.
+The new building consumes 90 % less
+primary energy than its predecessor,
+has a solar PV installation that covers
+~30 % of its electricity demand and
+achieved the highest level of “green”
+building certification “LEED Platinum”.
+
+SUSTAINABILIT Y AT SIEMENS
+THIS REPORT, PAGE 10
+
+Principle 7
+Precautionary
+approach to
+environmental
+protection
+
+Starting with fiscal 2016, we ­disclose
+our Scope 3 upstream emissions
+caused by purchased products and
+services.
+
+ENVIRONMENTAL PROTECTION
+THIS REPORT, PAGE 25
+
+SUSTAINABILIT Y AT SIEMENS
+THIS REPORT, PAGE 8
+ENVIRONMENTAL PROTECTION
+THIS REPORT, PAGE 25
+
+Principle 8
+Specific initiatives
+to promote
+environmental
+protection
+
+Raising our employees’ awareness of
+environmental and climate protection
+is an element of both our environmental strategy and our social commitment. With internal communi­
+cations measures and our corporate
+citizenship focus on “environmental,”
+we help create a greater sense of
+­responsibility for ecological issues.
+SUSTAINABILIT Y AT SIEMENS
+THIS REPORT, PAGE 10
+CORPORATE CITIZENSHIP
+THIS REPORT, PAGE 35
+
+Siemens maintains a global environmental communications network
+to ensure that knowledge about
+­environmental management, methods, solutions and experiences is
+communicated across locations,
+­businesses and national borders.
+For years, we are an engaged member of One Young World, the World
+Business Council for Sustainable
+­Development (WBCSD) and the World
+Economic Forum.
+SUSTAINABILIT Y AT SIEMENS
+THIS REPORT, PAGE 10
+
+In the year under review, we donated
+around € 22.8 million for corporate
+citizenship activities, of which
+€ 16 million went to education and
+science and € 0.1 million to environmental activities. We continue to
+support the “WEF Climate CEO” and
+the “We mean business” initiatives
+and Siemens took part at the Conference of Parties (COP 21) in Paris in
+November 2015. where we promoted
+Siemens contribution to mitigate
+­climate change.
+This year 50 delegates from Siemens
+participated in the One Young World
+conference in Ottowa.
+SUSTAINABILIT Y AT SIEMENS
+THIS REPORT, PAGE 10
+CORPORATE CITIZENSHIP
+THIS REPORT, PAGE 35
+
+44
+
+Annex
+
+Index according to the ten principles of the Global Compact
+Principle
+
+Systems
+
+Measures
+
+Achievements
+
+Principle 9
+
+As part of our Environmental Portfolio, we develop and market products,
+solutions and services that enable
+our customers to reduce their CO2
+emissions, lower lifecycle costs and
+protect the environment.
+
+We continuously review our portfolio
+with regards to newly developed
+or acquired portfolio elements that
+qualify as Environmental Portfolio
+­elements or exclude elements that
+no longer fulfill our qualifications
+­criteria.
+
+In the year under review, our Environ­
+mental Portfolio helped our customers and partners throughout the
+world reduce their CO2 emissions by
+60 million metric tons.
+
+Development and
+diffusion of
+environmentally
+friendly technologies
+
+SIEMENS ENVIRONMENTAL
+­P ORTFOLIO
+THIS REPORT, PAGE 24
+
+Principle 10
+Measures against
+corruption
+
+The Siemens Business Conduct
+Guidelines (BCG) provide the ethical
+and legal framework within which
+we conduct our business activities.
+Our compliance system aims to ensure that all our worldwide business
+practices remain within this framework as well as in compliance with
+applicable laws. We have zero tolerance for corruption and violations
+of the principles of fair competition –
+and where these do occur, we rigorously respond. Our compliance
+­system has three pillars: Prevent,
+­Detect, Respond.
+COMPLIANCE
+THIS REPORT, PAGE 31
+
+SIEMENS ENVIRONMENTAL
+­P ORTFOLIO
+THIS REPORT, PAGE 24
+
+In fiscal 2015, we defined our compliance priorities:
+	Foster Integrity
+	Manage Risk and Assurance
+	Effective Processes
+	Excellent Compliance Team
+	Committed to Business
+These priorities have also guided our
+activities in fiscal 2016 and are supplemented by focus areas and activities.
+We actively support the enactment
+of the UN Convention against Corruption and the OECD Convention on
+Combating Bribery. Our Chief Com­
+pliance Officer has been appointed
+Chairman of the B20 Cross-­thematic
+Group on Responsible Business Conduct and Anti-Corruption during the
+German G20 presidency 2016/2017.
+Activities in the World Economic
+­Forum include the Company’s participation in the Partnering Against
+­Corruption Initiative (PACI).
+COMPLIANCE
+THIS REPORT, PAGE 31
+
+SUSTAINABILIT Y AT SIEMENS
+THIS REPORT, PAGE 8
+SIEMENS ENVIRONMENTAL
+­P ORTFOLIO
+THIS REPORT, PAGE 24
+
+Achievements in fiscal 2016:
+Consolidated the most compliance
+related company-wide internal
+­regulation in one comprehensive
+circular and the start of the integration of scorecards for gifts and
+hospitality into a new companywide web-based application.
+	Start using Big Data, through Business Partner dashboards together
+with related analytics for better
+support of related risk management and monitoring of business
+partners.
+	Intensified the identification of
+compliance risks and further
+­enhanced the collaboration between our project managers and
+Compliance officers, e g. by
+joint performance of structured
+compliance risk assessments for
+the execution phase of projects.
+In fiscal 2016 the total number of
+compliance cases were 675.
+COMPLIANCE
+THIS REPORT, PAGE 31
+
+Annex
+
+45
+
+United Nations Water Mandate
+PROGRESS REPORT
+Siemens became a signatory to the United Nations CEO Water
+Mandate in 2008. Our continuing support for the CEO Water Mandate reflects our commitment on two fronts: Firstly, managing
+water efficiently in our own facilities. Secondly, providing solutions that help our customers and societies handle water and
+waste water more economically.
+
+Water re-use in United Kingdom
+During the repair of a leaking drain at the site in Sudbury, the
+Siemens worker noticed that the waste water looked remarkably
+clean. Therefore they implemented the water treatment process
+to use the “concentrated tap water” again for toilet flushing.
+
+Water recycling in India
+At the location of the Siemens works in Kalwa, India, a wastewater treatment system has been installed that would, for the most
+part, regulate itself.
+
+OUR OWN ACTIVITIES
+For more information about the resource conservation and water
+consumption at Siemens locations, see section Environmental
+Protection THIS REPORT PAGE 25 . We are pursuing a new approach
+to water resources management that was developed in 2012. At
+locations where there are increased water-related risks – for example, as a result of aridity, high wastewater loads, or poorly
+developed technical infrastructures – we define goals that are
+matched to local circumstances. This enables us to effectively
+reduce risks and negative impacts on the environment. With the
+Siemens Water Strategy, we aim to reduce the local negative impact of our water use, taking water stress and other risks into
+account, such as water pollution or flooding of environmentally
+relevant areas.
+We use all our resources carefully and avoid waste of resources
+wherever it is possible. Amongst others through Leadership in
+Energy and Environmental Design (LEED) certification for all our
+new buildings including our new global headquarters in Munich,
+where efficient use of water is a key element of building design
+criteria. Through collection and usage of rainwater, the water
+consumption of the new headquarters lies 50 % below guide values of new buildings. Further examples are:
+
+Our Business Units offer solutions for drive technologies, energy
+distribution and automation for water and wastewater treatment
+plants and water transport.
+
+OUR SUPPLIERS
+The environmental requirements that our suppliers must fulfill
+are defined in our Code of Conduct for Siemens Suppliers. The
+responsible use of water forms an integral part of this code. For
+more information on these requirements and on supply chain
+management
+THIS REPORT PAGE 20 .
+
+COMMUNITY ENGAGEMENT
+As a member of various international organizations, we’re involved
+in numerous initiatives and programs, including the ­Action 2020
+Water Project of the World Business Council for Sustainable Development. We initiate and implement projects in various regions
+that promote efficient use of water.
+In addition, the Siemens Stiftung drives an entrepreneurial approach to supply clean drinking water to communities. Project
+example include:
+
+Safe Water Enterprises
+Optimized wells in Germany
+The intelligent merging of several wells on the premises of the
+Siemens Duisburg site has succeeded in saving 40,000 cubic meters of fresh water annually. This reduces water costs by 138,000
+Euros.
+
+With Safe Water Enterprises, Siemens Stiftung is committed to
+a sustainable supply of safe drinking water in rural regions in
+Kenya. In Kisumu, the two Safe Water Enterprise was officially
+handed over to the communities and each are providing safe
+drinking water to an average of 2,000 people each. It was built
+in cooperation with our partners SOS Children’s Villages and
+SkyJuice Foundation.
+For more information with regards to the projects of the Siemens
+Foundation, please refer to:
+ WWW.SIEMENS-STIFTUNG.ORG/EN/PROJECTS
+
+46
+
+Annex
+
+Independent auditor’s limited
+­assurance ­report regarding
+­sustainability information
+The assurance engagement performed by “Ernst & Young GmbH
+Wirtschaftsprüfungsgesellschaft” ­relates exclusively to the German PDF-version of the chapters “Sustainability at Siemens” and
+“Facts and Figures” of the report “Sustainability Information 2016”.
+The following text is a translation of the original German Independent Assurance Report.
+
+TO SIEMENS AG, BERLIN AND MUNICH
+We have been engaged to perform a limited assurance engagement on the chapters “Sustainability at Siemens” and “Facts
+and Figures” in the report “Sustainability information 2016” of
+Siemens AG for the reporting period from October 1, 2015 to September 30, 2016 (hereafter the report).
+Our engagement is exclusively limited to the German PDF-version of the chapters “Sustainability at Siemens” and “Facts and
+Figures” in the report in their entirety. Our engagement did not
+include any prospective statements and links to other web pages.
+The report is published as a PDF-version at
+WWW.SIEMENS.COM/
+INVESTOR/EN
+
+MANAGEMENT’S RESPONSIBILITY
+The legal representatives of Siemens AG are responsible for the
+preparation of the report in accordance with the reporting criteria and for the selection of the information to be assessed. As
+reporting criteria, the Company applies the G4 Sustainability Reporting Guidelines of the Global Reporting Initiative (GRI) and,
+for the key performance indicators of the Environmental Portfolio, the reporting principles as outlined in the Annex “Environmental Portfolio Reporting Principles” and the underlying criteria
+set forth in “A Corporate Accounting and Reporting Standard –
+Revised Edition” and “GHG Protocol for Project Accounting” issued
+by the Greenhouse Gas Protocol Initiative.
+This responsibility includes the selection and application of appropriate methods to prepare the report and the use of assumptions and estimates for individual sustainability disclosures that
+are reasonable under the circumstances. Furthermore, the legal
+representatives are responsible for internal controls that they
+deem necessary for the preparation of a report that is free from –
+intended or unintended – material misstatements.
+
+AUDITOR’S MEASURES TO ENSURE
+INDEPENDENCE AND QUALITY
+We are independent from the Company in compliance with the
+German statutory and professional requirements, and have complied with other professional requirements.
+The quality assurance system of Ernst & Young GmbH Wirtschafts­
+prüfungsgesellschaft is based on the national statutory regulations and professional pronouncements including, but not limited to the Professional Charter for German Public Auditors and
+German Sworn Auditors and the Joint Statement by the German
+Chamber of Public Accountants and the Institute of Public Auditors on Quality Assurance in the Practice of Public Auditors VO
+1 / 2006, which are in accordance with the International Standards
+on Quality Control issued by the International Auditing and
+­Assurance Standards Board (IAASB).
+
+AUDITOR’S RESPONSIBILITY
+Our responsibility is to express a conclusion on the information
+in the chapters “Sustainability at Siemens” and “Facts and Figures”
+in the report based on our work performed.
+We conducted our limited assurance engagement in accordance
+with the International Standard on Assurance Engagements (ISAE)
+3000 (Revised): “Assurance Engagements other than Audits or
+Reviews of Historical Financial Information” published by the
+IAASB. This standard requires that we plan and perform the
+­assurance engagement to obtain a limited level of assurance to
+preclude that the chapters “Sustainability at Siemens” and “Facts
+and Figures” in the report are not in accordance, in material respects, with the aforementioned reporting criteria. In a limited
+assurance engagement the evidence gathering procedures are
+more limited than for a reasonable assurance engagement and
+therefore significantly less assurance is obtained than in a reasonable assurance engagement. The procedures selected depend
+on the auditor's judgment. This includes the assessment of the
+risks of material misstatements in the report with regard to the
+reporting criteria.
+Within the scope of our work we performed amongst others the
+following procedures:
+Inquiries of employees concerning the sustainability strategy,
+sustainability principles and sustainability management including the stakeholder dialog of Siemens AG.
+Inquiries of employees responsible in the central Corporate
+Development Strategy – Sustainability department for the
+preparation of the sustainability reporting in order to assess
+the sustainability reporting system, the data capture and compilation methods as well as internal controls to the extent
+relevant for the limited assurance engagement.
+
+Annex
+
+47
+
+Inquiries of employees responsible in the corporate departments for the topics employees, occupational safety and health
+management, research and development, supply chain management, distribution and customer relations, environmental
+portfolio, environmental protection, compliance and corporate
+citizenship to assess the data capture and compilation methods as well as internal controls to the extent relevant for the
+limited assurance engagement.
+Inspection of the relevant documentation of the systems and
+processes for compiling, analyzing, and aggregating sustainability data in the reporting period and testing such documentation on a sample of basis.
+Analytical measures at Group level, on the level of Divisions
+and the separately managed business Healthineers regarding
+the quality of the reported data.
+Inquiries and inspection of documents on a sample basis relating to the collection and reporting of the sustainability data
+from the topics environmental protection and occupational
+safety during site visits
+– at the location Olean (USA) of the Division Power and Gas,
+– at the location Amberg of the Division Digital Factory,
+–a
+ t the location Frenstat (Czech Republic) of the Division
+­Process Industries and Drives,
+–a
+ t the location Brande (Denmark) of the Division Wind Power
+and Renewables,
+– at the location Erlangen of Healthineers,
+– at the location Munich of Siemens Real Estate
+– as well as at the Divisions Power and Gas, Digital Factory,
+Process Industries and Drives, Wind Power and Renewables
+and the separately managed business Healthineers.
+Inquiries and inspection of documents on a sample basis relating to the collection and reporting of the key performance
+indicators of the Environmental Portfolio including the procedures for determining the qualification of products, solutions
+and services for the Environmental Portfolio during site visits
+at the Divisions Power and Gas, Power Generation Services,
+Wind Power and Renewables and Process Industries and Drives.
+Inquiries of employees from selected departments at the
+Group’s headquarters, corporate departments, Divisions and
+the separately managed business Healthineers and at the sites
+visited on material qualitative statements in the chapters “Sustainability at Siemens” and “Facts and Figures” as well as the
+inspection of selected underlying documents.
+Review of material qualitative statements in the chapters “Sustainability at Siemens” and “Facts and Figures” for plausibility
+and consistency.
+
+48
+
+Annex
+
+CONCLUSION
+Based on our limited assurance engagement, nothing has come
+to our attention that causes us to believe that the information in
+the chapters “Sustainability at Siemens” and “Facts and Figures”
+of the report “Sustainability Information 2016” for the reporting
+period from October 1, 2015 to September 30, 2016 in its entirety
+has not been prepared, in material respects, in accordance with
+the reporting criteria.
+
+INTENDED USE OF THE REPORT
+We issue this report on the basis of the engagement agreement
+with Siemens AG. The limited assurance engagement has been
+performed for the purposes of Siemens AG and is solely intended
+to inform Siemens AG about the results of the assurance engagement.
+
+LIMITATION OF LIABILITY
+The report is not intended to be used as a basis for (financial)
+decision-making by third parties of any kind. We have responsibility towards Siemens AG only. We do not assume any responsibility
+towards third parties.
+Munich, November 28, 2016
+Ernst & Young GmbH
+Wirtschaftsprüfungsgesellschaft
+
+Spannagl
+Wirtschaftsprüfer
+(German Public Auditor)
+
+Johne
+Wirtschaftsprüferin
+(German Public Auditor)
+
+Notes and forward-looking
+­statements
+There is no standard system that applies across companies for
+qualifying products and solutions for environmental and climate
+protection, or for compiling and calculating the respective revenues and the quantity of reduced carbon dioxide emissions attributable to such products and solutions. Accordingly, revenues
+from our Environmental Portfolio and the reduction of our customers’ annual carbon dioxide emissions may not be comparable
+with similar information reported by other companies. Revenues
+from our Environmental Portfolio and the reduction of our customers’ annual carbon dioxide emissions are derived from various internal reporting systems that are generally different from
+those applicable to the financial information presented in our
+Consolidated Financial Statements and are, in particular, subject
+to less sophisticated internal documentation as well as preparation and review requirements, including the IT systems in use and
+the general internal control environment. We may change our
+policies for recognizing revenues from our Environmental Portfolio and the reduction of our customers’ annual carbon dioxide
+emissions in the future without previous notice.
+This document contains statements related to our future business
+and financial performance and future events or developments involving Siemens that may constitute forward-looking statements.
+These statements may be identified by words such as “expect,”
+“look forward to,” “anticipate” “intend,” “plan,” “believe,” “seek,”
+“estimate,” “will,” “project” or words of similar meaning. We may
+also make forward-looking statements in other reports, in presentations, in material delivered to shareholders and in press releases.
+In addition, our representatives may from time to time make oral
+forward-looking statements.
+
+Such statements are based on the current expectations and certain assumptions of Siemens’ management, of which many are
+beyond Siemens’ control. These are subject to a number of risks,
+uncertainties and factors, including, but not limited to those described in disclosures, in particular in the chapter Risks in this
+Annual Report. Should one or more of these risks or uncertainties
+materialize, or should underlying expectations not occur or assumptions prove incorrect, actual results, performance or achieve­
+ments of Siemens may (negatively or positively) vary materially
+from those described explicitly or implicitly in the relevant forward-looking statement. Siemens neither intends, nor assumes
+any obligation, to update or revise these forward-looking statements in light of developments which differ from those anticipated.
+This document includes – in the applicable financial reporting
+framework not clearly defined – supplemental financial measures
+that are or may be alternative performance measures (non-GAAP
+measures). These supplemental financial measures should not be
+viewed in isolation or as alternatives to measures of Siemens’ net
+assets and financial positions or results of operations as p
+­ resented
+in accordance with the applicable financial reporting framework
+in its Consolidated Financial Statements. Other companies that
+report or describe similarly titled alternative performance measures may calculate them differently.
+Due to rounding, numbers presented throughout this and other
+documents may not add up precisely to the totals provided and
+percentages may not precisely reflect the absolute figures.
+This document is an English language translation of the German
+document. In case of discrepancies, the German language document is the sole authoritative and universally valid version.
+
+Annex
+
+49
+
+Further information and
+­information resources
+
+ADDITIONAL INFORMATION
+
+FURTHER INFORMATION ON THE CONTENTS
+IS AVAILABLE FROM:
+
+FURTHER SUSTAINABILITY INFORMATION
+
+Adress
+
+Phone
+Fax
+Email
+
+50
+
+Annex
+
+Siemens AG
+Wittelsbacherplatz 2
+80333 München
+Germany
++ 49 (0) 89 636 - 33443 (Media Relations)
++ 49 (0) 89 636 - 32474 (Investor Relations)
++ 49 (0) 89 636 - 30085 (Media Relations)
++ 49 (0) 89 636 - 32830 (Investor Relations)
+press@siemens.com
+investorrelations@siemens.com
+sustainability@siemens.com
+
+The Siemens Annual Report 2016 is available online at:
+WWW.SIEMENS.COM/ANNUAL-REPORT
+
+Further information on our commitment to sustainability and
+additional sustainability-related indicators are available at:
+WWW.SIEMENS.COM/SUSTAINABILIT Y
+
+Further information on research, development and innovation
+at Siemens is available at:
+WWW.SIEMENS.COM/INNOVATION
+
+© 2016 by Siemens AG, Berlin and Munich
+
+siemens.com
+
+

@@ -1,0 +1,4298 @@
+Sustainability
+Report
+2016
+
+2
+
+_Editorial
+
+Dear Readers,
+
+Ulrich Weiße
+Head of Central Function
+Corporate Sustainability & HSE
+
+In what is now our seventh consecutive Voith Sustainability Report we would
+like to take the opportunity once again to inform you about our sustainability
+achievements. Through a new reporting approach we aim to improve the way we
+inform all of our various stakeholders in a way that best suits the respective target
+group. The new report comprises three coordinated modules. Our sustainability
+communication activities remain focused around the traditional report, which is
+aligned with key international standards. At the same time, with our new approach
+we have supplemented it via our website with additional details on our company’s
+material fields of action. Analysts, NGOs, and other interested parties will find further
+facts and figures here. For those who want rapid and concise information on Voith’s
+activities we have put together a new brochure entitled “Sharing Values – Creating
+Value”, which outlines our company’s fundamental approach to sustainability and
+includes selected highlights from the reporting period.
+I would first like to say that we have achieved a lot once again in this reporting year.
+We are on the home stretch regarding our planned reduction in energy consumption and the amount of waste we produce, and we even successfully crossed the
+finish line in the reporting year in terms of our wastewater volume reduction goal.
+Together with the experts from our newly established Voith Sustainability Advisory
+Committee, we are currently working on setting new goals; among these, for the
+first time we also want to set ourselves a specific carbon-reduction target.
+With our new HSE (health, safety, and environment) organization, last year we laid
+the basis for us to work on further improving our performance across the Group.
+The relevant processes, and our new hse+ IT platform in particular, are now in place
+and operational. Our performance in the area of occupational health and safety at
+Voith shows what potentials can be leveraged through a consistent and targeted
+approach to sustainability. Whereas we still held a relatively midfield ranking in our
+industry when we started reporting on our sustainability activities, we are now
+leaders in this field – and have attained a position that we also aim to achieve in
+our other material fields of action. We intend to be the benchmark in the field of
+sustainability, both in our industry and in all the markets in which Voith is active.
+Have I awoken your interest? Then I wish you a stimulating and inspiring read!
+
+Sincerely yours,
+
+P.S. We are very keen to know what you think about our new reporting approach:
+Please let us know by e-mailing me at ulrich.weisse@voith.com. I would be delighted
+to hear your feedback.
+
+Voith Sustainabilit y Repor t 2016
+
+3
+
+Voith 2016
+_Editorial
+_Foreword
+
+2
+4
+
+1_What Underpins our Actions
+Our Profile
+Strategy & Organization
+Values & Compliance
+Responsibility for Society
+
+8
+11
+17
+20
+
+2_Environment
+Environmental Management Approach
+Performance in the Reporting Period
+
+26
+31
+
+3_Employees
+Our Aspiration – Our Responsibility 
+Attractive Employer
+Attracting and Promoting Talent
+Occupational Health and Safety
+
+42
+44
+48
+51
+
+4_Products & Supply Chains
+Product Responsibility
+Responsibility in the Supply Chain 
+
+60
+72
+
+_The Report
+_Imprint & Contact 
+
+78
+79
+
+Voith Sustainabilit y Repor t 2016
+
+4
+
+_Foreword
+
+Dear Readers,
+I am delighted to present to you today our new Voith Sustainability Report. It is now
+our seventh report of this type since we began in the 2009/10 fiscal year to publish
+our goals, systematically record our sustainability performance and thus make our
+sustainability activities transparent.
+
+Dr. Hubert Lienhard
+President and CEO
+
+A lot has happened in the meantime: Our aspiration is to be the benchmark for
+sustainability – both in our industry and in our markets. To achieve this aim we
+have continuously improved our sustainability performance, benefitting both the
+environment and our company in equal measure. In terms of energy, waste, and
+wastewater savings alone, compared to four years ago we are currently saving
+€11.0 million annually – with scope to improve this even further. Once again, it
+proves that acting sustainably and economic success go hand in hand and are
+inextricably linked.
+With its 150-year business tradition, today Voith counts as one of Europe’s oldest
+family companies. The fact that we can celebrate this in 2017 is also testament to our
+executive managers’ commitment to consistently prioritize long-term success over
+short-term trends. They have always set their sights on future generations, and in
+doing so have acted sustainably and responsibly right from the outset. With our new
+corporate mission statement and the claim “Inspiring Technologies for Generations”
+derived from this, we are reaffirming our commitment to this fundamental principle.
+150 years of Voith means 150 years of quality and reliability. 150 years driven by the
+aim to always give our best. We will hold true to this philosophy as it has shaped, is
+shaping, and will shape our corporate identity. Voith’s long and successful history
+empowers us – and with our current transformation, we are making ourselves fit
+for the future.
+In recent years, we have transformed our company significantly through our Voith
+150+ success program to prepare Voith for the future. The reporting year that we
+have summarized in this report was particularly characterized by this transformation.
+
+Voith Sustainabilit y Repor t 2016
+
+5
+
+From the sale of our industry services business, to fundamental changes at all Group
+Divisions, especially at Voith Paper – arguably Voith is undergoing the most extensive transformation process of the past decade. We are taking our responsibility
+seriously throughout this process too, and striving to make the necessary measures
+as socially acceptable as possible for our affected employees.
+At the same time, our new Group Division Digital Solutions is picking up speed.
+There are now 1,500 employees working there on seizing the opportunities that
+digitization offers Voith, and above all for our customers. In this area as well we
+are repeatedly adding value from combining long-term thinking with sustainable
+business activities. As a result of this, in partnership with Boston Consulting Group
+Digital Ventures we recently established a digital marketplace in North America
+for the paper industry. The new platform is called merQbiz, and offers buyers and
+sellers from paper and pulp mills, paper brokers, and recycling companies a quick,
+safe, and efficient way to buy and sell recovered paper.
+I am particularly delighted by the fact that we managed to improve our sustainability
+performance further in the reporting year. We established a new organizational
+structure for HSE (health, safety, and environment), and in doing so laid the basis for
+continuing to strengthen our capabilities in these areas. All our major energy, waste,
+and wastewater KPIs (key performance indicators) are within our target corridors
+and I am confident that we will achieve the objectives we have set ourselves.
+The time has now come for us to set new goals. After all, we make progress through
+the will to improve constantly – a point that our company’s history unequivocally
+confirms. At Voith, sustainability will continue to be an aspiration, obligation, and
+challenge we fully intend to meet. This report informs you about our specific achievements in the 2015/16 fiscal year. I wish you an enjoyable and informative read!
+
+Sincerely yours,
+
+Voith Sustainabilit y Repor t 2016
+
+7
+
+1_What Underpins
+our Actions
+Voith is a globally active technology
+group. With our portfolio of production
+plants, products and industrial services,
+we actively serve five essential markets
+worldwide: Energy, Oil & Gas, Paper,
+Raw Materials, and Transport &
+Automotive. Our understanding of
+sustainability is strongly influenced by
+the tradition of Voith as a family-owned
+company, and the way it has always
+done business. This understanding
+is at the core of our commitment to
+conduct business in an environmentally friendly and fair manner, and thus
+to secure long-term business success.
+Voith Sustainabilit y Repor t 2016
+
+8
+
+1_What Underpins our Actions
+
+1_What Underpins our Actions
+1.1 Our Profile
+Founded in 1867, Voith is now one of Europe’s largest family-owned companies.
+The long-term focus of its owners has always been the driving force behind the
+company. Ensuring the company develops sustainably and profitably is the core
+aim of the shareholders, Supervisory Board, and Corporate Board of Management.
+This is also the aim pursued by our Group strategy. Our focus lies particularly on:
+• a diversified product portfolio based on industry megatrends
+• an international footprint and strong local roots
+• our innovative capabilities, and
+• our financial independence as a family-owned company.
+This way we establish the basis for Voith’s long-term success – and at the same
+time secure the prerequisites for ensuring the company can be handed on to the
+next generation.
+
+Location Overview (online) –
+http://voith.com/en/group/
+global-presence-154.html
+
+Overview of the Group
+As a global technology group active in over 60 countries, Voith maintains a worldwide network with around 120 production locations. Voith GmbH, headquartered
+in Heidenheim/Brenz, Germany, is the operational management holding company
+for the Group and is entirely family-owned. The Board of Management of Voith
+GmbH is responsible for the Group’s strategic management and operations. The
+Shareholders’ Committee and the Supervisory Board act as the advisory and
+supervisory bodies respectively. The Supervisory Board also monitors the Board
+of Management.
+At the end of the reporting period the Group’s operating business is bundled in three
+Group Divisions, which are each managed by legally independent management
+companies.
+• Voith Hydro is a turnkey provider that equips leading operators’ hydropower
+plants around the world.
+• Voith Paper is a system supplier to the paper industry, providing technologies,
+products, and services covering the entire paper production process.
+• Voith Turbo produces drive solutions as well as technical systems and components,
+which are used around the globe in industrial plants as well as on railroads,
+highways, and seaways worldwide.
+We divested our majority stake in the former Group Division Voith Industrial Services
+on August 31, 2016. We have treated this Group Division as a discontinued operation
+in accordance with the International Financial Reporting Standard (IFRS 5) since we
+announced our intention to sell it.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+9
+
+Our Profile
+Strategy & Organization
+Values & Compliance
+Responsibility for Society
+
+Voith Digital Solutions was launched in April 2016 with a team of around 650 employees. Existing automation, software, IT, digitization, and sensor expertise from the
+Group Divisions Voith Hydro, Voith Paper, and Voith Turbo is bundled and further
+developed in this newly founded Group Division. Furthermore, Voith Digital Solutions
+is also home to all of the Group’s digital ventures and start-up activities. This Group
+Division is still in the start-up phase.
+In accordance with how information is presented in our Annual Report, our Sustainability Report also focuses on the three core business segments of Voith Hydro,
+Voith Paper, and Voith Turbo.
+The 2015/16 Fiscal Year
+At €4,252 million, Group revenues were at much the same level as in the previous
+year (€4,302 million), whereby the three continuing Group Divisions increased their
+operating profit significantly in some cases. At Group level too, efficiency gains
+achieved as part of the Voith 150+ success program are reflected in improved
+profitability and return on investment. ROCE (Return On Capital Employed) at Group
+level rose from 12.2 % the previous year to 12.9 % in the 2015/16 fiscal year. Our net
+result, which stood at €–93 million the previous year owing to high expenditure on
+restructuring measures, was once again positive in the reporting year and amounted
+to €29 million.
+
+AR 2015/16, p. 46 et seq.,
+Group Strategy
+
+AR 2015/16, p. 52 et seq.,
+Business Development
+
+FACTS & FIGURES
+Key Economic Figures
+FACTS & FIGURES
+International Focus
+FACTS & FIGURES
+Financial Contributions
+
+Voith 150+: Transformation of the Group Completed, Key Decisions Taken
+We launched our Group-wide Voith 150+ success program way back at the start
+of the 2013/14 fiscal year. It aims to optimize our product and service portfolio,
+increase our efficiency through process improvement, and further develop the
+Voith corporate culture. After all, only a financially sound company can remain
+viable over the long term.
+
+Total Revenues €4,252 million*
+
+Group Revenues*
+
+by Group Division
+
+Voith Turbo
+33 %
+
+by region
+
+Voith Hydro
+33 %
+
+Americas
+27 %
+
+in € million
+
+4,302
+
+4,252
+
+2014/15
+
+2015/16
+
+Germany
+12 %
+Rest of
+Europe
+28 %
+
+Voith Paper
+34 %
+
+Asia
+27 %
+
+*Data excludes the discontinued Group Division Voith Industrial Services.
+
+Other
+6%
+
+*Data excludes the discontinued Group Division
+Voith Industrial Services.
+
+Voith Sustainabilit y Repor t 2016
+
+10
+
+1_What Underpins our Actions
+
+We have now largely completed transforming our company. In doing so, we have
+laid the basis for the Voith Group’s long-term competitiveness and further capacity
+for growth well beyond our 150th anniversary in 2017.
+The biggest change concerned the Group Division Voith Industrial Services, which
+we put up for sale in February 2015. The divestment process was successfully
+concluded in August 2016, and we continue to participate with a stake of 20 %.
+
+AR 2015/16, p. 48,
+Key Measures of the
+Voith 150+ Program
+
+A targeted portfolio adjustment was made in the three other Group Divisions. This
+included the sale of business units as well as the consolidation, reduction in size,
+or closure of locations which did not achieve planned profitability levels. In addition,
+we engaged in restructuring measures and made capacity adjustments. Voith Paper
+was the Group Division most affected; here there has been a reduction of 3,000
+jobs over the past five fiscal years. In doing so, we took into account the profound
+structural changes in the paper-machine market. We also ensured redundancies
+were handled fairly and responsibly in consultation with employee representatives.
+
+AR 2015/16, p. 47
+Digital transformation
+takes shape
+
+Additionally, in the reporting period we decided to sell the stake in KUKA AG we
+acquired at the end of 2014. After selling our shareholding, we achieved a cash
+inflow of €1.15 billion. This liquidity inflow will be used to further develop the Group’s
+portfolio, including the acceleration of the digital transformation of Voith, and can
+be used flexibly both for organic growth as well as for attractive acquisitions.
+Shared Services Established Successfully
+Launched in October 2015, our new Shared Services organization is now established
+within the Group. The four Global Business Service Centers in Kunshan (Asia-Pacific
+region), York (North America), São Paulo (South America) and Heidenheim (EMEA)
+were established successfully during 2016, and the new structure is now up and
+running globally.
+Standardized administrative activities are bundled in the Global Business Service
+Centers. Each indirect activity also maintains competence centers for defining
+global standards for Voith as well as for dealing with individual topics that require
+specialist knowledge. In specific projects local business partners provide our
+business units with support, in line with our “one face to the customer” philosophy.
+By bundling cross-divisional functions such as Purchasing, IT, Finance, Controlling,
+Accounting, and HR, we have made our administration leaner and more efficient.
+This provides effective support to operating units and releases them from scalable
+processes, giving them the freedom to focus on their core business. The reorganization of cross-divisional functions will result in the need for fewer employees
+in the individual divisions. The corresponding reduction of around 720 jobs was
+completed by the end of the 2015/16 fiscal year.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+11
+
+Our Profile
+Strategy & Organization
+Values & Compliance
+Responsibility for Society
+
+1.2 Strategy & Organization
+Sustainability at the Heart of Our Strategy
+We make a measurable contribution to the sustainable development of our company, society, and the environment. In doing so we continue the tradition of the
+family-owned company Voith, which commits us to engage in business activities
+in a way that promotes the environment, is fair, and promises long-term success.
+In terms of sustainability, Voith intends to become the benchmark in its markets
+and sectors – in the same way as we aim to play a leading role globally through our
+products. It is an aspiration we intend to meet in all of our processes.
+How Voith Organizes Sustainability
+At Voith, sustainability is a cross-functional responsibility shared by our Corporate
+Board of Management, Group Divisions, and Corporate Departments. Our new
+Group Directive on Sustainability entered into force on December 15, 2015 and
+sets out the organization, responsibilities and principles underpinning our actions.
+Our central Corporate Sustainability & HSE function provides the framework for the
+strategic focus and organization of sustainability at Voith. It advises the Group companies and Corporate Departments, and further develops the topic as a strategic
+issue. Corporate Sustainability & HSE is directly accountable to the President and
+CEO. It defines tools and methods to measure and control the Group’s activities,
+such as the sustainability database and associated reporting tools. Furthermore
+this central function holds direct responsibility for the global specialist organization
+Health, Safety, and Environment (HSE), as well as the Sustainability Office.
+The Corporate Sustainability Council (CSC) is the central management organ for
+all of the Group’s sustainability activities. It comprises the Group Division’s Sustainability Officers. In the 2015/16 fiscal year this central control body convened
+four times. The CSC prepares the bases for decisions and reports directly to
+the Corporate Board of Management. In its controlling and monitoring function,
+the central control body monitors the operational implementation of strategies,
+goals, and measures in the Group Divisions and is responsible for data-gathering processes. The Group Divisions and relevant Corporate Departments
+(e.g. HR and Purchasing) are responsible for the operational implementation of
+these measures.
+Business Partner Structure for Health, Safety and Environment
+In accordance with the Shared Services system, in the reporting year we also
+established a business-partner structure for our HSE organization. The Center of
+Competence HSE now provides focused methods, tools, and standards under
+one roof for our Group Divisions. Each Group Division is assigned one employee
+from the Center of Competence HSE as a business partner. As the central point
+
+Voith Sustainabilit y Repor t 2016
+
+12
+
+1_What Underpins our Actions
+
+of contact, this business partner is available to the Board of Management of each
+Group Division to answer any HSE-related questions.
+Our operating units remain responsible for implementing health, safety, and
+environment activities locally. Through the Center of Competence HSE they are
+supported by experienced experts to continually improve their health, safety, and
+environmental performance. By leveraging potential synergies we are continually
+working on optimizing service costs. At the same time, as skilled partners these
+experts can be called upon to identify risks and systematically reduce them through
+a continual improvement process. In the majority of cases the expert functions
+are divided into Occupational Health & Safety, and Environment, with one HSE
+expert each supporting several regional Voith companies depending on their size.
+Duties include providing support with annual safety briefings and risk analyses, local
+approval of hazardous substances, and incident analyses.
+The Heads of the regional HSE service organizations and the members of the Center
+of Competence HSE form the HSE Steering Team. It meets biannually and is chaired
+by the Head of the Corporate Sustainability & HSE central function.
+With our new HSE organization we now have a uniform global organization for
+health, safety, and environment with standardized processes, a powerful global IT
+
+Sustainability, Health, Safety, and Environment Organization
+
+CEO
+
+Head of Sustainability & HSE
+
+Advisory Board
+Sustainability
+
+Corporate
+Sustainability
+Council
+Central Management
+Organ for Sustainability Activities
+
+VH
+
+VP
+
+Voith Sustainabilit y Repor t 2016
+
+VT
+
+Sustainability
+Office
+Controlling,
+Reporting,
+Communication,
+Strategy
+
+Center of
+Competence HSE
+Methods, Tools,
+and Standards
+
+VH
+
+VP
+
+VT
+
+HSE
+Services
+
+EMA
+
+North South
+Amer- Amer- APAC
+ica
+ica
+
+Ecological
+Business
+Management
+Energy and
+Resource
+Management
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+13
+
+Our Profile
+Strategy & Organization
+Values & Compliance
+Responsibility for Society
+
+system, and a Group-wide certified HSE management system. This results in greater
+effectiveness, lower complexity, and increased acceptance among employees and
+other stakeholders.
+Sustainability Approach Implemented Systematically
+Six fields of action integrate sustainability management within the Group. This
+includes the twin aim of sustainable corporate governance and striving for profitable
+growth. Our sustainability approach also includes responsibility for our products, the
+environment, our employees, and for society. We also regularly publish our goals as
+part of our sustainability reporting activities, and document our level of achievement.
+Currently, our goals are based on our own aspirations as well as our key stakeholders’ demands. Essentially, the goals are based on the results of our Stakeholder
+Survey 2016 and the materiality analysis derived from that. We will incorporate
+international and national action plans in the goal-setting process, as part of the
+revision of our approach in the current fiscal year.
+We take a systematic approach to the implementation of our Sustainability Strategy.
+As part of our quarterly reporting the CSC regularly checks the achievement of
+sustainability goals at Group and Group Division level. The report contains a detailed
+list of measures which describes the tasks, responsibilities and deadlines for the
+respective operational level.
+Progress in the Reporting Period
+Following the successful rollout of our new HSE organization, in the fiscal year we
+worked to establish the new structures across our Group. All the vacancies in the
+new organization have now been filled, and our integrated HSE IT system hse+ is
+also being used around the world. Over 97 % of Voith employees worldwide are
+now supported or coordinated directly by our HSE organization. The remaining 3 %
+of the Voith workforce are covered by qualified external service providers who are
+coordinated and integrated by the respective regional HSE service organization.
+This mainly concerns countries where we have few local employees.
+At the end of the 2015/16 fiscal year all Voith locations had been incorporated in
+the HSE organization, as planned. This also enabled us to establish the basis for a
+global matrix certification system in the areas of health, safety, and environment way
+back in June 2016 – a whole year earlier than planned. All certified Voith locations,
+including holdings, are now part of our global Voith HSE Matrix certification system.
+Like our HSE management system, these locations are certified according to ISO
+14001 and OHSAS 18001.
+
+Environment chapter
+pp. 26–39
+
+FACTS & FIGURES
+EBM and HSE Data
+Collection
+
+FACTS & FIGURES
+Certifications
+
+Voith Sustainabilit y Repor t 2016
+
+14
+
+1_What Underpins our Actions
+
+It is now important to ensure that the corresponding change process is handled
+successfully in the company. We currently assume that the new organization will
+have been fully embedded in our company, and that the relevant processes and
+standards will be utilized by all employees within the next two to three years. To
+support this process we established an international information and training
+program for the 2016/17 fiscal year. As part of this, the main objective of the HSE
+Steering Team is to strengthen personal contact with experts locally, and in doing
+so to stabilize and continuously improve the organization.
+The focus is on providing information for
+• a shared understanding of the HSE culture
+• training courses for uniform application of the hse+ IT tool, and
+• workshops on new HSE process instructions.
+To achieve this, we ensure information is shared biannually between employees
+from the regions, the HSE Steering Team and the regional HSE experts.
+Communication – Sharing Best Practices
+Through targeted communication measures we motivate plant managers and
+employees at our Group companies to help identify savings potentials and measures. A central element of this is our quarterly Ecological Business Management
+newsletter that targets a broad audience, especially plant managers, and encourages them to adopt and implement measures that have already been introduced
+successfully at other locations. Since 2016 a further two newsletters (HSE Best
+Practices and HSE Flash News on current HSE risk areas) have supplemented our
+communications mix with information on incident focus areas in occupational health
+and safety. Each edition has a clear focus, showing specific examples of how to
+deal with situations successfully and which are worthy of emulating.
+
+FACTS & FIGURES
+Association Membership
+
+In Constant Dialog with Stakeholders
+As a global company group Voith is in constant dialog with a large number of stakeholders. We address their wide-ranging requirements, interests and expectations,
+and take account of these in our business decisions. Our key dialog partners
+include the shareholders, supervisory committees, employees, the Works Council,
+our customers, suppliers and investors, as well as neighboring communities, trade
+associations, academia, government agencies and politicians, NGOs (such as the
+World Wide Fund for Nature), and the interested general public.
+External Experts Provide Further Stimuli
+To expand the internal view of sustainability topics and to generate new stimuli
+for our sustainability management activities we established an Advisory Board
+Sustainability in the 2015/16 fiscal year. The committee comprises Prof. Dr. Stefan
+Schaltegger from Leuphana University, Lüneburg, Germany, and Andreas Zamostny,
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+15
+
+Our Profile
+Strategy & Organization
+Values & Compliance
+Responsibility for Society
+
+CEO of management consultancy firm Schlange & Co. GmbH, Hamburg, Germany,
+which specializes in sustainability.
+The committee met twice in the reporting year where it reviewed the continuation
+and updating of environmental goals. As the existing goals expire at the end of
+the reporting year, future influencing factors and appropriate targets for Voith’s
+environmental activities were discussed.
+
+Environment Chapter
+
+Regular Stakeholder Survey
+In early 2016 we conducted our global stakeholder survey for a second time. 993
+participants from Europe, North and South America, Asia, and Africa completed
+the questionnaires that we distributed as an anonymized online survey in five
+languages on the Voith homepage.
+Whereas our first survey in 2013 focused mainly on the expectations and requirements of the stakeholders in terms of corporate responsibility at Voith, this time the
+participants were also asked for their assessment of our performance in terms of
+sustainability. Based on the feedback gained from the previous survey, we revised
+the questions on individual fields of action and integrated new topics relating to
+such matters as the supply chain and product responsibility.
+The results provided us with the basis to perform a detailed materiality analysis,
+allowing us to realign our sustainability management and reporting activities, and
+focus on the key aspects. The challenge confronting us now is to prioritize our
+activities, as most of our fields of action received an equal weighting.
+We will continue to gather our stakeholders’ opinions regularly by utilizing surveys
+and forums, the format of which we are currently planning to revise.
+Effective and Transparent Reporting
+From as long ago as 2009 we have informed our stakeholders of our performance
+through our annual Sustainability Report and via additional online information. To
+ensure our reporting remains as effective as possible, in the reporting year we developed a new reporting model that focuses even more strongly on our target groups.
+Our traditional sustainability report will now concentrate more on the fields of action
+that are most material for our company and our stakeholders. It is supplemented by
+an extensive online facts & figures resource which includes additional information
+intended mainly for sustainability experts and specialists. In addition, we aim to
+explain the bases of our actions with our new brochure, giving especially applicants
+and interested parties quicker access to our activities in a compact format.
+Sustainability has been an integral part of our Annual Report for many years. We
+also keep our employees regularly updated on sustainability issues through posts
+on our Group-wide intranet and articles in our employee magazine.
+
+Voith Sustainabilit y Repor t 2016
+
+16
+
+1_What Underpins our Actions
+
+Materiality Analysis
+Very important
+
+10
+29
+6
+
+Importance to external stakeholders
+
+30
+28
+
+20
+21
+
+17
+18
+16
+19
+
+7
+15
+
+26
+
+13 11
+
+25 2 27
+
+12
+
+24
+23
+
+14 4
+5
+
+3
+1
+
+8
+
+22
+9
+
+Important
+Management
+1 Anti-corruption
+
+2 Data
+Protection
+
+3 Economic
+Stability
+
+4 Good
+Governance
+
+5 Human
+Rights
+
+
+Importance to internal stakeholders
+Supply Chain
+6 Supply
+Chain
+
+Anti-corruption
+7 Supplier
+Relations
+
+8 Environmental
+Standards
+
+9 Social
+Standards
+
+
+Employees
+10 Occupational
+Safety
+
+11 Education
+
+12 Health
+Benefits
+
+13 Training
+
+14 Work-Life
+Balance
+
+15 Remuneration
+
+16 Diversity
+
+
+Environment
+17 Material
+Efficiency
+
+18 Emissions
+Reduction
+
+19 Energy
+Efficiency
+
+20 Water
+Efficiency
+
+21 Renewable
+Energies
+
+Society
+22 Social
+Engagement
+
+
+Very important
+Products
+23 Customer
+Collaboration
+
+24 Innovation
+Management
+
+25 Reliability
+
+26 Value for Money
+27 Energy-efficient
+Products
+
+28 Product
+Safety
+
+29 Resource-efficient
+Products
+
+30 Water-efficient
+Products
+
+
+The Outlook for Stakeholder Dialog Activities
+We intend to systematically continue our stakeholder dialog activities over the coming years and hold our newly established stakeholder survey biennially. Our survey
+in the 2015/16 fiscal year also serves as the basis for overhauling our Sustainability
+Strategy, which we are developing further alongside our Corporate Strategy, and
+which will also see international and national action plans being incorporated into
+the goal-setting process.
+In terms of environmental aspects, with the support of our Sustainability Advisory
+Board we are currently working on developing our management approach and
+corresponding goals further. As a result, our target system will in future also include
+a specific climate goal, whereas previously our CO 2 emissions were only addressed
+through our energy target.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+17
+
+Our Profile
+Strategy & Organization
+Values & Compliance
+Responsibility for Society
+
+1.3 Values & Compliance
+How We See Ourselves
+At Voith, we integrate the tradition of a family-owned business with the culture of a
+global player. For many years, Voith has been undergoing a comprehensive process
+of transformation that impacts our organization and culture. In the reporting year we
+consolidated the way we have come to see ourselves in a new corporate mission
+statement. Our vision: Voith is the technology partner for industrial generations.
+Our values underpin all of our actions: We are respectful and reliable, open and
+ambitious. Our values, and the guidelines derived from them, ensure that Voith
+acts according to the same business principles and adopts the same philosophy
+worldwide. We have summarized this mission statement in our new claim, which we
+presented in October 2016 and which we will introduce worldwide in the 2016/17
+fiscal year: Inspiring Technology for Generations.
+Code of Conduct for All Employees
+Voith committed itself to upholding the following business principles in 1927: “In
+the business world one must be ethical, decent and honest. If a contracting party
+or competitor behaves unfairly, this does not give us the right to deviate from this
+principle.” These principles still govern our actions today. Our Code of Conduct
+defines the way we act towards customers and business partners, as well as how
+employees behave towards each other within the company. It can be viewed online
+and contains information on contact partners and the Voith Compliance Committee,
+among other things.
+We ask every single one of our employees to comply with prevailing legislation
+and our company’s internal regulations. This applies across our Group and all
+hierarchical levels, and any violations will entail sanctions. We constantly update
+our rules and procedures, and adapt them to meet current requirements.
+
+Key Aspects Addressed by the Voith Code of Conduct
+Observance of the rules of fair competition.
+• No anti-competitive agreements.
+• No corruption or bribery: No offering, granting, demanding and/or accepting
+of unfair benefits.
+• Transparency on donations and sponsorship.
+• Safeguarding our own trade secrets and patents, and respecting those of third
+parties.
+• No illegal preferential treatment of suppliers and service providers.
+• Respect for human rights, fair working conditions, and rejection of child and
+forced labor.
+•
+
+Voith Sustainabilit y Repor t 2016
+
+18
+
+1_What Underpins our Actions
+
+Voith Compliance Organization
+Our Compliance Committee is responsible for establishing, developing, and coordinating our Compliance Program, revising compliance regulations, and coordinating
+training. This committee meets monthly and comprises the Head of the Group
+Law Department (Chairman), as well as the respective Heads of the Group Human
+Resources Management and the Group Audit Departments. Its Chairman reports
+directly to the Corporate Board of Management of Voith GmbH. The CFOs of the
+Group Divisions and the individual Group companies serve as the Compliance
+Officers in their units. Within their area of responsibility, our Compliance Officers are
+responsible for implementing our Code of Conduct and also serve as Group-wide
+contact partners. This also corresponds to our other Risk Management organization.
+Compliance Training for Employees
+All of our employees are required to keep their knowledge of compliance issues and
+our Code of Conduct up to date on a regular basis via e-learning programs. With
+their successful participation, employees also document that they are fully aware
+of our Code of Conduct and have understood the appropriate regulations. Around
+97 % of our employees with a computer workstation completed our programs
+on anti-corruption and antitrust law, as well as on leadership and employees. A
+higher degree cannot be achieved owing to customary headcount fluctuation in a
+company, so we assume the programs cover all employees. Employees who do
+not have a computer workstation are trained by their line manager to ensure their
+knowledge is up to date.
+
+FACTS & FIGURES
+Compliance Training
+FACTS & FIGURES
+External Security Personnel
+
+Face-to-face training courses were also held again in the reporting year, with
+241 employees – mainly comprising managers and employees from Sales and
+Purchasing – taking part in twelve events. Separate, particularly detailed training
+courses were offered to Compliance Officers from our Group Divisions.
+Group-wide Information and Complaints Reporting System
+Any employee can report abuse, complaints or violations of our Code of Conduct to
+us. This principle applies just as much to our employees as it does to our suppliers,
+local residents or other stakeholders of our company.
+There are several ways in which Voith employees can do this: either personally
+through his/her line manager or the Compliance Officer, electronically via the Helpdesk, or by e-mail. We also follow up on complaints that have been submitted
+anonymously via our Group-wide whistleblower system. The number and type of
+violations are documented centrally, and this whistleblower system can also be
+accessed by external parties at any time via our company website, so it is open to
+all business partners and suppliers too. Any type of complaint on any subject can
+be reported. And to ensure the strictest confidentiality is maintained, the number
+and nature of the complaints at Voith are not disclosed externally.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+19
+
+Our Profile
+Strategy & Organization
+Values & Compliance
+Responsibility for Society
+
+Reports relating to the environment can also be submitted to the local Environmental Officer. The exact complaints process and escalation paths are set out in
+our HSE Group Directive and its annex Environmental Incidents. Complaints are
+communicated based on their severity along disciplinary and functional reporting
+lines. This is an opportunity that is also utilized: In the reporting period two incidents
+were reported regarding noise; the incidents were dealt with and the complaints
+resolved.
+
+FACTS & FIGURES
+Violations of Compliance Regulations
+FACTS & FIGURES
+Escalation Paths
+
+Regular Reviews Guarantee Effectiveness
+In the 2012/13 fiscal year an external auditing firm reviewed our compliance
+management system in accordance with the IDW PS 980 standard in respect of
+its design, implementation, and effectiveness. This review focused on preventing
+violations of antitrust and corruption laws.
+Our Internal Audit Department also examines observance of all compliance
+regulations in a routine risk assessment that involves around 30 operating units
+annually. We are pleased to announce that this Department once again confirmed
+that our compliance management system had been implemented appropriately in
+the reporting period.
+We ensure that our business partners comply with our regulations by means of
+a Supplier Self-Assessment (SSA). Compliance also forms part of our General
+Purchasing Terms. For the reporting period we are pleased to announce that we
+received no complaints concerning supplier violations of environmental or social
+standards, nor were we notified of any suspected cases of corruption.
+As in virtually all companies, in the reporting year we also had isolated cases where
+compliance regulations were violated at Voith. Appropriate action was taken in all
+instances.
+Tackling Corruption
+It is vital that we take rigorous action against corruption. All Compliance Officers
+create a Risk Control Matrix that also includes potential corruption risks for their
+specific Group Division. This structured process covers all Voith locations worldwide.
+The results of all Group Divisions are aggregated and, among other things, form
+the basis of internal compliance audits.
+Our risk assessment is based on many factors including the Corruption Perception
+Index (CPI) published annually by Transparency International. The index ranks virtually all countries by their perceived levels of corruption on a scale of 1 to 100. As
+we maintain business relationships the world over, special precautionary measures
+apply to high-risk countries. The risk manager responsible decides on the measures.
+176 countries are listed in the Corruption Perception Index.
+
+Voith Sustainabilit y Repor t 2016
+
+20
+
+1_What Underpins our Actions
+
+Confidential Treatment of Information
+Information security and protection of confidential data are core aspects of privacy
+and information security at Voith. Every employee is expected to show appropriate
+awareness and a sense of responsibility. Our information technology and security
+management system is certified according to the international standard ISO/IEC
+27001. Our Group Directive on Information Security and Data Protection sets out
+how information, and particularly customer data, must be handled.
+
+http://www.voith.com/en/konzern/
+compliance-187.html
+
+The Outlook for Integrity
+This fiscal year we are focusing on revising our Voith values in particular. In addition,
+we work continuously to optimize our compliance organization and adapt it to
+new standards and requirements. For example, in January we implemented the
+UK Modern Slavery Act declaration in our organization. We are currently working
+on reviewing and, if necessary, making relevant modifications to our compliance
+management system in the context of the German government’s action plan on
+human rights.
+
+1.4 Responsibility for Society
+Active social engagement is an integral part of our understanding of sustainability.
+A particular focus area of our activities lies traditionally on our headquarters in
+Heidenheim, Germany. Through various initiatives, such as our training program, we
+cooperate there with the special vocational college Sonderberufsfachschule Hanns
+Voith. And as a good neighbor, we also get involved in numerous other activities in
+the town. The scope of our activities focuses on the areas of sport, education, social
+affairs and culture, which we support either by providing direct financial assistance
+or through in-kind contributions.
+Group Directive Defines Frameworks
+The nature and scope of our engagement have been documented since 2008 in
+our Donations and Sponsorship Group Directive. This also outlines the financial
+frameworks of our spending commitments. The budget is based on the previous
+year’s earnings before tax (EBT), limited to a maximum of 1 % of EBT or at least
+two-thirds of the volume of funding in the year before last. By simplifying our
+approach we aim to ensure our engagement is continuous – even at times when
+our company’s development is volatile.
+We record our donation and sponsorship activities in our internal controlling system
+and update it every six months, covering all our global activities and across all
+business units. The Head of the Legal Department informs the Corporate Board
+of Management once a year on how funds have been allocated across the entire
+Voith Group.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+21
+
+Our Profile
+Strategy & Organization
+Values & Compliance
+Responsibility for Society
+
+We follow clear project-selection criteria. To qualify for assistance, above all we must
+be convinced that the recipient’s project is a worthy one, and of their integrity. We
+also take the regional relevance and the appropriateness to our business segments,
+values and corporate culture into consideration. Furthermore we consider the frequency and volume of previous contributions. Irrespective of this, in humanitarian
+emergencies that demand urgent action we provide help quickly and directly. There
+was no significant expenditure in the reporting year.
+By contrast, our sponsorship activities always focus on the appropriateness of
+the contribution and the benefit we receive in return. This is because we follow
+additional, mainly communicative goals besides providing sponsorship.
+Organization of our Engagement
+Our social engagement activities are managed predominantly by two organizations:
+• Voith GmbH, Heidenheim, and
+• Fundação Voith, Brazil – since 2004, Voith has helped social projects in Brazil
+through this foundation.
+In terms of organization, within our company we have also taken into account our
+activities’ various goals. Our Legal Department coordinates our social engagement
+activities, while Corporate Communications controls our sponsorship activities.
+Individual Group Divisions and local Group companies can also launch and run
+their own assistance and sponsorship projects as long as they comply with our
+Group Directive.
+We also support numerous initiatives and projects in coordination with the Hanns
+Voith Foundation. Through its activities, this independent foundation regularly
+engages in a large number of local and supraregional initiatives, and also provides
+financial support as annual donations to various projects.
+Our Engagement Activities in the Reporting Period
+In the 2015/16 fiscal year we invested around €1.99 million in social engagement
+activities (previous year: €2.8 million). Of this, Fundação Voith contributed €62,000.
+The drop in total funding is due primarily to the non-recurrence of one-time effects
+in the area of sponsorship.
+We provided €0.80 million in the form of donations, while €1.19 million was used for
+sponsorship measures. We spent the greatest share on sports (57 %), followed by
+education (29 %), social projects (8 %), and cultural projects (7 %). In the reporting
+year, political parties and organizations received financial contributions of €80,000.
+
+FACTS & FIGURES
+Donations and Sponsorship
+FACTS & FIGURES
+Contributions to Political Actors
+
+Voith Sustainabilit y Repor t 2016
+
+22
+
+1_What Underpins our Actions
+
+Sports Engagement
+Voith sponsors professional and amateur sports, and supports sports clubs and
+events around the world with the main focus on Heidenheim. In the reporting year
+we spent €1.13 million in this area. At our company’s headquarters we sponsor
+the sports club 1. FC Heidenheim 1864 e.V. This includes sponsoring the naming
+rights to the Voith Arena and supporting the club as the principal sponsor of the
+shirts and perimeter boards. By doing so we aim to increase Voith’s brand recognition in particular. In addition, we sponsor the fencing center of the Heidenheimer
+Sportbund 1846 e.V. (HSB – Heidenheim Sports Association) as well as the local
+HSB baseball team and the HSB athletics department, whose training site bears
+the name Voith-Sportzentrum (Voith Sports Center). We believe support for local
+initiatives is an investment in the attractiveness of the region – and one that benefits
+both the regional citizens and our employees. In the previous fiscal year we also
+provided financial assistance to Sunpor St. Pölten cycling club, the Crailsheim
+Merlins basketball team, and the Tennessee Valley golf association.
+Committed to Education
+A good education and training form the basis for the best development opportunities in life. This is why we support kindergartens, schools, and universities
+around the world, and in doing so are continuing the tradition of Dr. Hanns Voith.
+Already in 1946, Voith dedicated itself in the German state of Baden-Württemberg
+to taking disadvantaged young people and preparing them for training schemes
+and the world of work. What initially started as a vocational preparation and training
+course has now become an institution, and has been recognized since 2004 as
+the Sonderberufsfachschule Hanns Voith (Special Vocational College Hanns Voith).
+
+FACTS & FIGURES
+Education Initiative “business@school”
+
+13 years have passed since we began supporting the Germany-wide business@
+school, an education initiative of The Boston Consulting Group. It gives senior high
+school students the opportunity to get a closer look at business, including hands-on
+experience, over the course of one school year.
+
+FACTS & FIGURES
+University Engagement and
+Foundation Professorships
+
+At university level we support young talent at the universities of Aalen, Dresden,
+Stuttgart, and Ulm as part of the German Deutschlandstipendien scholarship
+scheme. Furthermore, we provide endowments for professorships at the German
+universities of Stuttgart, Ulm, and Aalen. By doing so, we aim to contribute – without
+influencing the research content or teaching practices – to the training of new
+academic talent and promote research in scientific areas relevant to Voith.
+
+FACTS & FIGURES
+International Education Projects
+
+Our long-standing cooperation with schools and universities has also proven its
+worth in Europe, the US, India, China, and Brazil. Our assistance in this area
+includes support for the Educational Freedom projects of Recreatur Resgatur,
+Escola Estadual Conjunto Habitacional Voith, and Friedrich von Voith School in
+São Paulo, Brazil as well as the Formare project of Fundação Iochpe. Each year
+Formare offers 20 children from low-income families the chance to take a training
+course and go on to gain a state-recognized qualification. Employees’ children are
+excluded from taking part.
+
+FACTS & FIGURES
+Special Vocational College Hanns Voith
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+23
+
+Our Profile
+Strategy & Organization
+Values & Compliance
+Responsibility for Society
+
+We forge a link to our cultural engagement through our contribution to the Heidenheim Opera Festival, of which we are the main sponsor. In the reporting year
+this support included inviting all fourth grade primary school pupils in Heidenheim
+to the Junge Oper opera for youngsters, thereby contributing to the pupils’ early
+musical education.
+Cultural Engagement
+We want to give as many people as possible access to culture. As an example, in the
+reporting period we provided financial support to various institutions in Heidenheim,
+including the Opera Festival with a €9,000 donation. In Brazil, we also provided
+€50,000 in funding to the Fundação Bachiana Filarmonica.
+Social Affairs Engagement
+Our wish is to improve people’s living conditions around the world and promote
+intercultural exchange. Voith is one of the initiators of the integration initiative “Wir
+Zusammen" (We Together) of German industry, which helps refugees integrate in
+Germany. We are involved in providing an introductory vocational training course
+for young refugees to facilitate their entry into professional life or vocational training.
+Of the eight places offered at Voith, on October 1, 2016 four were taken by young
+refugees, who are supported and trained by experienced Voith trainers.
+In India we supported a number of social projects in the reporting period. These
+included Bharat Sevashram Sangha, the Prime Minister’s National Relief Fund, and
+Pranab Kanya Sangha (€13,500 each), Prayas Social Welfare Society and Shirdi
+Sai Baba Temple Society (€6,750 each).
+
+FACTS & FIGURES
+International Social Projects
+
+Many of our employees also volunteer their spare time to assist people in need.
+Among our activities in this area, we support them by granting temporary paid
+release from work and providing them with materials or equipment that is no longer
+required.
+One example of this in action is a children’s village in Nepal, which came about on
+the initiative of a Voith employee and his wife. The village is run by the Children’s
+Future Organization (CFO) and looks after orphans and half-orphans.
+
+FACTS & FIGURES
+Engagement in Nepal
+
+Voith Sustainabilit y Repor t 2016
+
+25
+
+2_Environment
+Voith is a global technology group,
+so we see it as our corporate
+responsibility to handle resources
+and energy efficiently as well as to
+avoid environmental risks at all of our
+locations. By linking our economic
+principles with environmental actions
+we not only contribute to protecting
+the climate but also create measurable
+added value for our company.
+
+Voith Sustainabilit y Repor t 2016
+
+26
+
+2_Environment
+
+2_Environment
+2.1 Environmental Management Approach
+As a global technology group Voith is required to comply with a large number of
+national, regional, and industry-specific laws, regulations, and guidelines. It goes
+without saying that we comply fully with these. At the same time, we have a
+duty towards our employees and neighbors to avoid environmental risks and use
+resources responsibly. As a manufacturer our main focus therefore lies on energy
+and resource management, through which we intend to continually reduce our
+energy consumption and the resulting greenhouse gas emissions, make efficient
+and safe use of materials and raw materials, and prevent waste as far as possible.
+We also work continuously to reduce our water withdrawal and wastewater volumes.
+To meet these challenges we defined two focus areas for our environmental activities:
+• Operational environmental protection – Eco Standards provide strategic
+and operational support to our divisions and locations in complying with and
+implementing environmental regulations as well as internal environmental
+protection policies.
+• Resource protection – Ecological Business Management (EBM) improves
+energy and resource efficiency at our locations.
+2.1.1 Operational Environmental Protection
+Eco Standards Set the Framework
+The aim of operational environmental protection is to minimize all environmentally
+harmful effects of Voith’s operating activities. Our actions in this area focus on
+strategic and operational control, with the aim of ensuring that environmental regulations are implemented and upheld (Eco Standards). In particular, this includes
+the assessment and internal communication of potential environmental risks, categorized into risk classes according to their probability and potential damage level.
+
+Section 1
+What Underpins our Actions
+
+The HSE Steering Team is responsible for coordinating and standardizing our
+approach to operational environmental protection. In the reporting period, the
+team dealt with a variety of activities including standardizing and organizing existing
+environmental protection processes and procedures. It also addressed central
+issues relating to hazardous materials management, with the aim of replacing
+especially critical materials with harmless substitutes while reducing the amount
+of materials used.
+Our HSE Group Directive commits each of our locations to appoint an Environmental Representative. Their tasks cover a wide range of topics including emissions
+control and water protection, waste management, hazardous materials and goods,
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+27
+
+Environmental Management Approach
+Performance in the Reporting Period
+
+and preventing environmental incidents. They also advise operations managers
+on new plant constructions, modifications and approval processes, and conduct
+regular site inspections and audits.
+Full-time environmental experts at our regional HSE service organizations ensure
+our Group companies are provided with high-quality, organized support. To assist
+them, the experts have access to a central HSE legislation database that contains all
+the relevant HSE regulations and standards that apply to us in each region. Besides
+current legislative texts, the database also includes summaries and comments in
+the respective national languages.
+The legal requirements are assigned via our global hse+ system to the relevant
+representative, who then becomes responsible for ensuring the requirements are
+complied with. The same applies to Voith standards, approvals, and requirements.
+hse+ is also used to perform location-related environmental risk assessments. The
+measures derived are then assigned implementation responsibilities and implementation review dates, and documented and monitored in hse+.
+Environmental Incident Reporting System
+Using our Group-wide reporting system we record all environmental incidents
+every month based on standardized criteria. We analyze them, and then report the
+analysis results every quarter to our Corporate Board of Management.
+
+Section 1.1
+Strategy & Organization
+
+In the reporting year we revised our definition of environmental incidents. They are
+now fully aligned with our occupational safety categories, enabling us to evaluate
+and rate cross-topic incidents according to the same standards. We incorporated
+the corresponding changes in our HSE Group Directive.
+Our internal communications have increased our employees’ awareness of environmental protection and environmental incidents, thereby broadening the regional
+distribution of information relating to unsafe actions. Whereas our focus was previously on Europe and South America, in the 2015/16 fiscal year we gathered more
+information from North America and Asia.
+We are pleased to announce that no incidents requiring public reporting were
+registered in the reporting period.
+
+FACTS & FIGURES
+Noise Complaints
+
+Hazardous Materials Management
+The hazardous materials we use at Voith include coating materials such as paints,
+lacquers, thinners and solvents, adhesives, resins and hardeners, lubricants,
+cleaning agents, and industrial chemicals. Wherever possible we try to eliminate
+particularly harmful materials, and encourage the use of low-risk substitutes as well
+as the harmonization of safety standards across the Group.
+
+Voith Sustainabilit y Repor t 2016
+
+28
+
+2_Environment
+
+To achieve this, our global approval process is underpinned by our hazardous materials database. It comprises a uniform global assessment of the environmental, health,
+and safety risks of work materials and hazardous materials.
+The first step involves us examining globally whether legal restrictions are in place or
+whether materials are listed on customers’ banned lists. We ensure these materials
+are handled as safely and securely as possible by means of a Group-wide hazardous
+materials approval process. We also impose a strict “polluter pays” principle to
+encourage prioritization of the use of approved materials from the hazardous materials database. In doing so, we work to meet environmental protection, occupational
+safety, and compliance requirements, and achieve the greatest possible degree of
+standardization. We also aim to have a positive influence on hazard potentials and
+costs by reducing the wide range of redundant materials we use.
+
+FACTS & FIGURES
+Nanotechnology
+
+Since we introduced the process there has already been a considerable increase
+in both the quality and completeness of data as well as in the transparency of
+the requested materials. In doing so, this process will allow us to issue product
+declarations at the press of a button and reduce pollutants in products.
+However, the sheer number of materials currently in the database means the consolidation process is taking longer than we expected when launching the project
+back in 2011. We currently estimate it will take a further two years to integrate all
+previous local databases into our centralized hazardous materials database.
+In the reporting period we submitted 947 requests for new hazardous materials, of
+which 867 were approved. 8 % of applications were rejected; in over half of these
+it was because they contained banned or harmful materials – proof that the new
+process is working and effective. The other rejected applications were returned
+with the request to select a suitable substitute from the list of approved materials.
+In coming years we aim to progressively increase the consolidation of hazardous
+materials used, but we can only achieve this in collaboration with the people who
+use these materials within our company. They need to trust the substitutes, particularly in relation to the integrity of our processes and the quality of the products.
+In the reporting period we developed a Materials Navigator tool to provide information quickly and reliably whenever required on which hazardous materials we use in
+our products. As an indicator of any hazardous materials that product groups may
+contain, the tool offers a range of functions including a quick check on whether and
+to what degree a (sub)product contains certain hazardous materials. It also allows
+banned or restricted materials to be checked against current standards, so that
+Purchasing does not buy problematic materials in the first place, or a stop can be
+put to their use as soon as possible.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+29
+
+Environmental Management Approach
+Performance in the Reporting Period
+
+2.1.2 Efficient Use of Resources
+Ecological Business Management (EBM) aims to identify ecological and economic
+potentials for improvement in our production processes. To leverage these potentials, we perform analyses at process, system, and component level.
+We focus on the areas of energy, waste, and freshwater, and within this we follow
+three specific aims set out by the Corporate Board of Management taking the
+2011/12 fiscal year as the benchmark: We will reduce our energy consumption by
+20 % based on revenue, our waste by 25 %, and our freshwater consumption by
+10 % by the 2017/18 fiscal year. Since the absolute savings to be achieved vary
+
+Production-related Energy Consumption*
+specific value in MWh/€ million in revenues
+
+126.0
+
+126.2
+
+126.2
+113.8
+
+Target value
+for 2015/16
+Target value
+for 2017/18
+
+106.4
+
+108.6
+100.8
+
+2011/12
+
+2012/13
+
+2013/14
+
+2014/15
+
+2015/16
+
+Waste
+specific value in t/€ million in revenues
+
+10.7
+
+Target value
+for 2015/16
+Target value
+for 2017/18
+
+10.9
+10.2
+
+9.9
+8.7
+
+2011/12
+
+2012/13
+
+2013/14
+
+2014/15
+
+0.32
+
+0.32
+
+8.8
+8.0
+
+2015/16
+
+Freshwater Consumption*
+specific value in m 3/€ thousand in revenues
+
+0.36
+
+Target value
+for 2015/16
+Target value
+for 2017/18
+
+0.33
+0.32
+
+0.27
+0.25
+2011/12
+
+2012/13
+
+2013/14
+
+2014/15
+
+2015/16
+
+*D ata excludes the discontinued Group Division Voith Industrial Services.
+
+Voith Sustainabilit y Repor t 2016
+
+30
+
+2_Environment
+
+Ability to Influence Value-adding Stages
+in terms of material efficiency
+
+Potential to influence
+
+R&D
+
+FACTS & FIGURES
+Environmental Goals
+
+Construction
+
+Purchasing
+
+Production
+
+–
+
+depending on revenue targets, we adjust and check these through our Green
+Controlling process. Our progress towards achieving targets in our EBM system
+is influenced by a range of factors, including changes to design and construction
+processes, production relocations, production fluctuations as a result of changes
+in utilization, changes in purchasing behavior, and site closures.
+In the reporting year we continued the successful course charted in the previous
+year and achieved further improvements across all target fields based on revenue.
+We successfully refilled our pipeline of measures and also further improved the level
+of implementation of measures already identified and launched.
+At present we are already working on further developing existing goals so that we
+can continue optimizing our processes seamlessly beyond the end of the current
+target period in the 2017/18 fiscal year. Our EBM team was tasked with reviewing
+this, and its findings will be discussed during the current fiscal year in the Corporate
+Sustainability Council (CSC).
+
+FACTS & FIGURES
+Green Controlling
+FACTS & FIGURES
+EBM Experts
+
+Green Controlling Establishes Objective Decision-making Principles
+We aim to create both economic and ecological added value through our resource
+management activities. To achieve this we follow a four-stage Green Controlling
+process: This provides us with transparency concerning our pipeline of measures,
+the degree of implementation of the measures represented within it, and their
+impact on the development of indicators, allowing us to actively control the target-achievement process.
+Hot-spot Analyses Leverage Further Potential
+For many years now we have been using hot-spot analyses to successfully address
+location-specific and cross-location focus topics, such as the energy consumed
+during a process step. To achieve maximum effect we focus on the greatest consumption drivers at our individual regions and locations. To allow us to leverage
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+31
+
+Environmental Management Approach
+Performance in the Reporting Period
+
+additional optimization potentials, in the reporting period we conducted 17 hot-spot
+analyses – 10 in Europe, 2 in America, and 5 in Asia – that also enabled us to
+address the regional distribution of resource consumption. Once again, energy
+and waste were the focus areas of the analyses. The results are explained later in
+the respective report sections.
+The analyses once again confirm the trend that we are increasingly moving away
+from facility infrastructure topics (lighting, compressed air, ventilation, and air
+conditioning) towards process-specific topics (such as the use of steel grit for
+sandblasting, and the heat-setting process for felt production). In doing so we are
+gradually leveraging the greatest value potentials, although the expense and risks
+involved in implementing the relevant measures are increasing.
+
+FACTS & FIGURES
+Hot-spot Analysis Methodology
+
+2.2 Performance in the Reporting Period
+2.2.1 Energy Efficiency and Greenhouse Gas Emissions
+Energy Consumption Falls Again
+In the 2015/16 fiscal year Voith consumed 452,294 MWh of energy (previous year:
+489,473 MWh). 106 MWh of energy was needed per € million in revenue, which
+was 6.5 % less than the previous year (114 MWh per € million in revenues). Taking
+the figures of the 2011/12 fiscal year as our benchmark we have already achieved
+a 15.6 % improvement, with the goal of 20 % in the 2017/18 fiscal year still firmly
+in our sights.
+In the period under review the identified potential for action in the pipeline rose from
+90.1 GWh to 107.0 GWh (an increase of 18.8 % versus the previous year). Measures
+with a volume of 23.6 GWh (previous year: 25.4 GWh, –7.1 %) were implemented
+in the reporting period; as a result, the total amount of measures implemented is
+73.6 GWh.
+
+FACTS & FIGURES
+Energy Consumption
+FACTS & FIGURES
+Energy Saving Measures
+and Further Potentials
+FACTS & FIGURES
+Certifications
+
+Production-related Energy Consumption*
+in MWh
+525,862
+
+2013/14
+
+489,473
+
+2014/15
+
+452,294
+
+2015/16
+
+*Data excludes the discontinued Group Division Voith Industrial Services.
+
+Voith Sustainabilit y Repor t 2016
+
+32
+
+2_Environment
+
+To further reduce our energy consumption in the reporting period we conducted hotspot analyses focusing on ventilation, air conditioning, heating, and lighting. Almost
+all analyses were followed by upgrade projects to existing facility infrastructures,
+which to some degree had already been implemented in the reporting period.
+However, the trend reveals that the potentials that still need to be achieved in
+economic terms through infrastructure measures are limited owing to the successful
+implementation of measures in past years.
+Regular resource-efficiency workshops also encourage knowledge exchange within
+our organization. Within these we try to compare similar processes, set benchmarks,
+and realize identified potentials by sharing best practice examples.
+
+FACTS & FIGURES
+Renewables
+
+Energy Mix Largely Unchanged
+14.8 % of the energy we consumed came from renewables, and 85.2 % from
+non-renewable resources. This calculation included all energy sources associated
+with our energy consumption in production.
+
+FACTS & FIGURES
+Production-related
+Energy Consumption
+
+Besides heating and cooling, which account for around 33 % of our energy consumption, the production of paper-machine clothing remains the key driver of our
+production-related energy use, accounting for 25 % of our global consumption.
+Apart from weaving processes, heat-setting is especially energy-intensive – particularly in felt production. The operation of machine tools consumes 5 % of the energy
+used at Voith, with 5 % of production-related energy consumption accounted for
+by the foundry in São Paulo, Brazil.
+
+FACTS & FIGURES
+Direct and Indirect Energy Ratio
+
+In the reporting period there was no change to the proportion of direct (33 %) and
+indirect (67 %) energy consumption. With a share of 80 %, natural gas remains the
+key energy source for our direct production-related energy consumption, followed
+by LPG (liquefied petroleum gas), diesel, and heating oil with percentage shares in
+single digits. We use these energy sources as heating fuel and for heat-intensive
+thermal processes. Diesel is used primarily to operate emergency generators and
+
+Main Sources of Energy Consumption
+in %
+
+7%
+Heating and cooling energy
+25 %
+
+33 %
+
+Paper-machine clothing
+Machine tools
+
+5%
+
+Foundry
+5%
+
+25 %
+
+Production and test stands
+Other
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+33
+
+Environmental Management Approach
+Performance in the Reporting Period
+
+generate steam at our locations in Karawang, Indonesia, and for thermal processes
+in São Paulo, Brazil.
+Electricity Consumption Continues to Fall
+In the reporting period we consumed 249,206 MWh of electricity (previous year:
+268,855 MWh). In terms of our electricity mix, the share of energy sources supplied
+by external providers remained virtually unchanged at 73.3 % (previous year: 71.9 %)
+from non-renewable and 26.7 % (previous year: 28.1 %) from renewable resources.
+
+FACTS & FIGURES
+Electricity Mix
+FACTS & FIGURES
+Environmental Impact of Buildings
+
+Greenhouse Gas Emissions Reduced
+We are well aware of the impact our actions have on climate change, so we try
+to minimize them as far as possible. We identified how much energy we consume, as the main driver of our greenhouse gas (GHG) emissions, and are taking
+rigorous steps to counter these emissions as part of our environmental goals.
+The primary focus of our activities in the current fiscal year is on improving our
+energy efficiency.
+Both energy consumption and the associated GHG emissions are included in our
+current realignment of environmental goals. In addition, through our measures within
+the framework of our EBM and Eco Technologies activities we also factor-in the
+consequences of climate change when developing products. After all, our products’
+lifecycle analyses demonstrate clearly that their environmental footprint is far greater
+when they are in use than in the production stage. As a fundamental principle we
+aim to be the technology leader in all of our markets – where Voith products feature
+regularly in the highest efficiency class.
+
+Section 4
+Product Responsibility
+
+In the 2015/16 fiscal year our facilities’ GHG emissions fell by 4.1 % to 147,341 t
+CO2e (previous year: 153,697 t CO2e). The share of direct GHG emissions fell
+compared to the previous year by 6.6 % from 32,728 t CO2e to 30,554 t CO2e.
+Indirect GHG emissions also fell to 116,787 t CO2e (previous year: 120,968 t CO2e),
+equivalent to a reduction of 3.5 %.
+
+Electricity Mix by Renewable and Non-renewable Resources
+in %
+
+From renewable
+sources
+
+27 %
+
+From nonrenewable
+sources
+
+73 %
+
+2013/14
+
+2014/15
+
+2015/16
+
+Voith Sustainabilit y Repor t 2016
+
+34
+
+2_Environment
+
+Production-related Greenhouse Gas (GHG) Emissions
+energy consumption/total GHG emissions in t CO2e
+163,755
+
+2013/14
+
+FACTS & FIGURES
+GHG Emissions by Scope,
+Region, and Methodology
+FACTS & FIGURES
+Transport Emissions
+FACTS & FIGURES
+GHG Emission Reduction
+Measures
+FACTS & FIGURES
+Emissions Trading
+FACTS & FIGURES
+Air Pollutants
+
+153,697
+
+147,341
+
+2014/15
+
+2015/16
+
+Since the 2008/09 fiscal year we have reduced our absolute energy consumption
+by 19.8 %, whereas absolute GHG emissions in the same period fell by 13.1 %.
+This difference is attributable to the national electricity mixes, meaning energy
+savings at individual locations or due to production relocations vary in their impact
+on GHG emissions.
+2.2.2 Material Efficiency and Waste
+The use of materials and raw materials is controlled Group-wide at Voith. We work
+tirelessly to make our processes resource-friendly; we are nevertheless confronted
+with specific challenges due to the broad scope of our product portfolio and the
+corresponding diversity of our process landscape. We also face challenges in the
+project businesses at Voith Hydro and Voith Paper, as well as in mass production
+at Voith Turbo.
+Known methods to increase material efficiency have so far focused heavily on mass
+production and efficiencies of scale; however, in practical terms there is currently
+a genuine lack of useful methodical approaches to increase material efficiency in
+the project business. This is why we have invested a great deal of time in recent
+years in developing a practical standard methodology for project business and
+mass production.
+
+FACTS & FIGURES
+Materials Used
+
+Voith Sustainabilit y Repor t 2016
+
+Material Efficiency Increased
+In the reporting period we purchased around 186,000 t of materials from suppliers,
+an increase of around 15 % versus the previous year (161,739 t). The distribution
+in terms of the materials we purchased is as follows: 59 % semifinished products
+(previous year: 55 %), 30 % raw materials (previous year: 34 %), 9 % packaging
+(previous year: 8 %), and 3 % auxiliaries (previous year: 3 %). The proportion of
+renewable materials was 9 % (previous year: 10 %) owing to the large share of
+wooden packaging.
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+35
+
+Environmental Management Approach
+Performance in the Reporting Period
+
+Material Consumption by Use
+in %
+
+of which semifinished products
+2%
+
+59 %
+
+of which raw materials
+of which packaging
+
+9%
+
+of which auxiliaries
+30 %
+
+In the reporting period 41 % (previous year: 50 %) of the materials we used were recycled. The proportion was 55 % (previous year: 53 %) for auxiliaries, 45 % (previous
+year: 47 %) for raw materials, 33 % (previous year: 49 %) for semifinished products,
+and 80 % (previous year: 84 %) for packaging.
+
+4.2 Responsibility in the Supply Chain
+
+We work continuously to further optimize material efficiency by utilizing proven
+approaches, such as hot-spot and Ishikawa analyses. As part of this we closely
+follow one of the focus areas of our Voith Excellent Initiative – Voith 150+ Next
+Level – whose aims include looking for potentials for improvement in product
+development and engineering.
+Waste Volume Reduced
+In the reporting period Voith generated 36,989 t of waste (previous year: 42,632 t),
+which is 5,643 t, or 13.2 %, less than the year before. As a result, the ratio of the
+volume of waste by revenue improved by 12.2 % to 8.7 t per € million in revenues
+(previous year: 9.9 t). With an overall reduction of 18.7 % since the base year, our
+goal of 25.0 % for the coming fiscal year is within reach.
+
+FACTS & FIGURES
+Waste Volume
+
+Gains from measures implemented rose by 1,399 tonnes to 3,782 tonnes (increase
+of 170.4 %) in the reporting year. Due to our restructuring measures as part of the
+Voith 150+ success program, we reevaluated our measures in the topic area of
+waste. This reevaluation – owing to site closures and the cutback in production
+at our smelting furnace in São Paulo – reduced the potential gains identified from
+measures in the pipeline by 31 % to 5,975 tonnes in the period under review.
+
+FACTS & FIGURES
+Waste Saving Measures
+and Further Potentials
+
+To further reduce the amount of waste we generate, and thereby increase material
+efficiency, at the start of the period under review we held expert workshops on
+the topic of waste in which we reviewed an analysis of key waste drivers. This
+analysis was carried out based on our global sustainability database, and reported
+the largest waste fractions on the basis of mass by region and location. In a
+joint discussion we reviewed the causes of the individual fractions and looked
+
+Voith Sustainabilit y Repor t 2016
+
+36
+
+2_Environment
+
+Waste
+in t
+45,412
+
+42,632
+36,989
+
+2013/14
+
+2014/15
+
+2015/16
+
+for opportunities to reduce them. We identified emulsion waste (such as from
+coolant emulsions), packaging waste (e.g. wood), as well as casting-sand waste
+from the foundry in São Paulo as key waste fractions. To validate the workshop
+findings and identify detailed measures, we conducted hot-spot analyses
+at the locations.
+Wood, paper, and cardboard waste account for a large share of the waste we
+generate in all regions. This is due largely to packaging, and making make-to-order
+components safe and secure for transportation.
+Owing to the high proportion of one-off and custom-made products at Voith, it is
+often not economically viable to produce individual material-optimized packaging; nevertheless, in some cases we managed to increase the share of recycled
+packaging.
+
+FACTS & FIGURES
+Hazardous Waste
+
+Reduction in Hazardous and Non-hazardous Waste
+Our waste classifications remain virtually unchanged versus the previous year, with
+around 81 % of our waste deemed non-hazardous and the remaining 19 % classified
+as hazardous. In absolute terms we generated 3,889 t less non-hazardous waste
+and 1,754 t less hazardous waste compared to the previous year.
+The hazardous waste reduction is mainly caused by the cutback in production at
+our foundry in São Paulo, which generates over a third of our hazardous waste.
+The restructuring measures we implemented the previous year also influenced the
+volume of non-hazardous waste. At our locations of St. Pölten, Ravensburg, and
+Krefeld we produced 1,136 t less waste compared to the same period the previous
+year. At the same time, the non-hazardous waste volumes at our locations of
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+37
+
+Environmental Management Approach
+Performance in the Reporting Period
+
+Heidenheim, Kunshan, and Appleton – to which we relocated production – rose
+slightly by 338 t.
+The collection of hazardous waste at Voith is governed by internal regulations.
+External waste disposal and recycling companies take care of our company’s waste;
+Voith does not transport any waste itself. We are pleased to announce that in the
+reporting period no violations of the law were reported to us related to the disposal
+of waste by our external service providers.
+
+FACTS & FIGURES
+Waste Disposal
+
+In addition, many of our locations developed special solutions in the reporting
+period to tackle local waste challenges, increase material efficiency, and reduce
+waste volumes.
+2.2.3 Water
+Significant Drop in Freshwater Consumption
+In the reporting period our freshwater consumption totaled 1,046,912 m³, representing a fall of 346,727 m³ or 24.9 % versus the previous year. We use around
+a third (35.2 %; previous year: 41.9 %) of our freshwater consumption for cooling
+purposes only, which does not contaminate it.
+
+FACTS & FIGURES
+Water Consumption
+
+In relation to revenue, our year-on-year freshwater consumption fell by 21.9 % to
+0.25 m3 per € thousand in revenue. With a total reduction of over 30 % since the
+base year we have already clearly exceeded our goal for 2017/18 even before the
+end of the five-year timeframe we set ourselves for this.
+Notwithstanding this already very high level of achievement we were able to further
+increase the number of identified measures in the pipeline, with the volume increasing by 6.9 % to 743,000 m3 of freshwater in comparison to the previous year. In the
+same period, the gains from measures already implemented from the pipeline rose
+by 12 % to 706,000 m3 of freshwater.
+In the current fiscal year we intend to stabilize the high level we have achieved, and
+further improve it by the end of the target period in the 2017/18 fiscal year.
+Among other measures, in the reporting period the renewal of a cooling plant at our
+York location reduced our consumption, leading to savings of around 4,500 m3. In
+addition, the full impact of repairs to our groundwater cooling system at our new
+training center in Heidenheim became evident in the reporting period – further proof
+of the effectiveness of our Green Controlling process. By monitoring the KPIs, we
+identified the defect promptly and pinpointed its location. Our Green Controlling
+process also helped in the technical analysis of the fault, the implementation of
+corresponding measures, and the checking of their effectiveness.
+
+FACTS & FIGURES
+Freshwater Savings Measures
+and Further Potentials
+
+Voith Sustainabilit y Repor t 2016
+
+38
+
+2_Environment
+
+Freshwater Consumption
+in m3
+
+1,349,592
+
+1,393,639
+1,046,912
+
+2013/14
+
+2014/15
+
+2015/16
+
+We routinely review our 2011 water scarcity and biodiversity studies to ensure they
+are current. We incorporate the findings in our planning of measures, and at the
+same time we monitor the development of our water consumption as part of our
+Green Controlling process – particularly for those locations where there is a threat
+of water scarcity.
+Our water conservation measures are especially important to us, particularly at
+our facility in São Paulo, as Brazil has been increasingly afflicted by droughts and
+water shortages in recent years. This is why we replaced the freshwater used to
+cool the foundry with processed water from our own wastewater treatment plant
+way back in the 2013/14 fiscal year. This enables us to achieve annual freshwater
+savings of up to 25,000 m³.
+
+FACTS & FIGURES
+Wastewater: Quality
+
+Less Wastewater
+In the reporting period our volume of wastewater stood at 985,880 m³ (previous
+year: 1,212,974 m³). Around 39 % (previous year: 27 %) was discharged into rivers,
+lakes or the soil, while 49 % (previous year: 44 %) was discharged into the sewage
+system. We operate our own wastewater treatment plants at our locations in São
+Paulo, Garching, and West Monroe. Where possible, we reuse the treated water
+internally.
+
+2.3.3 Freshwater
+
+The significant 20 % year-on-year drop is thanks mainly to the strong reduction
+in cooling water use at our new training center in Heidenheim, the full impact of
+which became evident for the first time in the reporting period. This reduction also
+reduced our freshwater use considerably.
+
+FACTS & FIGURES
+Wastewater: By Method of Discharge
+
+We record the KPIs to provide more detailed information about the effects of the
+process water we discharge. However, the overall burden of BOD, COD, TSS,
+heavy metals, nitrogen, and phosphorus cannot be derived for the balance-sheet
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+39
+
+Environmental Management Approach
+Performance in the Reporting Period
+
+Wastewater by Discharge Type
+in %
+
+1%
+
+47 %
+
+Reuse in
+another company
+Groundwater
+
+13 %
+
+Surface water
+39 %
+
+Public sewage system
+
+scope owing to the low sampling requirements. This is because our manufacturing
+processes only have a minor impact on water compared to other industrial companies. Therefore, we are rarely required to measure water quality. For instance, at
+our Chinese locations only one sample per year is analyzed, whereas at our other
+locations continuous or repeated monitoring measurements are required.
+We are pleased to announce that there were no reports of limits being violated in
+the reporting period.
+
+FACTS & FIGURES
+Water and Neighboring
+Habitat Protection
+FACTS & FIGURES
+Sealing of Soil Surfaces
+FACTS & FIGURES
+Environmental Incidents
+
+2.3 Outlook
+We have already achieved our freshwater consumption goal a full year before our
+environmental goals expire. And we will stick to our goal right to the end of the target
+period, even if our revenue development turns negative. Besides this, our energy
+consumption and waste generation goals are within reach for this coming fiscal year.
+In the area of energy we will need to achieve savings of around 25 GWh, with a
+delta of 3,500 t in terms of waste generation, until we achieve our goal. Based on
+the measures we introduced in the current fiscal year we expect to achieve all of
+our goals as planned. We will then have saved just short of 112 GWh of energy and
+around 21,502 t of waste since the base year.
+
+FACTS & FIGURES
+Saving Measures
+
+We intend to continue creating both ecological and economic added value through
+our activities. This is why we are working towards setting new goals, whereby we
+intend to also explicitly include our greenhouse gas emissions. Furthermore, we will
+incorporate established national and international sustainable-development goals
+when setting our new target values.
+
+Voith Sustainabilit y Repor t 2016
+
+41
+
+3_Employees
+Being a family company makes us
+all the more aware of the special
+responsibility we have towards our
+employees. We aim to be a fair and
+reliable employer, and one that takes
+our employees’ personal circumstances into account. We have high
+expectations of our employees, so in
+return we offer them flexible solutions
+for their needs, wide-ranging training
+and further education opportunities
+and varied career paths in all areas
+of our global Group.
+
+Voith Sustainabilit y Repor t 2016
+
+42
+
+3_Employees
+
+3_Employees
+3.1 Our Aspiration – Our Responsibility
+We are fully aware that our success as a company depends on the success of
+our employees. Qualified, motivated, and committed employees are the engine
+that powers Voith. We offer employees who meet our high performance standards
+challenging tasks, personal development opportunities, and an attractive working
+environment. As a reliable employer, we work hard to secure the long-term loyalty
+of our employees, and in doing so also lay the basis for the successful long-term
+development of our company – for generations to come.
+
+FACTS & FIGURES
+Workforce Structure
+
+Voith as an Employer
+The Voith Group’s workforce stood at 19,494 employees as at the end of the
+2015/16 fiscal year. This is equivalent to 19,098 full-time equivalent (FTE) jobs
+excluding apprentices. Around 54 % of our employees work in Europe, 26 % in the
+Americas, 17 % in Asia, with the remaining 3 % working in other regions of the world.
+Workforce Changes
+The comprehensive transformation of our Group under the Voith 150+ program
+also resulted in workforce changes in the 2015/16 fiscal year, which mainly affected
+Voith Paper. The transformation was completed there, resulting in a reduction in
+830 FTEs over the past two fiscal years.
+Furthermore, as part of our centralization of indirect tasks such as accounting
+and payroll, around 450 positions were reassigned from our Group Divisions to
+our Shared Service Centers; these are in turn assigned to the Group holding in
+organizational terms, and to some degree newly structured there. This has allowed
+us to save a net figure of around 720 positions Group-wide, with the majority of
+reductions taking place the previous year.
+
+Number of Employees
+in individual people
+21,967
+
+2013/14
+
+Voith Sustainabilit y Repor t 2016
+
+20,981
+
+2014/15
+
+19,494
+
+2015/16
+
+1_What Underpins our Actions
+
+2_Environment
+
+		
+		
+		
+		
+
+3_Employees
+
+4_Products & Supply Chains
+
+43
+
+Our Aspiration – Our Responsibility
+Attractive Employer
+Attracting and Promoting Talent
+Occupational Health and Safety
+
+We have now completed our transformation and workforce reductions as part of
+Voith 150+, so there will therefore only be minimal further workforce reductions in
+the current fiscal year.
+True to the tradition of a family company, we have worked hard to make the consequences of our workforce restructuring measures as socially acceptable as possible.
+In close collaboration with employee representatives at each location, we agreed
+on solutions appropriate for local circumstances. Wherever possible, employees
+affected by site closures received an offer to take on a new role within another area
+of our business or at another location.
+
+AR 2015/16, pp. 86–93
+
+FACTS & FIGURES
+Workforce by Employment Type
+
+Challenges and Focus Topics
+Voith has been in a process of transformation, which is setting the course for our
+company’s continued success in the future. This has also resulted in new challenges
+for our HR area. Increasing digitization in business and society poses new challenges
+to our employees and their skills profile, so it is essential to counter the constantly
+shifting labor-market conditions around the world.
+To achieve this, in accordance with the development of our Corporate Strategy, we
+thoroughly overhauled our HR Strategy in the 2015/16 fiscal year and defined four
+focus fields for our actions:
+• Talent Management
+• Workforce Planning
+• Performance Management
+• Change Management.
+We bundled all four focus fields with specific packages of measures. Through these
+we also address the focus topics we derived as part of our materiality analysis:
+• Ensuring safe working conditions
+• Employee development, training and further education
+• Health benefits for employees
+• Training and promoting new talent
+• Ensuring a healthy work-life balance
+• Performance-related, gender-neutral remuneration and social benefits
+• Diversity and equal opportunity
+• Co-determination through employee representation.
+Company Values
+Clear values have always shaped our company’s identity. They are an integral
+part of our corporate culture, and are also the benchmark by which we assess
+
+Voith Sustainabilit y Repor t 2016
+
+44
+
+3_Employees
+
+our employees each year. In addition, our values play a central role in our training
+programs, such as our standard training program for prospective executives.
+Our value framework is described as follows: “We are respectful and reliable, open
+and ambitious.” These values have been an integral part of the Voith vision and
+mission for over 100 years, and are imparted through our training programs at the
+Voith Academy.
+Efficient Processes and Systems for HR Management
+In the reporting period we introduced a new Group-wide organizational structure
+for our HR activities. Under the Shared Service system, four Global HR Business
+Service Centers around the world with seven service lines now handle tasks such
+as payroll, time management, and HR administration for each region, using a
+service approach that is uniform across the Group. This lays the basis for Voithwide standardization, automation, and at the same time the modernization of HR
+processes – including self-service options for employees and executives.
+Centralizing and bundling our activities have already achieved the targeted savings
+and improved process quality in many areas. We are currently working on further
+implementation details, optimizing processes and systems, and adjusting or shifting
+capacities according to tasks. The next step of our transformation process involves
+harmonizing and standardizing those processes and policies wherever appropriate
+which have been adopted but so far not adjusted (“shift-and-lift approach”).
+
+3.2 Attractive Employer
+
+FACTS & FIGURES
+Rankings and Ratings
+
+The name Voith also enjoys an excellent reputation as an employer brand, as we
+combine the stability of a 150-year-old family company with the opportunities of
+a truly global player. This has been repeatedly reconfirmed by external institutes,
+ratings portals, and employer rankings. As an employer that offers outstanding
+career opportunities, in the fall of 2016 we once again performed convincingly in
+the “DEUTSCHLAND TEST” and “trendence” studies.
+Targeted marketing activities help to further cement this reputation. Our recently
+established Voith Digital Solutions Group Division also gives us an excellent basis
+to attract and retain the right employees to additionally tackle the challenges posed
+by digitization.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+		
+		
+		
+		
+
+3_Employees
+
+4_Products & Supply Chains
+
+45
+
+Our Aspiration – Our Responsibility
+Attractive Employer
+Attracting and Promoting Talent
+Occupational Health and Safety
+
+Performance-based Remuneration
+The compensation we pay our employees is in line with the global market, irrespective of gender, and based on their level of qualification and performance.
+Remuneration models and other benefits are in line with the prevalent market
+situation in each region. At our German locations, the level of wages and salaries
+is generally regulated under collective bargaining law. In all regions, we follow
+applicable statutory requirements to the letter.
+
+FACTS & FIGURES
+Expenditures for Employees
+FACTS & FIGURES
+Upholding Employee Rights
+
+Diversity and Equal Opportunity
+Voith’s workforce is highly diverse, with employees from over 90 nations. They are
+all in different stages of life, with each individual contributing their own experience
+for the benefit of our company. This diversity strengthens us further, as it enriches
+our corporate culture and contributes to our company’s success. And it permeates
+every level of Voith, with eleven nations represented in the Voith Senior Management
+Circle alone.
+We foster a corporate culture that promotes respect for all colleagues and business
+partners, and regards diversity in gender, culture, age, belief and other personal
+characteristics as an asset. These principles are enshrined in our Code of Conduct,
+and the implementation of and compliance with it is monitored at every Group level
+by our Compliance Committee. In the reporting period we are pleased to announce
+that we received no reports of discrimination.
+To further strengthen diversity and equal opportunity within our Group we have
+supported activities in this area since the 2012/13 fiscal year through our Groupwide Diversity&Inclusion (D&I) program.
+As part of this, we understand “diversity” as the differences among our workforce in
+terms of the five aspects of gender, age, nationality/ethnic origin, qualifications/professional experience, and personal differences such as beliefs or physical abilities.
+At Voith, “inclusion” is understood as meaning a culture of respectful coexistence
+that is open to different perspectives and approaches, thus allowing the wide range
+of experiences to be incorporated in solving complex customer requirements.
+Our D&I program ranges from the gradual raising of employees’ awareness, through
+initiating suitable measures, to establishing an inclusive working environment at
+each location. Our central HR area coordinates the program, but responsibility for
+each focus area and implementation of the measures lies locally with the regions.
+This approach enables us to take into account the wide variety of global challenges
+we face.
+In recent years we held awareness workshops at almost all locations outside of
+Europe to increase the understanding of these matters in our upper four management levels. In the 2015/16 fiscal year we also prepared related events in the
+European region, which we plan to implement in the current fiscal year.
+
+Voith Sustainabilit y Repor t 2016
+
+46
+
+3_Employees
+
+AR 2015/16, pp. 90/91,
+Diversity and Equal Opportunity
+
+FACTS & FIGURES
+Employment Ratio of People
+with Disabilities
+
+In South Africa, the program has been expanded up to Information Level 7 since
+the reporting year; thanks to this, all employees there are now aware of the topic.
+At our Voith locations in China we focused on the aspect of inclusion.
+Even if we have our sights set on the five aspects, various recently introduced laws
+are placing the gender aspect center-stage in the social debate in Germany. Women
+are still traditionally underrepresented in technical apprenticeships and courses.
+This is why technology companies, especially in the B2B area, typically employ
+considerably more men than women. At Voith, as at September 30, 2016 women
+account for 17.4 % (previous year: 17.5 %) of our workforce. In the Voith Senior
+Management Circle, the proportion of women currently stands at 6.6 % (previous
+year: 7.3 %). We are well aware of the need to take further action in this respect.
+To increase these proportions, particularly of female executives in the company,
+we have launched a variety of measures in addition to corresponding activities in
+our D&I program. Among these, we make a point of ensuring that both genders
+always feature on the shortlist for vacancies. Furthermore, in the reporting year we
+established a women’s network in Germany, and conducted our first Female Talent
+Meeting in South Africa. Our aim here is to identify potential female candidates
+and provide targeted support. In China we already increased the share of women
+among recently hired graduates to 30 % in the past year alone.
+Bringing Balance to Work and Family Life
+Voith is a family-friendly company – a philosophy that has characterized our company for 150 years. In the reporting year we set out this understanding of how
+we see ourselves in clear terms, setting them in stone in the form of guidelines
+to create a flexible, family-friendly work culture at Voith. These guidelines were
+adopted by the Corporate Board of Management, and we are now in the process
+
+FACTS & FIGURES
+Diversity in the Management Team
+and in the Workforce
+
+Percentage of Women by Management Level
+in %
+
+Management Level 0–2
+Management Level 3–4
+Management Level 5
+All employees
+Only new recruits
+
+Voith Sustainabilit y Repor t 2016
+
+2015/16
+2014/15
+
+6.1
+6.8
+8.9
+8.1
+10.1
+10.4
+17.4
+17.5
+18.1
+
+20.5
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+		
+		
+		
+		
+
+4_Products & Supply Chains
+
+47
+
+Our Aspiration – Our Responsibility
+Attractive Employer
+Attracting and Promoting Talent
+Occupational Health and Safety
+
+of implementing the appropriate communication measures in the current fiscal year.
+These are intended to increase understanding, particularly among our executives,
+towards the topic.
+We aim to offer our employees an attractive working environment that adapts flexibly
+to their personal circumstances. The aspect of caring for family members is also
+becoming increasingly important in this regard. Wherever possible, our employees
+can arrange personal working-time models with their supervisor ranging from the
+use of a home office, part-time working, or job sharing. This allows our employees
+the greatest possible freedom to structure their personal working time, taking into
+account professional and personal needs.
+
+FACTS & FIGURES
+Flexible Working Time Models
+
+Furthermore, we help our employees achieve a better work-life balance through
+our offer of assorted company daycare centers and childcare places at various
+locations. In addition, our facilities in Sonthofen, Heidenheim, and Crailsheim each
+have their own parent-child workroom, enabling parents to bring their children
+to work with them should they have difficulty finding someone to look after their
+children at short notice. We also offer our employees in Germany a comprehensive
+range of information covering topics such as children & career, and care giving &
+career. These are available via the intranet or through an information hotline run by
+an external service provider.
+
+FACTS & FIGURES
+Parental Leave
+
+To measure our employees’ satisfaction we regularly analyze illness and employee-­
+turnover data. The 2016/17 fiscal year also marks the first time we will conduct a
+global employee survey to gain even more detailed insights and approaches on
+potential improvements.
+
+FACTS & FIGURES
+Employment Length
+Employment Turnover
+
+Parental Leave Take-up, Employees Returning after Parental Leave Who Are
+Still Working at Voith 12 Months after their Return
+in individual people
+
+Parental leave
+
+151
+
+580
+
+Returnees
+
+91
+
+474
+
+Returnees who are
+still working at Voith
+one year later
+
+77
+
+319
+
+731
+
+565
+
+396
+
+Female employees
+Male employees
+
+Voith Sustainabilit y Repor t 2016
+
+48
+
+3_Employees
+
+3.3 Attracting and Promoting Talent
+Voith has a presence at many locations around the world, where the competition for
+qualified employees is intense. To win in the global war for talents, we present ourselves through our HR marketing measures as a modern, forward-looking employer.
+
+FACTS & FIGURES
+New Hirings
+
+FACTS & FIGURES
+Trainees
+Section 1
+Committed to Education, p. 22
+
+We are further improving the professionalization of our recruitment processes by
+modifying and standardizing them. This process is largely completed in Germany,
+North America, Brazil, and China. Alongside greater process efficiency, our new
+pep. (People Excellence Platform) recruitment module offers numerous self-service
+options for applicants, providing them with additional offers through its integration
+in our Talent Management Platform.
+Appealing to New Talent at an Early Stage
+We address students directly, and offer them an insight into our company as a
+potential employer through collaborations and international HR marketing campaigns at universities. We also award scholarships and sponsor competitions in
+the regions where we are active.
+Consistently High Level of Training and Education
+We have been actively involved in offering first-rate vocational training for over 100
+years. We are currently training young people in over 40 commercial, technical, and
+trade occupations, whereby we place great emphasis on interdisciplinary learning
+and the integrated provision of social and specialist expertise. Voith apprentices
+repeatedly achieve excellent results in a German federal-state and nationwide
+comparison. In general, apprentices are taken on by our company on completion
+of their vocational training.
+
+Number of Apprentices (Including Dual-study Students)
+in individual people
+1,015
+
+1,012
+889
+
+2013/14
+
+Voith Sustainabilit y Repor t 2016
+
+2014/15
+
+2015/16
+
+1_What Underpins our Actions
+
+2_Environment
+
+		
+		
+		
+		
+
+3_Employees
+
+4_Products & Supply Chains
+
+49
+
+Our Aspiration – Our Responsibility
+Attractive Employer
+Attracting and Promoting Talent
+Occupational Health and Safety
+
+As at the end of the 2015/16 fiscal year, Voith employed 1,012 apprentices and
+students (previous year: 889). 606 of our apprentices work in Germany, 358 of
+them in Heidenheim.
+
+FACTS & FIGURES
+Apprenticeships and Opportunities
+
+Our two Voith Training Centers in Heidenheim, Germany, and Kunshan, China,
+bear witness to the high regard Voith has for training and education. They serve
+as further training and education centers for employees and executives, and as
+multi-function buildings they bring cutting-edge training programs together with
+architecture, construction, building technology, and design within an innovative
+overall approach.
+Internationally too, we employ the German dual-track system to offer training
+enriched by country-specific values and cultural aspects. In São Paulo, Brazil, we
+worked with training initiatives at a local level to develop a training model for a typical
+four-year training scheme aimed at young people over the age of 15 and which
+regularly produces qualified new talent. The dual-track system has also proven
+itself in Kunshan. In the reporting year, the second year of specialists successfully
+completed their one-year training program there. Of the 20 trainees, 18 passed
+their exams and have been employed by Voith.
+Lifelong Learning – Both a Right and a Commitment
+Lifelong learning is a principle of our company. We expect our employees to
+continuously expand their know-how and skills, so we help them by providing a
+comprehensive range of training and education measures. Our aim when recruiting
+is to always match the right employees with the right qualifications and, correspondingly, expertise with the right position. Our leadership model, which comprises a
+range of leadership tools, provides the operational framework for this. It revolves
+around two formal annual meetings between the employee and the supervisor.
+While the target-setting meetings focus on the individual’s personal contribution to
+the achievement of corporate goals, the performance review meetings concentrate
+on work tasks and the working environment, the relationship between the employee
+
+Hours of Further Education
+
+244,604
+171,991
+97,056
+
+2013/14
+
+2014/15
+
+2015/16
+
+The difference to previous years is due to a variety of factors, including extended data-gathering.
+
+Voith Sustainabilit y Repor t 2016
+
+50
+
+3_Employees
+
+and supervisor, and the employee’s own personal development perspectives. The
+outcome of these meetings is entered in our pep. HR IT system, together with
+findings of the management review process, allowing development measures to
+be defined and implemented in line with company needs and specific position
+requirements.
+
+FACTS & FIGURES
+Training and Education
+& Career Development
+
+To encourage the expansion of personal or methodological skills we offer our
+employees a broad spectrum of further training and education opportunities. The
+range of topics covered by Voith training includes occupational health and safety,
+environmental protection, technology, IT, quality, management and personality
+development.
+At the Voith Management School we provide special training to employees from
+specific departments such as Purchasing and for project managers. Our executives
+also take part in standard development programs to create a common understanding of leadership in all Group Divisions and regions. These programs are compulsory
+for all executives with supervisory roles. Our new Business Forum Leadership
+format, which we established in the reporting year, is a further component of our
+programs: This two-day event focuses on topics arising from daily management
+practice as well as key aspects of the personal work-life balance for executives,
+and has been held annually since 2015. Executives at the top management level are
+also committed to lifelong learning, and take part in our Voith Academy to prepare
+themselves for future tasks.
+In the 2015/16 fiscal year 15,829 employees (previous year: 14,505) across all Voith
+locations took up our further training and education offerings, with 244,604 training
+hours (previous year: 171,991) completed.
+To measure the success of each training course, and to constantly improve our
+training offering, we ask participants to give us feedback on their experiences. The
+results are then passed on to the trainers and HR. In addition, the participant’s
+supervisor is asked to rate the success of the training measure.
+In Germany we continually receive awards and quality seals that recognize us as an
+attractive and fair employer that offers its employees excellent training and development opportunities, and promotes a sound work-life balance. In the reporting
+year, we are pleased to announce that our commitment was honored for the first
+time in China too. As part of the China Learning & Development Value Awards, Voith
+received a Most Valuable Case Award from the Human Resource Excellence Center
+for its lifelong learning model, which is also implemented in China.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+		
+		
+		
+		
+
+3_Employees
+
+4_Products & Supply Chains
+
+51
+
+Our Aspiration – Our Responsibility
+Attractive Employer
+Attracting and Promoting Talent
+Occupational Health and Safety
+
+Leadership at Voith – Focus on Development and Feedback
+Executives at Voith are expected to lead their staff in a way that enables them to
+fulfill their responsibilities in meeting joint objectives, and at the same time allows
+their own talents to unfold and develop further. We review the performance of our
+executives as part of our annual Management Review, in which we also assess
+individual potential and derive development measures.
+As an international company, we rely on a Group-wide, uniform understanding of
+our corporate and management culture. In principle we strive to staff executive
+positions with local employees. At the same time we place considerable value on
+temporarily reassigning our executives abroad as a development step, so that they
+can gain international experience. In this regard we follow our 3x2 principle: Over
+the course of their career at Voith, our executives are expected to gain experience
+in two Divisions, two functions, and two regions.
+In coming years, the requirements on our executives will change and expand, as
+we want to seize the opportunities that digitization offers our company. At the same
+time, working at Voith will be increasingly shaped by greater team self-management.
+As such, we intend to encourage autonomy and strengthen engagement. Through
+the restructuring and focusing of our values, in the reporting year we created a key
+foundation on which to build towards these goals.
+
+3.4 Occupational Health and Safety
+Health and safety in the workplace take maximum priority at Voith. Established last
+year across the Group, our HSE (health, safety, environment) organization underpins our occupational health and safety activities. Through optimizing workplaces
+and processes we intend to prevent accidents and work-related illnesses to the
+greatest extent possible. To underscore this, reducing the frequency and severity
+of accidents has been anchored in our corporate goals since 2009.
+In the field of health protection we take a regional approach, as differing legal
+frameworks and cultural differences call for specific approaches in the regions. We
+identified this in the reporting year in an analysis of health protection in Germany,
+China, Brazil, and the USA. We have already devised basic strategies for health
+protection in the four regions. In Germany, we will also anchor internal occupational
+medical care progressively in the company.
+In the current fiscal year, we are working mainly towards gradually integrating our
+recently established Digital Solutions Group Division into our occupational health
+and safety model and structure. Furthermore, we intend to further consolidate and
+continue developing our HSE organization. This will ensure that we continue to
+maintain our high level of achievement in occupational health and safety.
+
+Voith Sustainabilit y Repor t 2016
+
+52
+
+3_Employees
+
+Section 1.2
+Strategy & Organization
+
+Efficient HSE Organization
+As part of our Voith 150+ program, in the previous fiscal year we took a systematic
+approach to additionally structure HSE (health, safety, environment) as a shared
+service organization.
+The frameworks and responsibilities for occupational health and safety are documented in our Group Directive. It sets out the mandatory minimum requirements
+and standards for our Group, and also includes standard operating procedures
+(SOPs) on HSE at Voith. We are currently consolidating and streamlining our existing
+policies, so that by the end of the coming fiscal year all 23 SOPs will be available in
+an amended form. Among them, there will be three completely new SOPs on the
+topics of emergency management, travel and transport, as well as machine-safety
+testing.
+All occupational health and safety policies, just like our environmental protection
+regulations, are available via our Group-wide hse+ IT system. In the reporting
+period we expanded this system to include a further module on environmental risk
+assessments. To produce it we gathered a wide range of information, including
+hazards posed by earthquakes and regional floods, for instance.
+Matrix Certification Process Established
+We also use hse+ to control the matrix certification of our locations according to
+ISO 14001 and OHSAS 18001 – a process we established in 2016. At the end of
+the reporting year, the matrix covered 78 Group companies (Group Holding and
+Corporate Central Functions). In the current fiscal year we intend to add two further
+Group companies with locations in Germany and South Africa.
+Through our participation in the DIN Standards Committee we play an active role
+in migrating OHSAS 18001 to DIN EN 45001. At the same time, we are preparing
+our company for this changeover.
+
+FACTS & FIGURES
+Employee Representatives
+in Committees
+
+Voith Sustainabilit y Repor t 2016
+
+Joining Forces with Employee Representatives
+In terms of occupational health and safety, common, goal-oriented action on the
+part of the employer and employees is the key factor for success. This is why we
+take a collaborative approach with these topics too, whereby we involve employee
+representatives in key decisions. Company agreements on occupational health and
+safety, as well as on preventing addiction, complement the regulations embedded in
+our HSE Group Directive. A Safety Committee, comprising employee and employer
+representatives, meets every month at each production location and works to
+develop the annual occupational safety program and implement it in monthly actions.
+
+1_What Underpins our Actions
+
+2_Environment
+
+		
+		
+		
+		
+
+3_Employees
+
+4_Products & Supply Chains
+
+53
+
+Our Aspiration – Our Responsibility
+Attractive Employer
+Attracting and Promoting Talent
+Occupational Health and Safety
+
+3.4.1 Occupational Safety
+Our occupational safety program includes every employee. Information and targets
+are cascaded right from the Board of Management through the respective executives down to employee level. Executives with supervisory roles have a particular
+responsibility in this regard. They have a clear duty to train their staff and actively
+communicate current developments. Employees must be given documented
+instruction at least once a year, with centrally prescribed training documents supporting this process.
+In the reporting period, all executives received occupational safety training. We also
+involve our service providers in our activities through our “Coordination of Visitors
+and Contractors” Occupational Safety Directive. Production employees’ awareness
+of the topic of occupational safety is raised on a daily or weekly basis through short,
+high-impact presentations. Beyond the annual instruction we provide, through these
+five to ten-minute presentations on current topics we aim to keep the subject of
+occupational safety at the forefront of their minds as they carry out their daily work.
+In the reporting year we focused on the topic of hand injuries – the most common
+type of injury at Voith Hydro. Besides short, high-impact presentations and related
+literature, the campaign also comprised a newsletter focusing on hand and finger
+injuries. In the 2016/17 fiscal year we will focus our activities on crane operation,
+as we noticed that the greatest number of near-miss accidents happened in this
+area in the previous fiscal year.
+
+FACTS & FIGURES
+Occupational Safety Training
+
+We document training sessions required by law. Besides verbal or written instruction, pilot projects have allowed us to gain positive experiences over recent years
+in the area of online instruction, which we are now gradually rolling out using our
+global hse+ IT tool. In this, our initial focus areas are decentralized organizations
+such as site construction, service and sales employees, and administration. For
+this purpose, we ran a successful pilot project in the reporting year.
+
+FACTS & FIGURES
+HSE Standard Online Instruction
+
+We place particular emphasis on training our experts in the regional HSE organization. They have already been fully trained on the use of hse+, which we have
+been using since the 2015/16 fiscal year to display information globally and in a
+standardized and transparent way on audit planning and audit results, as well as
+key information on hazardous materials, compliance, and risk assessments.
+
+Section 2
+Environment Hazardous
+Substances
+
+Special Responsibility with Field Service
+When on construction sites or service calls, Voith field service employees take
+responsibility for occupational health and safety as well as environmental protection
+in a variety of ways – whether as a supervisor without authority over other service
+providers, right through to taking full construction-site responsibility that includes
+authority over subcontractors.
+
+Voith Sustainabilit y Repor t 2016
+
+54
+
+3_Employees
+
+eVAP – Accident Prevention by App
+
+To analyze the challenges and standardize existing policies in the long term, our
+Voith Hydro and Voith Paper Group Divisions established the cross-divisional
+working group HSE in Field Service in the 2015/16 fiscal year.
+Documenting, Analyzing, and Preventing Accidents
+At Voith, all accidents are immediately recorded, reported to the respective supervisor, and published on the intranet. In the event of serious incidents, the Corporate
+Board of Management is informed directly within 24 hours. Every accident is then
+studied and documented by an investigation team comprising those affected,
+supervisors, and safety experts. Especially serious accidents are examined separately once again at our Center of Competence HSE. The accident definitions are
+described in detail in the Group Manual, and presented in a way that makes them
+comparable internationally with other companies.
+Since the 2015/16 fiscal year we have taken steps to involve our employees even
+more closely in accident prevention. We developed our eVAP (electronic Voith
+Awareness Program) app to enable employees to log unsafe situations quickly and
+easily right on the spot, and then send this information to a central database. Clear
+icons facilitate the entire process of using the app. The data is analyzed automatically and then published in target group-specific media together with corresponding
+instructions. This allows us to raise our employees’ awareness of unsafe actions
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+		
+		
+		
+		
+
+3_Employees
+
+4_Products & Supply Chains
+
+55
+
+Our Aspiration – Our Responsibility
+Attractive Employer
+Attracting and Promoting Talent
+Occupational Health and Safety
+
+and situations before accidents occur. In 2016 we received the DEKRA Award 2016
+in the “Safety at work” category for our innovative accident-prevention approach.
+We monitor the development of occupational safety on a monthly basis through
+accident analyses, audits, and other measures. This allows us to take immediate
+steps if serious incidents occur, or if specific types of accident increase in number.
+The first step we take in every instance is to issue a global HSE Flash News notice
+(information on the accident/incident focus areas in occupational health and safety)
+to promptly inform all affected employees. In the reporting period we continued
+to focus on reporting near-miss accidents. Through doing so we intend to take
+more preventative action – especially in view of the continual decrease in accident
+numbers.
+
+FACTS & FIGURES
+Near-miss Accidents
+
+Our regional HSE organization implements Voith standards globally. The experts
+meet twice a year to share experiences locally, and by doing so ensure that knowhow is transferred more quickly between locations. They are also responsible for
+translating the guidelines and standards into their respective languages.
+In 2016 the business partners at the Center of Competence HSE analyzed the
+distribution of accidents at each Group Division in more depth to identify accident
+hot-spots and division-specific hazards. One specific result of this is our hand-injury
+prevention program at Voith Hydro.
+Occupational Safety Benchmark
+We have continuously improved our performance since we implemented our global
+occupational safety program in 2009 at all production locations. Both the number
+and the severity of accidents at our company have fallen continuously, making Voith
+a worldwide industry leader in occupational safety.
+
+FACTS & FIGURES
+Occupational Accidents
+
+Two benchmarks above all confirm this position: the accident frequency rate and
+the accident severity rate. The frequency rate (the number of accidents per 1 million
+working hours), which we calculate according to the international standard, fell
+significantly from 13.9 in the 2008/9 fiscal year to 1.6 in the reporting year. This
+corresponds to 57 notifiable accidents (previous year: 57). In the reporting period
+we are pleased to announce that there were no fatalities as a result of occupational
+accidents. To put things in perspective, the average frequency rate of companies
+in the Professional Association of Plant and Mechanical Engineering is 22.
+We also achieved a considerable improvement in recent years in terms of the
+accident severity rate, which stabilized at a very satisfactory level in the reporting
+year at 282 working hours lost (previous year: 273). Alongside the absolute figure,
+this shows that the severity of accidents has decreased significantly.
+
+Voith Sustainabilit y Repor t 2016
+
+56
+
+3_Employees
+
+Frequency Rate*
+
+Severity Rate*
+
+specific figure in accidents
+per 1 million working hours
+
+specific figure in lost hours
+per 1 million working hours
+
+2.0
+
+1.6
+
+1.5
+
+276
+
+282
+
+10,544
+
+10,330
+
+2014/15
+
+2015/16
+
+absolute figures
+
+absolute figures
+
+82
+
+2013/14
+
+402
+
+16,206
+
+57
+
+57
+
+2014/15
+
+2015/16
+
+2013/14
+
+*Data excluding the discontinued Group Division Voith Industrial Services.
+
+We intend to maintain this high level in occupational safety in coming years too.
+Using our hse+ IT platform we will further optimize the transparency of our actions
+and derive measures in an even more targeted way. Above all, however, we intend
+to involve employees even more closely in our activities. Our eVAP occupational
+safety app is a further key step in this direction.
+3.4.2 Occupational Health
+We focus particularly on prevention when it comes to the health of our employees.
+We pursue a regional approach to take into account the highly varied conditions at
+our locations all around the world. Regardless of where our employees work, we
+want them to stay fit for work and retire healthily at the end of their professional
+lives. To achieve this aim, we focus on four fields of action in which we achieved
+the following progress in the reporting period.
+Ergonomic and Safe Working Environment
+Within our ergonomics campaign we targeted office workers in particular this fiscal
+year. As part of workplace walkarounds we informed them about ergonomics and
+advised them on optimally arranging their own workspace layout.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+		
+		
+		
+		
+
+3_Employees
+
+4_Products & Supply Chains
+
+57
+
+Our Aspiration – Our Responsibility
+Attractive Employer
+Attracting and Promoting Talent
+Occupational Health and Safety
+
+Health Promotion and Illness Prevention
+In this field of action, the locations initiate campaigns as part of their respective
+annual programs. The measures are each developed as pilots at our Center of
+Competence HSE in Heidenheim, and then rolled out to all locations in Germany. In
+the reporting year we offered the following presentations, which were predominantly
+given by external medical experts:
+• Medicine: Movement – a miracle cure with positive side-effects
+• Matter of the heart: Preventing and detecting heart and circulatory diseases
+• Care planning: Living will and healthcare proxy
+• All about Life Balance.
+An average of 120 employees took part in each event. The Life Balance presentation
+was repeated in Heidenheim due to the strong demand, and was also offered in
+Crailsheim. Besides the series of seminars, in the 2016/17 fiscal year we plan to
+run a colon-cancer screening campaign at our German locations.
+Illness and Stress Support
+In the reporting period we achieved significant improvements in occupational medical care at our German locations. Two locations are now supported directly by our
+occupational medical service, with the others now more closely coordinated. We
+also leverage synergies, amongst others by standardizing occupational healthcare
+software, which creates additional scope for the optimal provision of healthcare.
+Thanks to our cooperation with an external service provider, our employees in
+Germany can obtain information and support relating to caring for family members
+and childcare. We are currently continuing to work on implementing robust illness
+and stress-support processes at our locations. Once this is done – as far as permissible under data-protection legislation – we will establish a central reporting
+system on this topic. In addition, we will complete the process of implementing
+our standardized occupational-reintegration management system in the current
+fiscal year.
+Corporate Culture and Leadership
+Occupational health and safety are key aspects of our corporate culture. Our Groupwide reporting system provides Voith executives with robust KPIs on a quarterly
+basis on the development of our employees’ health, such as their illness rate. If one
+of our locations reports an above-average illness rate, we offer seminars on preventative healthcare. Through seminars on the topic of Leadership & Health we also
+intend to enhance our executives’ awareness for the topic of health management.
+We already held 10 seminars attended by around 111 participants in the reporting
+year, and plan to hold further events at different locations in Germany.
+
+FACTS & FIGURES
+Employee Support Measures
+
+Voith Sustainabilit y Repor t 2016
+
+59
+
+4_Products &
+Supply Chains
+We create economic and environmental added value for our customers
+through our products and industrial
+services. Besides our products’
+­quality and reliability, we place great
+value on their energy and resource
+efficiency – both in the production
+and usage phase. Within our overall
+sphere of influence we also ensure
+­international environmental and social
+standards are upheld. In a nutshell,
+we set high standards for ourselves
+and our suppliers in order to provide
+the same to our customers.
+Voith Sustainabilit y Repor t 2016
+
+60
+
+4_Products & Supply Chain
+
+4_Products & Supply Chain
+4.1 Product Responsibility
+Voith products and industrial services serve five major markets around the world:
+Energy, Oil & Gas, Paper, Raw Materials, and Transport & Automotive. And our
+solutions are just as varied as these markets’ requirements.
+Voith Hydro is a manufacturer of generators, turbines, pumps, as well as electrical
+and mechanical equipment for hydropower plants. With this broad offering Voith
+supplies all key components for hydropower plants in the power generation and
+power storage sectors. At the same time, Voith Hydro ensures a plant remains
+productive throughout its lifecycle.
+Voith Paper supplies technologies, products, and services covering the entire
+paper production process. Its offering includes large industrial production lines for
+paper and board production, system rebuild and modernization services, as well
+as corresponding service offerings. This is complemented by consumables and
+replacement parts.
+Voith Turbo technologies transmit and control energy under extreme conditions –
+safely and in a resource-efficient way. Voith Turbo’s drive solutions, advanced technical components and systems are used in a wide variety of industries, wherever
+power needs to be transformed into controlled movement.
+Our Responsibility – Our Fields of Action
+Owing to the diversity of our product portfolio and the very different market requirements we face, our Group Divisions are confronted with a range of challenges
+regarding product responsibility. To gather data on these requirements systematically and evaluate them in terms of their materiality, we draw on the results of our
+stakeholder survey of early 2016. As part of a Master’s thesis we also evaluated
+external benchmarks, including IÖW (Institute for Ecological Economy Research)
+and oekom research. This enabled us to define the main fields of action for our
+company in terms of our product responsibility.
+Challenges and Trends
+To identify trends early on and take effective action to counter upcoming challenges,
+our Group Divisions employ their own market- and technology-specific methods
+and tools.
+In the reporting period Voith Paper comprehensively expanded its trend-gathering
+methodology. This is based on five pillars: Trend Analysis, Technology Outlook,
+Customer Perspective, Consumer Perspective, and Radical Technologies. Voith
+Hydro and Voith Turbo both plan to introduce a similar process in the 2016/17 fiscal
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+			
+			
+
+4_Products & Supply Chains
+
+61
+
+Product Responsibility
+Responsibility in the Supply Chain
+
+year. The one thing in common among the trends identified in this way is that they
+directly or indirectly address the sustainability of our or our customers’ manufacturing processes. Furthermore, through trend surveys we identified additional trends
+such as bionics and water scarcity. In the reporting period we already started to
+process the topics and expect to be able to produce results and derive specific
+measures during the 2016/17 fiscal year.
+One current challenge facing Voith is posed by new policies and legislation which
+erode intellectual property protection. Among them, EU Directive 2016/943 on the
+protection of undisclosed know-how and business information (trade secrets) will
+give customers the right to disassemble purchased machines into their constituent
+components, to reverse engineer them, and then commission a third party to
+manufacture spare parts. In doing so, the original manufacturer loses copyright
+protection in relation to its product, meaning safe operation of the system may no
+longer be guaranteed.
+Requirements such as the German Renewable Energy Sources Act (EEG) and EU
+Directive 2014/24 on public procurement constantly place new requirements on
+Voith Hydro’s development and sales activities. Last but not least, the opportunities
+presented by Industry 4.0 must be seized and translated into specific customer
+benefits through process modifications.
+Hydropower competes globally with other renewables. While the wind and solar
+power industry is at present enjoying high double-digit growth rates, hydropower is
+currently expanding by an annual 2.3 %. Consequently, Voith Hydro faces the challenge of improving the public perception of hydropower as a source of renewable
+energy. Among other things this calls for the advantages of pumped storage power
+plants over battery storage facilities and other solutions to be evaluated technically
+and objectively, and for their case to be argued accordingly. In particular, promising
+trends for Voith Hydro include hybrid power plants that combine solar, wind, and
+hydropower, as well as pumped storage power plants that use the ocean as a
+reservoir. Material tests for the application of hydraulic components in seawater
+have already been performed successfully. The supply of pumps for agricultural
+irrigation plants or drinking water storage also offers new opportunities.
+
+AR 2015/16, pp. 94–107,
+Opportunities and Risk Report
+
+Customer Dialog
+Maintaining close customer relationships and a deep understanding of their needs
+has always been one of Voith’s strengths. All divisions are in constant touch with
+their customers, for instance through targeted surveys on customer satisfaction or
+their future requirements on our products’ capabilities.
+
+FACTS & FIGURES
+Responsible Marketing
+
+Customer dialog is an essential part of Voith Hydro’s sales strategy. Customer
+requirements are often reflected in great detail in individual tenders. Furthermore,
+in the subsequent negotiations the technical as well as new or further optimized
+
+Voith Sustainabilit y Repor t 2016
+
+62
+
+4_Products & Supply Chain
+
+solutions are discussed at length. Last but not least, the Product Management team
+holds discussions with customers and associations to examine further improvements.
+Close contact with customers is also typical of Voith Paper’s approach. Specialists provide technical advice to customers, while the Key Account Management
+team primarily supports larger customer groups. Customers are also involved
+closely in quality assurance processes, and even to some degree in technical
+development activities and in identifying trends. When optimizing paper machines
+Voith Paper works closely with customers to improve the use of raw materials
+through recycling and to reduce electricity consumption as part of energy audits.
+The aim is to develop energy- and water-efficient products, and further reduce
+overall operating costs.
+
+Resource Preservation
+
+In the past fiscal year Voith Turbo underwent a fundamental transformation, and
+now focuses even more clearly on the three corporate goals of Customer Focus,
+Technological Leadership, and World-class Performance. Customer proximity, a
+high level of regional market presence, and offering a world-class service were
+identified as success factors in the area of Customer Focus. The introduction of
+a Product Management team at the interface between Sales and Key Account
+Management has proven itself, and has since been rolled out across the Division.
+This means customers’ requirements can be better taken into account, more clearly
+focused on, and implemented more quickly.
+
+FACTS & FIGURES
+Research & Development Expenditure
+
+Percentage of Revenues Dedicated to
+R&D in %
+5.2
+
+2013/14
+
+4.9
+
+2014/15
+
+4.9
+
+2015/16
+
+Voith Sustainabilit y Repor t 2016
+
+Research & Development
+Technological expertise and the ability to continually apply our know-how to innovations that bring added value to our customers are the basis of our company’s
+success. This is why we continue to invest, even in economically challenging
+times, in the research and development of new solutions. In the past five years
+alone we have invested over €1.1 billion in this area. In the 2015/16 fiscal year
+our R&D expenditure totaled €208 million (previous year: €210 million; –1 %). The
+Voith Group continued to dedicate an equivalent 4.9 % of its Group revenues to
+R&D (previous year: 4.9 %). All of our Group Divisions involved in mechanical and
+plant manufacturing have a strong patent base. The Voith Group currently holds
+several thousand active patents, with many hundreds more added in the reporting
+year alone.
+In all of our Group Divisions we fully intend to defend and strengthen the leading
+position we hold in many markets. The digital transformation in particular, often
+referred to as “Industry 4.0”, offers immense opportunities for our Group Divisions.
+They work consistently to leverage the potential of Industry 4.0 in their own production
+processes and in specific products for their customers.
+We established the function of Chief Technology Officer in each of our divisions
+back in the 2014/15 fiscal year. Since then, the CTOs have regularly compared
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+			
+			
+
+4_Products & Supply Chains
+
+63
+
+Product Responsibility
+Responsibility in the Supply Chain
+
+their divisions’ technological development roadmaps within the CTO Council to
+leverage synergies. By doing so, we intend to achieve positive economies of scale
+as well as create knowledge in a more structured way, and distribute it within our
+Group, particularly in the case of technologies and process that can be implemented
+universally, such as in the area of materials use.
+Voith Paper is currently developing systems that use sensors to forecast the service
+life of products. This approach improves operational reliability, making sudden
+system failures virtually a thing of the past. Automated monitoring systems have
+already been launched with the OnCare product family, and are now being expanded.
+Fuglesangs and Voith Turbo have partnered up to develop speed-controllable
+drives to operate sea-floor multiphase pumps. Thanks to this there is no need for
+a frequency converter to control the speed, which would otherwise take up a lot of
+space on the supply ship. This technology is making a considerable contribution to
+the exploration of raw materials beneath the sea floor.
+In its E-Volition project, Voith Turbo is currently developing a drive which can achieve
+fuel savings of around 7 %, and which is designed to run more quietly. Among other
+things, mild hybridization and recuperation provides energy to power the electrical
+system and drivetrain.
+Collaborations Deliver Key Findings on Future Viability
+Voith’s Group Divisions are market and technology leaders in many of their business
+segments. This is why they are also in constant dialog with research institutes,
+universities, associations, as well as other companies along the supply chain.
+Among them, Voith Paper collaborates with a range of institutes and universities
+within clearly defined fields of action. This includes initiatives such as the industry-wide Fiber & Paper 2030 project, and the EU-wide Provides project, which
+aims to achieve a drastic reduction in the carbon footprint of cellulose and paper
+production. The implementation phase of such initiatives is often relatively long,
+as the paper-industry investment cycle may extend up to 20 years. To achieve
+the targeted 80 % carbon reduction between 2030 and 2050 as planned, Voith
+is already working actively on developing the technology to make it market-ready
+within the next decade.
+
+FACTS & FIGURES
+Voith Paper Collaboration Projects
+
+Voith Paper and Voith Digital Solutions and a group of customers and academics
+are working together to develop solutions that will enable the paper-production
+industry to respond to the volatile supply and price situation in the energy market
+by allowing production plants to be operated in a sustainable way through the use
+of new technological processes. These range from allowing the use of cheaper
+energy periods, through to switching off individual process steps at periods when
+energy is scarce – without a significant impact on paper production.
+
+Voith Sustainabilit y Repor t 2016
+
+64
+
+4_Products & Supply Chain
+
+FACTS & FIGURES
+Voith Hydro Collaboration Projects
+
+In the reporting year Voith Hydro devoted itself to a range of activities including
+developing digital solutions for hydropower plants. One focus area was HyGuard,
+a new type of smart plant-monitoring solution that is currently being pilot-tested.
+Noise monitoring at a power plant, for example, can help to monitor trends and
+interpret anomalies. HyGuard Acoustic can also be used in conjunction with other
+monitoring systems to measure oscillations or temperatures, for instance. Responsibility for developing the monitoring systems has since been transferred to our new
+Group Division Voith Digital Solutions.
+Voith Turbo is currently working on a research project that also involves DLR (German Aerospace Center). In this project, composite-structure sensors are being
+developed for use in mobile applications such as for rail vehicles. The project
+focuses on gathering data on vehicle damage resulting from external influences
+and/or material fatigue: Its aim is to increase operational safety as well as reduce
+construction weight.
+Reliable, Safe Products
+The Voith name is renowned the world over for safety, quality, and reliability. We are
+fully aware of the value of this important competitive advantage, so we have set out
+the principles of our quality management process and technical risk-management
+process in a Group Directive. Our Group Divisions and their companies then
+expand on these principles and supplement them accordingly.
+We document and certify our activities according to the international ISO 9001
+quality management standard, which we supplement with many of our own QM
+methods. Virtually all Voith locations are certified to this standard. With the help
+of clearly defined KPIs (Key Performance Indicators), a Group-wide Operational
+Excellence initiative places an even stronger focus on the quality of our products
+and processes.
+
+FACTS & FIGURES
+Quality Management
+in Our Business Areas
+
+Voith products always meet the statutory and regulatory requirements of the
+countries we supply to. Our Group Divisions are responsible for implementation,
+while the respective Quality Assurance departments ensure process compliance.
+To achieve this, they rely on our Group-wide TRQM (Total Risk and Quality Management) system as well as division-specific regulations. Our TRQM system also
+defines how to fulfill the respective statutory product documentation requirements,
+and how products are to be labeled. Besides internal technical documentation,
+operating instructions provide information on the intended use of our products as
+well as on how to handle them in a technically and environmentally safe way. Our
+TRQM system also outlines procedures for decisions that entail risks.
+We regularly train employees on how to handle regulations, and make these available to them via our Group-wide database and internal communication channels.
+In addition, we provide our customers with the relevant know-how through training
+courses held either at our training center or directly at the customer’s location.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+			
+			
+
+Product Responsibility
+Responsibility in the Supply Chain
+
+Right from the development stage we analyze and simulate the various operating
+states, perform computer-based calculations, and run pilot projects on product
+performance and safety. We evaluate the effectiveness of our quality assurance
+measures in our respective Group Divisions using division-specific KPIs as well as
+internal and external audits. We also involve our suppliers closely in these activities.
+In the reporting year alone, over 200 participants from around 50 companies took
+advantage of this opportunity.
+
+FACTS & FIGURES
+Voith HydroSchool
+
+65
+
+Long service life is a key quality of Voith machines and systems, which is why
+Voith Turbo gear systems and Voith Hydro turbines are often in reliable operation
+for decades. And the same applies to our paper machines. Due to this, our Group
+Divisions are faced with the challenge of supplying spare parts even after many
+decades of operation. Consequently, the reparability of our solutions is a core
+requirement we factor-in right from the product development stage.
+By further developing our products, we work to make them increasingly environment- and resource-friendly throughout their lifecycle. In doing so, we meet
+our customers’ demands, statutory requirements, and ultimately our own stated
+objective. The primary aim of all of our Group Divisions is therefore to conserve
+resources and to minimize the environmental impact of our products. To achieve
+this, we follow a decentralized management approach.
+Product Impacts by Group Division
+We predominantly supply components that as part of an overall system have
+differing energy and material footprints. We employ a range of tools to gain an
+even more detailed evaluation of our products’ energy and raw-material efficiency.
+To achieve this, for many years now we have conducted Life Cycle Assessments
+(LCAs) for selected products in compliance with ISO 14040 and 14044.
+As our product portfolio is so broad and we are active in such a variety of markets,
+we constantly face the challenge of producing a balanced account of our activities
+in a uniform, standardized report that covers all Group Divisions. By way of example,
+in the following we have outlined the lifecycle of a main product of each Group
+Division that also shows the environmental and social impact of each product.
+
+Voith Sustainabilit y Repor t 2016
+
+66
+
+4_Products & Supply Chain
+
+Voith Paper
+
+Paper Facility
+Sustainability aspects
+
+Upstream/Supply Chain
+(Procurement of Materials and Services)
+
+Creation
+(Paper Facility Construction Phase)
+
+Potential risks:
+· Social & environmental impacts in
+the supply chain
+
+Potential risks:
+· Land use
+· Loss of biodiversity
+· Emissions
+(air, wastewater, noise, goods transportation)
+· Occupational accidents
+
+· Reduction in supply chain risks through
+GPTs, CoC, and LSA
+· ISO 14001 and
+OSHAS 18001 matrix certification for
+production locations
+
+· Planning services for entire paper facility
+· Ensuring the occupational health and
+safety of our employees when at the
+customer’s location
+
+Voith component lifecycle
+Voith Paper Machines
+Contribution to greater sustainability
+
+Paper machines are in operation for many decades, with an average operating
+period of around 40 years. Over this long period of time, even small improvements
+can have a vast impact on a machine’s efficiency. However, while the environmental
+impacts caused during the manufacturing of the machine are minor, the amount of
+energy required to operate a paper facility exceeds the amount required to manufacture the machine by a factor of 300. Steel, as well as materials for structural and
+civil engineering, account for the largest share of material types in the supply chain.
+Voith Paper aims to generate the greatest added value for customers through
+operation that is as resource-friendly as possible, and by designing machines with
+efficiency as high as possible. To Voith Paper, resource conservation means above
+all reducing the specific consumption of water as well as electrical and thermal
+energy requirements per tonne of paper. Moreover, it also means reducing fiber
+loss and achieving paper-production time-savings for customers by deploying the
+most efficient systems possible. In the reporting period Voith Paper incorporated an
+additional topic in the development process, the Clean Design of paper machines.
+The aim here is to reduce dirt deposits in paper machines, thereby minimizing the
+cleaning effort.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+			
+			
+
+Utilization Phase
+(Paper Production)
+
+End-of-Life
+(Decommissioning of the Paper Facility)
+
+Potential risks:
+· Fresh fibers from unsustainable forestry practices
+· Water consumption
+· Energy requirement
+· Emissions (air, wastewater, noise, goods
+transportation)
+· Waste (impurities and process waste)
+· Process residues
+· Use of chemicals
+· Loss of fibers
+
+Potential risks:
+· Process residuals, hydraulic oil
+
+4_Products & Supply Chains
+
+67
+
+Product Responsibility
+Responsibility in the Supply Chain
+
+Potential opportunities:
+· Recyclable materials such as metal,
+structural/civil engineering materials,
+plastics, oil
+
+Potential opportunities:
+· Use of fibers from waste paper
+· Closing of cycles
+Efficient paper machine technology helps
+reduce:
+· Energy requirements
+· Fiber use (stock preparation)
+·  Water consumption
+(water treatment, closing water cycles)
+· Emissions
+· Use of chemicals
+
+Extension of the utilization phase through:
+· Renewal of components
+· Modular design
+· Service offering
+
+Improving occupational health and safety at
+the customer’s site through product safety
+standards
+
+Voith Paper is using increasing amounts of renewable materials, and works tirelessly to close material, water, and auxiliary cycles. In doing so, we intend to further
+reduce the environmental impacts of paper production while increasing the plant
+cost-effectiveness. In the reporting period Voith Paper achieved further progress
+in energy efficiency and in reducing the environmental impacts of its products and
+services. Among their many outstanding features, over two-thirds of the 34 new
+products launched by Voith Paper also support lower consumption of resources.
+
+FACTS & FIGURES
+Progress Regarding Social
+and Environmental Impacts
+
+Moreover, Voith Paper is always looking for opportunities to increase the recycling
+rate of its own production processes. However, it is currently only economically
+viable to achieve high rates of recycling in terms of petroleum-based plastics with
+PPS (polyphenylene sulfide) materials. Voith Paper is also currently reviewing
+the cost-effectiveness to recycle used materials – in other words, products used
+and contaminated through use. If this material is fit for reuse under technical and
+economic considerations, Voith Paper aims to recycle this material.
+
+FACTS & FIGURES
+Recycling in Detail
+
+Over the coming years Voith Paper expects new emissions laws, which enter into
+force in the EU from mid-2018 onwards, to provide considerable stimuli. These
+will require customers to operate facilities in an even more resource-friendly
+way – requirements which Voith Paper is already perfectly equipped to meet with
+its portfolio.
+Voith Sustainabilit y Repor t 2016
+
+68
+
+4_Products & Supply Chain
+
+Voith Hydro
+
+Hydropower Plant
+Sustainability aspects
+
+Upstream/Supply Chain
+(Hydropower Plant Planning Phase)
+
+Creation
+(Hydropower Plant Construction Phase)
+
+· Environmental & social acceptability checks
+· Stakeholder engagement
+
+· Management of social and environmental
+aspects
+· Safe working conditions
+
+· Reduction in supply chain risks through
+GPTs, CoC
+· ISO 9001, ISO 14001, and OSHAS 18001
+matrix certification for production locations
+
+· High global safety and quality standards
+· Ensuring the occupational health and safety
+of our employees (when at the customer’s
+location)
+· Technical customer training courses on optimal environmental and economic operation
+–> HydroSchool
+
+Voith component lifecycle
+Complete Equipment from Voith
+Contribution to greater sustainability
+
+FACTS & FIGURES
+Reducing Noise
+Emissions
+
+Hydropower is renewable, and despite its unavoidable impacts on nature it is an
+eco-friendly way to generate electricity. Voith technologies are crucial to minimizing
+the environmental impact of hydropower plants – from improving water quality
+through aerating turbines and oil-free hubs which prevent water contamination,
+through to innovative runners which ease the passage of fish. Voith Hydro works
+tirelessly to further minimize the remaining environmental impacts. This includes
+reducing noise emissions produced by generators, turbines, and hydraulic auxiliary units in the hydropower plant.
+Owing to the long service life of hydropower plants – a service life of 70 years is not
+uncommon – our customers focus on their own energy requirements and material
+use during the utilization phase to optimize their operating costs, especially in the
+case of large systems and equipment. Especially in Scandinavia, avoiding the use
+of oil in bearings and hubs is an important topic for customers.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+			
+			
+
+Utilization Phase
+(Electricity Generation)
+
+End-of-Life
+
+· Electricity generation
+· Regenerative, flexible, reliable, inexpensive,
+low-carbon multi-purpose benefit of the
+plant (e.g. flood protection, irrigation)
+· Plant safety
+· Environmental impact
+
+· Modernization allows continual extension
+of a plant’s operating life
+
+VH products offer:
+· A high level of efficiency
+· Durability
+
+· Extension of the utilization phase through the
+renewal of components
+· High proportion of reused products
+
+4_Products & Supply Chains
+
+69
+
+Product Responsibility
+Responsibility in the Supply Chain
+
+VH products/services can:
+· Improve operation and cost-effectiveness
+· Mitigate the plant’s environmental impacts
+· Offer flexible operation to integrate other
+renewable energy sources into the grid
+
+To document the minimal environmental impacts of our components and entire
+hydropower plants, such as their excellent energy payback ratio or their low carbon
+footprint, we also perform LCAs in accordance with ISO 14040. In addition, we
+develop environmentally sound solutions for the automation of hydropower plants,
+and provide services for all plant components. To ease the passage of fish we
+developed an optimized wicket gates and runner design as part of the Advanced
+Hydropower Turbine System (AHTS) program established by the US Department
+of Energy.
+
+FACTS & FIGURES
+Progress Regarding Social
+and Environmental Impacts
+
+Wherever possible, Voith Hydro attempts to repair or modernize products used by
+customers. The high proportion of steel parts and low share of hybrid materials
+have a positive impact on the ability of materials to be recycled.
+
+Voith Sustainabilit y Repor t 2016
+
+70
+
+4_Products & Supply Chain
+
+Voith Turbo
+
+Bus
+Sustainability aspects
+
+Upstream/Supply Chain
+(Procurement of Materials and Services)
+
+Creation
+(System Construction Phase)
+
+Potential risks:
+· Social & environmental impacts
+in the supply chain
+
+Potential risks:
+· Emissions
+(air, wastewater, noise, goods transportation)
+· Occupational accidents
+
+· Reduction in supply chain risks through
+GPTs, Code of Conduct, and LSA
+· ISO 14001 and OSHAS 18001 matrix
+certification for production locations
+
+· Ensuring the occupational health and safety
+of our employees when integrating the
+transmission unit at the customer’s location
+
+Voith component lifecycle
+Voith Components
+Contribution to greater sustainability
+
+Voith Turbo also follows the principle of offering increasingly energy-efficient and
+environmentally friendly product generations. It focuses on the impact of using Voith
+components on the total cost of ownership (TCO). By way of example, a 1 % fuel
+saving with a standard bus brings the operator around €3,600 in operating-cost
+savings. As such, the topic of resource conservation through increased efficiency is
+a key aspect of related customer discussions, whether during the tendering phase
+or on handover of the product. In this regard, Voith Turbo aims to adopt a continual
+process of improvement in which it also involves its customers.
+In the reporting period Voith Turbo achieved the following progress in terms of its
+energy efficiency and in reducing the environmental impacts of its products and
+services.
+When redesigning the VoreconNX, three sustainability aspects were improved
+significantly. A new transformer in the power splitter allows the second planetary
+gear to be replaced by a single gear stage. As a result this allows the Vorecon to
+be designed in a modular way. The advanced design of the remaining planetary
+gear offers a very high power density, making it around 7 % more efficient across
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+			
+			
+
+Utilization Phase
+(City and Overland Transportation)
+
+End-of-Life
+
+Potential risks:
+· Oil loss (30 liters of transmission oil)
+· Emissions (CO2)
+· Noise emissions (transportation noise)
+
+Potential risks:
+· Operating fluids: transmission oil,
+engine oil, hydraulic oil, brake fluid,
+air-conditioning unit, coolant additive
+· Interior fittings, etc.
+
+Potential opportunities:
+· Emissions reduction in
+local public transport
+
+Automatic transmission units help reduce
+fuel consumption, such as through:
+· Limiting acceleration
+· Deactivation of kick-down
+· Acceleration and topography based
+gear-changing
+· Smart Assist (in development; information
+on fuel-savings potential when driving)
+
+4_Products & Supply Chains
+
+71
+
+Product Responsibility
+Responsibility in the Supply Chain
+
+Potential opportunities:
+· Recyclable materials such as aluminum,
+copper, steel, less plastic
+
+· Transmission Exchange Program
+(reconditioning of transmission units)
+· Correct handling and disposal
+
+Automatic transmission units help reduce TCO
+(total cost of ownership), such as through:
+· Smart Maintenance (predictive maintenance)
+· Service-friendly (reduces labor time and
+increases labor safety)
+
+the complete operating range than its predecessor. This means the new VoreconNX
+saves energy, is more compact and lightweight, and increases process reliability
+in production thanks to its modular design.
+FlexPad – an innovative connecting coupling between the universal joint shaft and
+roller in the steel mill – revolutionizes this highly stressed component in the drivetrain
+of a rolling mill. Up to now, wear plates had to be replaced at sometimes very short
+intervals – with the entire assembly even needing to be replaced after the third or
+fourth replacement of the wear plates. Voith FlexPad technology triples the service
+life of the coupling, protects the drivetrain, and reduces both the costs for wearing
+parts and maintenance effort. At the same time it improves safety throughout the
+manufacturing process and increases product quality.
+The diesel-electric RailPack for rail vehicles increases resource utilization and passenger transportation efficiency. In addition to the power supply via the overhead
+lines, the RailPack is integrated into the vehicle allowing trains to be operated on
+rail networks which include electrified, partly electrified, and non-electrified track
+sections. This means there is no need to operate a separate diesel locomotive to
+
+Voith Sustainabilit y Repor t 2016
+
+72
+
+4_Products & Supply Chain
+
+FACTS & FIGURES
+Challenge: Long Service Life
+
+serve non-electrified sections, dispensing with the time-consuming process of
+uncoupling and recoupling wagons. Passengers also benefit as they no longer need
+to change trains on the switchover from the electrified to the non-electrified sections.
+Product Responsibility Outlook
+We expect a further tightening of environmental protection legislation as well as
+a continual rise in customer demands regarding the environmental and resource
+efficiency of our products. This is something that affects all of our Group Divisions.
+The growing complexity of the challenges confronting many of our customers in
+their markets is increasingly leading them to opt to obtain solutions from a single
+supplier. In the coming years, we see Industry 4.0 opening up huge opportunities
+for all three Group Divisions involved in mechanical and plant manufacturing.
+With the founding of our Group Division Digital Solutions we are bundling existing
+know-how in our Group, developing new digital business models, and will further
+expand our technological leadership in the years to come.
+
+4.2 Responsibility in the Supply Chain
+We aim to anchor resource conservation and social responsibility in our supply
+chains. Our stakeholders also considered this as material to the way we manage
+sustainability. In Purchasing, our Guiding Principles and the Voith Purchasing
+Manual set out specific requirements in this area.
+Naturally, Purchasing focuses on price, quality, on-time delivery, compliance with
+health, safety, and environmental legislation as well as upholding the ban on the
+use of child and forced labor. Differing legislation and ever-growing demands for
+documentation, such as under the chemicals directive REACH, and the Restriction
+of Hazardous Substances Directive (ROHS), place high demands on our company.
+A further challenge is current legislation on conflict minerals in the USA and EU. At
+the same time, as our buyers’ and suppliers’ level of knowledge varies, appropriate
+training is needed.
+In light of this, controlling complex and heterogeneous supply chains remains a
+core challenge for Voith Purchasing.
+Owing to the multitude of suppliers and supply chains, we can only provide reliable
+information on tier 1 of our supply chain.
+High Purchasing Volume, Heterogeneous Product Range
+In the 2015/16 fiscal year our purchasing volume stood at around €2.5 billion, of
+which production materials accounted for around €1.8 billion. As usual, they varied
+greatly, ranging from a 1 mm nut to a 250 mm-thick steel sheet, and from special
+customer-specific lacquering to electrical cable custom-made for Voith. In terms
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+			
+			
+
+4_Products & Supply Chains
+
+73
+
+Product Responsibility
+Responsibility in the Supply Chain
+
+Share of Suppliers by Region
+in %
+
+23
+
+23
+
+Germany
+Rest of Europe
+
+15
+
+Americas
+Asia
+
+38
+
+1
+
+Other
+
+of our invoicing volume, as in the previous year structural components accounted
+for the majority of our procured product materials by value, followed by electricals/
+electronics, subcontracting, and cast parts.
+
+FACTS & FIGURES
+Purchasing Volume
+
+International Environment with Fairness as the Guiding Principle
+As an international company we work with over 23,000 suppliers from 84 countries.
+However, the majority of goods and services are provided by European suppliers –
+with Germany alone accounting for 35 %.
+In principle we consistently strive for long-term business relationships, so we
+always focus on the economic feasibility of our requirements. We also believe firmly
+that treating each other fairly is the basis for a long-term partnership based on trust.
+Supplier Days are special initiatives where we get to engage in discussion with
+our business partners. In the reporting period, we held a successful Supplier Day
+for Voith Paper China, with further Supplier Days already in the planning stage.
+
+FACTS & FIGURES
+Active Suppliers
+FACTS & FIGURES
+Procurement Markets
+
+Clear Conditions Set the Framework
+Our Code of Conduct and General Purchase Conditions (GPCs) define our basic
+understanding of partnership, and provide the guidelines for questions regarding
+compliance as well as environmental and social standards.
+Our Code of Conduct and the GPCs are available on the Internet. Our GPCs
+form the basis for contractual agreements with our suppliers, and also ensure
+that their sub-suppliers abide by these requirements. Country-specific versions
+ensure that local purchasing processes always take national aspects into account,
+for instance regarding payment terms, environmental standards, and customs
+requirements. We are currently in the process of updating our GPCs and producing
+country-specific versions for Poland, Chile, and Argentina.
+
+GPCs:
+http://www.voith.com/de/konzern/
+einkauf/aeb-176.html
+Code of Conduct:
+https://voith.com/cn/coc-english.pdf
+
+FACTS & FIGURES
+Country-specific GPCs
+
+Voith Sustainabilit y Repor t 2016
+
+74
+
+4_Products & Supply Chain
+
+Supplier Management Process
+
+Identify
+suppliers
+
+Review/approve
+suppliers
+
+Develop
+suppliers
+
+Phase-out
+suppliers
+
+Select
+suppliers
+
+Evaluate
+suppliers
+
+Risk Map Establishes Transparency
+With the help of the Swiss Federal Institute of Technology (ETH) in Zurich, in the
+reporting year we gathered information on key economic, social, and environmental
+risks in our supply chain. This was underpinned by public sources of information
+such as the UN Global Weather Report and Transparency International’s Corruption
+Index. This allowed us to create a risk map that illustrates in detail for us the complex
+issue of sustainability in the supply chain. The study focuses on each of our key
+material groups and regions. With these findings we aim to address sustainability
+issues in a more focused way within our company, and coordinate queries and
+evaluations in a more targeted way.
+High-Performance Organization
+Our Purchasing organization is divided into centralized and decentralized as well
+as strategic and operational responsibilities. Strategic Purchasing is responsible for
+supplier and material-group management, and concludes framework agreements.
+It only conducts individual negotiations once a specific value threshold has been
+passed. Below this threshold, Operational Purchasing conducts individual negotiations based on material-group strategies, and deals with day-to-day business
+such as placing and following up orders.
+Since we established our four Global Business Service Centers in Heidenheim,
+York, São Paulo, and Kunshan, we gradually began transferring responsibility for
+the strategic and operational procurement of non-production materials to these
+centers. The corresponding locations were integrated into the new structure as
+planned in the reporting year, and the local teams have commenced their work.
+Production materials continue to be procured directly by our various Operating
+Units around the world.
+
+Voith Sustainabilit y Repor t 2016
+
+1_What Underpins our Actions
+
+2_Environment
+
+3_Employees
+
+4_Products & Supply Chains
+
+			
+			
+
+Product Responsibility
+Responsibility in the Supply Chain
+
+In Voith Purchasing, sustainability topics are assigned mainly to our Corporate
+Strategic Purchasing (CSP) Department, with a focus on setting sustainability goals
+for Purchasing, gathering data on KPIs, and reporting. In addition, CSP devotes
+itself to fundamental sustainability issues such as the use of conflict minerals in
+the supply chain.
+
+FACTS & FIGURES
+Use of Conflict Minerals
+
+75
+
+Relevant topics are identified internally within the Group, and the corresponding
+activities are discussed across Divisions by the Global Purchasing Board (GPB) and
+coordinated with representatives from the Group Divisions. In the reporting period,
+topics including the centralization of the Supplier Self Assessment, the performing
+of supplier evaluations, and the pending revision of our GPTs were addressed.
+Employees Receive Extensive Training
+Our Purchasing Training Program, developed specifically for Purchasing, ensures
+that our employees around the world are always kept up-to-date on legal compliance requirements, the use of IT tools, and negotiations with suppliers. Local
+trainers also address special cultural and local aspects through face-to-face
+training sessions. Besides traditional purchasing topics, the training modules also
+cover sustainability and compliance aspects. In the reporting period we expanded
+our program to include our North American locations. We are now focusing on
+expanding the scope of seminars and e-learning courses.
+
+FACTS & FIGURES
+Scope of Training
+
+Supplier Self Assessment and Evaluation
+To mitigate risks in the purchasing process we require our suppliers to provide
+regular Supplier Self Assessments. In the 2015/16 fiscal year we transacted 59.2 %
+(previous year: 61.7 %) of our invoicing volume with suppliers listed in our system
+as having a current and approved assessment. Through centralized processing,
+we intend to ensure that these assessments are gathered in a meaningful and
+coordinated way. In addition to the self-assessment, once a year employees
+from the specialist departments as well as Voith Buyers evaluate those suppliers
+with whom we place the largest order volumes. We use a standardized process
+based on transparent criteria, so results can be compared across the Group. In
+
+Share of Suppliers with a Supplier Self Assessment
+in %
+61.7
+
+59.2
+
+2014/15
+
+2015/16
+
+36.0
+
+2013/14
+
+Voith Sustainabilit y Repor t 2016
+
+76
+
+4_Products & Supply Chain
+
+FACTS & FIGURES
+Supplier Self Assessment,
+Supplier Evaluation
+
+the reporting period we produced 2,441 evaluations for 1,956 suppliers. Through a
+more targeted approach to individual evaluations we successfully covered a higher
+invoicing volume with a considerably lower number of individual evaluations. We
+transacted 68 % (previous year: 62 %) of our invoicing volume with suppliers listed
+in our central supplier database as having an up-to-date and completed evaluation.
+The supplier evaluation also encompasses sustainability criteria, which we use to
+calculate the sustainability ratio. It shows the average subjective evaluation of our
+suppliers by our employees in relation to their compliance with environmental and
+social standards. The partners we evaluated in the reporting period achieved an
+average sustainability ratio of 85.4 %.
+
+FACTS & FIGURES
+Supplier Compliance
+
+Rigorous Action on Violations
+If suppliers violate laws, the Voith Code of Conduct, or lose their creditworthiness,
+Purchasing is obliged to terminate the business relationship and block the supplier
+centrally. Even violations of health, safety, and environmental standards can lead
+to a Group-wide block under our Blocked Supplier Concept. For the 2015/16 fiscal
+year, we are pleased to announce that there were no cases based on a violation
+of social or environmental standards.
+Suppliers can also report violations of sustainability standards in the supply chain
+on their own initiative. Just like our employees, our suppliers also have access
+to our anonymous Voith Compliance Helpdesk, which covers all countries and
+regions where Voith is active. Complaints can be submitted both in the local
+language and in English. For the reporting period we are pleased to announce
+that we received no voluntary declarations, nor were we informed by suppliers of
+any violations by competitors or sub-suppliers.
+
+Share of Invoice Volume Placed with
+Evaluated Suppliers in %
+
+71.0
+62.0
+
+2013/14
+
+Voith Sustainabilit y Repor t 2016
+
+2014/15
+
+68.0
+
+2015/16
+
+Sustainability Ratio
+in %
+
+84.0
+
+85.4
+
+2014/15
+
+2015/16
+
+74.0
+
+2013/14
+
+77
+
+Voith Sustainabilit y Repor t 2016
+
+78
+
+_The Report
+
+The Report
+Voith has published a Sustainability Report every year since 2009. This report
+describes the progress we made in the 2015/16 fiscal year, i.e. from October 1,
+2015 to September 30, 2016. This year’s report is complemented by a Highlights
+Brochure as well as an online Facts and Figures resource for the first time.
+In producing our report we followed the internationally recognized guidelines of the
+Global Reporting Initiative (GRI) and applied version G4. Our report was not audited
+externally. In our assessment, the scope of our report meets the requirements of
+the Core option of GRI G4. To identify the material sustainability topics, in 2016 we
+developed our materiality analysis further, based on the results of a comprehensive
+stakeholder survey.
+In the reporting period we continued to drive our future-focused Voith 150+ program
+forward. The most significant change affected the Group Division Voith Industrial
+Services, successfully divested in August 2016. This Group Division will therefore
+be considered as a discontinued operation, in line with our 2016 Annual Report.
+Unless stated otherwise, the facts, figures and information provided in this report
+apply to the continued global Voith Group Divisions: Voith Hydro, Voith Paper, and
+Voith Turbo. Please refer to the Voith Annual Report 2016 for the Group companies
+involved. The degree of consolidation comprises at least 80 % of the Voith Group
+by revenue and headcount, and includes all of our Group’s major locations.
+The information was requested electronically in writing, and the data was gathered
+using mainly division-specific software. In individual cases it is not currently possible
+to derive a three-year trend; however, this is our objective for future reports. In a
+few cases, certain facts already reported and affecting previous periods have been
+corrected. We have marked this in the report at the appropriate points. Rounding
+differences may occur owing to the addition of data.
+All forward-looking statements in this report are based on reasonable assumptions
+as at the deadline for content submission. Due to unknown risks, uncertainties, and
+other factors, the actual results, developments or performance of our company may
+deviate from our forecasts, estimations, and statements. For further information
+please see our Annual Report.
+For improved readability we refrain from referring specifically to both genders in
+this report. This is not a value judgment, and all forms are to be understood as
+gender-neutral.
+Further and more extensive information is provided at www.voith.com and in our
+Annual Report. We currently expect to publish our next Sustainability Report in
+early 2018.
+
+Voith Sustainabilit y Repor t 2016
+
+Imprint &
+Contacts
+
+Environmentally
+Friendly Production
+
+Project Management and Point of Contact
+for Content-related Questions
+Corporate Sustainability
+Ulrich Weiße
+E-mail: ulrich.weisse@voith.com
+Markus Schönberger
+E-mail: markus.schoenberger@voith.com
+
+All CO 2 emissions produced during the
+course of printing and preparing the Voith
+Sustainability Report were determined. By
+making a proportionally equal investment in
+a Gold Standard climate project, the corresponding CO2 emissions will be saved in the
+future and the Voith Sustainability Report will
+be CO2 compensated.
+
+Further Information
+This Sustainability Report is also available
+in German.
+This German and English editions are
+available online at:
+www.voith.com/de/konzern/nachhaltigkeit
+www.voith.com/en/group/sustainability
+In addition to the Sustainability Report,
+Voith also publishes a comprehensive
+Annual Report at the end of the fiscal year.
+It is available online at:
+https://www.voith.com/de/presse/
+berichte-und-magazine-18929.html
+
+Print
+
+compensated
+Id-No. 1762240
+www.bvdm-online.de
+
+The recycled paper used for the Voith
+­Sustainability Report 2016 is made from at
+least 60 % secondary fibers, and was produced using a Voith paper machine.
+
+Consulting
+Schlange & Co. GmbH
+Text
+Carlsberg & Richter GmbH & Co. KG
+Printed in Germany, © Voith GmbH, 2017-07
+Design
+Corporate Communication and
+G2 Printmedienmanufaktur GmbH
+English translation
+World2World, Hamburg – Mark Elliott &
+Jim Blake
+Picture credits
+Dekra: p. 54
+Voith: Other photo material
+
+Voith GmbH
+Corporate Communications
+St. Pöltener Str. 43
+89522 Heidenheim, Germany
+Phone: +49 7321 37-0
+Fax:
++49 7321 37-7000
+E-mail: info@voith.com
+www.voith.com
+
+
